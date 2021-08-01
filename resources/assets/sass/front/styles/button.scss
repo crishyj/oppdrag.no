@@ -1,0 +1,246 @@
+.btn {
+    height: $button-height;
+    color: $body-bg;
+    font-family: $font_medium;
+    font-size: $font-size-xs+1;
+    padding: $button-padding;
+    min-width: 100px;
+    line-height: 22px;
+    border-radius: $button-radius;
+    @include Desktop1300 {
+        padding: 10px 25px;
+    }
+    @include mobile {
+        height: 39px;
+        font-size: 13px;
+        padding: 10px 15px;
+        line-height: 17px;
+    }
+    &:hover,
+    &:focus {
+        color: $body-bg!important;
+        outline: none;
+    }
+    &.btn-primary {
+        background: $primary-color-md;
+        border-color: $primary-color-md;
+        &:focus,
+        &:visited,
+        &:active {
+            background: $primary-color-md !important;
+            border-color: $primary-color-md !important;
+            box-shadow: none !important;
+        }
+    }
+    &.btn-outline {
+        background-color: transparent !important;
+        color: $primary-color-md !important;
+        &:hover,
+        &:focus {
+            background-color: transparent !important;
+            color: $primary-color-md !important;
+        }
+    }
+    &.btn.disable {
+        opacity: 0.4;
+        pointer-events: none;
+    }
+    &.btn-secondary-color {
+        color: $secondary-color;
+        font-family: $font_regular;
+        text-decoration: underline;
+        background: transparent;
+        &:focus,
+        &:visited,
+        &:active,
+        &:hover {
+            box-shadow: none !important;
+            color: #848484 !important;
+            text-decoration: underline;
+        }
+    }
+    &.btn-cancel-job {
+        background-color: #7D7D7D;
+    }
+    &.btn-secondary {
+        background: $secondary-color;
+        border-color: $secondary-color;
+        &:focus,
+        &:visited,
+        &:active {
+            background: $secondary-color !important;
+            border-color: $secondary-color !important;
+            box-shadow: none !important;
+        }
+    }
+    &.btn-link {
+        color: $primary-color;
+        font-family: $font_bold;
+        text-decoration: underline;
+        &:focus,
+        &:visited,
+        &:active,
+        &:hover {
+            box-shadow: none !important;
+            color: #3EC8AA !important;
+            text-decoration: underline;
+        }
+    }
+    &.btn-grey {
+        background-color: #F9F9F9;
+        color: #1A1A1A !important;
+        border: 1px solid #E0E0E0;
+        &:focus,
+        &:visited,
+        &:active,
+        &:hover {
+            color: #1A1A1A !important;
+            background-color: F9F9F9!important;
+            border-color: #E0E0E0 !important;
+            box-shadow: none !important;
+        }
+    }
+    &.btn-facebook {
+        background: #3B579D!important;
+        border-color: #3B579D!important;
+        color: #fff;
+        &:focus,
+        &:visited,
+        &:active {
+            background: #3B579D!important;
+            border-color: #3B579D!important;
+            box-shadow: none !important;
+        }
+    }
+    &.btn-lg {
+        padding: 10px 63px !important;
+        @include mobile {
+            padding: 10px 25px !important;
+        }
+    }
+    &.btn-md {
+        padding: 10px 34px !important;
+    }
+}
+
+.sort_btn {
+    margin-bottom: 9px;
+    display: table;
+    margin-left: auto;
+    text-align: right;
+    margin-right: 0;
+    &.active {
+        i {
+            background-color: #d9d9d9;
+        }
+    }
+    i {
+        width: 100%;
+        margin-left: auto;
+        text-align: center;
+        padding: 8px 8px;
+        color: #fff !important;
+        background-color: $primary-color;
+        border-radius: 50px;
+    }
+}
+
+.btn {
+    &.widget-btn {
+        width: 100%;
+        background-color: transparent !important;
+        border: 1px solid #ccc !important;
+        color: $secondary-color;
+        padding: 24px 0px;
+        border-style: dashed !important;
+        display: block;
+        height: auto;
+        @include mobileS {
+            padding: 20px 0 15px 0px!important
+        }
+        &:hover,
+        &:focus {
+            color: $secondary-color !important;
+            background-color: transparent !important;
+        }
+        i {
+            font-size: 29px;
+        }
+        p {
+            margin-bottom: 0px;
+            font-size: 17px;
+            margin-top: 5px;
+        }
+    }
+}
+
+.add_workspace_btn {
+    margin-top: 30px;
+    padding-left: 0;
+    @include mobileS {
+        padding-left: 15px;
+    }
+}
+
+.btn {
+    &.show-spinner {
+        pointer-events: none;
+        position: relative;
+        color: transparent !important;
+        background: #bdbdbd;
+        border-color: #bdbdbd;
+        .button-loader {
+            display: block;
+        }
+    }
+}
+
+.fb-btn {
+    position: relative;
+    border-bottom: 1px solid $grey-lite;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+    a {
+        &.btn {
+            width: 100%;
+            font-size: 16px;
+            background-color: #3B579D;
+            border-color: #3B579D;
+            margin-bottom: 20px;
+            font-family: $font_medium;
+        }
+        span {
+            position: absolute;
+            font-size: 21px;
+            margin-left: -30px;
+        }
+    }
+    &:after {
+        content: 'ELLER';
+        color: $grey-Edark;
+        position: absolute;
+        font-size: 14px;
+        background: #fff;
+        left: 46%;
+        font-family: $font_medium;
+        top: 74px;
+        width: 46px;
+        text-align: center;
+        @include mobile {
+            left: 0;
+            right: 0;
+            margin: auto;
+            margin-top: -4px;
+        }
+    }
+}
+
+.mac-browser {
+    .btn {
+        font-family: $font-regular;
+    }
+}
+
+.text-primary {
+    color: $primary-color-md !important;
+}

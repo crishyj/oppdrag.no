@@ -1,0 +1,39 @@
+<h1 id="documentation-installation-guide">Documentation /Installation Guide</h1>
+<p>In order to use and run the website you need to have knowledge of Laravel and VueJs. You also need to be able to install Laravel and Vuejs dependencies on your machine. We recommend you to refer to the Laravel official installation guide to get started <a href="https://laravel.com/docs/5.6">https://laravel.com/docs/5.6</a> and Vuejs <a href="https://vuejs.org/v2/guide">https://vuejs.org/v2/guide</a>. The website is built on Laravel v5.6. and VueJS v2.x.</p>
+<h2 id="quick-installation">Quick Installation</h2>
+<ul>
+<li><strong>Assuming you have following things already install</strong><ol>
+<li>Composer (if not install composer using the link <a href="https://getcomposer.org">https://getcomposer.org</a>)</li>
+<li>PHP v.7.4 or above</li>
+<li>Node.js (if not Download nodejs from <a href="https://nodejs.org/en/">https://nodejs.org/en/</a> according to you system requirements.)</li>
+</ol>
+</li>
+</ul>
+<p><em>In order to install the project successfully, execute the following steps</em></p>
+<h2 id="step-1">Step 1</h2>
+<p>Extract the <code>.zip</code> file you have downloaded from theme forest in the domain folder of your server,
+the folder is mostly you public_html folder</p>
+<h2 id="step-2">Step 2</h2>
+<p>Create your database with some name, through PHP Admin or through Cpanel directly.</p>
+<h2 id="step-3">Step 3</h2>
+<p>In the root of your project folder there will be a file named <code>.env</code> start editing this file and add you database credentials i.e just change the <code>DB_DATABASE</code>,<code>DB_USERNAME</code>,<code>DB_PASSWORD</code></p>
+<p>also change the <code>APP_URL</code> with the url of your site</p>
+<p>Now save your changes in the file</p>
+<h2 id="step-4">Step 4</h2>
+<p>Now Goto the terminal or command line,and <code>cd</code> in the project folder.<em>(Note if you are using Cpanel you can find your terminal under Advanced section)</em></p>
+<p>Now <code>cd</code> in you project root directory and run the following commands</p>
+<h3 id="command-1">Command 1</h3>
+<p><code>php artisan migrate:fresh --seed</code></p>
+<p>Note if you get <code>passport:install</code> error then and then only run command 2 , otherwise skip command 2 and proceed</p>
+<h3 id="command-2-optional-">Command 2 (Optional)</h3>
+<p><code>php artisan passport:install --force</code>
+then again run command 1</p>
+<h3 id="command-3">Command 3</h3>
+<p> <code>php artisan config:cache</code></p>
+<h3 id="command-4">Command 4</h3>
+<p> <code>php artisan cache:clear</code></p>
+<h3 id="additional-trouble-shooting-commands-try-running-these-commands-if-you-ran-into-some-unknown-issues-">Additional Trouble Shooting Commands(Try running these commands if you ran into some unknown issues )</h3>
+<p>Some times you are required to install vendor and node_modules packages again so run the following commands</p>
+<p><code>composer install</code></p>
+<p><code>npm install</code></p>
+<h2 id="-end-of-guide-thank-you-for-your-time-"><strong>End of Guide Thank you for your time</strong></h2>

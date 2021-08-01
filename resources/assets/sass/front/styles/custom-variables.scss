@@ -1,0 +1,120 @@
+$max-wrapper:1328px;
+
+//color variables
+
+// #1B6854
+// #84E9B4
+// #40CCA8
+// #9CD4D4
+// #42E695
+
+//primary colors
+$primary-color:#3BB2B8;
+$primary-color-md:#3EC8AA;
+$primary-color-lt:#42E695;
+$primary-color-ot:#C4E4E4;
+
+
+//secondary colors
+$secondary-color:#1A1A1A;
+$text-primary-color:#1A1A1A;
+$grey-Edark:#494949;
+$grey-dark:#7D7D7D;
+$grey-medium:#B2B2B2;
+$grey-lite:#E0E0E0;
+$grey-Elite:#F9F9F9;
+$body-bg:#fff;
+$body-color:$text-primary-color;
+$success-bg:#28a745;
+$success-color:#fff;
+$success-border:#28a745;
+$danger-bg:#d9534f;
+$danger-color:#d9534f;
+$danger-border:#d9534f;
+$greyL: #F5F5F5;
+$greyM: #d9d9d9;
+$greyD: #838383;
+$warning-bg:#ffc107;
+$warning-color:#fff;
+$warning-border:#ffc107;
+
+//font sizes variables
+$font-size-base:16px;
+$font-size-xxl:36px;
+$font-size-xl:32px;
+$font-size-lg:28px;
+$font-size-md:24px;
+$font-size-sm:20px;
+$font-size-xs:16px;
+$font-size-xxs:14px;
+$other-font-size:1.125rem;      //18px
+
+//status colors
+$status-active:$success-bg;
+$status-success:$success-bg;
+$status-danger:$danger-bg;
+$status-pending:$warning-bg;
+$status-review:#17a2b8;
+$status-approved:$success-bg;
+$status-rejected:$danger-bg;
+$status-banned:$danger-bg;
+$status-archived:$greyM;
+$status-inbidding:#ff8500;
+$status-awarded:#4b9dc0;
+$status-initiated:#ffb300;
+
+//forms
+$label-size:$font-size-xxs;
+$label-color:$secondary-color;
+$placeholder-color:$grey-dark;
+$input-font-size: $font-size-xxs;
+$input-font-size-lg: $font-size-xs;
+$input-height:38px;
+$input-height-lg:48px;
+$label-margin:0 0 9px 0;
+$input-padding:9px 16px;
+$input-color:$secondary-color;
+$input-border:$grey-medium;
+$input-radius: 4px;
+$input-border: $grey-medium;
+
+//buttons
+$button-radius:8px;
+$button-padding:10px 40px;
+$button-height:44px;
+$button-primary-color:$primary-color;
+
+$btn-primary-bg:$primary-color;
+$btn-primary-color:#fff;
+$btn-secondary-bg:$secondary-color;
+$btn-secondary-color:#fff;
+$anchor-color:$primary-color-md;
+$anchor-color-hover:$primary-color;
+
+//checkbox
+$checkbox-width-height: 14px;
+$checkbox-radius:1px;
+$checkbox-border-color: $input-border;
+$border-radius:20px;
+
+//alert
+$alert-height:43px;
+$alert-padding:13px 47px;
+$alert-width:100%;
+$alert-radius: $input-radius;
+$alert-padding:9px 20px 9px 47px;
+
+//auth panel
+$auth-panel-width:536px;
+$auth-panel-bg:#fff;
+$auth-panel-radius: 8px;
+$auth-panel-shadow:0 0 10px 0 rgba(0,0,0,0.2);
+$auth-panel-padding:30px 42px 39px;
+
+// Discussion Panel
+$sidebar-bg: #fff;
+$sidebar-padding:15px;
+$discussion-panel-width:390px;
+$discussion-panel-height:640px;
+$discussion-panel-bg:#fff;
+$discussion-chat-size:13.5px;
