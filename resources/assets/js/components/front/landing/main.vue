@@ -9,7 +9,7 @@
                     <div class="inner">
                         <div class="container">
                             <div class="content-inner">
-                                <h1 class="text-white">Finn tjenesteleverandøren som passer deg best.</h1>
+                                <h1 class="text-white">Finn leverandøren som passer deg best.</h1>
                                 <h5 class="banner-hd-sub">Finn riktig ekspert for å fikse arbeidet ditt hvor som helst og når som helst.</h5>
                                 <div class="search-filter">
                                     <div class="custom-multi" :class="{ 'invalid': isInvalid }">

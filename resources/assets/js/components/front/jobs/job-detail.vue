@@ -132,7 +132,7 @@
                             </div>
                             <p>City: 
                                 <strong>
-                                    {{ record.city}}
+                                    {{ record.city.charAt(0).toUpperCase() + record.city.slice(1).toLowerCase()}}
                                 </strong>
                             </p>
                         </div>                        
@@ -146,11 +146,11 @@
                                     {{ record.state }}
                                 </strong>
                             </p>
-                        </div>                        
+                        </div>                                              
                         
-                        <div class="coustomer-info-line m-t-20">
+                        <!-- <div class="coustomer-info-line m-t-20">
                             <iframe :src="mapUrl | googleMapEmbeded" width="600" height="320" frameborder="0" style="border-radius:25px; border: 1px solid rgb(216,216,216);" allowfullscreen></iframe>
-                        </div>                
+                        </div>                 -->
                     </div>
 
                     <div id="bid-review" class="chat-feedback">
@@ -404,6 +404,7 @@ src="https://maps.googleapis.com/maps/api/js?key="+window.mapKey>
             }
         },
         computed : {
+            
             jobImage(){
                 return this.record && this.record.service && this.record.service.images[0] ? this.record.service.images[0].upload_url : 'images/dummy/image-placeholder.jpg';
             },
@@ -535,6 +536,8 @@ src="https://maps.googleapis.com/maps/api/js?key="+window.mapKey>
                 return user ? user.zip_code : false;
             },
             mapUrl(){
+                console.log('google map part: '+ this.axisPoints);
+                
                 return this.axisPoints;
             },
             onTheWay(){

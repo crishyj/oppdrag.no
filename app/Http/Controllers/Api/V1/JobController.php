@@ -89,12 +89,16 @@ class JobController extends ApiResourceController
             ];
 
             $rules['stripe_token'] = [
-                Rule::requiredIf(function () {
-                    return request()->get('job_type') === Job::URGENT
-                            || !request()->user()->hasStripeId()
-                                || false;
-                }),
-            ];
+                'nullable',
+                'string',
+            ]; 
+            // $rules['stripe_token'] = [
+            //     Rule::requiredIf(function () {
+            //         return request()->get('job_type') === Job::URGENT
+            //                 || !request()->user()->hasStripeId()
+            //                     || false;
+            //     }),
+            // ];
 
         }
 

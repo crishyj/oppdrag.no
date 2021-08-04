@@ -59,7 +59,7 @@
                         <div class="col-md-6">
                             <div class="form-group">
                                 <label for="">Mobilnummer</label>
-                                <input v-validate="{ regex:/^([+]||\d)([\d-]{10,15})$/ }" :class="['form-control', 'form-group' , errorBag.first('phone number') ? 'is-invalid' : '']" type="text"
+                                <input v-validate="{ regex:/^([+]||\d)([\d-]{8,15})$/ }" :class="['form-control', 'form-group' , errorBag.first('phone number') ? 'is-invalid' : '']" type="text"
                                 name="phone number" v-model="record.phone_number" placeholder="Enter your mobile or landline number">
                             </div>
                         </div>
@@ -104,7 +104,7 @@
                             <label for="">By <span class="text-danger">*</span></label>
                             <select name="city" :class="['form-control', 'form-group' , errorBag.first('city') ? 'is-invalid' : '']"  v-validate="'required'" v-model="record.city_id">
                                 <option :value="null">Velg By</option>
-                                <option v-for="city in cities" :value="city.id">{{city.name}}</option>
+                                <option v-for="city in cities" :value="city.id">{{city.name.charAt(0).toUpperCase()+ city.name.slice(1).toLowerCase()}}</option>
                             </select>
                         </div>
                     </div>
@@ -182,172 +182,162 @@
             },
             setCity(object){
                 if(object.state_id){
-                  this.record.state_id = object.state_id;  
-              } 
-              this.currentCity = object.city_id;
-              this.onStateChange();
-          },
-          onStateChange(select){
-            let self = this;
-            var select = select|false;
-            if(select){
-             this.record.city_id = null;
-         }
-         this.cityUrl = 'api/city?state_id=' + this.record.state_id;
-         if(this.currentCity){
-           this.record.city_id = this.currentCity;
-           this.currentCity = null;
-
-
-           setTimeout(function () {
-            Vue.nextTick(() => {
-                self.errorBag.clear()
-            })
-            console.log(112321);
-        }, 500);
-
-
-
-       }
-
-
-
-
-   },
-   getResponse(response){
-    let self = this;
-    self.loading = false;
-    self.record = response.data;
-
-    if(self.record.state_id){  
-        this.cityUrl = 'api/city?state_id=' + this.record.state_id;
-    }
-    self.profileImage = self.record.profileImage;
-
-},
-getStateResponse(response){
-    let self = this;
-    self.loading = false;
-    self.states = response.data;
-
-},
-getCityResponse(response){
-    let self = this;
-    self.cities = response.data;
-    if(this.currentCity){
-       this.record.city_id = this.currentCity;
-       this.currentCity = null;
-   }
-},
-validateBeforeSubmit() {
-    this.$validator.validateAll().then((result) => {
-        this.invalidZip = false;
-        if(!this.record.zip_code) {
-            this.invalidZip = true;
-            this.errorMessage = 'Please enter zip code.';
-            return false;
-        }
-        if (result && !this.invalidZip) {
-            this.onSubmit();
-            this.errorMessage = '';
-            return;
-        }
-        this.errorMessage = this.errorBag.all()[0];
-    });
-},
-onSubmit() {
-    let self = this;
-
-    this.record.is_profile_completed = 1;
-
-    let data = {
-        user_details : this.record
-    };
-
-    self.loading = true;
-    let url = 'api/user/'+this.record.id;
-    self.$http.put(url, data).then(response => {
-        response = response.data;
-
-        this.$store.commit('setAuthUser', response.data);
-        self.successMessage = response.message;
-        let redirectUrl = self.$store.getters.getRedirectUrl;
-
-        setTimeout(function () {
-            if(redirectUrl == "job.create"){
-                if(localStorage['parentService'] && localStorage.getItem('parentService')) {
-                    self.$router.push({ name: 'Explore_Detail', params: { serviceName: localStorage.getItem('parentService'), childServiceName: localStorage.getItem('childService'), zip : localStorage.getItem('zip') }});
-                }else {
-
-                    self.$router.push({ name: 'Explore_Detail', params: { serviceName: localStorage.getItem('childService'), zip : localStorage.getItem('zip') }});   
+                    this.record.state_id = object.state_id;  
+                } 
+                this.currentCity = object.city_id;
+                this.onStateChange();
+            },
+            onStateChange(select){
+                let self = this;
+                var select = select|false;
+                if(select){
+                    this.record.city_id = null;
                 }
-            }else {
-                self.$router.push({ name : 'my.jobs'});
-            }
+                this.cityUrl = 'api/city?state_id=' + this.record.state_id;
+                if(this.currentCity){
+                    this.record.city_id = this.currentCity;
+                    this.currentCity = null;
 
-            self.successMessage = '';
-            self.loading = false;
-        }, 2000);
+                    setTimeout(function () {
+                        Vue.nextTick(() => {
+                            self.errorBag.clear()
+                        })
+                    }, 500);
 
-    }).catch(error => {
-        this.loading = false;
-    });
+                }
+            },
+            getResponse(response){
+                let self = this;
+                self.loading = false;
+                self.record = response.data;
 
-},
-onFileChange(e) {
-    var supportedType = ['image/png', 'image/jpg', 'image/jpeg'];
-    var files = e.target.files || e.dataTransfer.files;
-    this.errorMessage = "";
-    if(!supportedType.includes(files[0].type)) {
-        this.errorBag.add({
-            field: 'upload image',
-            msg: 'The file must be an image.',
-            rule: 'image',
-            id: 6,
-        });
-        this.errorMessage = this.errorBag.all()[0];
-        self.isFileUpload = false;
-        return;
+                if(self.record.state_id){  
+                    this.cityUrl = 'api/city?state_id=' + this.record.state_id;
+                }
+                self.profileImage = self.record.profileImage;
+
+            },
+            getStateResponse(response){
+                let self = this;
+                self.loading = false;
+                self.states = response.data;
+
+            },
+            getCityResponse(response){
+                let self = this;
+                self.cities = response.data;
+                console.log(self.cities);
+                if(this.currentCity){
+                    this.record.city_id = this.currentCity;
+                    this.currentCity = null;
+                }
+            },
+            validateBeforeSubmit() {
+                this.$validator.validateAll().then((result) => {
+                    this.invalidZip = false;
+                    if(!this.record.zip_code) {
+                        this.invalidZip = true;
+                        this.errorMessage = 'Please enter zip code.';
+                        return false;
+                    }
+                    if (result && !this.invalidZip) {
+                        this.onSubmit();
+                        this.errorMessage = '';
+                        return;
+                    }
+                    this.errorMessage = this.errorBag.all()[0];
+                });
+            },
+            onSubmit() {
+                let self = this;
+                this.record.is_profile_completed = 1;
+                let data = {
+                    user_details : this.record
+                };
+                self.loading = true;
+                let url = 'api/user/'+this.record.id;
+                self.$http.put(url, data).then(response => {
+                    response = response.data;
+
+                    this.$store.commit('setAuthUser', response.data);
+                    self.successMessage = response.message;
+                    let redirectUrl = self.$store.getters.getRedirectUrl;
+
+                    setTimeout(function () {
+                        if(redirectUrl == "job.create"){
+                            if(localStorage['parentService'] && localStorage.getItem('parentService')) {
+                                self.$router.push({ name: 'Explore_Detail', params: { serviceName: localStorage.getItem('parentService'), childServiceName: localStorage.getItem('childService'), zip : localStorage.getItem('zip') }});
+                            }else {
+
+                                self.$router.push({ name: 'Explore_Detail', params: { serviceName: localStorage.getItem('childService'), zip : localStorage.getItem('zip') }});   
+                            }
+                        }else {
+                            self.$router.push({ name : 'my.jobs'});
+                        }
+
+                        self.successMessage = '';
+                        self.loading = false;
+                    }, 2000);
+
+                }).catch(error => {
+                    this.loading = false;
+                });
+
+            },
+            onFileChange(e) {
+                var supportedType = ['image/png', 'image/jpg', 'image/jpeg'];
+                var files = e.target.files || e.dataTransfer.files;
+                this.errorMessage = "";
+                if(!supportedType.includes(files[0].type)) {
+                    this.errorBag.add({
+                        field: 'upload image',
+                        msg: 'The file must be an image.',
+                        rule: 'image',
+                        id: 6,
+                    });
+                    this.errorMessage = this.errorBag.all()[0];
+                    self.isFileUpload = false;
+                    return;
+                }
+                this.errorBag.clear();
+                this.isFileUpload = null;
+                if (!files.length)
+                    return;
+                this.createImage(files[0]);
+
+            },
+            createImage(file) {
+                var self = this;    
+                var image = new Image();
+                var reader = new FileReader();
+                reader.onload = (e) => {
+                    self.image = e.target.result;
+                };
+                reader.readAsDataURL(file);
+                this.onUpload(file);
+            },
+            onUpload(file) {
+                var self = this;
+                let url = "api/file/upload";
+
+                var data = new FormData;
+                data.append('key', 'user');
+                data.append('file', file);
+
+                this.$http.post(url, data).then(response => {
+                    response = response.data;
+                    self.record.profile_image = response.name;
+                    self.profileImage = response.upload_url;
+                }).catch(error => {
+                    error = error.response.data;
+                    let errors = error.errors;
+                    self.isFileUpload = false;
+                    _.forEach(errors, function(value, key) {
+                        self.errorMessage =  errors[key][0];
+                        return false;
+                    });
+                });
+            },
+        }        
     }
-    this.errorBag.clear();
-    this.isFileUpload = null;
-    if (!files.length)
-        return;
-    this.createImage(files[0]);
-
-},
-createImage(file) {
-    var self = this;    
-    var image = new Image();
-    var reader = new FileReader();
-    reader.onload = (e) => {
-        self.image = e.target.result;
-    };
-    reader.readAsDataURL(file);
-    this.onUpload(file);
-},
-onUpload(file) {
-    var self = this;
-    let url = "api/file/upload";
-
-    var data = new FormData;
-    data.append('key', 'user');
-    data.append('file', file);
-
-    this.$http.post(url, data).then(response => {
-        response = response.data;
-        self.record.profile_image = response.name;
-        self.profileImage = response.upload_url;
-    }).catch(error => {
-        error = error.response.data;
-        let errors = error.errors;
-        self.isFileUpload = false;
-        _.forEach(errors, function(value, key) {
-            self.errorMessage =  errors[key][0];
-            return false;
-        });
-    });
-},
-}        
-}
 </script>

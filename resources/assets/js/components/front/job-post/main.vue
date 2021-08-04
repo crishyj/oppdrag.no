@@ -98,7 +98,7 @@
                             </div>
                         </div>
                         <div class="col-md-12">
-                            <p>In case of urgent job, we will send push notifications to all the service providers around you. You need to pay <strong>${{urgentJobAmount}}</strong> fee for urgent job.</p>
+                            <p>In case of urgent job, we will send push notifications to all the service providers around you. You need to pay <strong>Kr{{urgentJobAmount}}</strong> fee for urgent job.</p>
                         </div>
                     </div>
                     
@@ -166,7 +166,7 @@
                             <label for="">By *</label>
                             <select name="city" :class="['form-control', 'form-group' , errorBag.first('city') ? 'is-invalid' : '']"  v-validate="'required'" v-model="formData.city_id">
                                 <option value="">Velg By</option>
-                                <option v-for="city in cities" :value="city.id">{{city.name}}</option>
+                                <option v-for="city in cities" :value="city.id">{{city.name.charAt(0).toUpperCase()+ city.name.slice(1).toLowerCase()}}</option>
                             </select>
                         </div>
                     </div>
@@ -189,7 +189,7 @@
                         </div>
                         <div v-else-if="!isShowCardDetail" class="col-md-12">
                             <div class="verification-alert">
-                                <p>In case of urgent job, we will send push notifications to all the service providers around you. You need to pay <strong>${{urgentJobAmount}}</strong> fee for urgent job.</p>
+                                <p>In case of urgent job, we will send push notifications to all the service providers around you. You need to pay <strong>Kr{{urgentJobAmount}}</strong> fee for urgent job.</p>
                             </div>
                         </div>
                     </div>
@@ -425,7 +425,8 @@
                 if(user.stripe_id){
                     this.isPaymentDetailShow = false
                 }else{
-                    this.isPaymentDetailShow = true
+                    // this.isPaymentDetailShow = true
+                     this.isPaymentDetailShow = false
                 }
             },
             getJobResponse(response){
@@ -610,10 +611,12 @@
             },
             jobType (value) {
                 if(value == 'urgent_job'){
-                    this.isShowCardDetail = false
-                    this.isUrgentJob = true
+                    // this.isShowCardDetail = false
+                    // this.isUrgentJob = true
+                    this.isShowCardDetail = true 
+                     this.isUrgentJob = false
                 } else{
-                    this.isShowCardDetail = true
+                    this.isShowCardDetail = true                    
                     this.isUrgentJob = false
                 }
             },

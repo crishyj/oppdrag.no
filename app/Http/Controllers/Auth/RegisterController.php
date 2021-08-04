@@ -13,6 +13,8 @@ use App\Data\Models\Role;
 use Symfony\Component\HttpFoundation\Response;
 use Illuminate\Validation\Rule;
 use App\Notifications\ActivationNotification;
+use Mail;
+
 class RegisterController extends Controller
 {
     /*
@@ -104,7 +106,7 @@ class RegisterController extends Controller
         $activation_key = app('UserRepository')->findById($user->id,false)->activation_key;
         $user_info = app('UserRepository')->findById($user->id,false);
         $receiver_email = app('UserRepository')->findById($user->id,false)->email;
-        $sender_email = 'post@oppdrag.no';
+        $sender_email = 'info@oppdrag.no';
         $emailFrom = $sender_email;
         $reply = $sender_email;
         $to = $receiver_email;
@@ -148,6 +150,16 @@ class RegisterController extends Controller
         $headers = "From:" . $emailFrom . "\r\n";
         $headers .= "Content-type: text/html; charset=UTF-8" . "\r\n";
         mail($to,$subject,$message,$headers);
+
+        $data = array('name'=>"Virat Gandhi");
+   
+        Mail::send(['text'=>'mail'], $data, function($message) {
+           $message->to($receiver_email, 'Tutorials Point')->subject
+              ('Laravel Basic Testing Mail');
+           $message->from($sender_email,'Virat Gandhi');
+        });
+        echo "Basic Email Sent. Check your inbox.";
+        
         
         return response()->json($output, Response::HTTP_OK);
     }

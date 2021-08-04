@@ -56,7 +56,7 @@
                             <div class="col-md-6">
                                 <div class="form-group">
                                     <label for="">Mobilnummer</label>
-                                    <input  v-validate="{ regex:/^([+]||\d)([\d-]{10,15})$/ }" :class="['form-control', 'form-group' , errorBag.first('contact number') ? 'is-invalid' : '']" type="text"
+                                    <input  v-validate="{ regex:/^([+]||\d)([\d-]{8,15})$/ }" :class="['form-control', 'form-group' , errorBag.first('contact number') ? 'is-invalid' : '']" type="text"
                                     name="contact number" v-model="record.phone_number" placeholder="Enter your mobile or landline number">
                                 </div>
                             </div>
@@ -117,7 +117,9 @@
                         <div class="form-label-heading m-b-30">
                             <p>SERVICES OFFERED</p>
                         </div>
+                         
                         <div v-for="(service_detail, index) in record.service_details" class="row">
+                          
                             <div class="col-md-6">
                                 <div class="form-group">
                                     <label for="" v-if="index == 0">Service</label>
@@ -256,7 +258,8 @@
                                 <label for="">By *</label>
                                 <select name="city" :class="['form-control', 'form-group' , errorBag.first('city') ? 'is-invalid' : '']"  v-validate="'required'" v-model="record.city_id">
                                     <option :value="null">Velg By</option>
-                                    <option v-for="city in cities" :value="city.id">{{city.name}}</option>
+                                    <option v-for="city in cities" :value="city.id">{{city.name.charAt(0).toUpperCase()+ city.name.slice(1).toLowerCase()}}</option>
+
                                 </select>
                         </div>
                      </div>
@@ -378,6 +381,7 @@
                 return this.profileImage;
             },
             servicesList(){
+                console.log(_.filter(this.$store.getters.getAllServices, ['status', 1]));
                 return _.filter(this.$store.getters.getAllServices, ['status', 1]);
             },
             submitUrl(){               
@@ -483,8 +487,8 @@
                         }
 
                         if(!this.checkUploadedDocuments()){
-                            this.errorMessage = 'Please add at least one file for each document';
-                            return false;
+                            // this.errorMessage = 'Please add at least one file for each document';
+                            // return false;
                         }
 
 

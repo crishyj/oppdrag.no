@@ -6395,7 +6395,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.890555555556',
 				'longitude' => '10.5275',
 				'city' => 'SANDVIKA',
-				'city_id' => '48639',
+				'city_id' => '48682',
 				'state_id' => '2701',
 			),
 			638 => 
@@ -6405,7 +6405,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.890555555556',
 				'longitude' => '10.5275',
 				'city' => 'SANDVIKA',
-				'city_id' => '48639',
+				'city_id' => '48682',
 				'state_id' => '2701',
 			),
 			639 => 
@@ -6415,7 +6415,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.890555555556',
 				'longitude' => '10.5275',
 				'city' => 'SANDVIKA',
-				'city_id' => '48639',
+				'city_id' => '48682',
 				'state_id' => '2701',
 			),
 			640 => 
@@ -6425,7 +6425,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.890555555556',
 				'longitude' => '10.5275',
 				'city' => 'SANDVIKA',
-				'city_id' => '48639',
+				'city_id' => '48682',
 				'state_id' => '2701',
 			),
 			641 => 
@@ -6435,7 +6435,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.890555555556',
 				'longitude' => '10.5275',
 				'city' => 'SANDVIKA',
-				'city_id' => '48639',
+				'city_id' => '48682',
 				'state_id' => '2701',
 			),
 			642 => 
@@ -6445,7 +6445,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.7999968',
 				'longitude' => '9.3833318',
 				'city' => 'HASLUM',
-				'city_id' => '48639',
+				'city_id' => '48713',
 				'state_id' => '2701',
 			),
 			643 => 
@@ -6455,7 +6455,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.890555555556',
 				'longitude' => '10.5275',
 				'city' => 'SANDVIKA',
-				'city_id' => '48639',
+				'city_id' => '48682',
 				'state_id' => '2701',
 			),
 			644 => 
@@ -6465,7 +6465,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.8833298',
 				'longitude' => '10.6166642',
 				'city' => 'FORNEBU',
-				'city_id' => '48639',
+				'city_id' => '48707',
 				'state_id' => '2701',
 			),
 			645 => 
@@ -6475,7 +6475,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.916663',
 				'longitude' => '10.6166642',
 				'city' => 'JAR',
-				'city_id' => '48639',
+				'city_id' => '48708',
 				'state_id' => '2701',
 			),
 			646 => 
@@ -6485,7 +6485,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.49189',
 				'longitude' => '11.39006',
 				'city' => 'RUD',
-				'city_id' => '48639',
+				'city_id' => '48709',
 				'state_id' => '2701',
 			),
 			647 => 
@@ -6495,7 +6495,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.88840',
 				'longitude' => '10.55153',
 				'city' => 'HØVIKODDEN',
-				'city_id' => '48639',
+				'city_id' => '48714',
 				'state_id' => '2701',
 			),
 			648 => 
@@ -6505,7 +6505,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.88099',
 				'longitude' => '10.50488',
 				'city' => 'SLEPENDEN',
-				'city_id' => '48639',
+				'city_id' => '48710',
 				'state_id' => '2701',
 			),
 			649 => 
@@ -6515,7 +6515,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.90846',
 				'longitude' => '10.47476',
 				'city' => 'VØYENENGA',
-				'city_id' => '48639',
+				'city_id' => '48711',
 				'state_id' => '2701',
 			),
 			650 => 
@@ -6525,7 +6525,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.90846',
 				'longitude' => '10.47476',
 				'city' => 'VØYENENGA',
-				'city_id' => '48639',
+				'city_id' => '48711',
 				'state_id' => '2701',
 			),
 			651 => 
@@ -6535,7 +6535,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.94690',
 				'longitude' => '10.62607',
 				'city' => 'EIKSMARKA',
-				'city_id' => '48639',
+				'city_id' => '48712',
 				'state_id' => '2701',
 			),
 			652 => 
@@ -6545,7 +6545,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.94053',
 				'longitude' => '10.50120',
 				'city' => 'BÆRUMS VERK',
-				'city_id' => '48639',
+				'city_id' => '48715',
 				'state_id' => '2701',
 			),
 			653 => 
@@ -6555,7 +6555,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.91775',
 				'longitude' => '10.58733',
 				'city' => 'BEKKESTUA',
-				'city_id' => '48639',
+				'city_id' => '48716',
 				'state_id' => '2701',
 			),
 			654 => 
@@ -6565,7 +6565,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.91775',
 				'longitude' => '10.58733',
 				'city' => 'BEKKESTUA',
-				'city_id' => '48639',
+				'city_id' => '48716',
 				'state_id' => '2701',
 			),
 			655 => 
@@ -6575,7 +6575,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.90834',
 				'longitude' => '10.60157',
 				'city' => 'STABEKK',
-				'city_id' => '48639',
+				'city_id' => '48717',
 				'state_id' => '2701',
 			),
 			656 => 
@@ -6585,7 +6585,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.89706',
 				'longitude' => '10.57876',
 				'city' => 'HØVIK',
-				'city_id' => '48639',
+				'city_id' => '48718',
 				'state_id' => '2701',
 			),
 			657 => 
@@ -6595,7 +6595,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.89706',
 				'longitude' => '10.57876',
 				'city' => 'HØVIK',
-				'city_id' => '48639',
+				'city_id' => '48718',
 				'state_id' => '2701',
 			),
 			658 => 
@@ -6605,7 +6605,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.91301',
 				'longitude' => '10.63656',
 				'city' => 'LYSAKER',
-				'city_id' => '48639',
+				'city_id' => '48721',
 				'state_id' => '2701',
 			),
 			659 => 
@@ -6615,7 +6615,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.91301',
 				'longitude' => '10.63656',
 				'city' => 'LYSAKER',
-				'city_id' => '48639',
+				'city_id' => '48721',
 				'state_id' => '2701',
 			),
 			660 => 
@@ -6625,7 +6625,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.91301',
 				'longitude' => '10.63656',
 				'city' => 'LYSAKER',
-				'city_id' => '48639',
+				'city_id' => '48721',
 				'state_id' => '2701',
 			),
 			661 => 
@@ -6635,7 +6635,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.91301',
 				'longitude' => '10.63656',
 				'city' => 'LYSAKER',
-				'city_id' => '48639',
+				'city_id' => '48721',
 				'state_id' => '2701',
 			),
 			662 => 
@@ -6645,7 +6645,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.89706',
 				'longitude' => '10.57876',
 				'city' => 'HØVIK',
-				'city_id' => '48639',
+				'city_id' => '48718',
 				'state_id' => '2701',
 			),
 			663 => 
@@ -6655,7 +6655,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.95',
 				'longitude' => '10.4667',
 				'city' => 'LOMMEDALEN',
-				'city_id' => '48639',
+				'city_id' => '48722',
 				'state_id' => '2701',
 			),
 			664 => 
@@ -6665,7 +6665,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.8833298',
 				'longitude' => '10.6166642',
 				'city' => 'FORNEBU',
-				'city_id' => '48639',
+				'city_id' => '48707',
 				'state_id' => '2701',
 			),
 			665 => 
@@ -6675,7 +6675,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.8833298',
 				'longitude' => '10.6166642',
 				'city' => 'FORNEBU',
-				'city_id' => '48639',
+				'city_id' => '48707',
 				'state_id' => '2701',
 			),
 			666 => 
@@ -6685,7 +6685,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.94296',
 				'longitude' => '10.60438',
 				'city' => 'ØSTERÅS',
-				'city_id' => '48639',
+				'city_id' => '48723',
 				'state_id' => '2701',
 			),
 			667 => 
@@ -6695,7 +6695,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.91363',
 				'longitude' => '10.51191',
 				'city' => 'KOLSÅS',
-				'city_id' => '48639',
+				'city_id' => '48724',
 				'state_id' => '2701',
 			),
 			668 => 
@@ -6705,7 +6705,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.92874',
 				'longitude' => '10.47531',
 				'city' => 'RYKKINN',
-				'city_id' => '48639',
+				'city_id' => '48725',
 				'state_id' => '2701',
 			),
 			669 => 
@@ -6715,7 +6715,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.88030',
 				'longitude' => '10.60774',
 				'city' => 'SNARØYA',
-				'city_id' => '48639',
+				'city_id' => '48726',
 				'state_id' => '2701',
 			),
 			670 => 
@@ -6725,7 +6725,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.890555555556',
 				'longitude' => '10.5275',
 				'city' => 'SANDVIKA',
-				'city_id' => '48639',
+				'city_id' => '48682',
 				'state_id' => '2701',
 			),
 			671 => 
@@ -6735,7 +6735,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.890555555556',
 				'longitude' => '10.5275',
 				'city' => 'SANDVIKA',
-				'city_id' => '48639',
+				'city_id' => '48682',
 				'state_id' => '2701',
 			),
 			672 => 
@@ -6745,7 +6745,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.890555555556',
 				'longitude' => '10.5275',
 				'city' => 'SANDVIKA',
-				'city_id' => '48639',
+				'city_id' => '48682',
 				'state_id' => '2701',
 			),
 			673 => 
@@ -6755,7 +6755,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.90846',
 				'longitude' => '10.47476',
 				'city' => 'VØYENENGA',
-				'city_id' => '48639',
+				'city_id' => '48711',
 				'state_id' => '2701',
 			),
 			674 => 
@@ -6765,7 +6765,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.92586',
 				'longitude' => '10.44709',
 				'city' => 'SKUI',
-				'city_id' => '48639',
+				'city_id' => '48727',
 				'state_id' => '2701',
 			),
 			675 => 
@@ -6775,7 +6775,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.88099',
 				'longitude' => '10.50488',
 				'city' => 'SLEPENDEN',
-				'city_id' => '48639',
+				'city_id' => '48710',
 				'state_id' => '2701',
 			),
 			676 => 
@@ -6785,7 +6785,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.90726',
 				'longitude' => '10.52839',
 				'city' => 'GJETTUM',
-				'city_id' => '48639',
+				'city_id' => '48727',
 				'state_id' => '2701',
 			),
 			677 => 
@@ -6795,7 +6795,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.7999968',
 				'longitude' => '9.3833318',
 				'city' => 'HASLUM',
-				'city_id' => '48639',
+				'city_id' => '48713',
 				'state_id' => '2701',
 			),
 			678 => 
@@ -6805,7 +6805,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.90726',
 				'longitude' => '10.52839',
 				'city' => 'GJETTUM',
-				'city_id' => '48639',
+				'city_id' => '48727',
 				'state_id' => '2701',
 			),
 			679 => 
@@ -6815,7 +6815,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.92874',
 				'longitude' => '10.47531',
 				'city' => 'RYKKINN',
-				'city_id' => '48639',
+				'city_id' => '48725',
 				'state_id' => '2701',
 			),
 			680 => 
@@ -6825,7 +6825,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.92874',
 				'longitude' => '10.47531',
 				'city' => 'RYKKINN',
-				'city_id' => '48639',
+				'city_id' => '48725',
 				'state_id' => '2701',
 			),
 			681 => 
@@ -6835,7 +6835,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.95',
 				'longitude' => '10.4667',
 				'city' => 'LOMMEDALEN',
-				'city_id' => '48639',
+				'city_id' => '48722',
 				'state_id' => '2701',
 			),
 			682 => 
@@ -6845,7 +6845,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.49189',
 				'longitude' => '11.39006',
 				'city' => 'RUD',
-				'city_id' => '48639',
+				'city_id' => '48709',
 				'state_id' => '2701',
 			),
 			683 => 
@@ -6855,7 +6855,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.91363',
 				'longitude' => '10.51191',
 				'city' => 'KOLSÅS',
-				'city_id' => '48639',
+				'city_id' => '48724',
 				'state_id' => '2701',
 			),
 			684 => 
@@ -6865,7 +6865,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.94053',
 				'longitude' => '10.50120',
 				'city' => 'BÆRUMS VERK',
-				'city_id' => '48639',
+				'city_id' => '48715',
 				'state_id' => '2701',
 			),
 			685 => 
@@ -6875,7 +6875,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.94053',
 				'longitude' => '10.50120',
 				'city' => 'BÆRUMS VERK',
-				'city_id' => '48639',
+				'city_id' => '48715',
 				'state_id' => '2701',
 			),
 			686 => 
@@ -6885,7 +6885,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.91775',
 				'longitude' => '10.58733',
 				'city' => 'BEKKESTUA',
-				'city_id' => '48639',
+				'city_id' => '48716',
 				'state_id' => '2701',
 			),
 			687 => 
@@ -6895,7 +6895,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.91775',
 				'longitude' => '10.58733',
 				'city' => 'BEKKESTUA',
-				'city_id' => '48639',
+				'city_id' => '48716',
 				'state_id' => '2701',
 			),
 			688 => 
@@ -6905,7 +6905,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.916663',
 				'longitude' => '10.6166642',
 				'city' => 'JAR',
-				'city_id' => '48639',
+				'city_id' => '48708',
 				'state_id' => '2701',
 			),
 			689 => 
@@ -6915,7 +6915,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.94690',
 				'longitude' => '10.62607',
 				'city' => 'EIKSMARKA',
-				'city_id' => '48639',
+				'city_id' => '48712',
 				'state_id' => '2701',
 			),
 			690 => 
@@ -6925,7 +6925,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.8833298',
 				'longitude' => '10.6166642',
 				'city' => 'FORNEBU',
-				'city_id' => '48639',
+				'city_id' => '48707',
 				'state_id' => '2701',
 			),
 			691 => 
@@ -6935,7 +6935,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.94296',
 				'longitude' => '10.60438',
 				'city' => 'ØSTERÅS',
-				'city_id' => '48639',
+				'city_id' => '48723',
 				'state_id' => '2701',
 			),
 			692 => 
@@ -6945,7 +6945,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.93280',
 				'longitude' => '10.58053',
 				'city' => 'HOSLE',
-				'city_id' => '48639',
+				'city_id' => '48728',
 				'state_id' => '2701',
 			),
 			693 => 
@@ -6955,7 +6955,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.89706',
 				'longitude' => '10.57876',
 				'city' => 'HØVIK',
-				'city_id' => '48639',
+				'city_id' => '48718',
 				'state_id' => '2701',
 			),
 			694 => 
@@ -6965,7 +6965,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.8833298',
 				'longitude' => '10.6166642',
 				'city' => 'FORNEBU',
-				'city_id' => '48639',
+				'city_id' => '48707',
 				'state_id' => '2701',
 			),
 			695 => 
@@ -6975,7 +6975,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.90016',
 				'longitude' => '10.55223',
 				'city' => 'BLOMMENHOLM',
-				'city_id' => '48639',
+				'city_id' => '48729',
 				'state_id' => '2701',
 			),
 			696 => 
@@ -6985,7 +6985,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.91301',
 				'longitude' => '10.63656',
 				'city' => 'LYSAKER',
-				'city_id' => '48639',
+				'city_id' => '48721',
 				'state_id' => '2701',
 			),
 			697 => 
@@ -6995,7 +6995,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.88030',
 				'longitude' => '10.60774',
 				'city' => 'SNARØYA',
-				'city_id' => '48639',
+				'city_id' => '48726',
 				'state_id' => '2701',
 			),
 			698 => 
@@ -7005,7 +7005,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.90834',
 				'longitude' => '10.60157',
 				'city' => 'STABEKK',
-				'city_id' => '48639',
+				'city_id' => '48717',
 				'state_id' => '2701',
 			),
 			699 => 
@@ -7015,7 +7015,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.90834',
 				'longitude' => '10.60157',
 				'city' => 'STABEKK',
-				'city_id' => '48639',
+				'city_id' => '48717',
 				'state_id' => '2701',
 			),
 			700 => 
@@ -7035,7 +7035,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.8331',
 				'longitude' => '10.4392',
 				'city' => 'ASKER',
-				'city_id' => '48681',
+				'city_id' => '48637',
 				'state_id' => '2701',
 			),
 			702 => 
@@ -7045,7 +7045,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.8331',
 				'longitude' => '10.4392',
 				'city' => 'ASKER',
-				'city_id' => '48681',
+				'city_id' => '48637',
 				'state_id' => '2701',
 			),
 			703 => 
@@ -7055,7 +7055,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.87557',
 				'longitude' => '10.48222',
 				'city' => 'BILLINGSTAD',
-				'city_id' => '48637',
+				'city_id' => '48730',
 				'state_id' => '2701',
 			),
 			704 => 
@@ -7065,7 +7065,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.87557',
 				'longitude' => '10.48222',
 				'city' => 'BILLINGSTAD',
-				'city_id' => '48637',
+				'city_id' => '48730',
 				'state_id' => '2701',
 			),
 			705 => 
@@ -7075,7 +7075,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.87557',
 				'longitude' => '10.48222',
 				'city' => 'BILLINGSTAD',
-				'city_id' => '48637',
+				'city_id' => '48730',
 				'state_id' => '2701',
 			),
 			706 => 
@@ -7085,7 +7085,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.86604',
 				'longitude' => '10.49088',
 				'city' => 'NESBRU',
-				'city_id' => '48637',
+				'city_id' => '48731',
 				'state_id' => '2701',
 			),
 			707 => 
@@ -7095,7 +7095,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.86604',
 				'longitude' => '10.49088',
 				'city' => 'NESBRU',
-				'city_id' => '48637',
+				'city_id' => '48731',
 				'state_id' => '2701',
 			),
 			708 => 
@@ -7105,7 +7105,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.78629',
 				'longitude' => '10.43825',
 				'city' => 'HEGGEDAL',
-				'city_id' => '48637',
+				'city_id' => '48732',
 				'state_id' => '2701',
 			),
 			709 => 
@@ -7115,7 +7115,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.82437',
 				'longitude' => '10.46543',
 				'city' => 'VETTRE',
-				'city_id' => '48637',
+				'city_id' => '48733',
 				'state_id' => '2701',
 			),
 			710 => 
@@ -7175,7 +7175,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.26618',
 				'longitude' => '11.15767',
 				'city' => 'BORGEN',
-				'city_id' => '48637',
+				'city_id' => '48734',
 				'state_id' => '2701',
 			),
 			716 => 
@@ -7185,7 +7185,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.78629',
 				'longitude' => '10.43825',
 				'city' => 'HEGGEDAL',
-				'city_id' => '48637',
+				'city_id' => '48732',
 				'state_id' => '2701',
 			),
 			717 => 
@@ -7195,7 +7195,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.80841',
 				'longitude' => '10.48189',
 				'city' => 'VOLLEN',
-				'city_id' => '48637',
+				'city_id' => '48735',
 				'state_id' => '2701',
 			),
 			718 => 
@@ -7205,7 +7205,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.80841',
 				'longitude' => '10.48189',
 				'city' => 'VOLLEN',
-				'city_id' => '48637',
+				'city_id' => '48735',
 				'state_id' => '2701',
 			),
 			719 => 
@@ -7215,7 +7215,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.82437',
 				'longitude' => '10.46543',
 				'city' => 'VETTRE',
-				'city_id' => '48637',
+				'city_id' => '48733',
 				'state_id' => '2701',
 			),
 			720 => 
@@ -7225,7 +7225,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.80841',
 				'longitude' => '10.48189',
 				'city' => 'VOLLEN',
-				'city_id' => '48637',
+				'city_id' => '48735',
 				'state_id' => '2701',
 			),
 			721 => 
@@ -7235,7 +7235,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.86604',
 				'longitude' => '10.49088',
 				'city' => 'NESBRU',
-				'city_id' => '48637',
+				'city_id' => '48731',
 				'state_id' => '2701',
 			),
 			722 => 
@@ -7245,7 +7245,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.85992',
 				'longitude' => '10.46031',
 				'city' => 'HVALSTAD',
-				'city_id' => '48637',
+				'city_id' => '48736',
 				'state_id' => '2701',
 			),
 			723 => 
@@ -7255,7 +7255,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.87557',
 				'longitude' => '10.48222',
 				'city' => 'BILLINGSTAD',
-				'city_id' => '48637',
+				'city_id' => '48730',
 				'state_id' => '2701',
 			),
 			724 => 
@@ -7265,7 +7265,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.87108',
 				'longitude' => '10.53055',
 				'city' => 'NESØYA',
-				'city_id' => '48637',
+				'city_id' => '48737',
 				'state_id' => '2701',
 			),
 			725 => 
@@ -7285,7 +7285,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.7419',
 				'longitude' => '10.8939',
 				'city' => 'SKI',
-				'city_id' => '48671',
+				'city_id' => '48738',
 				'state_id' => '2701',
 			),
 			727 => 
@@ -7295,7 +7295,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.7419',
 				'longitude' => '10.8939',
 				'city' => 'SKI',
-				'city_id' => '48671',
+				'city_id' => '48738',
 				'state_id' => '2701',
 			),
 			728 => 
@@ -7305,7 +7305,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.7419',
 				'longitude' => '10.8939',
 				'city' => 'SKI',
-				'city_id' => '48671',
+				'city_id' => '48738',
 				'state_id' => '2701',
 			),
 			729 => 
@@ -7315,7 +7315,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.74957',
 				'longitude' => '10.83958',
 				'city' => 'LANGHUS',
-				'city_id' => '48671',
+				'city_id' => '48739',
 				'state_id' => '2701',
 			),
 			730 => 
@@ -7325,7 +7325,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.79160',
 				'longitude' => '10.88613',
 				'city' => 'SIGGERUD',
-				'city_id' => '48671',
+				'city_id' => '48740',
 				'state_id' => '2701',
 			),
 			731 => 
@@ -7335,7 +7335,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.74957',
 				'longitude' => '10.83958',
 				'city' => 'LANGHUS',
-				'city_id' => '48671',
+				'city_id' => '48739',
 				'state_id' => '2701',
 			),
 			732 => 
@@ -7345,7 +7345,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.7419',
 				'longitude' => '10.8939',
 				'city' => 'SKI',
-				'city_id' => '48671',
+				'city_id' => '48738',
 				'state_id' => '2701',
 			),
 			733 => 
@@ -7355,7 +7355,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.74027',
 				'longitude' => '10.76718',
 				'city' => 'VINTERBRO',
-				'city_id' => '48681',
+				'city_id' => '48741',
 				'state_id' => '2701',
 			),
 			734 => 
@@ -7365,7 +7365,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.68339',
 				'longitude' => '10.89090',
 				'city' => 'KRÅKSTAD',
-				'city_id' => '48671',
+				'city_id' => '48742',
 				'state_id' => '2701',
 			),
 			735 => 
@@ -7375,7 +7375,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.65910',
 				'longitude' => '10.94684',
 				'city' => 'SKOTBU',
-				'city_id' => '48681',
+				'city_id' => '48743',
 				'state_id' => '2701',
 			),
 			736 => 
@@ -7385,7 +7385,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.8112',
 				'longitude' => '10.8',
 				'city' => 'KOLBOTN',
-				'city_id' => '48681',
+				'city_id' => '48744',
 				'state_id' => '2701',
 			),
 			737 => 
@@ -7395,7 +7395,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.8112',
 				'longitude' => '10.8',
 				'city' => 'KOLBOTN',
-				'city_id' => '48681',
+				'city_id' => '48744',
 				'state_id' => '2701',
 			),
 			738 => 
@@ -7405,7 +7405,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.79672',
 				'longitude' => '10.81356',
 				'city' => 'SOFIEMYR',
-				'city_id' => '48681',
+				'city_id' => '48745',
 				'state_id' => '2701',
 			),
 			739 => 
@@ -7415,7 +7415,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.81524',
 				'longitude' => '10.81989',
 				'city' => 'TÅRNÅSEN',
-				'city_id' => '48681',
+				'city_id' => '48745',
 				'state_id' => '2701',
 			),
 			740 => 
@@ -7425,7 +7425,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.81587',
 				'longitude' => '10.77752',
 				'city' => 'TROLLÅSEN',
-				'city_id' => '48681',
+				'city_id' => '48746',
 				'state_id' => '2701',
 			),
 			741 => 
@@ -7435,7 +7435,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.7925',
 				'longitude' => '10.7903',
 				'city' => 'OPPEGÅRD',
-				'city_id' => '48681',
+				'city_id' => '48747',
 				'state_id' => '2701',
 			),
 			742 => 
@@ -7445,7 +7445,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.7925',
 				'longitude' => '10.7903',
 				'city' => 'OPPEGÅRD',
-				'city_id' => '48681',
+				'city_id' => '48747',
 				'state_id' => '2701',
 			),
 			743 => 
@@ -7455,7 +7455,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.79672',
 				'longitude' => '10.81356',
 				'city' => 'SOFIEMYR',
-				'city_id' => '48681',
+				'city_id' => '48745',
 				'state_id' => '2701',
 			),
 			744 => 
@@ -7465,7 +7465,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.8112',
 				'longitude' => '10.8',
 				'city' => 'KOLBOTN',
-				'city_id' => '48681',
+				'city_id' => '48744',
 				'state_id' => '2701',
 			),
 			745 => 
@@ -7475,7 +7475,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.7925',
 				'longitude' => '10.7903',
 				'city' => 'OPPEGÅRD',
-				'city_id' => '48681',
+				'city_id' => '48747',
 				'state_id' => '2701',
 			),
 			746 => 
@@ -7485,7 +7485,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.78161',
 				'longitude' => '10.74108',
 				'city' => 'SVARTSKOG',
-				'city_id' => '48681',
+				'city_id' => '48748',
 				'state_id' => '2701',
 			),
 			747 => 
@@ -7495,7 +7495,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.81587',
 				'longitude' => '10.77752',
 				'city' => 'TROLLÅSEN',
-				'city_id' => '48681',
+				'city_id' => '48747',
 				'state_id' => '2701',
 			),
 			748 => 
@@ -7505,7 +7505,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.79160',
 				'longitude' => '10.88613',
 				'city' => 'SIGGERUD',
-				'city_id' => '48681',
+				'city_id' => '48740',
 				'state_id' => '2701',
 			),
 			749 => 
@@ -7515,7 +7515,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.7419',
 				'longitude' => '10.8939',
 				'city' => 'SKI',
-				'city_id' => '48681',
+				'city_id' => '48738',
 				'state_id' => '2701',
 			),
 			750 => 
@@ -7525,7 +7525,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.7419',
 				'longitude' => '10.8939',
 				'city' => 'SKI',
-				'city_id' => '48681',
+				'city_id' => '48738',
 				'state_id' => '2701',
 			),
 			751 => 
@@ -7535,7 +7535,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.7419',
 				'longitude' => '10.8939',
 				'city' => 'SKI',
-				'city_id' => '48681',
+				'city_id' => '48738',
 				'state_id' => '2701',
 			),
 			752 => 
@@ -7545,7 +7545,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.74027',
 				'longitude' => '10.76718',
 				'city' => 'VINTERBRO',
-				'city_id' => '48681',
+				'city_id' => '48741',
 				'state_id' => '2701',
 			),
 			753 => 
@@ -7715,7 +7715,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.8086',
 				'longitude' => '10.6556',
 				'city' => 'NESODDTANGEN',
-				'city_id' => '48669',
+				'city_id' => '48749',
 				'state_id' => '2701',
 			),
 			770 => 
@@ -7725,7 +7725,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.8086',
 				'longitude' => '10.6556',
 				'city' => 'NESODDTANGEN',
-				'city_id' => '48669',
+				'city_id' => '48749',
 				'state_id' => '2701',
 			),
 			771 => 
@@ -7735,7 +7735,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.8086',
 				'longitude' => '10.6556',
 				'city' => 'NESODDTANGEN',
-				'city_id' => '48669',
+				'city_id' => '48749',
 				'state_id' => '2701',
 			),
 			772 => 
@@ -7745,7 +7745,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.83237',
 				'longitude' => '10.64237',
 				'city' => 'BJØRNEMYR',
-				'city_id' => '48669',
+				'city_id' => '48750',
 				'state_id' => '2701',
 			),
 			773 => 
@@ -7755,7 +7755,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.73968',
 				'longitude' => '10.59744',
 				'city' => 'FAGERSTRAND',
-				'city_id' => '48669',
+				'city_id' => '48751',
 				'state_id' => '2701',
 			),
 			774 => 
@@ -7765,7 +7765,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.69272',
 				'longitude' => '10.86201',
 				'city' => 'NORDRE FROGN',
-				'city_id' => '48646',
+				'city_id' => '48752',
 				'state_id' => '2701',
 			),
 			775 => 
@@ -7775,7 +7775,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.8086',
 				'longitude' => '10.6556',
 				'city' => 'NESODDTANGEN',
-				'city_id' => '48669',
+				'city_id' => '48749',
 				'state_id' => '2701',
 			),
 			776 => 
@@ -7785,7 +7785,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.73968',
 				'longitude' => '10.59744',
 				'city' => 'FAGERSTRAND',
-				'city_id' => '48669',
+				'city_id' => '48751',
 				'state_id' => '2701',
 			),
 			777 => 
@@ -7795,7 +7795,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.79795',
 				'longitude' => '10.61536',
 				'city' => 'FJELLSTRAND',
-				'city_id' => '48669',
+				'city_id' => '48753',
 				'state_id' => '2701',
 			),
 			778 => 
@@ -7825,7 +7825,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.94071',
 				'longitude' => '10.98182',
 				'city' => 'FJELLHAMAR',
-				'city_id' => '48662',
+				'city_id' => '48754',
 				'state_id' => '2701',
 			),
 			781 => 
@@ -7835,7 +7835,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.94071',
 				'longitude' => '10.98182',
 				'city' => 'FJELLHAMAR',
-				'city_id' => '48662',
+				'city_id' => '48754',
 				'state_id' => '2701',
 			),
 			782 => 
@@ -7845,7 +7845,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.94071',
 				'longitude' => '10.98182',
 				'city' => 'FJELLHAMAR',
-				'city_id' => '48662',
+				'city_id' => '48754',
 				'state_id' => '2701',
 			),
 			783 => 
@@ -7855,7 +7855,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.94501',
 				'longitude' => '11.00673',
 				'city' => 'STRØMMEN',
-				'city_id' => '48660',
+				'city_id' => '48755',
 				'state_id' => '2701',
 			),
 			784 => 
@@ -7865,7 +7865,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.94501',
 				'longitude' => '11.00673',
 				'city' => 'STRØMMEN',
-				'city_id' => '48660',
+				'city_id' => '48755',
 				'state_id' => '2701',
 			),
 			785 => 
@@ -7875,7 +7875,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.94501',
 				'longitude' => '11.00673',
 				'city' => 'STRØMMEN',
-				'city_id' => '48660',
+				'city_id' => '48755',
 				'state_id' => '2701',
 			),
 			786 => 
@@ -7885,7 +7885,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.91451',
 				'longitude' => '10.96825',
 				'city' => 'FINSTADJORDET',
-				'city_id' => '48662',
+				'city_id' => '48756',
 				'state_id' => '2701',
 			),
 			787 => 
@@ -7895,7 +7895,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.92257',
 				'longitude' => '10.93995',
 				'city' => 'RASTA',
-				'city_id' => '48662',
+				'city_id' => '48757',
 				'state_id' => '2701',
 			),
 			788 => 
@@ -7925,7 +7925,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.94071',
 				'longitude' => '10.98182',
 				'city' => 'FJELLHAMAR',
-				'city_id' => '48662',
+				'city_id' => '48754',
 				'state_id' => '2701',
 			),
 			791 => 
@@ -7955,7 +7955,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.91451',
 				'longitude' => '10.96825',
 				'city' => 'FINSTADJORDET',
-				'city_id' => '48662',
+				'city_id' => '48756',
 				'state_id' => '2701',
 			),
 			794 => 
@@ -7965,7 +7965,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.92257',
 				'longitude' => '10.93995',
 				'city' => 'RASTA',
-				'city_id' => '48662',
+				'city_id' => '48757',
 				'state_id' => '2701',
 			),
 			795 => 
@@ -7975,7 +7975,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.94071',
 				'longitude' => '10.98182',
 				'city' => 'FJELLHAMAR',
-				'city_id' => '48662',
+				'city_id' => '48754',
 				'state_id' => '2701',
 			),
 			796 => 
@@ -7995,7 +7995,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.93226',
 				'longitude' => '11.02080',
 				'city' => 'KURLAND',
-				'city_id' => '48662',
+				'city_id' => '48758',
 				'state_id' => '2701',
 			),
 			798 => 
@@ -8005,7 +8005,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.00955',
 				'longitude' => '10.91891',
 				'city' => 'SLATTUM',
-				'city_id' => '48670',
+				'city_id' => '48759',
 				'state_id' => '2701',
 			),
 			799 => 
@@ -8015,7 +8015,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.99829',
 				'longitude' => '10.91929',
 				'city' => 'HAGAN',
-				'city_id' => '48670',
+				'city_id' => '48760',
 				'state_id' => '2701',
 			),
 			800 => 
@@ -8035,7 +8035,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.99829',
 				'longitude' => '10.91929',
 				'city' => 'HAGAN',
-				'city_id' => '48670',
+				'city_id' => '48760',
 				'state_id' => '2701',
 			),
 			802 => 
@@ -8045,7 +8045,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.11734',
 				'longitude' => '10.82945',
 				'city' => 'HAKADAL',
-				'city_id' => '48670',
+				'city_id' => '48761',
 				'state_id' => '2701',
 			),
 			803 => 
@@ -8055,7 +8055,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.11734',
 				'longitude' => '10.82945',
 				'city' => 'HAKADAL',
-				'city_id' => '48670',
+				'city_id' => '48761',
 				'state_id' => '2701',
 			),
 			804 => 
@@ -8075,7 +8075,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.11734',
 				'longitude' => '10.82945',
 				'city' => 'HAKADAL',
-				'city_id' => '48670',
+				'city_id' => '48761',
 				'state_id' => '2701',
 			),
 			806 => 
@@ -8085,7 +8085,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.11734',
 				'longitude' => '10.82945',
 				'city' => 'HAKADAL',
-				'city_id' => '48670',
+				'city_id' => '48761',
 				'state_id' => '2701',
 			),
 			807 => 
@@ -8505,7 +8505,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.59863',
 				'longitude' => '10.65545',
 				'city' => 'HVITSTEN',
-				'city_id' => '48680',
+				'city_id' => '48762',
 				'state_id' => '2701',
 			),
 			849 => 
@@ -8515,7 +8515,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.53990',
 				'longitude' => '10.74239',
 				'city' => 'HØLEN',
-				'city_id' => '48680',
+				'city_id' => '48763',
 				'state_id' => '2701',
 			),
 			850 => 
@@ -8525,7 +8525,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.52422',
 				'longitude' => '10.68797',
 				'city' => 'SON',
-				'city_id' => '48680',
+				'city_id' => '48764',
 				'state_id' => '2701',
 			),
 			851 => 
@@ -8535,7 +8535,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.52422',
 				'longitude' => '10.68797',
 				'city' => 'SON',
-				'city_id' => '48680',
+				'city_id' => '48764',
 				'state_id' => '2701',
 			),
 			852 => 
@@ -8545,7 +8545,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.33038',
 				'longitude' => '10.67027',
 				'city' => 'LARKOLLEN',
-				'city_id' => '48665',
+				'city_id' => '48765',
 				'state_id' => '2701',
 			),
 			853 => 
@@ -8555,7 +8555,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.33038',
 				'longitude' => '10.67027',
 				'city' => 'LARKOLLEN',
-				'city_id' => '48665',
+				'city_id' => '48765',
 				'state_id' => '2701',
 			),
 			854 => 
@@ -8565,7 +8565,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.40657',
 				'longitude' => '10.69672',
 				'city' => 'DILLING',
-				'city_id' => '48665',
+				'city_id' => '48766',
 				'state_id' => '2701',
 			),
 			855 => 
@@ -8575,7 +8575,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.3747',
 				'longitude' => '10.7147',
 				'city' => 'RYGGE',
-				'city_id' => '48665',
+				'city_id' => '48767',
 				'state_id' => '2701',
 			),
 			856 => 
@@ -8585,7 +8585,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.3747',
 				'longitude' => '10.7147',
 				'city' => 'RYGGE',
-				'city_id' => '48665',
+				'city_id' => '48767',
 				'state_id' => '2701',
 			),
 			857 => 
@@ -8595,7 +8595,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.3747',
 				'longitude' => '10.7147',
 				'city' => 'RYGGE',
-				'city_id' => '48665',
+				'city_id' => '48767',
 				'state_id' => '2701',
 			),
 			858 => 
@@ -8605,7 +8605,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.45723',
 				'longitude' => '10.80302',
 				'city' => 'SPERREBOTN',
-				'city_id' => '48681',
+				'city_id' => '48768',
 				'state_id' => '2701',
 			),
 			859 => 
@@ -8615,7 +8615,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.45810',
 				'longitude' => '10.80300',
 				'city' => 'VÅLER I ØSTFOLD',
-				'city_id' => '48681',
+				'city_id' => '48769',
 				'state_id' => '2701',
 			),
 			860 => 
@@ -8625,7 +8625,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.42372',
 				'longitude' => '11.01658',
 				'city' => 'SVINNDAL',
-				'city_id' => '48681',
+				'city_id' => '48770',
 				'state_id' => '2701',
 			),
 			861 => 
@@ -8635,7 +8635,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.45810',
 				'longitude' => '10.80300',
 				'city' => 'VÅLER I ØSTFOLD',
-				'city_id' => '48681',
+				'city_id' => '48769',
 				'state_id' => '2701',
 			),
 			862 => 
@@ -8855,7 +8855,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.21825',
 				'longitude' => '10.90639',
 				'city' => 'GRESSVIK',
-				'city_id' => '48645',
+				'city_id' => '48771',
 				'state_id' => '2701',
 			),
 			884 => 
@@ -8865,7 +8865,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.21825',
 				'longitude' => '10.90639',
 				'city' => 'GRESSVIK',
-				'city_id' => '48645',
+				'city_id' => '48771',
 				'state_id' => '2701',
 			),
 			885 => 
@@ -8875,7 +8875,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.21825',
 				'longitude' => '10.90639',
 				'city' => 'GRESSVIK',
-				'city_id' => '48645',
+				'city_id' => '48771',
 				'state_id' => '2701',
 			),
 			886 => 
@@ -8885,7 +8885,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.21825',
 				'longitude' => '10.90639',
 				'city' => 'GRESSVIK',
-				'city_id' => '48645',
+				'city_id' => '48771',
 				'state_id' => '2701',
 			),
 			887 => 
@@ -8895,7 +8895,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.21825',
 				'longitude' => '10.90639',
 				'city' => 'GRESSVIK',
-				'city_id' => '48645',
+				'city_id' => '48771',
 				'state_id' => '2701',
 			),
 			888 => 
@@ -8905,7 +8905,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.26907',
 				'longitude' => '10.76866',
 				'city' => 'MANSTAD',
-				'city_id' => '48645',
+				'city_id' => '48772',
 				'state_id' => '2701',
 			),
 			889 => 
@@ -8915,7 +8915,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.26907',
 				'longitude' => '10.76866',
 				'city' => 'MANSTAD',
-				'city_id' => '48645',
+				'city_id' => '48772',
 				'state_id' => '2701',
 			),
 			890 => 
@@ -8925,7 +8925,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.25272',
 				'longitude' => '10.73817',
 				'city' => 'ENGELSVIKEN',
-				'city_id' => '48645',
+				'city_id' => '48773',
 				'state_id' => '2701',
 			),
 			891 => 
@@ -8935,7 +8935,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.20230',
 				'longitude' => '10.95249',
 				'city' => 'GAMLE FREDRIKSTAD',
-				'city_id' => '48645',
+				'city_id' => '48774',
 				'state_id' => '2701',
 			),
 			892 => 
@@ -8945,7 +8945,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.20230',
 				'longitude' => '10.95249',
 				'city' => 'GAMLE FREDRIKSTAD',
-				'city_id' => '48645',
+				'city_id' => '48774',
 				'state_id' => '2701',
 			),
 			893 => 
@@ -8955,7 +8955,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.20230',
 				'longitude' => '10.95249',
 				'city' => 'GAMLE FREDRIKSTAD',
-				'city_id' => '48645',
+				'city_id' => '48774',
 				'state_id' => '2701',
 			),
 			894 => 
@@ -8965,7 +8965,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.20230',
 				'longitude' => '10.95249',
 				'city' => 'GAMLE FREDRIKSTAD',
-				'city_id' => '48645',
+				'city_id' => '48774',
 				'state_id' => '2701',
 			),
 			895 => 
@@ -8975,7 +8975,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.20230',
 				'longitude' => '10.95249',
 				'city' => 'GAMLE FREDRIKSTAD',
-				'city_id' => '48645',
+				'city_id' => '48774',
 				'state_id' => '2701',
 			),
 			896 => 
@@ -8985,7 +8985,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.20230',
 				'longitude' => '10.95249',
 				'city' => 'GAMLE FREDRIKSTAD',
-				'city_id' => '48645',
+				'city_id' => '48774',
 				'state_id' => '2701',
 			),
 			897 => 
@@ -8995,7 +8995,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.20230',
 				'longitude' => '10.95249',
 				'city' => 'GAMLE FREDRIKSTAD',
-				'city_id' => '48645',
+				'city_id' => '48774',
 				'state_id' => '2701',
 			),
 			898 => 
@@ -9005,7 +9005,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.20230',
 				'longitude' => '10.95249',
 				'city' => 'GAMLE FREDRIKSTAD',
-				'city_id' => '48645',
+				'city_id' => '48774',
 				'state_id' => '2701',
 			),
 			899 => 
@@ -9015,7 +9015,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.20230',
 				'longitude' => '10.95249',
 				'city' => 'GAMLE FREDRIKSTAD',
-				'city_id' => '48645',
+				'city_id' => '48774',
 				'state_id' => '2701',
 			),
 			900 => 
@@ -9045,7 +9045,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.29044',
 				'longitude' => '10.75483',
 				'city' => 'SALTNES',
-				'city_id' => '48674',
+				'city_id' => '48775',
 				'state_id' => '2701',
 			),
 			903 => 
@@ -9065,7 +9065,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.22965',
 				'longitude' => '10.99138',
 				'city' => 'SELLEBAKK',
-				'city_id' => '48645',
+				'city_id' => '48776',
 				'state_id' => '2701',
 			),
 			905 => 
@@ -9075,7 +9075,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.22965',
 				'longitude' => '10.99138',
 				'city' => 'SELLEBAKK',
-				'city_id' => '48645',
+				'city_id' => '48776',
 				'state_id' => '2701',
 			),
 			906 => 
@@ -9085,7 +9085,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.22965',
 				'longitude' => '10.99138',
 				'city' => 'SELLEBAKK',
-				'city_id' => '48645',
+				'city_id' => '48776',
 				'state_id' => '2701',
 			),
 			907 => 
@@ -9095,7 +9095,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.22965',
 				'longitude' => '10.99138',
 				'city' => 'SELLEBAKK',
-				'city_id' => '48645',
+				'city_id' => '48776',
 				'state_id' => '2701',
 			),
 			908 => 
@@ -9105,7 +9105,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.22965',
 				'longitude' => '10.99138',
 				'city' => 'SELLEBAKK',
-				'city_id' => '48645',
+				'city_id' => '48776',
 				'state_id' => '2701',
 			),
 			909 => 
@@ -9115,7 +9115,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.24366',
 				'longitude' => '11.02264',
 				'city' => 'TORP',
-				'city_id' => '48645',
+				'city_id' => '48777',
 				'state_id' => '2701',
 			),
 			910 => 
@@ -9125,7 +9125,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.24366',
 				'longitude' => '11.02264',
 				'city' => 'TORP',
-				'city_id' => '48645',
+				'city_id' => '48777',
 				'state_id' => '2701',
 			),
 			911 => 
@@ -9135,7 +9135,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.24366',
 				'longitude' => '11.02264',
 				'city' => 'TORP',
-				'city_id' => '48645',
+				'city_id' => '48777',
 				'state_id' => '2701',
 			),
 			912 => 
@@ -9145,7 +9145,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.25927',
 				'longitude' => '10.99877',
 				'city' => 'ROLVSØY',
-				'city_id' => '48645',
+				'city_id' => '48778',
 				'state_id' => '2701',
 			),
 			913 => 
@@ -9155,7 +9155,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.25927',
 				'longitude' => '10.99877',
 				'city' => 'ROLVSØY',
-				'city_id' => '48645',
+				'city_id' => '48778',
 				'state_id' => '2701',
 			),
 			914 => 
@@ -9165,7 +9165,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.25927',
 				'longitude' => '10.99877',
 				'city' => 'ROLVSØY',
-				'city_id' => '48645',
+				'city_id' => '48778',
 				'state_id' => '2701',
 			),
 			915 => 
@@ -9175,7 +9175,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.25927',
 				'longitude' => '10.99877',
 				'city' => 'ROLVSØY',
-				'city_id' => '48645',
+				'city_id' => '48778',
 				'state_id' => '2701',
 			),
 			916 => 
@@ -9185,7 +9185,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.25927',
 				'longitude' => '10.99877',
 				'city' => 'ROLVSØY',
-				'city_id' => '48645',
+				'city_id' => '48778',
 				'state_id' => '2701',
 			),
 			917 => 
@@ -9195,7 +9195,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.25927',
 				'longitude' => '10.99877',
 				'city' => 'ROLVSØY',
-				'city_id' => '48645',
+				'city_id' => '48778',
 				'state_id' => '2701',
 			),
 			918 => 
@@ -9205,7 +9205,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.25927',
 				'longitude' => '10.99877',
 				'city' => 'ROLVSØY',
-				'city_id' => '48645',
+				'city_id' => '48778',
 				'state_id' => '2701',
 			),
 			919 => 
@@ -9215,7 +9215,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.18215',
 				'longitude' => '10.92373',
 				'city' => 'KRÅKERØY',
-				'city_id' => '48645',
+				'city_id' => '48779',
 				'state_id' => '2701',
 			),
 			920 => 
@@ -9225,7 +9225,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.18215',
 				'longitude' => '10.92373',
 				'city' => 'KRÅKERØY',
-				'city_id' => '48645',
+				'city_id' => '48779',
 				'state_id' => '2701',
 			),
 			921 => 
@@ -9235,7 +9235,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.18215',
 				'longitude' => '10.92373',
 				'city' => 'KRÅKERØY',
-				'city_id' => '48645',
+				'city_id' => '48779',
 				'state_id' => '2701',
 			),
 			922 => 
@@ -9245,7 +9245,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.18215',
 				'longitude' => '10.92373',
 				'city' => 'KRÅKERØY',
-				'city_id' => '48645',
+				'city_id' => '48779',
 				'state_id' => '2701',
 			),
 			923 => 
@@ -9255,7 +9255,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.18215',
 				'longitude' => '10.92373',
 				'city' => 'KRÅKERØY',
-				'city_id' => '48645',
+				'city_id' => '48779',
 				'state_id' => '2701',
 			),
 			924 => 
@@ -9265,7 +9265,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.18215',
 				'longitude' => '10.92373',
 				'city' => 'KRÅKERØY',
-				'city_id' => '48645',
+				'city_id' => '48779',
 				'state_id' => '2701',
 			),
 			925 => 
@@ -9275,7 +9275,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.18215',
 				'longitude' => '10.92373',
 				'city' => 'KRÅKERØY',
-				'city_id' => '48645',
+				'city_id' => '48779',
 				'state_id' => '2701',
 			),
 			926 => 
@@ -9285,7 +9285,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.18215',
 				'longitude' => '10.92373',
 				'city' => 'KRÅKERØY',
-				'city_id' => '48645',
+				'city_id' => '48779',
 				'state_id' => '2701',
 			),
 			927 => 
@@ -9295,7 +9295,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.0333',
 				'longitude' => '11.0333',
 				'city' => 'SKJÆRHALDEN',
-				'city_id' => '48654',
+				'city_id' => '48780',
 				'state_id' => '2701',
 			),
 			928 => 
@@ -9305,7 +9305,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.0333',
 				'longitude' => '11.0333',
 				'city' => 'SKJÆRHALDEN',
-				'city_id' => '48654',
+				'city_id' => '48780',
 				'state_id' => '2701',
 			),
 			929 => 
@@ -9315,7 +9315,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.09469',
 				'longitude' => '10.88790',
 				'city' => 'VESTERØY',
-				'city_id' => '48654',
+				'city_id' => '48781',
 				'state_id' => '2701',
 			),
 			930 => 
@@ -9325,7 +9325,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.09469',
 				'longitude' => '10.88790',
 				'city' => 'VESTERØY',
-				'city_id' => '48654',
+				'city_id' => '48781',
 				'state_id' => '2701',
 			),
 			931 => 
@@ -9335,7 +9335,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.00283',
 				'longitude' => '11.05438',
 				'city' => 'HERFØL',
-				'city_id' => '48654',
+				'city_id' => '48782',
 				'state_id' => '2701',
 			),
 			932 => 
@@ -9345,7 +9345,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.01538',
 				'longitude' => '11.06693',
 				'city' => 'NEDGÅRDEN',
-				'city_id' => '48654',
+				'city_id' => '48783',
 				'state_id' => '2701',
 			),
 			933 => 
@@ -9465,7 +9465,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.29049',
 				'longitude' => '11.06670',
 				'city' => 'GRÅLUM',
-				'city_id' => '48676',
+				'city_id' => '48784',
 				'state_id' => '2701',
 			),
 			945 => 
@@ -9475,7 +9475,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.29049',
 				'longitude' => '11.06670',
 				'city' => 'GRÅLUM',
-				'city_id' => '48676',
+				'city_id' => '48784',
 				'state_id' => '2701',
 			),
 			946 => 
@@ -9485,7 +9485,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.29049',
 				'longitude' => '11.06670',
 				'city' => 'GRÅLUM',
-				'city_id' => '48676',
+				'city_id' => '48784',
 				'state_id' => '2701',
 			),
 			947 => 
@@ -9495,7 +9495,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.27980',
 				'longitude' => '11.06483',
 				'city' => 'YVEN',
-				'city_id' => '48676',
+				'city_id' => '48785',
 				'state_id' => '2701',
 			),
 			948 => 
@@ -9505,7 +9505,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.26598',
 				'longitude' => '11.03497',
 				'city' => 'GREÅKER',
-				'city_id' => '48676',
+				'city_id' => '48786',
 				'state_id' => '2701',
 			),
 			949 => 
@@ -9515,7 +9515,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.26598',
 				'longitude' => '11.03497',
 				'city' => 'GREÅKER',
-				'city_id' => '48676',
+				'city_id' => '48786',
 				'state_id' => '2701',
 			),
 			950 => 
@@ -9525,7 +9525,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.26598',
 				'longitude' => '11.03497',
 				'city' => 'GREÅKER',
-				'city_id' => '48676',
+				'city_id' => '48786',
 				'state_id' => '2701',
 			),
 			951 => 
@@ -9605,7 +9605,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.30047',
 				'longitude' => '11.22035',
 				'city' => 'ISE',
-				'city_id' => '48676',
+				'city_id' => '48787',
 				'state_id' => '2701',
 			),
 			959 => 
@@ -9615,7 +9615,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.29106',
 				'longitude' => '11.14660',
 				'city' => 'HAFSLUNDSØY',
-				'city_id' => '48676',
+				'city_id' => '48788',
 				'state_id' => '2701',
 			),
 			960 => 
@@ -9625,7 +9625,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.29106',
 				'longitude' => '11.14660',
 				'city' => 'HAFSLUNDSØY',
-				'city_id' => '48676',
+				'city_id' => '48788',
 				'state_id' => '2701',
 			),
 			961 => 
@@ -9635,7 +9635,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.35100',
 				'longitude' => '11.19034',
 				'city' => 'VARTEIG',
-				'city_id' => '48676',
+				'city_id' => '48789',
 				'state_id' => '2701',
 			),
 			962 => 
@@ -9645,7 +9645,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.26691',
 				'longitude' => '11.17737',
 				'city' => 'BORGENHAUGEN',
-				'city_id' => '48676',
+				'city_id' => '48790',
 				'state_id' => '2701',
 			),
 			963 => 
@@ -9655,7 +9655,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.26691',
 				'longitude' => '11.17737',
 				'city' => 'BORGENHAUGEN',
-				'city_id' => '48676',
+				'city_id' => '48790',
 				'state_id' => '2701',
 			),
 			964 => 
@@ -9665,7 +9665,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.26691',
 				'longitude' => '11.17737',
 				'city' => 'BORGENHAUGEN',
-				'city_id' => '48676',
+				'city_id' => '48790',
 				'state_id' => '2701',
 			),
 			965 => 
@@ -9675,7 +9675,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.25757',
 				'longitude' => '11.16817',
 				'city' => 'KLAVESTADHAUGEN',
-				'city_id' => '48676',
+				'city_id' => '48791',
 				'state_id' => '2701',
 			),
 			966 => 
@@ -9685,7 +9685,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.25757',
 				'longitude' => '11.16817',
 				'city' => 'KLAVESTADHAUGEN',
-				'city_id' => '48676',
+				'city_id' => '48791',
 				'state_id' => '2701',
 			),
 			967 => 
@@ -9695,7 +9695,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.21186',
 				'longitude' => '11.19048',
 				'city' => 'SKJEBERG',
-				'city_id' => '48676',
+				'city_id' => '48792',
 				'state_id' => '2701',
 			),
 			968 => 
@@ -9705,7 +9705,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.21186',
 				'longitude' => '11.19048',
 				'city' => 'SKJEBERG',
-				'city_id' => '48676',
+				'city_id' => '48792',
 				'state_id' => '2701',
 			),
 			969 => 
@@ -9715,7 +9715,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.21186',
 				'longitude' => '11.19048',
 				'city' => 'SKJEBERG',
-				'city_id' => '48676',
+				'city_id' => '48792',
 				'state_id' => '2701',
 			),
 			970 => 
@@ -10025,7 +10025,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.13749',
 				'longitude' => '11.32669',
 				'city' => 'BERG I ØSTFOLD',
-				'city_id' => '48649',
+				'city_id' => '48793',
 				'state_id' => '2701',
 			),
 			1001 => 
@@ -10035,7 +10035,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.12630',
 				'longitude' => '11.44475',
 				'city' => 'TISTEDAL',
-				'city_id' => '48649',
+				'city_id' => '48794',
 				'state_id' => '2701',
 			),
 			1002 => 
@@ -10045,7 +10045,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.12630',
 				'longitude' => '11.44475',
 				'city' => 'TISTEDAL',
-				'city_id' => '48649',
+				'city_id' => '48794',
 				'state_id' => '2701',
 			),
 			1003 => 
@@ -10055,7 +10055,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.12630',
 				'longitude' => '11.44475',
 				'city' => 'TISTEDAL',
-				'city_id' => '48649',
+				'city_id' => '48794',
 				'state_id' => '2701',
 			),
 			1004 => 
@@ -10065,7 +10065,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.12630',
 				'longitude' => '11.44475',
 				'city' => 'TISTEDAL',
-				'city_id' => '48649',
+				'city_id' => '48794',
 				'state_id' => '2701',
 			),
 			1005 => 
@@ -10075,7 +10075,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.09259',
 				'longitude' => '11.23005',
 				'city' => 'SPONVIKA',
-				'city_id' => '48649',
+				'city_id' => '48795',
 				'state_id' => '2701',
 			),
 			1006 => 
@@ -10085,7 +10085,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.94145',
 				'longitude' => '11.65987',
 				'city' => 'KORNSJØ',
-				'city_id' => '48649',
+				'city_id' => '48796',
 				'state_id' => '2701',
 			),
 			1007 => 
@@ -10115,7 +10115,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.5832',
 				'longitude' => '11.1629',
 				'city' => 'ASKIM',
-				'city_id' => '48655',
+				'city_id' => '48797',
 				'state_id' => '2701',
 			),
 			1010 => 
@@ -10125,7 +10125,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.5832',
 				'longitude' => '11.1629',
 				'city' => 'ASKIM',
-				'city_id' => '48655',
+				'city_id' => '48797',
 				'state_id' => '2701',
 			),
 			1011 => 
@@ -10135,7 +10135,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.5832',
 				'longitude' => '11.1629',
 				'city' => 'ASKIM',
-				'city_id' => '48655',
+				'city_id' => '48797',
 				'state_id' => '2701',
 			),
 			1012 => 
@@ -10145,7 +10145,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.6153',
 				'longitude' => '11.0764',
 				'city' => 'SPYDEBERG',
-				'city_id' => '48655',
+				'city_id' => '48798',
 				'state_id' => '2701',
 			),
 			1013 => 
@@ -10155,7 +10155,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.65983',
 				'longitude' => '11.00263',
 				'city' => 'TOMTER',
-				'city_id' => '48655',
+				'city_id' => '48799',
 				'state_id' => '2701',
 			),
 			1014 => 
@@ -10175,7 +10175,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.5832',
 				'longitude' => '11.1629',
 				'city' => 'ASKIM',
-				'city_id' => '48655',
+				'city_id' => '48800',
 				'state_id' => '2701',
 			),
 			1016 => 
@@ -10185,7 +10185,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.5832',
 				'longitude' => '11.1629',
 				'city' => 'ASKIM',
-				'city_id' => '48655',
+				'city_id' => '48800',
 				'state_id' => '2701',
 			),
 			1017 => 
@@ -10195,7 +10195,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.5832',
 				'longitude' => '11.1629',
 				'city' => 'ASKIM',
-				'city_id' => '48655',
+				'city_id' => '48800',
 				'state_id' => '2701',
 			),
 			1018 => 
@@ -10205,7 +10205,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.5832',
 				'longitude' => '11.1629',
 				'city' => 'ASKIM',
-				'city_id' => '48655',
+				'city_id' => '48800',
 				'state_id' => '2701',
 			),
 			1019 => 
@@ -10215,7 +10215,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.5832',
 				'longitude' => '11.1629',
 				'city' => 'ASKIM',
-				'city_id' => '48655',
+				'city_id' => '48800',
 				'state_id' => '2701',
 			),
 			1020 => 
@@ -10225,7 +10225,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.5832',
 				'longitude' => '11.1629',
 				'city' => 'ASKIM',
-				'city_id' => '48655',
+				'city_id' => '48800',
 				'state_id' => '2701',
 			),
 			1021 => 
@@ -10235,7 +10235,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.5832',
 				'longitude' => '11.1629',
 				'city' => 'ASKIM',
-				'city_id' => '48655',
+				'city_id' => '48800',
 				'state_id' => '2701',
 			),
 			1022 => 
@@ -10245,7 +10245,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.5832',
 				'longitude' => '11.1629',
 				'city' => 'ASKIM',
-				'city_id' => '48655',
+				'city_id' => '48800',
 				'state_id' => '2701',
 			),
 			1023 => 
@@ -10265,7 +10265,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.6153',
 				'longitude' => '11.0764',
 				'city' => 'SPYDEBERG',
-				'city_id' => '48655',
+				'city_id' => '48798',
 				'state_id' => '2701',
 			),
 			1025 => 
@@ -10275,7 +10275,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.6153',
 				'longitude' => '11.0764',
 				'city' => 'SPYDEBERG',
-				'city_id' => '48655',
+				'city_id' => '48798',
 				'state_id' => '2701',
 			),
 			1026 => 
@@ -10285,7 +10285,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.62184',
 				'longitude' => '11.03159',
 				'city' => 'KNAPSTAD',
-				'city_id' => '48655',
+				'city_id' => '48801',
 				'state_id' => '2701',
 			),
 			1027 => 
@@ -10295,7 +10295,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.65983',
 				'longitude' => '11.00263',
 				'city' => 'TOMTER',
-				'city_id' => '48655',
+				'city_id' => '48799',
 				'state_id' => '2701',
 			),
 			1028 => 
@@ -10305,7 +10305,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.5931',
 				'longitude' => '10.9458',
 				'city' => 'HOBØL',
-				'city_id' => '48655',
+				'city_id' => '48802',
 				'state_id' => '2701',
 			),
 			1029 => 
@@ -10315,7 +10315,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.5931',
 				'longitude' => '10.9458',
 				'city' => 'HOBØL',
-				'city_id' => '48655',
+				'city_id' => '48802',
 				'state_id' => '2701',
 			),
 			1030 => 
@@ -10325,7 +10325,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.5832',
 				'longitude' => '11.1629',
 				'city' => 'ASKIM',
-				'city_id' => '48655',
+				'city_id' => '48800',
 				'state_id' => '2701',
 			),
 			1031 => 
@@ -10335,7 +10335,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.5832',
 				'longitude' => '11.1629',
 				'city' => 'ASKIM',
-				'city_id' => '48655',
+				'city_id' => '48800',
 				'state_id' => '2701',
 			),
 			1032 => 
@@ -10345,7 +10345,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.5832',
 				'longitude' => '11.1629',
 				'city' => 'ASKIM',
-				'city_id' => '48655',
+				'city_id' => '48800',
 				'state_id' => '2701',
 			),
 			1033 => 
@@ -10355,7 +10355,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.5832',
 				'longitude' => '11.1629',
 				'city' => 'ASKIM',
-				'city_id' => '48655',
+				'city_id' => '48800',
 				'state_id' => '2701',
 			),
 			1034 => 
@@ -10365,7 +10365,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.55',
 				'longitude' => '11.3333',
 				'city' => 'MYSEN',
-				'city_id' => '48655',
+				'city_id' => '48803',
 				'state_id' => '2701',
 			),
 			1035 => 
@@ -10375,7 +10375,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.55',
 				'longitude' => '11.3333',
 				'city' => 'MYSEN',
-				'city_id' => '48655',
+				'city_id' => '48803',
 				'state_id' => '2701',
 			),
 			1036 => 
@@ -10385,7 +10385,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.55',
 				'longitude' => '11.3333',
 				'city' => 'MYSEN',
-				'city_id' => '48655',
+				'city_id' => '48803',
 				'state_id' => '2701',
 			),
 			1037 => 
@@ -10395,7 +10395,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.56689',
 				'longitude' => '11.26208',
 				'city' => 'SLITU',
-				'city_id' => '48655',
+				'city_id' => '48804',
 				'state_id' => '2701',
 			),
 			1038 => 
@@ -10405,7 +10405,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.6514',
 				'longitude' => '11.3397',
 				'city' => 'TRØGSTAD',
-				'city_id' => '48655',
+				'city_id' => '48805',
 				'state_id' => '2701',
 			),
 			1039 => 
@@ -10415,7 +10415,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.6514',
 				'longitude' => '11.3397',
 				'city' => 'TRØGSTAD',
-				'city_id' => '48655',
+				'city_id' => '48805',
 				'state_id' => '2701',
 			),
 			1040 => 
@@ -10425,7 +10425,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.70205',
 				'longitude' => '11.29702',
 				'city' => 'BÅSTAD',
-				'city_id' => '48655',
+				'city_id' => '48806',
 				'state_id' => '2701',
 			),
 			1041 => 
@@ -10435,7 +10435,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.70205',
 				'longitude' => '11.29702',
 				'city' => 'BÅSTAD',
-				'city_id' => '48655',
+				'city_id' => '48806',
 				'state_id' => '2701',
 			),
 			1042 => 
@@ -10445,7 +10445,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.4833',
 				'longitude' => '11.65',
 				'city' => 'ØRJE',
-				'city_id' => '48663',
+				'city_id' => '48807',
 				'state_id' => '2701',
 			),
 			1043 => 
@@ -10455,7 +10455,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.4833',
 				'longitude' => '11.65',
 				'city' => 'ØRJE',
-				'city_id' => '48663',
+				'city_id' => '48807',
 				'state_id' => '2701',
 			),
 			1044 => 
@@ -10465,7 +10465,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.35175',
 				'longitude' => '11.74119',
 				'city' => 'OTTEID',
-				'city_id' => '48663',
+				'city_id' => '48808',
 				'state_id' => '2701',
 			),
 			1045 => 
@@ -10475,7 +10475,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.55301',
 				'longitude' => '11.41129',
 				'city' => 'HÆRLAND',
-				'city_id' => '48655',
+				'city_id' => '48809',
 				'state_id' => '2701',
 			),
 			1046 => 
@@ -10485,7 +10485,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.5369',
 				'longitude' => '11.3603',
 				'city' => 'EIDSBERG',
-				'city_id' => '48655',
+				'city_id' => '48810',
 				'state_id' => '2701',
 			),
 			1047 => 
@@ -10515,7 +10515,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.35336',
 				'longitude' => '11.42238',
 				'city' => 'DEGERNES',
-				'city_id' => '48703',
+				'city_id' => '48811',
 				'state_id' => '2701',
 			),
 			1050 => 
@@ -10525,7 +10525,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.35336',
 				'longitude' => '11.42238',
 				'city' => 'DEGERNES',
-				'city_id' => '48703',
+				'city_id' => '48811',
 				'state_id' => '2701',
 			),
 			1051 => 
@@ -10545,7 +10545,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.9333',
 				'longitude' => '11.1667',
 				'city' => 'FETSUND',
-				'city_id' => '48660',
+				'city_id' => '48812',
 				'state_id' => '2701',
 			),
 			1053 => 
@@ -10555,7 +10555,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.9333',
 				'longitude' => '11.1667',
 				'city' => 'FETSUND',
-				'city_id' => '48660',
+				'city_id' => '48812',
 				'state_id' => '2701',
 			),
 			1054 => 
@@ -10565,7 +10565,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.86228',
 				'longitude' => '11.22280',
 				'city' => 'GAN',
-				'city_id' => '48660',
+				'city_id' => '48813',
 				'state_id' => '2701',
 			),
 			1055 => 
@@ -10575,7 +10575,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.78477',
 				'longitude' => '11.25571',
 				'city' => 'ENEBAKKNESET',
-				'city_id' => '48660',
+				'city_id' => '48814',
 				'state_id' => '2701',
 			),
 			1056 => 
@@ -10585,7 +10585,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.82991',
 				'longitude' => '11.15377',
 				'city' => 'FLATEBY',
-				'city_id' => '48642',
+				'city_id' => '48815',
 				'state_id' => '2701',
 			),
 			1057 => 
@@ -10605,7 +10605,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.73076',
 				'longitude' => '11.03297',
 				'city' => 'YTRE ENEBAKK',
-				'city_id' => '48642',
+				'city_id' => '48816',
 				'state_id' => '2701',
 			),
 			1059 => 
@@ -10615,7 +10615,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.82991',
 				'longitude' => '11.15377',
 				'city' => 'FLATEBY',
-				'city_id' => '48642',
+				'city_id' => '48815',
 				'state_id' => '2701',
 			),
 			1060 => 
@@ -10625,7 +10625,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.73076',
 				'longitude' => '11.03297',
 				'city' => 'YTRE ENEBAKK',
-				'city_id' => '48642',
+				'city_id' => '48816',
 				'state_id' => '2701',
 			),
 			1061 => 
@@ -10635,7 +10635,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.9667',
 				'longitude' => '11.25',
 				'city' => 'SØRUMSAND',
-				'city_id' => '48660',
+				'city_id' => '48817',
 				'state_id' => '2701',
 			),
 			1062 => 
@@ -10645,7 +10645,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.9667',
 				'longitude' => '11.25',
 				'city' => 'SØRUMSAND',
-				'city_id' => '48660',
+				'city_id' => '48817',
 				'state_id' => '2701',
 			),
 			1063 => 
@@ -10655,7 +10655,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.9871',
 				'longitude' => '11.2402',
 				'city' => 'SØRUM',
-				'city_id' => '48660',
+				'city_id' => '48818',
 				'state_id' => '2701',
 			),
 			1064 => 
@@ -10665,7 +10665,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.9871',
 				'longitude' => '11.2402',
 				'city' => 'SØRUM',
-				'city_id' => '48660',
+				'city_id' => '48818',
 				'state_id' => '2701',
 			),
 			1065 => 
@@ -10675,7 +10675,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.00483',
 				'longitude' => '11.30126',
 				'city' => 'BLAKER',
-				'city_id' => '48660',
+				'city_id' => '48819',
 				'state_id' => '2701',
 			),
 			1066 => 
@@ -10685,7 +10685,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.00483',
 				'longitude' => '11.30126',
 				'city' => 'BLAKER',
-				'city_id' => '48660',
+				'city_id' => '48819',
 				'state_id' => '2701',
 			),
 			1067 => 
@@ -10695,7 +10695,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.02928',
 				'longitude' => '11.32795',
 				'city' => 'RÅNÅSFOSS',
-				'city_id' => '48667',
+				'city_id' => '48820',
 				'state_id' => '2701',
 			),
 			1068 => 
@@ -10705,7 +10705,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.03925',
 				'longitude' => '11.35200',
 				'city' => 'AULI',
-				'city_id' => '48667',
+				'city_id' => '48821',
 				'state_id' => '2701',
 			),
 			1069 => 
@@ -10715,7 +10715,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.03925',
 				'longitude' => '11.35200',
 				'city' => 'AULI',
-				'city_id' => '48667',
+				'city_id' => '48821',
 				'state_id' => '2701',
 			),
 			1070 => 
@@ -10725,7 +10725,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.92710',
 				'longitude' => '11.46792',
 				'city' => 'AURSKOG',
-				'city_id' => '48638',
+				'city_id' => '48822',
 				'state_id' => '2701',
 			),
 			1071 => 
@@ -10735,7 +10735,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.92710',
 				'longitude' => '11.46792',
 				'city' => 'AURSKOG',
-				'city_id' => '48638',
+				'city_id' => '48822',
 				'state_id' => '2701',
 			),
 			1072 => 
@@ -10745,7 +10745,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.88490',
 				'longitude' => '11.56049',
 				'city' => 'BJØRKELANGEN',
-				'city_id' => '48638',
+				'city_id' => '48823',
 				'state_id' => '2701',
 			),
 			1073 => 
@@ -10755,7 +10755,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.88490',
 				'longitude' => '11.56049',
 				'city' => 'BJØRKELANGEN',
-				'city_id' => '48638',
+				'city_id' => '48823',
 				'state_id' => '2701',
 			),
 			1074 => 
@@ -10765,7 +10765,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.7144',
 				'longitude' => '11.8086',
 				'city' => 'RØMSKOG',
-				'city_id' => '48638',
+				'city_id' => '48824',
 				'state_id' => '2701',
 			),
 			1075 => 
@@ -10775,7 +10775,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.82805',
 				'longitude' => '11.72183',
 				'city' => 'SETSKOG',
-				'city_id' => '48638',
+				'city_id' => '48825',
 				'state_id' => '2701',
 			),
 			1076 => 
@@ -10785,7 +10785,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.79691',
 				'longitude' => '11.46823',
 				'city' => 'LØKEN',
-				'city_id' => '48638',
+				'city_id' => '48826',
 				'state_id' => '2701',
 			),
 			1077 => 
@@ -10795,7 +10795,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.79691',
 				'longitude' => '11.46823',
 				'city' => 'LØKEN',
-				'city_id' => '48638',
+				'city_id' => '48826',
 				'state_id' => '2701',
 			),
 			1078 => 
@@ -10805,7 +10805,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.81819',
 				'longitude' => '11.48218',
 				'city' => 'FOSSER',
-				'city_id' => '48638',
+				'city_id' => '48827',
 				'state_id' => '2701',
 			),
 			1079 => 
@@ -10815,7 +10815,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '66.01135',
 				'longitude' => '14.14285',
 				'city' => 'HEMNES',
-				'city_id' => '48638',
+				'city_id' => '48426',
 				'state_id' => '2701',
 			),
 			1080 => 
@@ -10825,7 +10825,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '66.01135',
 				'longitude' => '14.14285',
 				'city' => 'HEMNES',
-				'city_id' => '48638',
+				'city_id' => '48426',
 				'state_id' => '2701',
 			),
 			1081 => 
@@ -10885,7 +10885,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.93771',
 				'longitude' => '11.02192',
 				'city' => 'LØVENSTAD',
-				'city_id' => '48675',
+				'city_id' => '48828',
 				'state_id' => '2701',
 			),
 			1087 => 
@@ -10895,7 +10895,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.97315',
 				'longitude' => '11.04638',
 				'city' => 'KJELLER',
-				'city_id' => '48660',
+				'city_id' => '48829',
 				'state_id' => '2701',
 			),
 			1088 => 
@@ -10905,7 +10905,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.9255',
 				'longitude' => '11.0865',
 				'city' => 'FJERDINGBY',
-				'city_id' => '48675',
+				'city_id' => '48830',
 				'state_id' => '2701',
 			),
 			1089 => 
@@ -10915,7 +10915,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.43623',
 				'longitude' => '11.09739',
 				'city' => 'NORDBY',
-				'city_id' => '48675',
+				'city_id' => '15097',
 				'state_id' => '2701',
 			),
 			1090 => 
@@ -10925,7 +10925,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.94501',
 				'longitude' => '11.00673',
 				'city' => 'STRØMMEN',
-				'city_id' => '48660',
+				'city_id' => '48755',
 				'state_id' => '2701',
 			),
 			1091 => 
@@ -10935,7 +10935,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.94501',
 				'longitude' => '11.00673',
 				'city' => 'STRØMMEN',
-				'city_id' => '48660',
+				'city_id' => '48755',
 				'state_id' => '2701',
 			),
 			1092 => 
@@ -10955,7 +10955,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.95963',
 				'longitude' => '10.99615',
 				'city' => 'SKJETTEN',
-				'city_id' => '48660',
+				'city_id' => '48831',
 				'state_id' => '2701',
 			),
 			1094 => 
@@ -10965,7 +10965,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.93100',
 				'longitude' => '11.03452',
 				'city' => 'BLYSTADLIA',
-				'city_id' => '48675',
+				'city_id' => '48832',
 				'state_id' => '2701',
 			),
 			1095 => 
@@ -10975,7 +10975,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.99996',
 				'longitude' => '11.08705',
 				'city' => 'LEIRSUND',
-				'city_id' => '48660',
+				'city_id' => '48833',
 				'state_id' => '2701',
 			),
 			1096 => 
@@ -10985,7 +10985,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.02281',
 				'longitude' => '11.10318',
 				'city' => 'FROGNER',
-				'city_id' => '48660',
+				'city_id' => '48834',
 				'state_id' => '2701',
 			),
 			1097 => 
@@ -10995,7 +10995,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.02281',
 				'longitude' => '11.10318',
 				'city' => 'FROGNER',
-				'city_id' => '48660',
+				'city_id' => '48834',
 				'state_id' => '2701',
 			),
 			1098 => 
@@ -11005,7 +11005,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.93771',
 				'longitude' => '11.02192',
 				'city' => 'LØVENSTAD',
-				'city_id' => '48675',
+				'city_id' => '48828',
 				'state_id' => '2701',
 			),
 			1099 => 
@@ -11015,7 +11015,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.00458',
 				'longitude' => '11.03280',
 				'city' => 'SKEDSMOKORSET',
-				'city_id' => '48660',
+				'city_id' => '48835',
 				'state_id' => '2701',
 			),
 			1100 => 
@@ -11025,7 +11025,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.00458',
 				'longitude' => '11.03280',
 				'city' => 'SKEDSMOKORSET',
-				'city_id' => '48660',
+				'city_id' => '48835',
 				'state_id' => '2701',
 			),
 			1101 => 
@@ -11035,7 +11035,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.00458',
 				'longitude' => '11.03280',
 				'city' => 'SKEDSMOKORSET',
-				'city_id' => '48660',
+				'city_id' => '48835',
 				'state_id' => '2701',
 			),
 			1102 => 
@@ -11055,7 +11055,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.00458',
 				'longitude' => '11.03280',
 				'city' => 'SKEDSMOKORSET',
-				'city_id' => '48660',
+				'city_id' => '48835',
 				'state_id' => '2701',
 			),
 			1104 => 
@@ -11075,7 +11075,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.9255',
 				'longitude' => '11.0865',
 				'city' => 'FJERDINGBY',
-				'city_id' => '48675',
+				'city_id' => '48830',
 				'state_id' => '2701',
 			),
 			1106 => 
@@ -11085,7 +11085,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.95963',
 				'longitude' => '10.99615',
 				'city' => 'SKJETTEN',
-				'city_id' => '48660',
+				'city_id' => '48831',
 				'state_id' => '2701',
 			),
 			1107 => 
@@ -11095,7 +11095,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.97315',
 				'longitude' => '11.04638',
 				'city' => 'KJELLER',
-				'city_id' => '48660',
+				'city_id' => '48829',
 				'state_id' => '2701',
 			),
 			1108 => 
@@ -11145,7 +11145,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.25830',
 				'longitude' => '11.03194',
 				'city' => 'MAURA',
-				'city_id' => '48681',
+				'city_id' => '48836',
 				'state_id' => '2701',
 			),
 			1113 => 
@@ -11155,7 +11155,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.17175',
 				'longitude' => '10.98602',
 				'city' => 'ÅSGREINA',
-				'city_id' => '48666',
+				'city_id' => '48837',
 				'state_id' => '2701',
 			),
 			1114 => 
@@ -11165,7 +11165,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.14218',
 				'longitude' => '11.05017',
 				'city' => 'HOLTER',
-				'city_id' => '48666',
+				'city_id' => '48838',
 				'state_id' => '2701',
 			),
 			1115 => 
@@ -11175,7 +11175,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.14218',
 				'longitude' => '11.05017',
 				'city' => 'HOLTER',
-				'city_id' => '48666',
+				'city_id' => '48838',
 				'state_id' => '2701',
 			),
 			1116 => 
@@ -11185,7 +11185,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.25830',
 				'longitude' => '11.03194',
 				'city' => 'MAURA',
-				'city_id' => '48666',
+				'city_id' => '48836',
 				'state_id' => '2701',
 			),
 			1117 => 
@@ -11195,7 +11195,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.07534',
 				'longitude' => '11.13915',
 				'city' => 'KLØFTA',
-				'city_id' => '48679',
+				'city_id' => '48839',
 				'state_id' => '2701',
 			),
 			1118 => 
@@ -11205,7 +11205,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.07534',
 				'longitude' => '11.13915',
 				'city' => 'KLØFTA',
-				'city_id' => '48679',
+				'city_id' => '48839',
 				'state_id' => '2701',
 			),
 			1119 => 
@@ -11215,7 +11215,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.15',
 				'longitude' => '11.1833',
 				'city' => 'JESSHEIM',
-				'city_id' => '48679',
+				'city_id' => '48840',
 				'state_id' => '2701',
 			),
 			1120 => 
@@ -11225,7 +11225,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.15',
 				'longitude' => '11.1833',
 				'city' => 'JESSHEIM',
-				'city_id' => '48679',
+				'city_id' => '48840',
 				'state_id' => '2701',
 			),
 			1121 => 
@@ -11235,7 +11235,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.15',
 				'longitude' => '11.1833',
 				'city' => 'JESSHEIM',
-				'city_id' => '48679',
+				'city_id' => '48840',
 				'state_id' => '2701',
 			),
 			1122 => 
@@ -11245,7 +11245,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.15',
 				'longitude' => '11.1833',
 				'city' => 'JESSHEIM',
-				'city_id' => '48679',
+				'city_id' => '48840',
 				'state_id' => '2701',
 			),
 			1123 => 
@@ -11255,7 +11255,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.22881',
 				'longitude' => '11.16736',
 				'city' => 'MOGREINA',
-				'city_id' => '48679',
+				'city_id' => '48841',
 				'state_id' => '2701',
 			),
 			1124 => 
@@ -11265,7 +11265,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.18647',
 				'longitude' => '11.26287',
 				'city' => 'NORDKISA',
-				'city_id' => '48679',
+				'city_id' => '48842',
 				'state_id' => '2701',
 			),
 			1125 => 
@@ -11275,7 +11275,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.14413',
 				'longitude' => '11.25283',
 				'city' => 'ALGARHEIM',
-				'city_id' => '48679',
+				'city_id' => '48843',
 				'state_id' => '2701',
 			),
 			1126 => 
@@ -11285,7 +11285,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.15',
 				'longitude' => '11.1833',
 				'city' => 'JESSHEIM',
-				'city_id' => '48679',
+				'city_id' => '48840',
 				'state_id' => '2701',
 			),
 			1127 => 
@@ -11295,7 +11295,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.23979',
 				'longitude' => '11.14119',
 				'city' => 'SESSVOLLMOEN',
-				'city_id' => '48679',
+				'city_id' => '48844',
 				'state_id' => '2701',
 			),
 			1128 => 
@@ -11305,7 +11305,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.19787',
 				'longitude' => '11.09968',
 				'city' => 'GARDERMOEN',
-				'city_id' => '48679',
+				'city_id' => '48845',
 				'state_id' => '2701',
 			),
 			1129 => 
@@ -11315,7 +11315,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.19787',
 				'longitude' => '11.09968',
 				'city' => 'GARDERMOEN',
-				'city_id' => '48679',
+				'city_id' => '48845',
 				'state_id' => '2701',
 			),
 			1130 => 
@@ -11325,7 +11325,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.15',
 				'longitude' => '11.1833',
 				'city' => 'JESSHEIM',
-				'city_id' => '48679',
+				'city_id' => '48840',
 				'state_id' => '2701',
 			),
 			1131 => 
@@ -11335,7 +11335,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.15',
 				'longitude' => '11.1833',
 				'city' => 'JESSHEIM',
-				'city_id' => '48679',
+				'city_id' => '48840',
 				'state_id' => '2701',
 			),
 			1132 => 
@@ -11345,7 +11345,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.15',
 				'longitude' => '11.1833',
 				'city' => 'JESSHEIM',
-				'city_id' => '48679',
+				'city_id' => '48840',
 				'state_id' => '2701',
 			),
 			1133 => 
@@ -11355,7 +11355,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.15',
 				'longitude' => '11.1833',
 				'city' => 'JESSHEIM',
-				'city_id' => '48679',
+				'city_id' => '48840',
 				'state_id' => '2701',
 			),
 			1134 => 
@@ -11365,7 +11365,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.15',
 				'longitude' => '11.1833',
 				'city' => 'JESSHEIM',
-				'city_id' => '48679',
+				'city_id' => '48840',
 				'state_id' => '2701',
 			),
 			1135 => 
@@ -11375,7 +11375,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.15',
 				'longitude' => '11.1833',
 				'city' => 'JESSHEIM',
-				'city_id' => '48679',
+				'city_id' => '48840',
 				'state_id' => '2701',
 			),
 			1136 => 
@@ -11385,7 +11385,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.28386',
 				'longitude' => '11.17287',
 				'city' => 'RÅHOLT',
-				'city_id' => '48641',
+				'city_id' => '48846',
 				'state_id' => '2701',
 			),
 			1137 => 
@@ -11395,7 +11395,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.28386',
 				'longitude' => '11.17287',
 				'city' => 'RÅHOLT',
-				'city_id' => '48641',
+				'city_id' => '48846',
 				'state_id' => '2701',
 			),
 			1138 => 
@@ -11405,7 +11405,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.25109',
 				'longitude' => '11.20233',
 				'city' => 'DAL',
-				'city_id' => '48641',
+				'city_id' => '48847',
 				'state_id' => '2701',
 			),
 			1139 => 
@@ -11415,7 +11415,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.29122',
 				'longitude' => '11.19840',
 				'city' => 'BØN',
-				'city_id' => '48641',
+				'city_id' => '48848',
 				'state_id' => '2701',
 			),
 			1140 => 
@@ -11425,7 +11425,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.30203',
 				'longitude' => '11.16768',
 				'city' => 'EIDSVOLL VERK',
-				'city_id' => '48641',
+				'city_id' => '48849',
 				'state_id' => '2701',
 			),
 			1141 => 
@@ -11435,7 +11435,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.25109',
 				'longitude' => '11.20233',
 				'city' => 'DAL',
-				'city_id' => '48641',
+				'city_id' => '48847',
 				'state_id' => '2701',
 			),
 			1142 => 
@@ -11445,7 +11445,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3475',
 				'longitude' => '11.2508',
 				'city' => 'EIDSVOLL',
-				'city_id' => '48641',
+				'city_id' => '48850',
 				'state_id' => '2701',
 			),
 			1143 => 
@@ -11455,7 +11455,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3475',
 				'longitude' => '11.2508',
 				'city' => 'EIDSVOLL',
-				'city_id' => '48641',
+				'city_id' => '48850',
 				'state_id' => '2701',
 			),
 			1144 => 
@@ -11485,7 +11485,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.39189',
 				'longitude' => '11.20699',
 				'city' => 'MINNESUND',
-				'city_id' => '48641',
+				'city_id' => '48851',
 				'state_id' => '2701',
 			),
 			1147 => 
@@ -11495,7 +11495,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.48224',
 				'longitude' => '11.15896',
 				'city' => 'FEIRING',
-				'city_id' => '48641',
+				'city_id' => '48852',
 				'state_id' => '2701',
 			),
 			1148 => 
@@ -11505,7 +11505,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.39189',
 				'longitude' => '11.20699',
 				'city' => 'MINNESUND',
-				'city_id' => '48641',
+				'city_id' => '48851',
 				'state_id' => '2701',
 			),
 			1149 => 
@@ -11515,7 +11515,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.25',
 				'longitude' => '60.25',
 				'city' => 'SKARNES',
-				'city_id' => '48372',
+				'city_id' => '48853',
 				'state_id' => '2691',
 			),
 			1150 => 
@@ -11525,7 +11525,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.25',
 				'longitude' => '60.25',
 				'city' => 'SKARNES',
-				'city_id' => '48372',
+				'city_id' => '48853',
 				'state_id' => '2691',
 			),
 			1151 => 
@@ -11535,7 +11535,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.28302',
 				'longitude' => '11.77274',
 				'city' => 'SLÅSTAD',
-				'city_id' => '48372',
+				'city_id' => '48854',
 				'state_id' => '2691',
 			),
 			1152 => 
@@ -11545,7 +11545,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.20276',
 				'longitude' => '11.64183',
 				'city' => 'DISENÅ',
-				'city_id' => '48372',
+				'city_id' => '48855',
 				'state_id' => '2691',
 			),
 			1153 => 
@@ -11555,7 +11555,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.22699',
 				'longitude' => '11.80875',
 				'city' => 'SANDER',
-				'city_id' => '48372',
+				'city_id' => '48856',
 				'state_id' => '2691',
 			),
 			1154 => 
@@ -11565,7 +11565,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3885',
 				'longitude' => '11.5376',
 				'city' => 'SAGSTUA',
-				'city_id' => '48359',
+				'city_id' => '48857',
 				'state_id' => '2691',
 			),
 			1155 => 
@@ -11575,7 +11575,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3885',
 				'longitude' => '11.5376',
 				'city' => 'SAGSTUA',
-				'city_id' => '48359',
+				'city_id' => '48857',
 				'state_id' => '2691',
 			),
 			1156 => 
@@ -11585,7 +11585,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.78779',
 				'longitude' => '11.34796',
 				'city' => 'BRUVOLL',
-				'city_id' => '48359',
+				'city_id' => '48858',
 				'state_id' => '2691',
 			),
 			1157 => 
@@ -11595,7 +11595,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.46846',
 				'longitude' => '11.62180',
 				'city' => 'KNAPPER',
-				'city_id' => '48359',
+				'city_id' => '48859',
 				'state_id' => '2691',
 			),
 			1158 => 
@@ -11605,7 +11605,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.41691',
 				'longitude' => '11.64781',
 				'city' => 'GARDVIK',
-				'city_id' => '48359',
+				'city_id' => '48860',
 				'state_id' => '2691',
 			),
 			1159 => 
@@ -11615,7 +11615,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.41691',
 				'longitude' => '11.64781',
 				'city' => 'GARDVIK',
-				'city_id' => '48359',
+				'city_id' => '48860',
 				'state_id' => '2691',
 			),
 			1160 => 
@@ -11625,7 +11625,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.37960',
 				'longitude' => '11.69196',
 				'city' => 'AUSTVATN',
-				'city_id' => '48359',
+				'city_id' => '48861',
 				'state_id' => '2691',
 			),
 			1161 => 
@@ -11635,7 +11635,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.15',
 				'longitude' => '11.4667',
 				'city' => 'ÅRNES',
-				'city_id' => '48667',
+				'city_id' => '48862',
 				'state_id' => '2701',
 			),
 			1162 => 
@@ -11645,7 +11645,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.15',
 				'longitude' => '11.4667',
 				'city' => 'ÅRNES',
-				'city_id' => '48667',
+				'city_id' => '48862',
 				'state_id' => '2701',
 			),
 			1163 => 
@@ -11655,7 +11655,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.15342',
 				'longitude' => '11.41601',
 				'city' => 'VORMSUND',
-				'city_id' => '48667',
+				'city_id' => '48863',
 				'state_id' => '2701',
 			),
 			1164 => 
@@ -11665,7 +11665,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.15342',
 				'longitude' => '11.41601',
 				'city' => 'VORMSUND',
-				'city_id' => '48667',
+				'city_id' => '48863',
 				'state_id' => '2701',
 			),
 			1165 => 
@@ -11675,7 +11675,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.20931',
 				'longitude' => '11.33814',
 				'city' => 'BRÅRUD',
-				'city_id' => '48667',
+				'city_id' => '48864',
 				'state_id' => '2701',
 			),
 			1166 => 
@@ -11685,7 +11685,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.22923',
 				'longitude' => '11.51254',
 				'city' => 'SKOGBYGDA',
-				'city_id' => '48667',
+				'city_id' => '48865',
 				'state_id' => '2701',
 			),
 			1167 => 
@@ -11695,7 +11695,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.22923',
 				'longitude' => '11.51254',
 				'city' => 'SKOGBYGDA',
-				'city_id' => '48667',
+				'city_id' => '48865',
 				'state_id' => '2701',
 			),
 			1168 => 
@@ -11705,7 +11705,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.10240',
 				'longitude' => '11.37445',
 				'city' => 'HVAM',
-				'city_id' => '48667',
+				'city_id' => '48866',
 				'state_id' => '2701',
 			),
 			1169 => 
@@ -11715,7 +11715,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.18672',
 				'longitude' => '11.54073',
 				'city' => 'OPPAKER',
-				'city_id' => '48667',
+				'city_id' => '48867',
 				'state_id' => '2701',
 			),
 			1170 => 
@@ -11725,7 +11725,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.10240',
 				'longitude' => '11.37445',
 				'city' => 'HVAM',
-				'city_id' => '48667',
+				'city_id' => '48866',
 				'state_id' => '2701',
 			),
 			1171 => 
@@ -11735,7 +11735,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.22003',
 				'longitude' => '11.39336',
 				'city' => 'FENSTAD',
-				'city_id' => '48667',
+				'city_id' => '48868',
 				'state_id' => '2701',
 			),
 			1172 => 
@@ -11835,7 +11835,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.14657',
 				'longitude' => '12.05709',
 				'city' => 'GRANLI',
-				'city_id' => '48352',
+				'city_id' => '48869',
 				'state_id' => '2691',
 			),
 			1182 => 
@@ -11885,7 +11885,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.25211',
 				'longitude' => '12.05499',
 				'city' => 'ROVERUD',
-				'city_id' => '48352',
+				'city_id' => '48870',
 				'state_id' => '2691',
 			),
 			1187 => 
@@ -11895,7 +11895,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.25211',
 				'longitude' => '12.05499',
 				'city' => 'ROVERUD',
-				'city_id' => '48352',
+				'city_id' => '48870',
 				'state_id' => '2691',
 			),
 			1188 => 
@@ -11905,7 +11905,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.2833',
 				'longitude' => '12.1167',
 				'city' => 'HOKKÅSEN',
-				'city_id' => '48352',
+				'city_id' => '48871',
 				'state_id' => '2691',
 			),
 			1189 => 
@@ -11915,7 +11915,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.29911',
 				'longitude' => '12.26659',
 				'city' => 'LUNDERSÆTER',
-				'city_id' => '48352',
+				'city_id' => '48872',
 				'state_id' => '2691',
 			),
 			1190 => 
@@ -11925,7 +11925,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.31807',
 				'longitude' => '12.01708',
 				'city' => 'BRANDVAL',
-				'city_id' => '48352',
+				'city_id' => '48873',
 				'state_id' => '2691',
 			),
 			1191 => 
@@ -11935,7 +11935,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.11192',
 				'longitude' => '12.11642',
 				'city' => 'ÅBOGEN',
-				'city_id' => '48342',
+				'city_id' => '48874',
 				'state_id' => '2691',
 			),
 			1192 => 
@@ -11945,7 +11945,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.19568',
 				'longitude' => '11.88335',
 				'city' => 'GALTERUD',
-				'city_id' => '48372',
+				'city_id' => '48875',
 				'state_id' => '2691',
 			),
 			1193 => 
@@ -11955,7 +11955,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.10388',
 				'longitude' => '12.32472',
 				'city' => 'AUSTMARKA',
-				'city_id' => '48352',
+				'city_id' => '48876',
 				'state_id' => '2691',
 			),
 			1194 => 
@@ -11985,7 +11985,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.10388',
 				'longitude' => '12.32472',
 				'city' => 'AUSTMARKA',
-				'city_id' => '48352',
+				'city_id' => '48876',
 				'state_id' => '2691',
 			),
 			1197 => 
@@ -11995,7 +11995,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.9833',
 				'longitude' => '12.1167',
 				'city' => 'SKOTTERUD',
-				'city_id' => '48342',
+				'city_id' => '48877',
 				'state_id' => '2691',
 			),
 			1198 => 
@@ -12005,7 +12005,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.9833',
 				'longitude' => '12.1167',
 				'city' => 'SKOTTERUD',
-				'city_id' => '48342',
+				'city_id' => '48877',
 				'state_id' => '2691',
 			),
 			1199 => 
@@ -12015,7 +12015,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.98138',
 				'longitude' => '12.06951',
 				'city' => 'TOBØL',
-				'city_id' => '48342',
+				'city_id' => '48878',
 				'state_id' => '2691',
 			),
 			1200 => 
@@ -12025,7 +12025,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.93208',
 				'longitude' => '11.98967',
 				'city' => 'VESTMARKA',
-				'city_id' => '48342',
+				'city_id' => '48879',
 				'state_id' => '2691',
 			),
 			1201 => 
@@ -12035,7 +12035,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.02900',
 				'longitude' => '12.12493',
 				'city' => 'MATRAND',
-				'city_id' => '48342',
+				'city_id' => '48880',
 				'state_id' => '2691',
 			),
 			1202 => 
@@ -12045,7 +12045,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.95113',
 				'longitude' => '12.19994',
 				'city' => 'MAGNOR',
-				'city_id' => '48342',
+				'city_id' => '48881',
 				'state_id' => '2691',
 			),
 			1203 => 
@@ -12055,7 +12055,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.95113',
 				'longitude' => '12.19994',
 				'city' => 'MAGNOR',
-				'city_id' => '48342',
+				'city_id' => '48881',
 				'state_id' => '2691',
 			),
 			1204 => 
@@ -12065,7 +12065,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.41783',
 				'longitude' => '12.40354',
 				'city' => 'GRUE FINNSKOG',
-				'city_id' => '48350',
+				'city_id' => '48882',
 				'state_id' => '2691',
 			),
 			1205 => 
@@ -12075,7 +12075,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.41783',
 				'longitude' => '12.40354',
 				'city' => 'GRUE FINNSKOG',
-				'city_id' => '48350',
+				'city_id' => '48882',
 				'state_id' => '2691',
 			),
 			1206 => 
@@ -12085,7 +12085,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.4667',
 				'longitude' => '12.05',
 				'city' => 'KIRKENÆR',
-				'city_id' => '48350',
+				'city_id' => '48883',
 				'state_id' => '2691',
 			),
 			1207 => 
@@ -12095,7 +12095,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.4667',
 				'longitude' => '12.05',
 				'city' => 'KIRKENÆR',
-				'city_id' => '48350',
+				'city_id' => '48883',
 				'state_id' => '2691',
 			),
 			1208 => 
@@ -12105,7 +12105,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.40490',
 				'longitude' => '12.04834',
 				'city' => 'GRINDER',
-				'city_id' => '48350',
+				'city_id' => '48884',
 				'state_id' => '2691',
 			),
 			1209 => 
@@ -12115,7 +12115,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.49961',
 				'longitude' => '12.07740',
 				'city' => 'NAMNÅ',
-				'city_id' => '48350',
+				'city_id' => '48885',
 				'state_id' => '2691',
 			),
 			1210 => 
@@ -12125,7 +12125,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.56727',
 				'longitude' => '12.05531',
 				'city' => 'ARNEBERG',
-				'city_id' => '48381',
+				'city_id' => '48886',
 				'state_id' => '2691',
 			),
 			1211 => 
@@ -12135,7 +12135,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.6078',
 				'longitude' => '12.0521',
 				'city' => 'FLISA',
-				'city_id' => '48381',
+				'city_id' => '48887',
 				'state_id' => '2691',
 			),
 			1212 => 
@@ -12145,7 +12145,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.6078',
 				'longitude' => '12.0521',
 				'city' => 'FLISA',
-				'city_id' => '48381',
+				'city_id' => '48887',
 				'state_id' => '2691',
 			),
 			1213 => 
@@ -12155,7 +12155,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.67893',
 				'longitude' => '12.02452',
 				'city' => 'GJESÅSEN',
-				'city_id' => '48381',
+				'city_id' => '48888',
 				'state_id' => '2691',
 			),
 			1214 => 
@@ -12165,7 +12165,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.70426',
 				'longitude' => '12.38069',
 				'city' => 'ÅSNES FINNSKOG',
-				'city_id' => '48381',
+				'city_id' => '48889',
 				'state_id' => '2691',
 			),
 			1215 => 
@@ -12275,7 +12275,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.74646',
 				'longitude' => '11.13681',
 				'city' => 'OTTESTAD',
-				'city_id' => '48367',
+				'city_id' => '48890',
 				'state_id' => '2691',
 			),
 			1226 => 
@@ -12285,7 +12285,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.74646',
 				'longitude' => '11.13681',
 				'city' => 'OTTESTAD',
-				'city_id' => '48367',
+				'city_id' => '48890',
 				'state_id' => '2691',
 			),
 			1227 => 
@@ -12295,7 +12295,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.74646',
 				'longitude' => '11.13681',
 				'city' => 'OTTESTAD',
-				'city_id' => '48367',
+				'city_id' => '48890',
 				'state_id' => '2691',
 			),
 			1228 => 
@@ -12355,7 +12355,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.84146',
 				'longitude' => '11.02206',
 				'city' => 'FURNES',
-				'city_id' => '48364',
+				'city_id' => '48891',
 				'state_id' => '2691',
 			),
 			1234 => 
@@ -12375,7 +12375,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.80168',
 				'longitude' => '11.12944',
 				'city' => 'RIDABU',
-				'city_id' => '48351',
+				'city_id' => '48892',
 				'state_id' => '2691',
 			),
 			1236 => 
@@ -12385,7 +12385,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.82842',
 				'longitude' => '11.13088',
 				'city' => 'INGEBERG',
-				'city_id' => '48351',
+				'city_id' => '48893',
 				'state_id' => '2691',
 			),
 			1237 => 
@@ -12395,7 +12395,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.84521',
 				'longitude' => '11.20010',
 				'city' => 'VANG PÅ HEDMARKEN',
-				'city_id' => '48351',
+				'city_id' => '48894',
 				'state_id' => '2691',
 			),
 			1238 => 
@@ -12425,7 +12425,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.84146',
 				'longitude' => '11.02206',
 				'city' => 'FURNES',
-				'city_id' => '48364',
+				'city_id' => '48891',
 				'state_id' => '2691',
 			),
 			1241 => 
@@ -12435,7 +12435,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.80168',
 				'longitude' => '11.12944',
 				'city' => 'RIDABU',
-				'city_id' => '48351',
+				'city_id' => '48892',
 				'state_id' => '2691',
 			),
 			1242 => 
@@ -12445,7 +12445,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.84521',
 				'longitude' => '11.20010',
 				'city' => 'VANG PÅ HEDMARKEN',
-				'city_id' => '48351',
+				'city_id' => '48894',
 				'state_id' => '2691',
 			),
 			1243 => 
@@ -12455,7 +12455,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.70001',
 				'longitude' => '11.32749',
 				'city' => 'VALLSET',
-				'city_id' => '48367',
+				'city_id' => '48895',
 				'state_id' => '2691',
 			),
 			1244 => 
@@ -12465,7 +12465,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.70001',
 				'longitude' => '11.32749',
 				'city' => 'VALLSET',
-				'city_id' => '48367',
+				'city_id' => '48895',
 				'state_id' => '2691',
 			),
 			1245 => 
@@ -12475,7 +12475,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.71905',
 				'longitude' => '11.35126',
 				'city' => 'ÅSVANG',
-				'city_id' => '48367',
+				'city_id' => '48896',
 				'state_id' => '2691',
 			),
 			1246 => 
@@ -12485,7 +12485,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.73704',
 				'longitude' => '11.29308',
 				'city' => 'ROMEDAL',
-				'city_id' => '48367',
+				'city_id' => '48897',
 				'state_id' => '2691',
 			),
 			1247 => 
@@ -12495,7 +12495,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.73704',
 				'longitude' => '11.29308',
 				'city' => 'ROMEDAL',
-				'city_id' => '48367',
+				'city_id' => '48897',
 				'state_id' => '2691',
 			),
 			1248 => 
@@ -12525,7 +12525,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.72980',
 				'longitude' => '10.23859',
 				'city' => 'TANGEN',
-				'city_id' => '48367',
+				'city_id' => '48898',
 				'state_id' => '2691',
 			),
 			1251 => 
@@ -12535,7 +12535,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.58178',
 				'longitude' => '11.27248',
 				'city' => 'ESPA',
-				'city_id' => '48367',
+				'city_id' => '48899',
 				'state_id' => '2691',
 			),
 			1252 => 
@@ -12545,7 +12545,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.72980',
 				'longitude' => '10.23859',
 				'city' => 'TANGEN',
-				'city_id' => '48367',
+				'city_id' => '48898',
 				'state_id' => '2691',
 			),
 			1253 => 
@@ -12575,7 +12575,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.77482',
 				'longitude' => '11.22475',
 				'city' => 'ILSENG',
-				'city_id' => '48367',
+				'city_id' => '48900',
 				'state_id' => '2691',
 			),
 			1256 => 
@@ -12585,7 +12585,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.79661',
 				'longitude' => '11.30899',
 				'city' => 'ÅDALSBRUK',
-				'city_id' => '48356',
+				'city_id' => '48901',
 				'state_id' => '2691',
 			),
 			1257 => 
@@ -12595,7 +12595,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.77482',
 				'longitude' => '11.22475',
 				'city' => 'ILSENG',
-				'city_id' => '48367',
+				'city_id' => '48900',
 				'state_id' => '2691',
 			),
 			1258 => 
@@ -12605,7 +12605,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.76380',
 				'longitude' => '10.94197',
 				'city' => 'NES PÅ HEDMARKEN',
-				'city_id' => '48364',
+				'city_id' => '48902',
 				'state_id' => '2691',
 			),
 			1259 => 
@@ -12615,7 +12615,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.76380',
 				'longitude' => '10.94197',
 				'city' => 'NES PÅ HEDMARKEN',
-				'city_id' => '48364',
+				'city_id' => '48902',
 				'state_id' => '2691',
 			),
 			1260 => 
@@ -12625,7 +12625,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.80580',
 				'longitude' => '10.83872',
 				'city' => 'STAVSJØ',
-				'city_id' => '48364',
+				'city_id' => '48903',
 				'state_id' => '2691',
 			),
 			1261 => 
@@ -12635,7 +12635,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.86846',
 				'longitude' => '10.77758',
 				'city' => 'GAUPEN',
-				'city_id' => '48364',
+				'city_id' => '48904',
 				'state_id' => '2691',
 			),
 			1262 => 
@@ -12645,7 +12645,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.91283',
 				'longitude' => '10.81163',
 				'city' => 'RUDSHØGDA',
-				'city_id' => '48364',
+				'city_id' => '48905',
 				'state_id' => '2691',
 			),
 			1263 => 
@@ -12655,7 +12655,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.91283',
 				'longitude' => '10.81163',
 				'city' => 'RUDSHØGDA',
-				'city_id' => '48364',
+				'city_id' => '48905',
 				'state_id' => '2691',
 			),
 			1264 => 
@@ -12665,7 +12665,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.97443',
 				'longitude' => '10.77611',
 				'city' => 'NÆROSET',
-				'city_id' => '48364',
+				'city_id' => '48906',
 				'state_id' => '2691',
 			),
 			1265 => 
@@ -12675,7 +12675,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.02644',
 				'longitude' => '10.75438',
 				'city' => 'ÅSMARKA',
-				'city_id' => '48364',
+				'city_id' => '48907',
 				'state_id' => '2691',
 			),
 			1266 => 
@@ -12685,7 +12685,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.02852',
 				'longitude' => '10.55447',
 				'city' => 'BRØTTUM',
-				'city_id' => '48364',
+				'city_id' => '48908',
 				'state_id' => '2691',
 			),
 			1267 => 
@@ -12695,7 +12695,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.02852',
 				'longitude' => '10.55447',
 				'city' => 'BRØTTUM',
-				'city_id' => '48364',
+				'city_id' => '48908',
 				'state_id' => '2691',
 			),
 			1268 => 
@@ -12705,7 +12705,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.8833',
 				'longitude' => '10.9333',
 				'city' => 'BRUMUNDDAL',
-				'city_id' => '48364',
+				'city_id' => '48909',
 				'state_id' => '2691',
 			),
 			1269 => 
@@ -12715,7 +12715,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.8833',
 				'longitude' => '10.9333',
 				'city' => 'BRUMUNDDAL',
-				'city_id' => '48364',
+				'city_id' => '48909',
 				'state_id' => '2691',
 			),
 			1270 => 
@@ -12725,7 +12725,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.8833',
 				'longitude' => '10.9333',
 				'city' => 'BRUMUNDDAL',
-				'city_id' => '48364',
+				'city_id' => '48909',
 				'state_id' => '2691',
 			),
 			1271 => 
@@ -12735,7 +12735,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.8833',
 				'longitude' => '10.9333',
 				'city' => 'BRUMUNDDAL',
-				'city_id' => '48364',
+				'city_id' => '48909',
 				'state_id' => '2691',
 			),
 			1272 => 
@@ -12745,7 +12745,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.8833',
 				'longitude' => '10.9333',
 				'city' => 'BRUMUNDDAL',
-				'city_id' => '48364',
+				'city_id' => '48909',
 				'state_id' => '2691',
 			),
 			1273 => 
@@ -12755,7 +12755,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.8833',
 				'longitude' => '10.9333',
 				'city' => 'BRUMUNDDAL',
-				'city_id' => '48364',
+				'city_id' => '48909',
 				'state_id' => '2691',
 			),
 			1274 => 
@@ -12765,7 +12765,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.8833',
 				'longitude' => '10.9333',
 				'city' => 'BRUMUNDDAL',
-				'city_id' => '48364',
+				'city_id' => '48909',
 				'state_id' => '2691',
 			),
 			1275 => 
@@ -12775,7 +12775,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.8833',
 				'longitude' => '10.9333',
 				'city' => 'BRUMUNDDAL',
-				'city_id' => '48364',
+				'city_id' => '48909',
 				'state_id' => '2691',
 			),
 			1276 => 
@@ -12785,7 +12785,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.8833',
 				'longitude' => '10.9333',
 				'city' => 'BRUMUNDDAL',
-				'city_id' => '48364',
+				'city_id' => '48909',
 				'state_id' => '2691',
 			),
 			1277 => 
@@ -12795,7 +12795,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.8833',
 				'longitude' => '10.9333',
 				'city' => 'BRUMUNDDAL',
-				'city_id' => '48364',
+				'city_id' => '48909',
 				'state_id' => '2691',
 			),
 			1278 => 
@@ -12805,7 +12805,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.92962',
 				'longitude' => '10.69895',
 				'city' => 'MOELV',
-				'city_id' => '48364',
+				'city_id' => '48910',
 				'state_id' => '2691',
 			),
 			1279 => 
@@ -12815,7 +12815,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.92962',
 				'longitude' => '10.69895',
 				'city' => 'MOELV',
-				'city_id' => '48364',
+				'city_id' => '48910',
 				'state_id' => '2691',
 			),
 			1280 => 
@@ -12915,7 +12915,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.92649',
 				'longitude' => '11.63568',
 				'city' => 'HERNES',
-				'city_id' => '48343',
+				'city_id' => '48911',
 				'state_id' => '2691',
 			),
 			1290 => 
@@ -12935,7 +12935,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.94252',
 				'longitude' => '11.77403',
 				'city' => 'SØRSKOGBYGDA',
-				'city_id' => '48343',
+				'city_id' => '48912',
 				'state_id' => '2691',
 			),
 			1292 => 
@@ -12965,7 +12965,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.82290',
 				'longitude' => '11.63988',
 				'city' => 'HERADSBYGD',
-				'city_id' => '48343',
+				'city_id' => '48913',
 				'state_id' => '2691',
 			),
 			1295 => 
@@ -12975,7 +12975,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.80795',
 				'longitude' => '11.70931',
 				'city' => 'JØMNA',
-				'city_id' => '48343',
+				'city_id' => '48914',
 				'state_id' => '2691',
 			),
 			1296 => 
@@ -13035,7 +13035,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.26236',
 				'longitude' => '12.32352',
 				'city' => 'NYBERGSUND',
-				'city_id' => '48374',
+				'city_id' => '48915',
 				'state_id' => '2691',
 			),
 			1302 => 
@@ -13045,7 +13045,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.25578',
 				'longitude' => '12.52556',
 				'city' => 'ØSTBY',
-				'city_id' => '48374',
+				'city_id' => '48916',
 				'state_id' => '2691',
 			),
 			1303 => 
@@ -13055,7 +13055,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.25578',
 				'longitude' => '12.52556',
 				'city' => 'ØSTBY',
-				'city_id' => '48374',
+				'city_id' => '48916',
 				'state_id' => '2691',
 			),
 			1304 => 
@@ -13065,7 +13065,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.38604',
 				'longitude' => '12.68736',
 				'city' => 'LJØRDALEN',
-				'city_id' => '48374',
+				'city_id' => '48917',
 				'state_id' => '2691',
 			),
 			1305 => 
@@ -13075,7 +13075,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.38604',
 				'longitude' => '12.68736',
 				'city' => 'LJØRDALEN',
-				'city_id' => '48374',
+				'city_id' => '48917',
 				'state_id' => '2691',
 			),
 			1306 => 
@@ -13085,7 +13085,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.13132',
 				'longitude' => '12.50759',
 				'city' => 'PLASSEN',
-				'city_id' => '48374',
+				'city_id' => '48918',
 				'state_id' => '2691',
 			),
 			1307 => 
@@ -13095,7 +13095,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.17251',
 				'longitude' => '11.91504',
 				'city' => 'SØRE OSEN',
-				'city_id' => '48374',
+				'city_id' => '48919',
 				'state_id' => '2691',
 			),
 			1308 => 
@@ -13105,7 +13105,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.13455',
 				'longitude' => '12.10355',
 				'city' => 'TØRBERGET',
-				'city_id' => '48374',
+				'city_id' => '48920',
 				'state_id' => '2691',
 			),
 			1309 => 
@@ -13115,7 +13115,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.42006',
 				'longitude' => '12.13888',
 				'city' => 'JORDET',
-				'city_id' => '48374',
+				'city_id' => '48921',
 				'state_id' => '2691',
 			),
 			1310 => 
@@ -13125,7 +13125,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.37263',
 				'longitude' => '11.95006',
 				'city' => 'SLETTÅS',
-				'city_id' => '48374',
+				'city_id' => '48922',
 				'state_id' => '2691',
 			),
 			1311 => 
@@ -13135,7 +13135,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.72384',
 				'longitude' => '11.80173',
 				'city' => 'BRASKEREIDFOSS',
-				'city_id' => '48379',
+				'city_id' => '48923',
 				'state_id' => '2691',
 			),
 			1312 => 
@@ -13145,7 +13145,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.72384',
 				'longitude' => '11.80173',
 				'city' => 'BRASKEREIDFOSS',
-				'city_id' => '48379',
+				'city_id' => '48923',
 				'state_id' => '2691',
 			),
 			1313 => 
@@ -13155,7 +13155,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.67454',
 				'longitude' => '11.83254',
 				'city' => 'VÅLER I SOLØR',
-				'city_id' => '48379',
+				'city_id' => '48924',
 				'state_id' => '2691',
 			),
 			1314 => 
@@ -13165,7 +13165,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.65204',
 				'longitude' => '11.86998',
 				'city' => 'HASLEMOEN',
-				'city_id' => '48379',
+				'city_id' => '48925',
 				'state_id' => '2691',
 			),
 			1315 => 
@@ -13175,7 +13175,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.88096',
 				'longitude' => '12.24120',
 				'city' => 'GRAVBERGET',
-				'city_id' => '48379',
+				'city_id' => '48926',
 				'state_id' => '2691',
 			),
 			1316 => 
@@ -13205,37 +13205,37 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.82290',
 				'longitude' => '11.63988',
 				'city' => 'HERADSBYGD',
-				'city_id' => '48343',
+				'city_id' => '48913',
 				'state_id' => '2691',
 			),
 			1319 => 
 			array (
 				'id' => 1320,
 				'zip_code' => '2443',
-				'latitude' => 'DREVSJØ',
-				'longitude' => 'DREVSJØ',
+				'latitude' => '61.88918',
+				'longitude' => '12.03126',
 				'city' => 'DREVSJØ',
-				'city_id' => '48344',
+				'city_id' => '48927',
 				'state_id' => '2691',
 			),
 			1320 => 
 			array (
 				'id' => 1321,
 				'zip_code' => '2444',
-				'latitude' => 'DREVSJØ',
-				'longitude' => 'DREVSJØ',
+				'latitude' => '61.88918',
+				'longitude' => '12.03126',
 				'city' => 'DREVSJØ',
-				'city_id' => '48344',
+				'city_id' => '48927',
 				'state_id' => '2691',
 			),
 			1321 => 
 			array (
 				'id' => 1322,
 				'zip_code' => '2446',
-				'latitude' => 'ELGÅ',
-				'longitude' => 'ELGÅ',
+				'latitude' => '62.16453',
+				'longitude' => '11.94278',
 				'city' => 'ELGÅ',
-				'city_id' => '48344',
+				'city_id' => '48928',
 				'state_id' => '2691',
 			),
 			1322 => 
@@ -13245,17 +13245,17 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.17251',
 				'longitude' => '11.91504',
 				'city' => 'SØRE OSEN',
-				'city_id' => '48374',
+				'city_id' => '48919',
 				'state_id' => '2691',
 			),
 			1323 => 
 			array (
 				'id' => 1324,
 				'zip_code' => '2448',
-				'latitude' => 'SØMÅDALEN',
-				'longitude' => 'SØMÅDALEN',
+				'latitude' => '62.08963',
+				'longitude' => '11.65326',
 				'city' => 'SØMÅDALEN',
-				'city_id' => '48344',
+				'city_id' => '48929',
 				'state_id' => '2691',
 			),
 			1324 => 
@@ -13265,7 +13265,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.1333',
 				'longitude' => '11.3667',
 				'city' => 'RENA',
-				'city_id' => '48380',
+				'city_id' => '48930',
 				'state_id' => '2691',
 			),
 			1325 => 
@@ -13275,27 +13275,27 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.1333',
 				'longitude' => '11.3667',
 				'city' => 'RENA',
-				'city_id' => '48380',
+				'city_id' => '48930',
 				'state_id' => '2691',
 			),
 			1326 => 
 			array (
 				'id' => 1327,
 				'zip_code' => '2460',
-				'latitude' => 'OSEN',
-				'longitude' => 'OSEN',
+				'latitude' => '61.30481',
+				'longitude' => '11.76609',
 				'city' => 'OSEN',
-				'city_id' => '48380',
+				'city_id' => '48555',
 				'state_id' => '2691',
 			),
 			1327 => 
 			array (
 				'id' => 1328,
 				'zip_code' => '2461',
-				'latitude' => 'OSEN',
-				'longitude' => 'OSEN',
+				'latitude' => '61.30481',
+				'longitude' => '11.76609',
 				'city' => 'OSEN',
-				'city_id' => '48380',
+				'city_id' => '48555',
 				'state_id' => '2691',
 			),
 			1328 => 
@@ -13305,7 +13305,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ATNA',
 				'longitude' => 'ATNA',
 				'city' => 'ATNA',
-				'city_id' => '48368',
+				'city_id' => '48931',
 				'state_id' => '2691',
 			),
 			1329 => 
@@ -13315,7 +13315,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SOLLIA',
 				'longitude' => 'SOLLIA',
 				'city' => 'SOLLIA',
-				'city_id' => '48368',
+				'city_id' => '48932',
 				'state_id' => '2691',
 			),
 			1330 => 
@@ -13325,7 +13325,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HANESTAD',
 				'longitude' => 'HANESTAD',
 				'city' => 'HANESTAD',
-				'city_id' => '48362',
+				'city_id' => '48933',
 				'state_id' => '2691',
 			),
 			1331 => 
@@ -13335,7 +13335,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.5667',
 				'longitude' => '11.0667',
 				'city' => 'KOPPANG',
-				'city_id' => '48368',
+				'city_id' => '48934',
 				'state_id' => '2691',
 			),
 			1332 => 
@@ -13345,7 +13345,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.5667',
 				'longitude' => '11.0667',
 				'city' => 'KOPPANG',
-				'city_id' => '48368',
+				'city_id' => '48934',
 				'state_id' => '2691',
 			),
 			1333 => 
@@ -13425,7 +13425,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TYLLDALEN',
 				'longitude' => 'TYLLDALEN',
 				'city' => 'TYLLDALEN',
-				'city_id' => '48375',
+				'city_id' => '48935',
 				'state_id' => '2691',
 			),
 			1341 => 
@@ -13435,7 +13435,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KVIKNE',
 				'longitude' => 'KVIKNE',
 				'city' => 'KVIKNE',
-				'city_id' => '48375',
+				'city_id' => '48936',
 				'state_id' => '2691',
 			),
 			1342 => 
@@ -13445,7 +13445,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KVIKNE',
 				'longitude' => 'KVIKNE',
 				'city' => 'KVIKNE',
-				'city_id' => '48375',
+				'city_id' => '48936',
 				'state_id' => '2691',
 			),
 			1343 => 
@@ -13475,7 +13475,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VINGELEN',
 				'longitude' => 'VINGELEN',
 				'city' => 'VINGELEN',
-				'city_id' => '48373',
+				'city_id' => '48937',
 				'state_id' => '2691',
 			),
 			1346 => 
@@ -13485,7 +13485,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ØVERSJØDALEN',
 				'longitude' => 'ØVERSJØDALEN',
 				'city' => 'ØVERSJØDALEN',
-				'city_id' => '48373',
+				'city_id' => '48938',
 				'state_id' => '2691',
 			),
 			1347 => 
@@ -13495,7 +13495,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'OS I ØSTERDALEN',
 				'longitude' => 'OS I ØSTERDALEN',
 				'city' => 'OS I ØSTERDALEN',
-				'city_id' => '48700',
+				'city_id' => '48939',
 				'state_id' => '2691',
 			),
 			1348 => 
@@ -13505,7 +13505,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'OS I ØSTERDALEN',
 				'longitude' => 'OS I ØSTERDALEN',
 				'city' => 'OS I ØSTERDALEN',
-				'city_id' => '48700',
+				'city_id' => '48939',
 				'state_id' => '2691',
 			),
 			1349 => 
@@ -13515,7 +13515,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'DALSBYGDA',
 				'longitude' => 'DALSBYGDA',
 				'city' => 'DALSBYGDA',
-				'city_id' => '48700',
+				'city_id' => '48940',
 				'state_id' => '2691',
 			),
 			1350 => 
@@ -13525,7 +13525,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TUFSINGDALEN',
 				'longitude' => 'TUFSINGDALEN',
 				'city' => 'TUFSINGDALEN',
-				'city_id' => '48700',
+				'city_id' => '48941',
 				'state_id' => '2691',
 			),
 			1351 => 
@@ -13575,7 +13575,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GRIMSBU',
 				'longitude' => 'GRIMSBU',
 				'city' => 'GRIMSBU',
-				'city_id' => '48346',
+				'city_id' => '48942',
 				'state_id' => '2691',
 			),
 			1356 => 
@@ -13585,7 +13585,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'DALHOLEN',
 				'longitude' => 'DALHOLEN',
 				'city' => 'DALHOLEN',
-				'city_id' => '48346',
+				'city_id' => '48943',
 				'state_id' => '2691',
 			),
 			1357 => 
@@ -13655,7 +13655,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VINGROM',
 				'longitude' => 'VINGROM',
 				'city' => 'VINGROM',
-				'city_id' => '48354',
+				'city_id' => '48944',
 				'state_id' => '2691',
 			),
 			1364 => 
@@ -13685,7 +13685,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MESNALI',
 				'longitude' => 'MESNALI',
 				'city' => 'MESNALI',
-				'city_id' => '48364',
+				'city_id' => '48945',
 				'state_id' => '2691',
 			),
 			1367 => 
@@ -13705,7 +13705,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SJUSJØEN',
 				'longitude' => 'SJUSJØEN',
 				'city' => 'SJUSJØEN',
-				'city_id' => '48364',
+				'city_id' => '48946',
 				'state_id' => '2691',
 			),
 			1369 => 
@@ -13745,7 +13745,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LISMARKA',
 				'longitude' => 'LISMARKA',
 				'city' => 'LISMARKA',
-				'city_id' => '48364',
+				'city_id' => '48947',
 				'state_id' => '2691',
 			),
 			1373 => 
@@ -13785,7 +13785,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MESNALI',
 				'longitude' => 'MESNALI',
 				'city' => 'MESNALI',
-				'city_id' => '48364',
+				'city_id' => '48945',
 				'state_id' => '2691',
 			),
 			1377 => 
@@ -13795,7 +13795,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VINGROM',
 				'longitude' => 'VINGROM',
 				'city' => 'VINGROM',
-				'city_id' => '48354',
+				'city_id' => '48944',
 				'state_id' => '2691',
 			),
 			1378 => 
@@ -13835,7 +13835,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FÅBERG',
 				'longitude' => 'FÅBERG',
 				'city' => 'FÅBERG',
-				'city_id' => '48354',
+				'city_id' => '48948',
 				'state_id' => '2691',
 			),
 			1382 => 
@@ -13855,7 +13855,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FÅBERG',
 				'longitude' => 'FÅBERG',
 				'city' => 'FÅBERG',
-				'city_id' => '48354',
+				'city_id' => '48948',
 				'state_id' => '2691',
 			),
 			1384 => 
@@ -13865,7 +13865,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SJUSJØEN',
 				'longitude' => 'SJUSJØEN',
 				'city' => 'SJUSJØEN',
-				'city_id' => '48364',
+				'city_id' => '48946',
 				'state_id' => '2691',
 			),
 			1385 => 
@@ -13905,7 +13905,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VENABYGD',
 				'longitude' => 'VENABYGD',
 				'city' => 'VENABYGD',
-				'city_id' => '48363',
+				'city_id' => '48949',
 				'state_id' => '2691',
 			),
 			1389 => 
@@ -13915,7 +13915,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FÅVANG',
 				'longitude' => 'FÅVANG',
 				'city' => 'FÅVANG',
-				'city_id' => '48363',
+				'city_id' => '48950',
 				'state_id' => '2691',
 			),
 			1390 => 
@@ -13925,7 +13925,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FÅVANG',
 				'longitude' => 'FÅVANG',
 				'city' => 'FÅVANG',
-				'city_id' => '48363',
+				'city_id' => '48950',
 				'state_id' => '2691',
 			),
 			1391 => 
@@ -13935,7 +13935,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TRETTEN',
 				'longitude' => 'TRETTEN',
 				'city' => 'TRETTEN',
-				'city_id' => '48383',
+				'city_id' => '48951',
 				'state_id' => '2691',
 			),
 			1392 => 
@@ -13965,7 +13965,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TRETTEN',
 				'longitude' => 'TRETTEN',
 				'city' => 'TRETTEN',
-				'city_id' => '48383',
+				'city_id' => '48951',
 				'state_id' => '2691',
 			),
 			1395 => 
@@ -13975,7 +13975,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.6',
 				'longitude' => '9.75',
 				'city' => 'VINSTRA',
-				'city_id' => '48358',
+				'city_id' => '48952',
 				'state_id' => '2691',
 			),
 			1396 => 
@@ -13985,7 +13985,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.6',
 				'longitude' => '9.75',
 				'city' => 'VINSTRA',
-				'city_id' => '48358',
+				'city_id' => '48952',
 				'state_id' => '2691',
 			),
 			1397 => 
@@ -13995,7 +13995,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KVAM',
 				'longitude' => 'KVAM',
 				'city' => 'KVAM',
-				'city_id' => '48358',
+				'city_id' => '48614',
 				'state_id' => '2691',
 			),
 			1398 => 
@@ -14005,7 +14005,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KVAM',
 				'longitude' => 'KVAM',
 				'city' => 'KVAM',
-				'city_id' => '48358',
+				'city_id' => '48614',
 				'state_id' => '2691',
 			),
 			1399 => 
@@ -14015,7 +14015,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKÅBU',
 				'longitude' => 'SKÅBU',
 				'city' => 'SKÅBU',
-				'city_id' => '48358',
+				'city_id' => '48953',
 				'state_id' => '2691',
 			),
 			1400 => 
@@ -14025,7 +14025,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKÅBU',
 				'longitude' => 'SKÅBU',
 				'city' => 'SKÅBU',
-				'city_id' => '48358',
+				'city_id' => '48953',
 				'state_id' => '2691',
 			),
 			1401 => 
@@ -14045,7 +14045,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GÅLÅ',
 				'longitude' => 'GÅLÅ',
 				'city' => 'GÅLÅ',
-				'city_id' => '48371',
+				'city_id' => '48954',
 				'state_id' => '2691',
 			),
 			1403 => 
@@ -14075,7 +14075,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.25',
 				'longitude' => '10.15',
 				'city' => 'ØSTRE GAUSDAL',
-				'city_id' => '48347',
+				'city_id' => '48955',
 				'state_id' => '2691',
 			),
 			1406 => 
@@ -14085,7 +14085,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.25',
 				'longitude' => '10.15',
 				'city' => 'ØSTRE GAUSDAL',
-				'city_id' => '48347',
+				'city_id' => '48955',
 				'state_id' => '2691',
 			),
 			1407 => 
@@ -14095,7 +14095,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SVINGVOLL',
 				'longitude' => 'SVINGVOLL',
 				'city' => 'SVINGVOLL',
-				'city_id' => '48347',
+				'city_id' => '48956',
 				'state_id' => '2691',
 			),
 			1408 => 
@@ -14105,7 +14105,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VESTRE GAUSDAL',
 				'longitude' => 'VESTRE GAUSDAL',
 				'city' => 'VESTRE GAUSDAL',
-				'city_id' => '48347',
+				'city_id' => '48957',
 				'state_id' => '2691',
 			),
 			1409 => 
@@ -14115,7 +14115,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VESTRE GAUSDAL',
 				'longitude' => 'VESTRE GAUSDAL',
 				'city' => 'VESTRE GAUSDAL',
-				'city_id' => '48347',
+				'city_id' => '48957',
 				'state_id' => '2691',
 			),
 			1410 => 
@@ -14125,7 +14125,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FOLLEBU',
 				'longitude' => 'FOLLEBU',
 				'city' => 'FOLLEBU',
-				'city_id' => '48347',
+				'city_id' => '48958',
 				'state_id' => '2691',
 			),
 			1411 => 
@@ -14135,7 +14135,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SVATSUM',
 				'longitude' => 'SVATSUM',
 				'city' => 'SVATSUM',
-				'city_id' => '48347',
+				'city_id' => '48959',
 				'state_id' => '2691',
 			),
 			1412 => 
@@ -14145,7 +14145,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ESPEDALEN',
 				'longitude' => 'ESPEDALEN',
 				'city' => 'ESPEDALEN',
-				'city_id' => '48371',
+				'city_id' => '48960',
 				'state_id' => '2691',
 			),
 			1413 => 
@@ -14155,7 +14155,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'DOMBÅS',
 				'longitude' => 'DOMBÅS',
 				'city' => 'DOMBÅS',
-				'city_id' => '48341',
+				'city_id' => '48961',
 				'state_id' => '2691',
 			),
 			1414 => 
@@ -14165,7 +14165,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'DOMBÅS',
 				'longitude' => 'DOMBÅS',
 				'city' => 'DOMBÅS',
-				'city_id' => '48341',
+				'city_id' => '48961',
 				'state_id' => '2691',
 			),
 			1415 => 
@@ -14175,7 +14175,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HJERKINN',
 				'longitude' => 'HJERKINN',
 				'city' => 'HJERKINN',
-				'city_id' => '48341',
+				'city_id' => '48962',
 				'state_id' => '2691',
 			),
 			1416 => 
@@ -14195,7 +14195,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'DOVRESKOGEN',
 				'longitude' => 'DOVRESKOGEN',
 				'city' => 'DOVRESKOGEN',
-				'city_id' => '48341',
+				'city_id' => '48963',
 				'state_id' => '2691',
 			),
 			1418 => 
@@ -14225,7 +14225,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LORA',
 				'longitude' => 'LORA',
 				'city' => 'LORA',
-				'city_id' => '48353',
+				'city_id' => '48964',
 				'state_id' => '2691',
 			),
 			1421 => 
@@ -14235,7 +14235,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LESJAVERK',
 				'longitude' => 'LESJAVERK',
 				'city' => 'LESJAVERK',
-				'city_id' => '48353',
+				'city_id' => '48965',
 				'state_id' => '2691',
 			),
 			1422 => 
@@ -14245,7 +14245,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LESJASKOG',
 				'longitude' => 'LESJASKOG',
 				'city' => 'LESJASKOG',
-				'city_id' => '48353',
+				'city_id' => '48966',
 				'state_id' => '2691',
 			),
 			1423 => 
@@ -14255,7 +14255,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BJORLI',
 				'longitude' => 'BJORLI',
 				'city' => 'BJORLI',
-				'city_id' => '48353',
+				'city_id' => '48967',
 				'state_id' => '2691',
 			),
 			1424 => 
@@ -14265,7 +14265,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.7706',
 				'longitude' => '9.5414',
 				'city' => 'OTTA',
-				'city_id' => '48365',
+				'city_id' => '48968',
 				'state_id' => '2691',
 			),
 			1425 => 
@@ -14295,7 +14295,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HØVRINGEN',
 				'longitude' => 'HØVRINGEN',
 				'city' => 'HØVRINGEN',
-				'city_id' => '48365',
+				'city_id' => '48969',
 				'state_id' => '2691',
 			),
 			1428 => 
@@ -14305,7 +14305,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MYSUSÆTER',
 				'longitude' => 'MYSUSÆTER',
 				'city' => 'MYSUSÆTER',
-				'city_id' => '48365',
+				'city_id' => '48970',
 				'state_id' => '2691',
 			),
 			1429 => 
@@ -14315,7 +14315,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.7706',
 				'longitude' => '9.5414',
 				'city' => 'OTTA',
-				'city_id' => '48365',
+				'city_id' => '48968',
 				'state_id' => '2691',
 			),
 			1430 => 
@@ -14325,7 +14325,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HEIDAL',
 				'longitude' => 'HEIDAL',
 				'city' => 'HEIDAL',
-				'city_id' => '48365',
+				'city_id' => '48971',
 				'state_id' => '2691',
 			),
 			1431 => 
@@ -14335,7 +14335,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NEDRE HEIDAL',
 				'longitude' => 'NEDRE HEIDAL',
 				'city' => 'NEDRE HEIDAL',
-				'city_id' => '48365',
+				'city_id' => '48972',
 				'state_id' => '2691',
 			),
 			1432 => 
@@ -14355,7 +14355,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HEIDAL',
 				'longitude' => 'HEIDAL',
 				'city' => 'HEIDAL',
-				'city_id' => '48365',
+				'city_id' => '48971',
 				'state_id' => '2691',
 			),
 			1434 => 
@@ -14375,7 +14375,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LALM',
 				'longitude' => 'LALM',
 				'city' => 'LALM',
-				'city_id' => '48378',
+				'city_id' => '48973',
 				'state_id' => '2691',
 			),
 			1436 => 
@@ -14385,7 +14385,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LALM',
 				'longitude' => 'LALM',
 				'city' => 'LALM',
-				'city_id' => '48378',
+				'city_id' => '48973',
 				'state_id' => '2691',
 			),
 			1437 => 
@@ -14395,7 +14395,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TESSANDEN',
 				'longitude' => 'TESSANDEN',
 				'city' => 'TESSANDEN',
-				'city_id' => '48378',
+				'city_id' => '48974',
 				'state_id' => '2691',
 			),
 			1438 => 
@@ -14415,7 +14415,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GARMO',
 				'longitude' => 'GARMO',
 				'city' => 'GARMO',
-				'city_id' => '48355',
+				'city_id' => '48975',
 				'state_id' => '2691',
 			),
 			1440 => 
@@ -14425,7 +14425,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.8108',
 				'longitude' => '8.6392',
 				'city' => 'LOM',
-				'city_id' => '48355',
+				'city_id' => '48976',
 				'state_id' => '2691',
 			),
 			1441 => 
@@ -14435,7 +14435,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BØVERDALEN',
 				'longitude' => 'BØVERDALEN',
 				'city' => 'BØVERDALEN',
-				'city_id' => '48355',
+				'city_id' => '48977',
 				'state_id' => '2691',
 			),
 			1442 => 
@@ -14445,7 +14445,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.8108',
 				'longitude' => '8.6392',
 				'city' => 'LOM',
-				'city_id' => '48355',
+				'city_id' => '48976',
 				'state_id' => '2691',
 			),
 			1443 => 
@@ -14465,7 +14465,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NORDBERG',
 				'longitude' => 'NORDBERG',
 				'city' => 'NORDBERG',
-				'city_id' => '48366',
+				'city_id' => '48978',
 				'state_id' => '2691',
 			),
 			1445 => 
@@ -14485,7 +14485,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GROTLI',
 				'longitude' => 'GROTLI',
 				'city' => 'GROTLI',
-				'city_id' => '48366',
+				'city_id' => '48979',
 				'state_id' => '2691',
 			),
 			1447 => 
@@ -14495,7 +14495,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.4411',
 				'longitude' => '10.4956',
 				'city' => 'GRAN',
-				'city_id' => '48422',
+				'city_id' => '48349',
 				'state_id' => '2693',
 			),
 			1448 => 
@@ -14505,7 +14505,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BRANDBU',
 				'longitude' => 'BRANDBU',
 				'city' => 'BRANDBU',
-				'city_id' => '48422',
+				'city_id' => '48980',
 				'state_id' => '2693',
 			),
 			1449 => 
@@ -14515,7 +14515,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.2881',
 				'longitude' => '10.6',
 				'city' => 'ROA',
-				'city_id' => '48661',
+				'city_id' => '15937',
 				'state_id' => '2701',
 			),
 			1450 => 
@@ -14525,7 +14525,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.916663EN',
 				'longitude' => '10.6166642EN',
 				'city' => 'JAREN',
-				'city_id' => '48422',
+				'city_id' => '48981',
 				'state_id' => '2693',
 			),
 			1451 => 
@@ -14545,7 +14545,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HARESTUA',
 				'longitude' => 'HARESTUA',
 				'city' => 'HARESTUA',
-				'city_id' => '48661',
+				'city_id' => '48982',
 				'state_id' => '2701',
 			),
 			1453 => 
@@ -14555,7 +14555,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GRUA',
 				'longitude' => 'GRUA',
 				'city' => 'GRUA',
-				'city_id' => '48661',
+				'city_id' => '48983',
 				'state_id' => '2701',
 			),
 			1454 => 
@@ -14565,7 +14565,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BRANDBU',
 				'longitude' => 'BRANDBU',
 				'city' => 'BRANDBU',
-				'city_id' => '48422',
+				'city_id' => '48980',
 				'state_id' => '2693',
 			),
 			1455 => 
@@ -14575,7 +14575,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GRINDVOLL',
 				'longitude' => 'GRINDVOLL',
 				'city' => 'GRINDVOLL',
-				'city_id' => '48661',
+				'city_id' => '48984',
 				'state_id' => '2701',
 			),
 			1456 => 
@@ -14595,7 +14595,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.2881',
 				'longitude' => '10.6',
 				'city' => 'ROA',
-				'city_id' => '48661',
+				'city_id' => '15937',
 				'state_id' => '2701',
 			),
 			1458 => 
@@ -14605,7 +14605,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GRUA',
 				'longitude' => 'GRUA',
 				'city' => 'GRUA',
-				'city_id' => '48661',
+				'city_id' => '48983',
 				'state_id' => '2701',
 			),
 			1459 => 
@@ -14615,7 +14615,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HARESTUA',
 				'longitude' => 'HARESTUA',
 				'city' => 'HARESTUA',
-				'city_id' => '48661',
+				'city_id' => '48982',
 				'state_id' => '2701',
 			),
 			1460 => 
@@ -14625,7 +14625,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.4411',
 				'longitude' => '10.4956',
 				'city' => 'GRAN',
-				'city_id' => '48422',
+				'city_id' => '48349',
 				'state_id' => '2693',
 			),
 			1461 => 
@@ -14635,7 +14635,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BRANDBU',
 				'longitude' => 'BRANDBU',
 				'city' => 'BRANDBU',
-				'city_id' => '48422',
+				'city_id' => '48980',
 				'state_id' => '2693',
 			),
 			1462 => 
@@ -14645,7 +14645,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.916663EN',
 				'longitude' => '10.6166642EN',
 				'city' => 'JAREN',
-				'city_id' => '48422',
+				'city_id' => '48981',
 				'state_id' => '2693',
 			),
 			1463 => 
@@ -14715,7 +14715,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HUNNDALEN',
 				'longitude' => 'HUNNDALEN',
 				'city' => 'HUNNDALEN',
-				'city_id' => '48348',
+				'city_id' => '48985',
 				'state_id' => '2691',
 			),
 			1470 => 
@@ -14755,7 +14755,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HUNNDALEN',
 				'longitude' => 'HUNNDALEN',
 				'city' => 'HUNNDALEN',
-				'city_id' => '48348',
+				'city_id' => '48985',
 				'state_id' => '2691',
 			),
 			1474 => 
@@ -14825,7 +14825,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NORDRE TOTEN',
 				'longitude' => 'NORDRE TOTEN',
 				'city' => 'NORDRE TOTEN',
-				'city_id' => '48382',
+				'city_id' => '48986',
 				'state_id' => '2691',
 			),
 			1481 => 
@@ -14845,7 +14845,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BYBRUA',
 				'longitude' => 'BYBRUA',
 				'city' => 'BYBRUA',
-				'city_id' => '48348',
+				'city_id' => '48987',
 				'state_id' => '2691',
 			),
 			1483 => 
@@ -14865,7 +14865,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HUNNDALEN',
 				'longitude' => 'HUNNDALEN',
 				'city' => 'HUNNDALEN',
-				'city_id' => '48348',
+				'city_id' => '48985',
 				'state_id' => '2691',
 			),
 			1485 => 
@@ -14875,7 +14875,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.7167',
 				'longitude' => '10.6167',
 				'city' => 'RAUFOSS',
-				'city_id' => '48377',
+				'city_id' => '48988',
 				'state_id' => '2691',
 			),
 			1486 => 
@@ -14885,7 +14885,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.7167',
 				'longitude' => '10.6167',
 				'city' => 'RAUFOSS',
-				'city_id' => '48377',
+				'city_id' => '48988',
 				'state_id' => '2691',
 			),
 			1487 => 
@@ -14895,7 +14895,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BIRI',
 				'longitude' => 'BIRI',
 				'city' => 'BIRI',
-				'city_id' => '48348',
+				'city_id' => '48989',
 				'state_id' => '2691',
 			),
 			1488 => 
@@ -14905,7 +14905,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.7167',
 				'longitude' => '10.6167',
 				'city' => 'RAUFOSS',
-				'city_id' => '48377',
+				'city_id' => '48988',
 				'state_id' => '2691',
 			),
 			1489 => 
@@ -14915,7 +14915,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.7167',
 				'longitude' => '10.6167',
 				'city' => 'RAUFOSS',
-				'city_id' => '48377',
+				'city_id' => '48988',
 				'state_id' => '2691',
 			),
 			1490 => 
@@ -14925,7 +14925,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.7167',
 				'longitude' => '10.6167',
 				'city' => 'RAUFOSS',
-				'city_id' => '48377',
+				'city_id' => '48988',
 				'state_id' => '2691',
 			),
 			1491 => 
@@ -14935,7 +14935,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BIRI',
 				'longitude' => 'BIRI',
 				'city' => 'BIRI',
-				'city_id' => '48348',
+				'city_id' => '48989',
 				'state_id' => '2691',
 			),
 			1492 => 
@@ -14945,7 +14945,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BIRISTRAND',
 				'longitude' => 'BIRISTRAND',
 				'city' => 'BIRISTRAND',
-				'city_id' => '48348',
+				'city_id' => '48990',
 				'state_id' => '2691',
 			),
 			1493 => 
@@ -14955,7 +14955,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SNERTINGDAL',
 				'longitude' => 'SNERTINGDAL',
 				'city' => 'SNERTINGDAL',
-				'city_id' => '48348',
+				'city_id' => '48991',
 				'state_id' => '2691',
 			),
 			1494 => 
@@ -14965,7 +14965,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ØVRE SNERTINGDAL',
 				'longitude' => 'ØVRE SNERTINGDAL',
 				'city' => 'ØVRE SNERTINGDAL',
-				'city_id' => '48348',
+				'city_id' => '48992',
 				'state_id' => '2691',
 			),
 			1495 => 
@@ -14975,7 +14975,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'REINSVOLL',
 				'longitude' => 'REINSVOLL',
 				'city' => 'REINSVOLL',
-				'city_id' => '48377',
+				'city_id' => '48993',
 				'state_id' => '2691',
 			),
 			1496 => 
@@ -14985,7 +14985,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SNERTINGDAL',
 				'longitude' => 'SNERTINGDAL',
 				'city' => 'SNERTINGDAL',
-				'city_id' => '48348',
+				'city_id' => '48991',
 				'state_id' => '2691',
 			),
 			1497 => 
@@ -14995,7 +14995,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'EINA',
 				'longitude' => 'EINA',
 				'city' => 'EINA',
-				'city_id' => '48377',
+				'city_id' => '48994',
 				'state_id' => '2691',
 			),
 			1498 => 
@@ -15005,7 +15005,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KOLBU',
 				'longitude' => 'KOLBU',
 				'city' => 'KOLBU',
-				'city_id' => '48382',
+				'city_id' => '48995',
 				'state_id' => '2691',
 			),
 			1499 => 
@@ -15015,7 +15015,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BØVERBRU',
 				'longitude' => 'BØVERBRU',
 				'city' => 'BØVERBRU',
-				'city_id' => '48377',
+				'city_id' => '48996',
 				'state_id' => '2691',
 			),
 			1500 => 
@@ -15025,7 +15025,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BØVERBRU',
 				'longitude' => 'BØVERBRU',
 				'city' => 'BØVERBRU',
-				'city_id' => '48377',
+				'city_id' => '48996',
 				'state_id' => '2691',
 			),
 			1501 => 
@@ -15035,7 +15035,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KOLBU',
 				'longitude' => 'KOLBU',
 				'city' => 'KOLBU',
-				'city_id' => '48382',
+				'city_id' => '48995',
 				'state_id' => '2691',
 			),
 			1502 => 
@@ -15045,7 +15045,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKREIA',
 				'longitude' => 'SKREIA',
 				'city' => 'SKREIA',
-				'city_id' => '48382',
+				'city_id' => '48997',
 				'state_id' => '2691',
 			),
 			1503 => 
@@ -15055,7 +15055,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KAPP',
 				'longitude' => 'KAPP',
 				'city' => 'KAPP',
-				'city_id' => '48382',
+				'city_id' => '48998',
 				'state_id' => '2691',
 			),
 			1504 => 
@@ -15065,7 +15065,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.6667',
 				'longitude' => '10.8',
 				'city' => 'LENA',
-				'city_id' => '48382',
+				'city_id' => '38202',
 				'state_id' => '2691',
 			),
 			1505 => 
@@ -15075,7 +15075,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.6667',
 				'longitude' => '10.8',
 				'city' => 'LENA',
-				'city_id' => '48382',
+				'city_id' => '38202',
 				'state_id' => '2691',
 			),
 			1506 => 
@@ -15085,7 +15085,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'REINSVOLL',
 				'longitude' => 'REINSVOLL',
 				'city' => 'REINSVOLL',
-				'city_id' => '48377',
+				'city_id' => '48993',
 				'state_id' => '2691',
 			),
 			1507 => 
@@ -15095,7 +15095,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'EINA',
 				'longitude' => 'EINA',
 				'city' => 'EINA',
-				'city_id' => '48377',
+				'city_id' => '48994',
 				'state_id' => '2691',
 			),
 			1508 => 
@@ -15105,7 +15105,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKREIA',
 				'longitude' => 'SKREIA',
 				'city' => 'SKREIA',
-				'city_id' => '48382',
+				'city_id' => '48997',
 				'state_id' => '2691',
 			),
 			1509 => 
@@ -15115,7 +15115,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KAPP',
 				'longitude' => 'KAPP',
 				'city' => 'KAPP',
-				'city_id' => '48382',
+				'city_id' => '48998',
 				'state_id' => '2691',
 			),
 			1510 => 
@@ -15125,7 +15125,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.5656',
 				'longitude' => '10.0361',
 				'city' => 'HOV',
-				'city_id' => '48369',
+				'city_id' => '48999',
 				'state_id' => '2691',
 			),
 			1511 => 
@@ -15135,7 +15135,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LANDÅSBYGDA',
 				'longitude' => 'LANDÅSBYGDA',
 				'city' => 'LANDÅSBYGDA',
-				'city_id' => '48369',
+				'city_id' => '49000',
 				'state_id' => '2691',
 			),
 			1512 => 
@@ -15145,7 +15145,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FLUBERG',
 				'longitude' => 'FLUBERG',
 				'city' => 'FLUBERG',
-				'city_id' => '48369',
+				'city_id' => '49001',
 				'state_id' => '2691',
 			),
 			1513 => 
@@ -15155,7 +15155,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VESTSIDA',
 				'longitude' => 'VESTSIDA',
 				'city' => 'VESTSIDA',
-				'city_id' => '48369',
+				'city_id' => '49002',
 				'state_id' => '2691',
 			),
 			1514 => 
@@ -15165,7 +15165,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FALL',
 				'longitude' => 'FALL',
 				'city' => 'FALL',
-				'city_id' => '48369',
+				'city_id' => '49003',
 				'state_id' => '2691',
 			),
 			1515 => 
@@ -15175,7 +15175,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ENGER',
 				'longitude' => 'ENGER',
 				'city' => 'ENGER',
-				'city_id' => '48369',
+				'city_id' => '19673',
 				'state_id' => '2691',
 			),
 			1516 => 
@@ -15185,7 +15185,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.5656',
 				'longitude' => '10.0361',
 				'city' => 'HOV',
-				'city_id' => '48369',
+				'city_id' => '48999',
 				'state_id' => '2691',
 			),
 			1517 => 
@@ -15195,7 +15195,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.8333',
 				'longitude' => '10.0833',
 				'city' => 'DOKKA',
-				'city_id' => '48369',
+				'city_id' => '49005',
 				'state_id' => '2691',
 			),
 			1518 => 
@@ -15205,7 +15205,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ODNES',
 				'longitude' => 'ODNES',
 				'city' => 'ODNES',
-				'city_id' => '48369',
+				'city_id' => '49006',
 				'state_id' => '2691',
 			),
 			1519 => 
@@ -15215,7 +15215,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NORD-TORPA',
 				'longitude' => 'NORD-TORPA',
 				'city' => 'NORD-TORPA',
-				'city_id' => '48360',
+				'city_id' => '49007',
 				'state_id' => '2691',
 			),
 			1520 => 
@@ -15225,7 +15225,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'AUST-TORPA',
 				'longitude' => 'AUST-TORPA',
 				'city' => 'AUST-TORPA',
-				'city_id' => '48360',
+				'city_id' => '49008',
 				'state_id' => '2691',
 			),
 			1521 => 
@@ -15235,7 +15235,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.8333',
 				'longitude' => '10.0833',
 				'city' => 'DOKKA',
-				'city_id' => '48360',
+				'city_id' => '49005',
 				'state_id' => '2691',
 			),
 			1522 => 
@@ -15265,7 +15265,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.985',
 				'longitude' => '9.2306',
 				'city' => 'FAGERNES',
-				'city_id' => '48357',
+				'city_id' => '49009',
 				'state_id' => '2691',
 			),
 			1525 => 
@@ -15275,7 +15275,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.985',
 				'longitude' => '9.2306',
 				'city' => 'FAGERNES',
-				'city_id' => '48357',
+				'city_id' => '49009',
 				'state_id' => '2691',
 			),
 			1526 => 
@@ -15285,7 +15285,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LEIRA I VALDRES',
 				'longitude' => 'LEIRA I VALDRES',
 				'city' => 'LEIRA I VALDRES',
-				'city_id' => '48357',
+				'city_id' => '49010',
 				'state_id' => '2691',
 			),
 			1527 => 
@@ -15295,7 +15295,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'AURDAL',
 				'longitude' => 'AURDAL',
 				'city' => 'AURDAL',
-				'city_id' => '48357',
+				'city_id' => '49011',
 				'state_id' => '2691',
 			),
 			1528 => 
@@ -15305,7 +15305,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'AURDAL',
 				'longitude' => 'AURDAL',
 				'city' => 'AURDAL',
-				'city_id' => '48357',
+				'city_id' => '49011',
 				'state_id' => '2691',
 			),
 			1529 => 
@@ -15315,7 +15315,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKRAUTVÅL',
 				'longitude' => 'SKRAUTVÅL',
 				'city' => 'SKRAUTVÅL',
-				'city_id' => '48357',
+				'city_id' => '49012',
 				'state_id' => '2691',
 			),
 			1530 => 
@@ -15325,7 +15325,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ULNES',
 				'longitude' => 'ULNES',
 				'city' => 'ULNES',
-				'city_id' => '48357',
+				'city_id' => '49013',
 				'state_id' => '2691',
 			),
 			1531 => 
@@ -15335,7 +15335,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LEIRA I VALDRES',
 				'longitude' => 'LEIRA I VALDRES',
 				'city' => 'LEIRA I VALDRES',
-				'city_id' => '48357',
+				'city_id' => '49010',
 				'state_id' => '2691',
 			),
 			1532 => 
@@ -15345,7 +15345,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TISLEIDALEN',
 				'longitude' => 'TISLEIDALEN',
 				'city' => 'TISLEIDALEN',
-				'city_id' => '48357',
+				'city_id' => '49014',
 				'state_id' => '2691',
 			),
 			1533 => 
@@ -15355,7 +15355,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.8167',
 				'longitude' => '9.5667',
 				'city' => 'BAGN',
-				'city_id' => '48370',
+				'city_id' => '49015',
 				'state_id' => '2691',
 			),
 			1534 => 
@@ -15365,7 +15365,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.8167',
 				'longitude' => '9.5667',
 				'city' => 'BAGN',
-				'city_id' => '48370',
+				'city_id' => '49015',
 				'state_id' => '2691',
 			),
 			1535 => 
@@ -15375,7 +15375,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'REINLI',
 				'longitude' => 'REINLI',
 				'city' => 'REINLI',
-				'city_id' => '48370',
+				'city_id' => '49016',
 				'state_id' => '2691',
 			),
 			1536 => 
@@ -15385,7 +15385,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BEGNADALEN',
 				'longitude' => 'BEGNADALEN',
 				'city' => 'BEGNADALEN',
-				'city_id' => '48370',
+				'city_id' => '49017',
 				'state_id' => '2691',
 			),
 			1537 => 
@@ -15395,7 +15395,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BEGNA',
 				'longitude' => 'BEGNA',
 				'city' => 'BEGNA',
-				'city_id' => '48370',
+				'city_id' => '49018',
 				'state_id' => '2691',
 			),
 			1538 => 
@@ -15405,7 +15405,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.15',
 				'longitude' => '9.0833',
 				'city' => 'HEGGENES',
-				'city_id' => '48701',
+				'city_id' => '49019',
 				'state_id' => '2691',
 			),
 			1539 => 
@@ -15415,7 +15415,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.15',
 				'longitude' => '9.0833',
 				'city' => 'HEGGENES',
-				'city_id' => '48701',
+				'city_id' => '49019',
 				'state_id' => '2691',
 			),
 			1540 => 
@@ -15425,7 +15425,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ROGNE',
 				'longitude' => 'ROGNE',
 				'city' => 'ROGNE',
-				'city_id' => '48701',
+				'city_id' => '49020',
 				'state_id' => '2691',
 			),
 			1541 => 
@@ -15435,7 +15435,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKAMMESTEIN',
 				'longitude' => 'SKAMMESTEIN',
 				'city' => 'SKAMMESTEIN',
-				'city_id' => '48701',
+				'city_id' => '49021',
 				'state_id' => '2691',
 			),
 			1542 => 
@@ -15445,7 +15445,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BEITO',
 				'longitude' => 'BEITO',
 				'city' => 'BEITO',
-				'city_id' => '48701',
+				'city_id' => '49022',
 				'state_id' => '2691',
 			),
 			1543 => 
@@ -15455,7 +15455,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BEITOSTØLEN',
 				'longitude' => 'BEITOSTØLEN',
 				'city' => 'BEITOSTØLEN',
-				'city_id' => '48701',
+				'city_id' => '49023',
 				'state_id' => '2691',
 			),
 			1544 => 
@@ -15465,7 +15465,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BEITOSTØLEN',
 				'longitude' => 'BEITOSTØLEN',
 				'city' => 'BEITOSTØLEN',
-				'city_id' => '48701',
+				'city_id' => '49023',
 				'state_id' => '2691',
 			),
 			1545 => 
@@ -15475,7 +15475,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RØN',
 				'longitude' => 'RØN',
 				'city' => 'RØN',
-				'city_id' => '48376',
+				'city_id' => '49024',
 				'state_id' => '2691',
 			),
 			1546 => 
@@ -15485,7 +15485,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RØN',
 				'longitude' => 'RØN',
 				'city' => 'RØN',
-				'city_id' => '48376',
+				'city_id' => '49024',
 				'state_id' => '2691',
 			),
 			1547 => 
@@ -15495,7 +15495,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.0883',
 				'longitude' => '8.9808',
 				'city' => 'SLIDRE',
-				'city_id' => '48376',
+				'city_id' => '49025',
 				'state_id' => '2691',
 			),
 			1548 => 
@@ -15505,7 +15505,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.0883',
 				'longitude' => '8.9808',
 				'city' => 'SLIDRE',
-				'city_id' => '48376',
+				'city_id' => '49025',
 				'state_id' => '2691',
 			),
 			1549 => 
@@ -15515,7 +15515,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LOMEN',
 				'longitude' => 'LOMEN',
 				'city' => 'LOMEN',
-				'city_id' => '48376',
+				'city_id' => '49026',
 				'state_id' => '2691',
 			),
 			1550 => 
@@ -15525,7 +15525,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RYFOSS',
 				'longitude' => 'RYFOSS',
 				'city' => 'RYFOSS',
-				'city_id' => '48702',
+				'city_id' => '49027',
 				'state_id' => '2691',
 			),
 			1551 => 
@@ -15535,7 +15535,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RYFOSS',
 				'longitude' => 'RYFOSS',
 				'city' => 'RYFOSS',
-				'city_id' => '48702',
+				'city_id' => '49027',
 				'state_id' => '2691',
 			),
 			1552 => 
@@ -15545,7 +15545,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VANG I VALDRES',
 				'longitude' => 'VANG I VALDRES',
 				'city' => 'VANG I VALDRES',
-				'city_id' => '48702',
+				'city_id' => '49028',
 				'state_id' => '2691',
 			),
 			1553 => 
@@ -15555,7 +15555,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VANG I VALDRES',
 				'longitude' => 'VANG I VALDRES',
 				'city' => 'VANG I VALDRES',
-				'city_id' => '48702',
+				'city_id' => '49028',
 				'state_id' => '2691',
 			),
 			1554 => 
@@ -15565,7 +15565,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ØYE',
 				'longitude' => 'ØYE',
 				'city' => 'ØYE',
-				'city_id' => '48702',
+				'city_id' => '49029',
 				'state_id' => '2691',
 			),
 			1555 => 
@@ -15575,7 +15575,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TYINKRYSSET',
 				'longitude' => 'TYINKRYSSET',
 				'city' => 'TYINKRYSSET',
-				'city_id' => '48702',
+				'city_id' => '49030',
 				'state_id' => '2691',
 			),
 			1556 => 
@@ -16055,7 +16055,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.75',
 				'longitude' => '10.0167',
 				'city' => 'MJØNDALEN',
-				'city_id' => '48640',
+				'city_id' => '49031',
 				'state_id' => '2701',
 			),
 			1604 => 
@@ -16065,7 +16065,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.75',
 				'longitude' => '10.0167',
 				'city' => 'MJØNDALEN',
-				'city_id' => '48640',
+				'city_id' => '49031',
 				'state_id' => '2701',
 			),
 			1605 => 
@@ -16075,7 +16075,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STEINBERG',
 				'longitude' => 'STEINBERG',
 				'city' => 'STEINBERG',
-				'city_id' => '48640',
+				'city_id' => '49032',
 				'state_id' => '2701',
 			),
 			1606 => 
@@ -16085,7 +16085,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KROKSTADELVA',
 				'longitude' => 'KROKSTADELVA',
 				'city' => 'KROKSTADELVA',
-				'city_id' => '48640',
+				'city_id' => '49033',
 				'state_id' => '2701',
 			),
 			1607 => 
@@ -16095,7 +16095,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KROKSTADELVA',
 				'longitude' => 'KROKSTADELVA',
 				'city' => 'KROKSTADELVA',
-				'city_id' => '48640',
+				'city_id' => '49033',
 				'state_id' => '2701',
 			),
 			1608 => 
@@ -16105,7 +16105,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SOLBERGELVA',
 				'longitude' => 'SOLBERGELVA',
 				'city' => 'SOLBERGELVA',
-				'city_id' => '48640',
+				'city_id' => '49034',
 				'state_id' => '2701',
 			),
 			1609 => 
@@ -16115,7 +16115,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SOLBERGELVA',
 				'longitude' => 'SOLBERGELVA',
 				'city' => 'SOLBERGELVA',
-				'city_id' => '48640',
+				'city_id' => '49034',
 				'state_id' => '2701',
 			),
 			1610 => 
@@ -16125,7 +16125,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SOLBERGMOEN',
 				'longitude' => 'SOLBERGMOEN',
 				'city' => 'SOLBERGMOEN',
-				'city_id' => '48640',
+				'city_id' => '49035',
 				'state_id' => '2701',
 			),
 			1611 => 
@@ -16135,7 +16135,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.6236',
 				'longitude' => '10.3717',
 				'city' => 'SVELVIK',
-				'city_id' => '48640',
+				'city_id' => '49036',
 				'state_id' => '2701',
 			),
 			1612 => 
@@ -16145,7 +16145,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.6236',
 				'longitude' => '10.3717',
 				'city' => 'SVELVIK',
-				'city_id' => '48640',
+				'city_id' => '49036',
 				'state_id' => '2701',
 			),
 			1613 => 
@@ -16195,7 +16195,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SANDE I VESTFOLD',
 				'longitude' => 'SANDE I VESTFOLD',
 				'city' => 'SANDE I VESTFOLD',
-				'city_id' => '48576',
+				'city_id' => '49037',
 				'state_id' => '2699',
 			),
 			1618 => 
@@ -16205,7 +16205,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SANDE I VESTFOLD',
 				'longitude' => 'SANDE I VESTFOLD',
 				'city' => 'SANDE I VESTFOLD',
-				'city_id' => '48576',
+				'city_id' => '49037',
 				'state_id' => '2699',
 			),
 			1619 => 
@@ -16215,7 +16215,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SANDE I VESTFOLD',
 				'longitude' => 'SANDE I VESTFOLD',
 				'city' => 'SANDE I VESTFOLD',
-				'city_id' => '48576',
+				'city_id' => '49037',
 				'state_id' => '2699',
 			),
 			1620 => 
@@ -16225,7 +16225,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SANDE I VESTFOLD',
 				'longitude' => 'SANDE I VESTFOLD',
 				'city' => 'SANDE I VESTFOLD',
-				'city_id' => '48576',
+				'city_id' => '49037',
 				'state_id' => '2699',
 			),
 			1621 => 
@@ -16235,7 +16235,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SANDE I VESTFOLD',
 				'longitude' => 'SANDE I VESTFOLD',
 				'city' => 'SANDE I VESTFOLD',
-				'city_id' => '48576',
+				'city_id' => '49037',
 				'state_id' => '2699',
 			),
 			1622 => 
@@ -16245,7 +16245,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BERGER',
 				'longitude' => 'BERGER',
 				'city' => 'BERGER',
-				'city_id' => '48640',
+				'city_id' => '49038',
 				'state_id' => '2701',
 			),
 			1623 => 
@@ -16255,7 +16255,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SANDE I VESTFOLD',
 				'longitude' => 'SANDE I VESTFOLD',
 				'city' => 'SANDE I VESTFOLD',
-				'city_id' => '48576',
+				'city_id' => '49037',
 				'state_id' => '2699',
 			),
 			1624 => 
@@ -16265,7 +16265,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SANDE I VESTFOLD',
 				'longitude' => 'SANDE I VESTFOLD',
 				'city' => 'SANDE I VESTFOLD',
-				'city_id' => '48576',
+				'city_id' => '49037',
 				'state_id' => '2699',
 			),
 			1625 => 
@@ -16375,7 +16375,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HOF',
 				'longitude' => 'HOF',
 				'city' => 'HOF',
-				'city_id' => '48576',
+				'city_id' => '18843',
 				'state_id' => '2699',
 			),
 			1636 => 
@@ -16385,7 +16385,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HOF',
 				'longitude' => 'HOF',
 				'city' => 'HOF',
-				'city_id' => '48576',
+				'city_id' => '18843',
 				'state_id' => '2699',
 			),
 			1637 => 
@@ -16395,7 +16395,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SUNDBYFOSS',
 				'longitude' => '11.5667',
 				'city' => 'SUNDBYFOSS',
-				'city_id' => '48576',
+				'city_id' => '49039',
 				'state_id' => '2699',
 			),
 			1638 => 
@@ -16405,7 +16405,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'EIDSFOSS',
 				'longitude' => 'EIDSFOSS',
 				'city' => 'EIDSFOSS',
-				'city_id' => '48576',
+				'city_id' => '49040',
 				'state_id' => '2699',
 			),
 			1639 => 
@@ -16455,7 +16455,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.2011',
 				'longitude' => '10.4078',
 				'city' => 'NØTTERØY',
-				'city_id' => '48575',
+				'city_id' => '49041',
 				'state_id' => '2699',
 			),
 			1644 => 
@@ -16465,7 +16465,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SEM',
 				'longitude' => 'SEM',
 				'city' => 'SEM',
-				'city_id' => '48592',
+				'city_id' => '49042',
 				'state_id' => '2699',
 			),
 			1645 => 
@@ -16475,7 +16475,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VEAR',
 				'longitude' => 'VEAR',
 				'city' => 'VEAR',
-				'city_id' => '48592',
+				'city_id' => '49043',
 				'state_id' => '2699',
 			),
 			1646 => 
@@ -16595,7 +16595,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.2011',
 				'longitude' => '10.4078',
 				'city' => 'NØTTERØY',
-				'city_id' => '48575',
+				'city_id' => '49041',
 				'state_id' => '2699',
 			),
 			1658 => 
@@ -16605,7 +16605,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.2011',
 				'longitude' => '10.4078',
 				'city' => 'NØTTERØY',
-				'city_id' => '48575',
+				'city_id' => '49041',
 				'state_id' => '2699',
 			),
 			1659 => 
@@ -16675,7 +16675,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.2011',
 				'longitude' => '10.4078',
 				'city' => 'NØTTERØY',
-				'city_id' => '48575',
+				'city_id' => '49041',
 				'state_id' => '2699',
 			),
 			1666 => 
@@ -16695,7 +16695,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HUSØYSUND',
 				'longitude' => 'HUSØYSUND',
 				'city' => 'HUSØYSUND',
-				'city_id' => '48575',
+				'city_id' => '49044',
 				'state_id' => '2699',
 			),
 			1668 => 
@@ -16705,7 +16705,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HUSØYSUND',
 				'longitude' => 'HUSØYSUND',
 				'city' => 'HUSØYSUND',
-				'city_id' => '48575',
+				'city_id' => '49044',
 				'state_id' => '2699',
 			),
 			1669 => 
@@ -16715,7 +16715,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'DUKEN',
 				'longitude' => 'DUKEN',
 				'city' => 'DUKEN',
-				'city_id' => '48575',
+				'city_id' => '49045',
 				'state_id' => '2699',
 			),
 			1670 => 
@@ -16735,7 +16735,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TORØD',
 				'longitude' => 'TORØD',
 				'city' => 'TORØD',
-				'city_id' => '48575',
+				'city_id' => '49046',
 				'state_id' => '2699',
 			),
 			1672 => 
@@ -16745,7 +16745,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TORØD',
 				'longitude' => 'TORØD',
 				'city' => 'TORØD',
-				'city_id' => '48575',
+				'city_id' => '49046',
 				'state_id' => '2699',
 			),
 			1673 => 
@@ -16755,7 +16755,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKALLESTAD',
 				'longitude' => 'SKALLESTAD',
 				'city' => 'SKALLESTAD',
-				'city_id' => '48575',
+				'city_id' => '49047',
 				'state_id' => '2699',
 			),
 			1674 => 
@@ -16765,7 +16765,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKALLESTAD',
 				'longitude' => 'SKALLESTAD',
 				'city' => 'SKALLESTAD',
-				'city_id' => '48575',
+				'city_id' => '49047',
 				'state_id' => '2699',
 			),
 			1675 => 
@@ -16775,7 +16775,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.2011',
 				'longitude' => '10.4078',
 				'city' => 'NØTTERØY',
-				'city_id' => '48575',
+				'city_id' => '49041',
 				'state_id' => '2699',
 			),
 			1676 => 
@@ -16785,7 +16785,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KJØPMANNSKJÆR',
 				'longitude' => 'KJØPMANNSKJÆR',
 				'city' => 'KJØPMANNSKJÆR',
-				'city_id' => '48575',
+				'city_id' => '49048',
 				'state_id' => '2699',
 			),
 			1677 => 
@@ -16795,7 +16795,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VESTSKOGEN',
 				'longitude' => 'VESTSKOGEN',
 				'city' => 'VESTSKOGEN',
-				'city_id' => '48575',
+				'city_id' => '49049',
 				'state_id' => '2699',
 			),
 			1678 => 
@@ -16805,7 +16805,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KJØPMANNSKJÆR',
 				'longitude' => 'KJØPMANNSKJÆR',
 				'city' => 'KJØPMANNSKJÆR',
-				'city_id' => '48575',
+				'city_id' => '49048',
 				'state_id' => '2699',
 			),
 			1679 => 
@@ -16815,7 +16815,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VEIERLAND',
 				'longitude' => 'VEIERLAND',
 				'city' => 'VEIERLAND',
-				'city_id' => '48575',
+				'city_id' => '49050',
 				'state_id' => '2699',
 			),
 			1680 => 
@@ -16825,7 +16825,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TJØME',
 				'longitude' => 'TJØME',
 				'city' => 'TJØME',
-				'city_id' => '48575',
+				'city_id' => '49051',
 				'state_id' => '2699',
 			),
 			1681 => 
@@ -16835,7 +16835,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HVASSER',
 				'longitude' => 'HVASSER',
 				'city' => 'HVASSER',
-				'city_id' => '48575',
+				'city_id' => '49052',
 				'state_id' => '2699',
 			),
 			1682 => 
@@ -16845,7 +16845,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TOLVSRØD',
 				'longitude' => 'TOLVSRØD',
 				'city' => 'TOLVSRØD',
-				'city_id' => '48592',
+				'city_id' => '49053',
 				'state_id' => '2699',
 			),
 			1683 => 
@@ -16855,7 +16855,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TOLVSRØD',
 				'longitude' => 'TOLVSRØD',
 				'city' => 'TOLVSRØD',
-				'city_id' => '48592',
+				'city_id' => '49053',
 				'state_id' => '2699',
 			),
 			1684 => 
@@ -16865,7 +16865,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TOLVSRØD',
 				'longitude' => 'TOLVSRØD',
 				'city' => 'TOLVSRØD',
-				'city_id' => '48592',
+				'city_id' => '49053',
 				'state_id' => '2699',
 			),
 			1685 => 
@@ -16875,7 +16875,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TOLVSRØD',
 				'longitude' => 'TOLVSRØD',
 				'city' => 'TOLVSRØD',
-				'city_id' => '48592',
+				'city_id' => '49053',
 				'state_id' => '2699',
 			),
 			1686 => 
@@ -16885,7 +16885,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TOLVSRØD',
 				'longitude' => 'TOLVSRØD',
 				'city' => 'TOLVSRØD',
-				'city_id' => '48592',
+				'city_id' => '49053',
 				'state_id' => '2699',
 			),
 			1687 => 
@@ -16895,7 +16895,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MELSOMVIK',
 				'longitude' => 'MELSOMVIK',
 				'city' => 'MELSOMVIK',
-				'city_id' => '48586',
+				'city_id' => '49054',
 				'state_id' => '2699',
 			),
 			1688 => 
@@ -16905,7 +16905,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BARKÅKER',
 				'longitude' => 'BARKÅKER',
 				'city' => 'BARKÅKER',
-				'city_id' => '48592',
+				'city_id' => '49055',
 				'state_id' => '2699',
 			),
 			1689 => 
@@ -16915,7 +16915,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ANDEBU',
 				'longitude' => '10.105',
 				'city' => 'ANDEBU',
-				'city_id' => '48586',
+				'city_id' => '49056',
 				'state_id' => '2699',
 			),
 			1690 => 
@@ -16925,7 +16925,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MELSOMVIK',
 				'longitude' => 'MELSOMVIK',
 				'city' => 'MELSOMVIK',
-				'city_id' => '48586',
+				'city_id' => '49054',
 				'state_id' => '2699',
 			),
 			1691 => 
@@ -16935,7 +16935,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.24',
 				'longitude' => '10.2708',
 				'city' => 'STOKKE',
-				'city_id' => '48586',
+				'city_id' => '49057',
 				'state_id' => '2699',
 			),
 			1692 => 
@@ -16945,7 +16945,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.24',
 				'longitude' => '10.2708',
 				'city' => 'STOKKE',
-				'city_id' => '48586',
+				'city_id' => '49057',
 				'state_id' => '2699',
 			),
 			1693 => 
@@ -16955,7 +16955,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ANDEBU',
 				'longitude' => '10.105',
 				'city' => 'ANDEBU',
-				'city_id' => '48586',
+				'city_id' => '49056',
 				'state_id' => '2699',
 			),
 			1694 => 
@@ -16965,7 +16965,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.2011',
 				'longitude' => '10.4078',
 				'city' => 'NØTTERØY',
-				'city_id' => '48575',
+				'city_id' => '49041',
 				'state_id' => '2699',
 			),
 			1695 => 
@@ -16975,7 +16975,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'REVETAL',
 				'longitude' => 'REVETAL',
 				'city' => 'REVETAL',
-				'city_id' => '48592',
+				'city_id' => '49058',
 				'state_id' => '2699',
 			),
 			1696 => 
@@ -16985,7 +16985,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TJØME',
 				'longitude' => 'TJØME',
 				'city' => 'TJØME',
-				'city_id' => '48575',
+				'city_id' => '49051',
 				'state_id' => '2699',
 			),
 			1697 => 
@@ -16995,7 +16995,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TOLVSRØD',
 				'longitude' => 'TOLVSRØD',
 				'city' => 'TOLVSRØD',
-				'city_id' => '48592',
+				'city_id' => '49053',
 				'state_id' => '2699',
 			),
 			1698 => 
@@ -17005,7 +17005,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.35',
 				'longitude' => '10.4667',
 				'city' => 'ÅSGÅRDSTRAND',
-				'city_id' => '31235',
+				'city_id' => '49059',
 				'state_id' => '2711',
 			),
 			1699 => 
@@ -17015,7 +17015,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MELSOMVIK',
 				'longitude' => 'MELSOMVIK',
 				'city' => 'MELSOMVIK',
-				'city_id' => '48586',
+				'city_id' => '49054',
 				'state_id' => '2699',
 			),
 			1700 => 
@@ -17025,7 +17025,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.24',
 				'longitude' => '10.2708',
 				'city' => 'STOKKE',
-				'city_id' => '48586',
+				'city_id' => '49057',
 				'state_id' => '2699',
 			),
 			1701 => 
@@ -17035,7 +17035,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SEM',
 				'longitude' => 'SEM',
 				'city' => 'SEM',
-				'city_id' => '48592',
+				'city_id' => '49042',
 				'state_id' => '2699',
 			),
 			1702 => 
@@ -17045,7 +17045,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SEM',
 				'longitude' => 'SEM',
 				'city' => 'SEM',
-				'city_id' => '48592',
+				'city_id' => '49042',
 				'state_id' => '2699',
 			),
 			1703 => 
@@ -17055,7 +17055,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VEAR',
 				'longitude' => 'VEAR',
 				'city' => 'VEAR',
-				'city_id' => '48592',
+				'city_id' => '49043',
 				'state_id' => '2699',
 			),
 			1704 => 
@@ -17065,7 +17065,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VEAR',
 				'longitude' => 'VEAR',
 				'city' => 'VEAR',
-				'city_id' => '48592',
+				'city_id' => '49043',
 				'state_id' => '2699',
 			),
 			1705 => 
@@ -17075,7 +17075,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'REVETAL',
 				'longitude' => 'REVETAL',
 				'city' => 'REVETAL',
-				'city_id' => '48592',
+				'city_id' => '49058',
 				'state_id' => '2699',
 			),
 			1706 => 
@@ -17085,7 +17085,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RAMNES',
 				'longitude' => 'RAMNES',
 				'city' => 'RAMNES',
-				'city_id' => '48592',
+				'city_id' => '49060',
 				'state_id' => '2699',
 			),
 			1707 => 
@@ -17095,7 +17095,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'UNDRUMSDAL',
 				'longitude' => 'UNDRUMSDAL',
 				'city' => 'UNDRUMSDAL',
-				'city_id' => '48592',
+				'city_id' => '49061',
 				'state_id' => '2699',
 			),
 			1708 => 
@@ -17105,7 +17105,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VÅLE',
 				'longitude' => 'VÅLE',
 				'city' => 'VÅLE',
-				'city_id' => '48592',
+				'city_id' => '49062',
 				'state_id' => '2699',
 			),
 			1709 => 
@@ -17115,7 +17115,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VÅLE',
 				'longitude' => 'VÅLE',
 				'city' => 'VÅLE',
-				'city_id' => '48592',
+				'city_id' => '49062',
 				'state_id' => '2699',
 			),
 			1710 => 
@@ -17125,7 +17125,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.35',
 				'longitude' => '10.4667',
 				'city' => 'ÅSGÅRDSTRAND',
-				'city_id' => '48577',
+				'city_id' => '49059',
 				'state_id' => '2699',
 			),
 			1711 => 
@@ -17135,7 +17135,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NYKIRKE',
 				'longitude' => 'NYKIRKE',
 				'city' => 'NYKIRKE',
-				'city_id' => '48577',
+				'city_id' => '49063',
 				'state_id' => '2699',
 			),
 			1712 => 
@@ -17175,7 +17175,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BORRE',
 				'longitude' => 'BORRE',
 				'city' => 'BORRE',
-				'city_id' => '48577',
+				'city_id' => '49064',
 				'state_id' => '2699',
 			),
 			1716 => 
@@ -17185,7 +17185,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKOPPUM',
 				'longitude' => 'SKOPPUM',
 				'city' => 'SKOPPUM',
-				'city_id' => '48577',
+				'city_id' => '49065',
 				'state_id' => '2699',
 			),
 			1717 => 
@@ -17275,7 +17275,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKOPPUM',
 				'longitude' => 'SKOPPUM',
 				'city' => 'SKOPPUM',
-				'city_id' => '48577',
+				'city_id' => '49065',
 				'state_id' => '2699',
 			),
 			1726 => 
@@ -17295,7 +17295,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NYKIRKE',
 				'longitude' => 'NYKIRKE',
 				'city' => 'NYKIRKE',
-				'city_id' => '48577',
+				'city_id' => '49063',
 				'state_id' => '2699',
 			),
 			1728 => 
@@ -17305,7 +17305,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BORRE',
 				'longitude' => 'BORRE',
 				'city' => 'BORRE',
-				'city_id' => '48577',
+				'city_id' => '49064',
 				'state_id' => '2699',
 			),
 			1729 => 
@@ -17735,7 +17735,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KODAL',
 				'longitude' => 'KODAL',
 				'city' => 'KODAL',
-				'city_id' => '48586',
+				'city_id' => '49066',
 				'state_id' => '2699',
 			),
 			1772 => 
@@ -17755,7 +17755,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KODAL',
 				'longitude' => 'KODAL',
 				'city' => 'KODAL',
-				'city_id' => '48586',
+				'city_id' => '49066',
 				'state_id' => '2699',
 			),
 			1774 => 
@@ -18015,7 +18015,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SVARSTAD',
 				'longitude' => 'SVARSTAD',
 				'city' => 'SVARSTAD',
-				'city_id' => '48580',
+				'city_id' => '49067',
 				'state_id' => '2699',
 			),
 			1800 => 
@@ -18025,7 +18025,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SVARSTAD',
 				'longitude' => 'SVARSTAD',
 				'city' => 'SVARSTAD',
-				'city_id' => '48580',
+				'city_id' => '49067',
 				'state_id' => '2699',
 			),
 			1801 => 
@@ -18035,7 +18035,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STEINSHOLT',
 				'longitude' => 'STEINSHOLT',
 				'city' => 'STEINSHOLT',
-				'city_id' => '48580',
+				'city_id' => '49068',
 				'state_id' => '2699',
 			),
 			1802 => 
@@ -18045,7 +18045,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TJODALYNG',
 				'longitude' => 'TJODALYNG',
 				'city' => 'TJODALYNG',
-				'city_id' => '48580',
+				'city_id' => '49069',
 				'state_id' => '2699',
 			),
 			1803 => 
@@ -18055,7 +18055,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TJODALYNG',
 				'longitude' => 'TJODALYNG',
 				'city' => 'TJODALYNG',
-				'city_id' => '48580',
+				'city_id' => '49069',
 				'state_id' => '2699',
 			),
 			1804 => 
@@ -18065,7 +18065,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KVELDE',
 				'longitude' => 'KVELDE',
 				'city' => 'KVELDE',
-				'city_id' => '48580',
+				'city_id' => '49070',
 				'state_id' => '2699',
 			),
 			1805 => 
@@ -18075,7 +18075,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KVELDE',
 				'longitude' => 'KVELDE',
 				'city' => 'KVELDE',
-				'city_id' => '48580',
+				'city_id' => '49070',
 				'state_id' => '2699',
 			),
 			1806 => 
@@ -18095,7 +18095,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59',
 				'longitude' => '10.0333',
 				'city' => 'STAVERN',
-				'city_id' => '48580',
+				'city_id' => '49071',
 				'state_id' => '2699',
 			),
 			1808 => 
@@ -18105,7 +18105,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59',
 				'longitude' => '10.0333',
 				'city' => 'STAVERN',
-				'city_id' => '48580',
+				'city_id' => '49071',
 				'state_id' => '2699',
 			),
 			1809 => 
@@ -18115,7 +18115,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59',
 				'longitude' => '10.0333',
 				'city' => 'STAVERN',
-				'city_id' => '48580',
+				'city_id' => '49071',
 				'state_id' => '2699',
 			),
 			1810 => 
@@ -18125,7 +18125,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59',
 				'longitude' => '10.0333',
 				'city' => 'STAVERN',
-				'city_id' => '48580',
+				'city_id' => '49071',
 				'state_id' => '2699',
 			),
 			1811 => 
@@ -18135,7 +18135,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HELGEROA',
 				'longitude' => 'HELGEROA',
 				'city' => 'HELGEROA',
-				'city_id' => '48580',
+				'city_id' => '49072',
 				'state_id' => '2699',
 			),
 			1812 => 
@@ -18145,7 +18145,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NEVLUNGHAVN',
 				'longitude' => 'NEVLUNGHAVN',
 				'city' => 'NEVLUNGHAVN',
-				'city_id' => '48580',
+				'city_id' => '49073',
 				'state_id' => '2699',
 			),
 			1813 => 
@@ -18155,7 +18155,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HELGEROA',
 				'longitude' => 'HELGEROA',
 				'city' => 'HELGEROA',
-				'city_id' => '48580',
+				'city_id' => '49072',
 				'state_id' => '2699',
 			),
 			1814 => 
@@ -18165,7 +18165,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.7719',
 				'longitude' => '9.8839',
 				'city' => 'HOKKSUND',
-				'city_id' => '48681',
+				'city_id' => '49074',
 				'state_id' => '2701',
 			),
 			1815 => 
@@ -18175,7 +18175,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.7719',
 				'longitude' => '9.8839',
 				'city' => 'HOKKSUND',
-				'city_id' => '48681',
+				'city_id' => '49074',
 				'state_id' => '2701',
 			),
 			1816 => 
@@ -18185,7 +18185,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.7719',
 				'longitude' => '9.8839',
 				'city' => 'HOKKSUND',
-				'city_id' => '48681',
+				'city_id' => '49074',
 				'state_id' => '2701',
 			),
 			1817 => 
@@ -18195,7 +18195,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.7719',
 				'longitude' => '9.8839',
 				'city' => 'HOKKSUND',
-				'city_id' => '48681',
+				'city_id' => '49074',
 				'state_id' => '2701',
 			),
 			1818 => 
@@ -18205,7 +18205,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VESTFOSSEN',
 				'longitude' => 'VESTFOSSEN',
 				'city' => 'VESTFOSSEN',
-				'city_id' => '48681',
+				'city_id' => '49075',
 				'state_id' => '2701',
 			),
 			1819 => 
@@ -18215,7 +18215,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VESTFOSSEN',
 				'longitude' => 'VESTFOSSEN',
 				'city' => 'VESTFOSSEN',
-				'city_id' => '48681',
+				'city_id' => '49075',
 				'state_id' => '2701',
 			),
 			1820 => 
@@ -18225,7 +18225,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FISKUM',
 				'longitude' => 'FISKUM',
 				'city' => 'FISKUM',
-				'city_id' => '48681',
+				'city_id' => '49076',
 				'state_id' => '2701',
 			),
 			1821 => 
@@ -18235,7 +18235,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKOTSELV',
 				'longitude' => 'SKOTSELV',
 				'city' => 'SKOTSELV',
-				'city_id' => '48681',
+				'city_id' => '49077',
 				'state_id' => '2701',
 			),
 			1822 => 
@@ -18245,7 +18245,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKOTSELV',
 				'longitude' => 'SKOTSELV',
 				'city' => 'SKOTSELV',
-				'city_id' => '48681',
+				'city_id' => '49077',
 				'state_id' => '2701',
 			),
 			1823 => 
@@ -18255,7 +18255,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.1464',
 				'longitude' => '11.4158',
 				'city' => 'ÅMOT',
-				'city_id' => '48664',
+				'city_id' => '48380',
 				'state_id' => '2701',
 			),
 			1824 => 
@@ -18265,7 +18265,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.1464',
 				'longitude' => '11.4158',
 				'city' => 'ÅMOT',
-				'city_id' => '48664',
+				'city_id' => '48380',
 				'state_id' => '2701',
 			),
 			1825 => 
@@ -18275,7 +18275,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.1464',
 				'longitude' => '11.4158',
 				'city' => 'ÅMOT',
-				'city_id' => '48664',
+				'city_id' => '48380',
 				'state_id' => '2701',
 			),
 			1826 => 
@@ -18285,7 +18285,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.0333',
 				'longitude' => '9.6333',
 				'city' => 'PRESTFOSS',
-				'city_id' => '48677',
+				'city_id' => '49078',
 				'state_id' => '2701',
 			),
 			1827 => 
@@ -18295,7 +18295,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.0333',
 				'longitude' => '9.6333',
 				'city' => 'PRESTFOSS',
-				'city_id' => '48677',
+				'city_id' => '49078',
 				'state_id' => '2701',
 			),
 			1828 => 
@@ -18305,7 +18305,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SOLUMSMOEN',
 				'longitude' => 'SOLUMSMOEN',
 				'city' => 'SOLUMSMOEN',
-				'city_id' => '48677',
+				'city_id' => '49079',
 				'state_id' => '2701',
 			),
 			1829 => 
@@ -18315,7 +18315,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'EGGEDAL',
 				'longitude' => 'EGGEDAL',
 				'city' => 'EGGEDAL',
-				'city_id' => '48677',
+				'city_id' => '49080',
 				'state_id' => '2701',
 			),
 			1830 => 
@@ -18325,7 +18325,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NEDRE EGGEDAL',
 				'longitude' => 'NEDRE EGGEDAL',
 				'city' => 'NEDRE EGGEDAL',
-				'city_id' => '48677',
+				'city_id' => '49081',
 				'state_id' => '2701',
 			),
 			1831 => 
@@ -18335,7 +18335,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'EGGEDAL',
 				'longitude' => 'EGGEDAL',
 				'city' => 'EGGEDAL',
-				'city_id' => '48677',
+				'city_id' => '49080',
 				'state_id' => '2701',
 			),
 			1832 => 
@@ -18345,7 +18345,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GEITHUS',
 				'longitude' => 'GEITHUS',
 				'city' => 'GEITHUS',
-				'city_id' => '48664',
+				'city_id' => '49082',
 				'state_id' => '2701',
 			),
 			1833 => 
@@ -18355,7 +18355,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GEITHUS',
 				'longitude' => 'GEITHUS',
 				'city' => 'GEITHUS',
-				'city_id' => '48664',
+				'city_id' => '49082',
 				'state_id' => '2701',
 			),
 			1834 => 
@@ -18365,7 +18365,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.9833',
 				'longitude' => '10.0333',
 				'city' => 'VIKERSUND',
-				'city_id' => '48664',
+				'city_id' => '49083',
 				'state_id' => '2701',
 			),
 			1835 => 
@@ -18375,7 +18375,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.9833',
 				'longitude' => '10.0333',
 				'city' => 'VIKERSUND',
-				'city_id' => '48664',
+				'city_id' => '49083',
 				'state_id' => '2701',
 			),
 			1836 => 
@@ -18385,7 +18385,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.8675',
 				'longitude' => '10.2142',
 				'city' => 'LIER',
-				'city_id' => '48659',
+				'city_id' => '7528',
 				'state_id' => '2701',
 			),
 			1837 => 
@@ -18395,7 +18395,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.8675',
 				'longitude' => '10.2142',
 				'city' => 'LIER',
-				'city_id' => '48659',
+				'city_id' => '7528',
 				'state_id' => '2701',
 			),
 			1838 => 
@@ -18405,7 +18405,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.8675',
 				'longitude' => '10.2142',
 				'city' => 'LIER',
-				'city_id' => '48659',
+				'city_id' => '7528',
 				'state_id' => '2701',
 			),
 			1839 => 
@@ -18415,7 +18415,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.8675',
 				'longitude' => '10.2142',
 				'city' => 'LIER',
-				'city_id' => '48659',
+				'city_id' => '7528',
 				'state_id' => '2701',
 			),
 			1840 => 
@@ -18425,7 +18425,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.8675',
 				'longitude' => '10.2142',
 				'city' => 'LIER',
-				'city_id' => '48659',
+				'city_id' => '7528',
 				'state_id' => '2701',
 			),
 			1841 => 
@@ -18435,7 +18435,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TRANBY',
 				'longitude' => 'TRANBY',
 				'city' => 'TRANBY',
-				'city_id' => '48659',
+				'city_id' => '49084',
 				'state_id' => '2701',
 			),
 			1842 => 
@@ -18445,7 +18445,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TRANBY',
 				'longitude' => 'TRANBY',
 				'city' => 'TRANBY',
-				'city_id' => '48659',
+				'city_id' => '49084',
 				'state_id' => '2701',
 			),
 			1843 => 
@@ -18455,7 +18455,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TRANBY',
 				'longitude' => 'TRANBY',
 				'city' => 'TRANBY',
-				'city_id' => '48659',
+				'city_id' => '49084',
 				'state_id' => '2701',
 			),
 			1844 => 
@@ -18465,7 +18465,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TRANBY',
 				'longitude' => 'TRANBY',
 				'city' => 'TRANBY',
-				'city_id' => '48659',
+				'city_id' => '49084',
 				'state_id' => '2701',
 			),
 			1845 => 
@@ -18475,7 +18475,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SYLLING',
 				'longitude' => 'SYLLING',
 				'city' => 'SYLLING',
-				'city_id' => '48659',
+				'city_id' => '49085',
 				'state_id' => '2701',
 			),
 			1846 => 
@@ -18485,7 +18485,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SYLLING',
 				'longitude' => 'SYLLING',
 				'city' => 'SYLLING',
-				'city_id' => '48659',
+				'city_id' => '49085',
 				'state_id' => '2701',
 			),
 			1847 => 
@@ -18495,7 +18495,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LIERSTRANDA',
 				'longitude' => 'LIERSTRANDA',
 				'city' => 'LIERSTRANDA',
-				'city_id' => '48659',
+				'city_id' => '49086',
 				'state_id' => '2701',
 			),
 			1848 => 
@@ -18505,7 +18505,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LIER',
 				'longitude' => 'LIER',
 				'city' => 'LIER',
-				'city_id' => '48659',
+				'city_id' => '7528',
 				'state_id' => '2701',
 			),
 			1849 => 
@@ -18515,7 +18515,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LIERSTRANDA',
 				'longitude' => 'LIERSTRANDA',
 				'city' => 'LIERSTRANDA',
-				'city_id' => '48659',
+				'city_id' => '49086',
 				'state_id' => '2701',
 			),
 			1850 => 
@@ -18525,7 +18525,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LIERSKOGEN',
 				'longitude' => 'LIERSKOGEN',
 				'city' => 'LIERSKOGEN',
-				'city_id' => '48659',
+				'city_id' => '49087',
 				'state_id' => '2701',
 			),
 			1851 => 
@@ -18535,7 +18535,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LIERSKOGEN',
 				'longitude' => 'LIERSKOGEN',
 				'city' => 'LIERSKOGEN',
-				'city_id' => '48659',
+				'city_id' => '49087',
 				'state_id' => '2701',
 			),
 			1852 => 
@@ -18545,7 +18545,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'REISTAD',
 				'longitude' => 'REISTAD',
 				'city' => 'REISTAD',
-				'city_id' => '48659',
+				'city_id' => '49088',
 				'state_id' => '2701',
 			),
 			1853 => 
@@ -18555,7 +18555,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GULLAUG',
 				'longitude' => 'GULLAUG',
 				'city' => 'GULLAUG',
-				'city_id' => '48659',
+				'city_id' => '49089',
 				'state_id' => '2701',
 			),
 			1854 => 
@@ -18565,7 +18565,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GULLAUG',
 				'longitude' => 'GULLAUG',
 				'city' => 'GULLAUG',
-				'city_id' => '48659',
+				'city_id' => '49089',
 				'state_id' => '2701',
 			),
 			1855 => 
@@ -18575,7 +18575,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GULLAUG',
 				'longitude' => 'GULLAUG',
 				'city' => 'GULLAUG',
-				'city_id' => '48659',
+				'city_id' => '49089',
 				'state_id' => '2701',
 			),
 			1856 => 
@@ -18585,7 +18585,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SPIKKESTAD',
 				'longitude' => 'SPIKKESTAD',
 				'city' => 'SPIKKESTAD',
-				'city_id' => '48637',
+				'city_id' => '49090',
 				'state_id' => '2701',
 			),
 			1857 => 
@@ -18595,7 +18595,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SPIKKESTAD',
 				'longitude' => 'SPIKKESTAD',
 				'city' => 'SPIKKESTAD',
-				'city_id' => '48637',
+				'city_id' => '49090',
 				'state_id' => '2701',
 			),
 			1858 => 
@@ -18605,7 +18605,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.7336',
 				'longitude' => '11.1708a10.4289',
 				'city' => 'RØYKEN',
-				'city_id' => '48637',
+				'city_id' => '49091',
 				'state_id' => '2701',
 			),
 			1859 => 
@@ -18615,7 +18615,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.7336',
 				'longitude' => '11.1708a10.4289',
 				'city' => 'RØYKEN',
-				'city_id' => '48637',
+				'city_id' => '49091',
 				'state_id' => '2701',
 			),
 			1860 => 
@@ -18625,7 +18625,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HYGGEN',
 				'longitude' => 'HYGGEN',
 				'city' => 'HYGGEN',
-				'city_id' => '48637',
+				'city_id' => '49092',
 				'state_id' => '2701',
 			),
 			1861 => 
@@ -18635,7 +18635,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SLEMMESTAD',
 				'longitude' => 'SLEMMESTAD',
 				'city' => 'SLEMMESTAD',
-				'city_id' => '48637',
+				'city_id' => '49093',
 				'state_id' => '2701',
 			),
 			1862 => 
@@ -18645,7 +18645,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SLEMMESTAD',
 				'longitude' => 'SLEMMESTAD',
 				'city' => 'SLEMMESTAD',
-				'city_id' => '48637',
+				'city_id' => '49093',
 				'state_id' => '2701',
 			),
 			1863 => 
@@ -18655,7 +18655,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BØDALEN',
 				'longitude' => 'BØDALEN',
 				'city' => 'BØDALEN',
-				'city_id' => '48637',
+				'city_id' => '49094',
 				'state_id' => '2701',
 			),
 			1864 => 
@@ -18665,7 +18665,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ÅROS',
 				'longitude' => 'ÅROS',
 				'city' => 'ÅROS',
-				'city_id' => '48637',
+				'city_id' => '49095',
 				'state_id' => '2701',
 			),
 			1865 => 
@@ -18675,7 +18675,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.6817',
 				'longitude' => '10.5247',
 				'city' => 'SÆTRE',
-				'city_id' => '48637',
+				'city_id' => '49096',
 				'state_id' => '2701',
 			),
 			1866 => 
@@ -18685,7 +18685,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.6817',
 				'longitude' => '10.5247',
 				'city' => 'SÆTRE',
-				'city_id' => '48637',
+				'city_id' => '49096',
 				'state_id' => '2701',
 			),
 			1867 => 
@@ -18695,7 +18695,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BÅTSTØ',
 				'longitude' => 'BÅTSTØ',
 				'city' => 'BÅTSTØ',
-				'city_id' => '48637',
+				'city_id' => '49097',
 				'state_id' => '2701',
 			),
 			1868 => 
@@ -18705,7 +18705,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NÆRSNES',
 				'longitude' => 'NÆRSNES',
 				'city' => 'NÆRSNES',
-				'city_id' => '48637',
+				'city_id' => '49098',
 				'state_id' => '2701',
 			),
 			1869 => 
@@ -18715,7 +18715,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NÆRSNES',
 				'longitude' => 'NÆRSNES',
 				'city' => 'NÆRSNES',
-				'city_id' => '48637',
+				'city_id' => '49098',
 				'state_id' => '2701',
 			),
 			1870 => 
@@ -18725,7 +18725,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FILTVET',
 				'longitude' => 'FILTVET',
 				'city' => 'FILTVET',
-				'city_id' => '48637',
+				'city_id' => '49099',
 				'state_id' => '2701',
 			),
 			1871 => 
@@ -18735,7 +18735,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TOFTE',
 				'longitude' => 'TOFTE',
 				'city' => 'TOFTE',
-				'city_id' => '48637',
+				'city_id' => '49100',
 				'state_id' => '2701',
 			),
 			1872 => 
@@ -18745,7 +18745,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TOFTE',
 				'longitude' => 'TOFTE',
 				'city' => 'TOFTE',
-				'city_id' => '48637',
+				'city_id' => '49100',
 				'state_id' => '2701',
 			),
 			1873 => 
@@ -18755,7 +18755,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KANA',
 				'longitude' => 'KANA',
 				'city' => 'KANA',
-				'city_id' => '48637',
+				'city_id' => '49101',
 				'state_id' => '2701',
 			),
 			1874 => 
@@ -18765,7 +18765,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HOLMSBU',
 				'longitude' => 'HOLMSBU',
 				'city' => 'HOLMSBU',
-				'city_id' => '48637',
+				'city_id' => '49102',
 				'state_id' => '2701',
 			),
 			1875 => 
@@ -18775,7 +18775,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FILTVET',
 				'longitude' => 'FILTVET',
 				'city' => 'FILTVET',
-				'city_id' => '48637',
+				'city_id' => '49099',
 				'state_id' => '2701',
 			),
 			1876 => 
@@ -18785,7 +18785,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KLOKKARSTUA',
 				'longitude' => 'KLOKKARSTUA',
 				'city' => 'KLOKKARSTUA',
-				'city_id' => '48637',
+				'city_id' => '49103',
 				'state_id' => '2701',
 			),
 			1877 => 
@@ -18795,7 +18795,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.1667',
 				'longitude' => '10.3',
 				'city' => 'HØNEFOSS',
-				'city_id' => '48672',
+				'city_id' => '49104',
 				'state_id' => '2701',
 			),
 			1878 => 
@@ -18805,7 +18805,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.1667',
 				'longitude' => '10.3',
 				'city' => 'HØNEFOSS',
-				'city_id' => '48672',
+				'city_id' => '49104',
 				'state_id' => '2701',
 			),
 			1879 => 
@@ -18815,7 +18815,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.1667',
 				'longitude' => '10.3',
 				'city' => 'HØNEFOSS',
-				'city_id' => '48672',
+				'city_id' => '49104',
 				'state_id' => '2701',
 			),
 			1880 => 
@@ -18825,7 +18825,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.1667',
 				'longitude' => '10.3',
 				'city' => 'HØNEFOSS',
-				'city_id' => '48672',
+				'city_id' => '49104',
 				'state_id' => '2701',
 			),
 			1881 => 
@@ -18835,7 +18835,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.1667',
 				'longitude' => '10.3',
 				'city' => 'HØNEFOSS',
-				'city_id' => '48672',
+				'city_id' => '49104',
 				'state_id' => '2701',
 			),
 			1882 => 
@@ -18845,7 +18845,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.1667',
 				'longitude' => '10.3',
 				'city' => 'HØNEFOSS',
-				'city_id' => '48672',
+				'city_id' => '49104',
 				'state_id' => '2701',
 			),
 			1883 => 
@@ -18855,7 +18855,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.1667',
 				'longitude' => '10.3',
 				'city' => 'HØNEFOSS',
-				'city_id' => '48672',
+				'city_id' => '49104',
 				'state_id' => '2701',
 			),
 			1884 => 
@@ -18865,7 +18865,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.1667',
 				'longitude' => '10.3',
 				'city' => 'HØNEFOSS',
-				'city_id' => '48672',
+				'city_id' => '49104',
 				'state_id' => '2701',
 			),
 			1885 => 
@@ -18875,7 +18875,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.1667',
 				'longitude' => '10.3',
 				'city' => 'HØNEFOSS',
-				'city_id' => '48672',
+				'city_id' => '49104',
 				'state_id' => '2701',
 			),
 			1886 => 
@@ -18885,7 +18885,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.1667',
 				'longitude' => '10.3',
 				'city' => 'HØNEFOSS',
-				'city_id' => '48672',
+				'city_id' => '49104',
 				'state_id' => '2701',
 			),
 			1887 => 
@@ -18895,7 +18895,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.1667',
 				'longitude' => '10.3',
 				'city' => 'HØNEFOSS',
-				'city_id' => '48672',
+				'city_id' => '49104',
 				'state_id' => '2701',
 			),
 			1888 => 
@@ -18905,7 +18905,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.1667',
 				'longitude' => '10.3',
 				'city' => 'HØNEFOSS',
-				'city_id' => '48672',
+				'city_id' => '49104',
 				'state_id' => '2701',
 			),
 			1889 => 
@@ -18915,7 +18915,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.1667',
 				'longitude' => '10.3',
 				'city' => 'HØNEFOSS',
-				'city_id' => '48672',
+				'city_id' => '49104',
 				'state_id' => '2701',
 			),
 			1890 => 
@@ -18925,7 +18925,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.1667',
 				'longitude' => '10.3',
 				'city' => 'HØNEFOSS',
-				'city_id' => '48672',
+				'city_id' => '49104',
 				'state_id' => '2701',
 			),
 			1891 => 
@@ -18935,7 +18935,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.1667',
 				'longitude' => '10.3',
 				'city' => 'HØNEFOSS',
-				'city_id' => '48672',
+				'city_id' => '49104',
 				'state_id' => '2701',
 			),
 			1892 => 
@@ -18965,7 +18965,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BJONEROA',
 				'longitude' => 'BJONEROA',
 				'city' => 'BJONEROA',
-				'city_id' => '48422',
+				'city_id' => '49105',
 				'state_id' => '2693',
 			),
 			1895 => 
@@ -18975,7 +18975,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NES I ÅDAL',
 				'longitude' => 'NES I ÅDAL',
 				'city' => 'NES I ÅDAL',
-				'city_id' => '48672',
+				'city_id' => '49106',
 				'state_id' => '2701',
 			),
 			1896 => 
@@ -18985,7 +18985,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NES I ÅDAL',
 				'longitude' => 'NES I ÅDAL',
 				'city' => 'NES I ÅDAL',
-				'city_id' => '48672',
+				'city_id' => '49106',
 				'state_id' => '2701',
 			),
 			1897 => 
@@ -18995,7 +18995,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HALLINGBY',
 				'longitude' => 'HALLINGBY',
 				'city' => 'HALLINGBY',
-				'city_id' => '48672',
+				'city_id' => '49106',
 				'state_id' => '2701',
 			),
 			1898 => 
@@ -19005,7 +19005,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HALLINGBY',
 				'longitude' => 'HALLINGBY',
 				'city' => 'HALLINGBY',
-				'city_id' => '48672',
+				'city_id' => '49106',
 				'state_id' => '2701',
 			),
 			1899 => 
@@ -19015,7 +19015,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BJONEROA',
 				'longitude' => 'BJONEROA',
 				'city' => 'BJONEROA',
-				'city_id' => '48422',
+				'city_id' => '49105',
 				'state_id' => '2693',
 			),
 			1900 => 
@@ -19025,7 +19025,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HEDALEN',
 				'longitude' => 'HEDALEN',
 				'city' => 'HEDALEN',
-				'city_id' => '48370',
+				'city_id' => '49107',
 				'state_id' => '2691',
 			),
 			1901 => 
@@ -19035,7 +19035,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.0769',
 				'longitude' => '10.1965',
 				'city' => 'RØYSE',
-				'city_id' => '48652',
+				'city_id' => '49108',
 				'state_id' => '2701',
 			),
 			1902 => 
@@ -19045,7 +19045,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.0769',
 				'longitude' => '10.1965',
 				'city' => 'RØYSE',
-				'city_id' => '48652',
+				'city_id' => '49108',
 				'state_id' => '2701',
 			),
 			1903 => 
@@ -19055,7 +19055,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KROKKLEIVA',
 				'longitude' => 'KROKKLEIVA',
 				'city' => 'KROKKLEIVA',
-				'city_id' => '48652',
+				'city_id' => '49109',
 				'state_id' => '2701',
 			),
 			1904 => 
@@ -19065,7 +19065,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TYRISTRAND',
 				'longitude' => 'TYRISTRAND',
 				'city' => 'TYRISTRAND',
-				'city_id' => '48672',
+				'city_id' => '49110',
 				'state_id' => '2701',
 			),
 			1905 => 
@@ -19075,7 +19075,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TYRISTRAND',
 				'longitude' => 'TYRISTRAND',
 				'city' => 'TYRISTRAND',
-				'city_id' => '48672',
+				'city_id' => '49110',
 				'state_id' => '2701',
 			),
 			1906 => 
@@ -19085,7 +19085,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SOKNA',
 				'longitude' => 'SOKNA',
 				'city' => 'SOKNA',
-				'city_id' => '48672',
+				'city_id' => '49111',
 				'state_id' => '2701',
 			),
 			1907 => 
@@ -19095,7 +19095,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRØDEREN',
 				'longitude' => 'KRØDEREN',
 				'city' => 'KRØDEREN',
-				'city_id' => '48658',
+				'city_id' => '49112',
 				'state_id' => '2701',
 			),
 			1908 => 
@@ -19105,7 +19105,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.1667',
 				'longitude' => '9.6167',
 				'city' => 'NORESUND',
-				'city_id' => '48658',
+				'city_id' => '49113',
 				'state_id' => '2701',
 			),
 			1909 => 
@@ -19115,7 +19115,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRØDEREN',
 				'longitude' => 'KRØDEREN',
 				'city' => 'KRØDEREN',
-				'city_id' => '48658',
+				'city_id' => '49112',
 				'state_id' => '2701',
 			),
 			1910 => 
@@ -19125,7 +19125,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SOLLIHØGDA',
 				'longitude' => 'SOLLIHØGDA',
 				'city' => 'SOLLIHØGDA',
-				'city_id' => '48652',
+				'city_id' => '49114',
 				'state_id' => '2701',
 			),
 			1911 => 
@@ -19165,7 +19165,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SOKNA',
 				'longitude' => 'SOKNA',
 				'city' => 'SOKNA',
-				'city_id' => '48672',
+				'city_id' => '49111',
 				'state_id' => '2701',
 			),
 			1915 => 
@@ -19175,7 +19175,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.1667',
 				'longitude' => '9.6167',
 				'city' => 'NORESUND',
-				'city_id' => '48658',
+				'city_id' => '49113',
 				'state_id' => '2701',
 			),
 			1916 => 
@@ -19185,7 +19185,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TUNHOVD',
 				'longitude' => 'TUNHOVD',
 				'city' => 'TUNHOVD',
-				'city_id' => '48704',
+				'city_id' => '49115',
 				'state_id' => '2701',
 			),
 			1917 => 
@@ -19205,7 +19205,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KROKKLEIVA',
 				'longitude' => 'KROKKLEIVA',
 				'city' => 'KROKKLEIVA',
-				'city_id' => '48652',
+				'city_id' => '49109',
 				'state_id' => '2701',
 			),
 			1919 => 
@@ -19215,7 +19215,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.7503',
 				'longitude' => '8.9847',
 				'city' => 'GOL',
-				'city_id' => '48648',
+				'city_id' => '49116',
 				'state_id' => '2701',
 			),
 			1920 => 
@@ -19225,7 +19225,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.7503',
 				'longitude' => '8.9847',
 				'city' => 'GOL',
-				'city_id' => '48648',
+				'city_id' => '49116',
 				'state_id' => '2701',
 			),
 			1921 => 
@@ -19295,7 +19295,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HOVET',
 				'longitude' => 'HOVET',
 				'city' => 'HOVET',
-				'city_id' => '48651',
+				'city_id' => '49117',
 				'state_id' => '2701',
 			),
 			1928 => 
@@ -19305,7 +19305,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TORPO',
 				'longitude' => 'TORPO',
 				'city' => 'TORPO',
-				'city_id' => '48681',
+				'city_id' => '49118',
 				'state_id' => '2701',
 			),
 			1929 => 
@@ -19315,7 +19315,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GEILO',
 				'longitude' => 'GEILO',
 				'city' => 'GEILO',
-				'city_id' => '48651',
+				'city_id' => '49119',
 				'state_id' => '2701',
 			),
 			1930 => 
@@ -19325,7 +19325,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GEILO',
 				'longitude' => 'GEILO',
 				'city' => 'GEILO',
-				'city_id' => '48651',
+				'city_id' => '49119',
 				'state_id' => '2701',
 			),
 			1931 => 
@@ -19335,7 +19335,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'DAGALI',
 				'longitude' => 'DAGALI',
 				'city' => 'DAGALI',
-				'city_id' => '48651',
+				'city_id' => '49120',
 				'state_id' => '2701',
 			),
 			1932 => 
@@ -19345,7 +19345,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'USTAOSET',
 				'longitude' => 'USTAOSET',
 				'city' => 'USTAOSET',
-				'city_id' => '48651',
+				'city_id' => '49121',
 				'state_id' => '2701',
 			),
 			1933 => 
@@ -19355,7 +19355,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HAUGASTØL',
 				'longitude' => 'HAUGASTØL',
 				'city' => 'HAUGASTØL',
-				'city_id' => '48651',
+				'city_id' => '49122',
 				'state_id' => '2701',
 			),
 			1934 => 
@@ -19435,7 +19435,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HEISTADMOEN',
 				'longitude' => 'HEISTADMOEN',
 				'city' => 'HEISTADMOEN',
-				'city_id' => '48657',
+				'city_id' => '49123',
 				'state_id' => '2701',
 			),
 			1942 => 
@@ -19535,7 +19535,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKOLLENBORG',
 				'longitude' => 'SKOLLENBORG',
 				'city' => 'SKOLLENBORG',
-				'city_id' => '48657',
+				'city_id' => '49124',
 				'state_id' => '2701',
 			),
 			1952 => 
@@ -19545,7 +19545,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKOLLENBORG',
 				'longitude' => 'SKOLLENBORG',
 				'city' => 'SKOLLENBORG',
-				'city_id' => '48657',
+				'city_id' => '49124',
 				'state_id' => '2701',
 			),
 			1953 => 
@@ -19565,7 +19565,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.8342',
 				'longitude' => '9.5759',
 				'city' => 'LAMPELAND',
-				'city_id' => '48643',
+				'city_id' => '49125',
 				'state_id' => '2701',
 			),
 			1955 => 
@@ -19575,7 +19575,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SVENE',
 				'longitude' => 'SVENE',
 				'city' => 'SVENE',
-				'city_id' => '48643',
+				'city_id' => '49126',
 				'state_id' => '2701',
 			),
 			1956 => 
@@ -19585,7 +19585,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.8342',
 				'longitude' => '9.5759',
 				'city' => 'LAMPELAND',
-				'city_id' => '48643',
+				'city_id' => '49125',
 				'state_id' => '2701',
 			),
 			1957 => 
@@ -19595,7 +19595,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LYNGDAL I NUMEDAL',
 				'longitude' => 'LYNGDAL I NUMEDAL',
 				'city' => 'LYNGDAL I NUMEDAL',
-				'city_id' => '48643',
+				'city_id' => '49127',
 				'state_id' => '2701',
 			),
 			1958 => 
@@ -19605,7 +19605,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKOLLENBORG',
 				'longitude' => 'SKOLLENBORG',
 				'city' => 'SKOLLENBORG',
-				'city_id' => '48657',
+				'city_id' => '49124',
 				'state_id' => '2701',
 			),
 			1959 => 
@@ -19625,7 +19625,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VEGGLI',
 				'longitude' => 'VEGGLI',
 				'city' => 'VEGGLI',
-				'city_id' => '48673',
+				'city_id' => '49128',
 				'state_id' => '2701',
 			),
 			1961 => 
@@ -19635,7 +19635,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VEGGLI',
 				'longitude' => 'VEGGLI',
 				'city' => 'VEGGLI',
-				'city_id' => '48673',
+				'city_id' => '49128',
 				'state_id' => '2701',
 			),
 			1962 => 
@@ -19645,7 +19645,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NORE',
 				'longitude' => 'NORE',
 				'city' => 'NORE',
-				'city_id' => '48704',
+				'city_id' => '49129',
 				'state_id' => '2701',
 			),
 			1963 => 
@@ -19655,7 +19655,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.2711',
 				'longitude' => '8.9537',
 				'city' => 'RØDBERG',
-				'city_id' => '48704',
+				'city_id' => '49130',
 				'state_id' => '2701',
 			),
 			1964 => 
@@ -19665,7 +19665,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.2711',
 				'longitude' => '8.9537',
 				'city' => 'RØDBERG',
-				'city_id' => '48704',
+				'city_id' => '49130',
 				'state_id' => '2701',
 			),
 			1965 => 
@@ -19675,7 +19675,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'UVDAL',
 				'longitude' => 'UVDAL',
 				'city' => 'UVDAL',
-				'city_id' => '48704',
+				'city_id' => '49131',
 				'state_id' => '2701',
 			),
 			1966 => 
@@ -19685,7 +19685,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NORE',
 				'longitude' => 'NORE',
 				'city' => 'NORE',
-				'city_id' => '48704',
+				'city_id' => '49129',
 				'state_id' => '2701',
 			),
 			1967 => 
@@ -19695,7 +19695,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HVITTINGFOSS',
 				'longitude' => 'HVITTINGFOSS',
 				'city' => 'HVITTINGFOSS',
-				'city_id' => '48657',
+				'city_id' => '49131',
 				'state_id' => '2701',
 			),
 			1968 => 
@@ -19705,7 +19705,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HVITTINGFOSS',
 				'longitude' => 'HVITTINGFOSS',
 				'city' => 'HVITTINGFOSS',
-				'city_id' => '48657',
+				'city_id' => '49131',
 				'state_id' => '2701',
 			),
 			1969 => 
@@ -19715,7 +19715,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'PASSEBEKK',
 				'longitude' => 'PASSEBEKK',
 				'city' => 'PASSEBEKK',
-				'city_id' => '48657',
+				'city_id' => '49132',
 				'state_id' => '2701',
 			),
 			1970 => 
@@ -19725,7 +19725,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TINN AUSTBYGD',
 				'longitude' => 'TINN AUSTBYGD',
 				'city' => 'TINN AUSTBYGD',
-				'city_id' => '48590',
+				'city_id' => '49133',
 				'state_id' => '2699',
 			),
 			1971 => 
@@ -19735,7 +19735,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HOVIN I TELEMARK',
 				'longitude' => 'HOVIN I TELEMARK',
 				'city' => 'HOVIN I TELEMARK',
-				'city_id' => '48590',
+				'city_id' => '49134',
 				'state_id' => '2699',
 			),
 			1972 => 
@@ -19745,7 +19745,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ATRÅ',
 				'longitude' => 'ATRÅ',
 				'city' => 'ATRÅ',
-				'city_id' => '48590',
+				'city_id' => '49135',
 				'state_id' => '2699',
 			),
 			1973 => 
@@ -19755,7 +19755,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MILAND',
 				'longitude' => 'MILAND',
 				'city' => 'MILAND',
-				'city_id' => '48590',
+				'city_id' => '49136',
 				'state_id' => '2699',
 			),
 			1974 => 
@@ -19765,7 +19765,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.8811',
 				'longitude' => '8.5831',
 				'city' => 'RJUKAN',
-				'city_id' => '48590',
+				'city_id' => '49137',
 				'state_id' => '2699',
 			),
 			1975 => 
@@ -19775,7 +19775,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.8811',
 				'longitude' => '8.5831',
 				'city' => 'RJUKAN',
-				'city_id' => '48590',
+				'city_id' => '49137',
 				'state_id' => '2699',
 			),
 			1976 => 
@@ -19785,7 +19785,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.6203',
 				'longitude' => '8.9278',
 				'city' => 'SAULAND',
-				'city_id' => '48683',
+				'city_id' => '49138',
 				'state_id' => '2699',
 			),
 			1977 => 
@@ -19795,7 +19795,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ATRÅ',
 				'longitude' => 'ATRÅ',
 				'city' => 'ATRÅ',
-				'city_id' => '48590',
+				'city_id' => '49135',
 				'state_id' => '2699',
 			),
 			1978 => 
@@ -19945,7 +19945,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GRANSHERAD',
 				'longitude' => 'GRANSHERAD',
 				'city' => 'GRANSHERAD',
-				'city_id' => '48584',
+				'city_id' => '49139',
 				'state_id' => '2699',
 			),
 			1993 => 
@@ -19955,7 +19955,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.6203',
 				'longitude' => '8.9278',
 				'city' => 'SAULAND',
-				'city_id' => '48683',
+				'city_id' => '49138',
 				'state_id' => '2699',
 			),
 			1994 => 
@@ -19965,7 +19965,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TUDDAL',
 				'longitude' => 'TUDDAL',
 				'city' => 'TUDDAL',
-				'city_id' => '48683',
+				'city_id' => '49140',
 				'state_id' => '2699',
 			),
 			1995 => 
@@ -20435,7 +20435,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TØRDAL',
 				'longitude' => 'TØRDAL',
 				'city' => 'TØRDAL',
-				'city_id' => '48573',
+				'city_id' => '49141',
 				'state_id' => '2699',
 			),
 			2042 => 
@@ -20445,7 +20445,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NESLANDSVATN',
 				'longitude' => 'NESLANDSVATN',
 				'city' => 'NESLANDSVATN',
-				'city_id' => '48573',
+				'city_id' => '49142',
 				'state_id' => '2699',
 			),
 			2043 => 
@@ -20455,7 +20455,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SANNIDAL',
 				'longitude' => 'SANNIDAL',
 				'city' => 'SANNIDAL',
-				'city_id' => '48578',
+				'city_id' => '49143',
 				'state_id' => '2699',
 			),
 			2044 => 
@@ -20485,7 +20485,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKÅTØY',
 				'longitude' => 'SKÅTØY',
 				'city' => 'SKÅTØY',
-				'city_id' => '48578',
+				'city_id' => '49144',
 				'state_id' => '2699',
 			),
 			2047 => 
@@ -20495,7 +20495,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'JOMFRULAND',
 				'longitude' => 'JOMFRULAND',
 				'city' => 'JOMFRULAND',
-				'city_id' => '48578',
+				'city_id' => '49145',
 				'state_id' => '2699',
 			),
 			2048 => 
@@ -20505,7 +20505,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRAGERØ SKJÆRGÅRD59.2096',
 				'longitude' => '9.3469 SKJÆRGÅRD',
 				'city' => 'KRAGERØ SKJÆRGÅRD',
-				'city_id' => '48578',
+				'city_id' => '49146',
 				'state_id' => '2699',
 			),
 			2049 => 
@@ -20535,7 +20535,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STABBESTAD',
 				'longitude' => 'STABBESTAD',
 				'city' => 'STABBESTAD',
-				'city_id' => '48578',
+				'city_id' => '49147',
 				'state_id' => '2699',
 			),
 			2052 => 
@@ -20555,7 +20555,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HELLE',
 				'longitude' => 'HELLE',
 				'city' => 'HELLE',
-				'city_id' => '48578',
+				'city_id' => '49148',
 				'state_id' => '2699',
 			),
 			2054 => 
@@ -20585,7 +20585,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SANNIDAL',
 				'longitude' => 'SANNIDAL',
 				'city' => 'SANNIDAL',
-				'city_id' => '48578',
+				'city_id' => '49143',
 				'state_id' => '2699',
 			),
 			2057 => 
@@ -20595,7 +20595,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HELLE',
 				'longitude' => 'HELLE',
 				'city' => 'HELLE',
-				'city_id' => '48578',
+				'city_id' => '49148',
 				'state_id' => '2699',
 			),
 			2058 => 
@@ -20645,7 +20645,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BØ I TELEMARK',
 				'longitude' => 'BØ I TELEMARK',
 				'city' => 'BØ I TELEMARK',
-				'city_id' => '48581',
+				'city_id' => '49149',
 				'state_id' => '2699',
 			),
 			2063 => 
@@ -20655,7 +20655,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BØ I TELEMARK',
 				'longitude' => 'BØ I TELEMARK',
 				'city' => 'BØ I TELEMARK',
-				'city_id' => '48581',
+				'city_id' => '49149',
 				'state_id' => '2699',
 			),
 			2064 => 
@@ -20665,7 +20665,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BØ I TELEMARK',
 				'longitude' => 'BØ I TELEMARK',
 				'city' => 'BØ I TELEMARK',
-				'city_id' => '48581',
+				'city_id' => '49149',
 				'state_id' => '2699',
 			),
 			2065 => 
@@ -20675,7 +20675,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BØ I TELEMARK',
 				'longitude' => 'BØ I TELEMARK',
 				'city' => 'BØ I TELEMARK',
-				'city_id' => '48581',
+				'city_id' => '49149',
 				'state_id' => '2699',
 			),
 			2066 => 
@@ -20685,7 +20685,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BØ I TELEMARK',
 				'longitude' => 'BØ I TELEMARK',
 				'city' => 'BØ I TELEMARK',
-				'city_id' => '48581',
+				'city_id' => '49149',
 				'state_id' => '2699',
 			),
 			2067 => 
@@ -20695,7 +20695,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BØ I TELEMARK',
 				'longitude' => 'BØ I TELEMARK',
 				'city' => 'BØ I TELEMARK',
-				'city_id' => '48581',
+				'city_id' => '49149',
 				'state_id' => '2699',
 			),
 			2068 => 
@@ -20705,7 +20705,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GVARV',
 				'longitude' => 'GVARV',
 				'city' => 'GVARV',
-				'city_id' => '48581',
+				'city_id' => '49150',
 				'state_id' => '2699',
 			),
 			2069 => 
@@ -20715,7 +20715,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HØRTE',
 				'longitude' => 'HØRTE',
 				'city' => 'HØRTE',
-				'city_id' => '48581',
+				'city_id' => '49151',
 				'state_id' => '2699',
 			),
 			2070 => 
@@ -20725,7 +20725,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.394',
 				'longitude' => '9.2471',
 				'city' => 'AKKERHAUGEN',
-				'city_id' => '48581',
+				'city_id' => '49152',
 				'state_id' => '2699',
 			),
 			2071 => 
@@ -20735,7 +20735,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NORDAGUTU',
 				'longitude' => 'NORDAGUTU',
 				'city' => 'NORDAGUTU',
-				'city_id' => '48581',
+				'city_id' => '49153',
 				'state_id' => '2699',
 			),
 			2072 => 
@@ -20745,7 +20745,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LUNDE',
 				'longitude' => 'LUNDE',
 				'city' => 'LUNDE',
-				'city_id' => '48583',
+				'city_id' => '49154',
 				'state_id' => '2699',
 			),
 			2073 => 
@@ -20755,7 +20755,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.2833',
 				'longitude' => '9.2667',
 				'city' => 'ULEFOSS',
-				'city_id' => '48583',
+				'city_id' => '49155',
 				'state_id' => '2699',
 			),
 			2074 => 
@@ -20765,7 +20765,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.2833',
 				'longitude' => '9.2667',
 				'city' => 'ULEFOSS',
-				'city_id' => '48583',
+				'city_id' => '49155',
 				'state_id' => '2699',
 			),
 			2075 => 
@@ -20775,7 +20775,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LUNDE',
 				'longitude' => 'LUNDE',
 				'city' => 'LUNDE',
-				'city_id' => '48583',
+				'city_id' => '49154',
 				'state_id' => '2699',
 			),
 			2076 => 
@@ -20785,7 +20785,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BØ I TELEMARK',
 				'longitude' => 'BØ I TELEMARK',
 				'city' => 'BØ I TELEMARK',
-				'city_id' => '48581',
+				'city_id' => '49149',
 				'state_id' => '2699',
 			),
 			2077 => 
@@ -20795,7 +20795,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GVARV',
 				'longitude' => 'GVARV',
 				'city' => 'GVARV',
-				'city_id' => '48581',
+				'city_id' => '49150',
 				'state_id' => '2699',
 			),
 			2078 => 
@@ -20835,7 +20835,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FLATDAL',
 				'longitude' => 'FLATDAL',
 				'city' => 'FLATDAL',
-				'city_id' => '48587',
+				'city_id' => '49156',
 				'state_id' => '2699',
 			),
 			2082 => 
@@ -20845,7 +20845,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ÅMOTSDAL',
 				'longitude' => 'ÅMOTSDAL',
 				'city' => 'ÅMOTSDAL',
-				'city_id' => '48587',
+				'city_id' => '49157',
 				'state_id' => '2699',
 			),
 			2083 => 
@@ -20855,7 +20855,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MORGEDAL',
 				'longitude' => 'MORGEDAL',
 				'city' => 'MORGEDAL',
-				'city_id' => '48579',
+				'city_id' => '49158',
 				'state_id' => '2699',
 			),
 			2084 => 
@@ -20865,7 +20865,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VRÅLIOSEN',
 				'longitude' => 'VRÅLIOSEN',
 				'city' => 'VRÅLIOSEN',
-				'city_id' => '48579',
+				'city_id' => '49159',
 				'state_id' => '2699',
 			),
 			2085 => 
@@ -20885,7 +20885,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VRÅDAL',
 				'longitude' => 'VRÅDAL',
 				'city' => 'VRÅDAL',
-				'city_id' => '48579',
+				'city_id' => '49160',
 				'state_id' => '2699',
 			),
 			2087 => 
@@ -20895,7 +20895,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VRÅDAL',
 				'longitude' => 'VRÅDAL',
 				'city' => 'VRÅDAL',
-				'city_id' => '48579',
+				'city_id' => '49160',
 				'state_id' => '2699',
 			),
 			2088 => 
@@ -20915,7 +20915,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.0333',
 				'longitude' => '8.55',
 				'city' => 'TREUNGEN',
-				'city_id' => '48582',
+				'city_id' => '49161',
 				'state_id' => '2699',
 			),
 			2090 => 
@@ -20925,7 +20925,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RAULAND',
 				'longitude' => 'RAULAND',
 				'city' => 'RAULAND',
-				'city_id' => '48593',
+				'city_id' => '49162',
 				'state_id' => '2699',
 			),
 			2091 => 
@@ -20945,7 +20945,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.45',
 				'longitude' => '8',
 				'city' => 'DALEN',
-				'city_id' => '48591',
+				'city_id' => '49163',
 				'state_id' => '2699',
 			),
 			2093 => 
@@ -20955,7 +20955,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ÅMDALS VERK',
 				'longitude' => 'ÅMDALS VERK',
 				'city' => 'ÅMDALS VERK',
-				'city_id' => '48591',
+				'city_id' => '49164',
 				'state_id' => '2699',
 			),
 			2094 => 
@@ -20965,7 +20965,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.0333',
 				'longitude' => '8.55',
 				'city' => 'TREUNGEN',
-				'city_id' => '48582',
+				'city_id' => '49161',
 				'state_id' => '2699',
 			),
 			2095 => 
@@ -20975,7 +20975,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RAULAND',
 				'longitude' => 'RAULAND',
 				'city' => 'RAULAND',
-				'city_id' => '48593',
+				'city_id' => '49162',
 				'state_id' => '2699',
 			),
 			2096 => 
@@ -20995,7 +20995,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.45',
 				'longitude' => '8',
 				'city' => 'DALEN',
-				'city_id' => '48591',
+				'city_id' => '49163',
 				'state_id' => '2699',
 			),
 			2098 => 
@@ -21015,7 +21015,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'EDLAND',
 				'longitude' => 'EDLAND',
 				'city' => 'EDLAND',
-				'city_id' => '48593',
+				'city_id' => '49165',
 				'state_id' => '2699',
 			),
 			2100 => 
@@ -21035,7 +21035,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HØYDALSMO',
 				'longitude' => 'HØYDALSMO',
 				'city' => 'HØYDALSMO',
-				'city_id' => '48591',
+				'city_id' => '49166',
 				'state_id' => '2699',
 			),
 			2102 => 
@@ -21045,7 +21045,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VINJESVINGEN',
 				'longitude' => 'VINJESVINGEN',
 				'city' => 'VINJESVINGEN',
-				'city_id' => '48593',
+				'city_id' => '49167',
 				'state_id' => '2699',
 			),
 			2103 => 
@@ -21055,7 +21055,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'EDLAND',
 				'longitude' => 'EDLAND',
 				'city' => 'EDLAND',
-				'city_id' => '48593',
+				'city_id' => '49165',
 				'state_id' => '2699',
 			),
 			2104 => 
@@ -21415,7 +21415,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LANGANGEN',
 				'longitude' => 'LANGANGEN',
 				'city' => 'LANGANGEN',
-				'city_id' => '48585',
+				'city_id' => '49168',
 				'state_id' => '2699',
 			),
 			2140 => 
@@ -21445,7 +21445,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.0589',
 				'longitude' => '9.6875',
 				'city' => 'BREVIK',
-				'city_id' => '48585',
+				'city_id' => '49169',
 				'state_id' => '2699',
 			),
 			2143 => 
@@ -21455,7 +21455,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STATHELLE',
 				'longitude' => 'STATHELLE',
 				'city' => 'STATHELLE',
-				'city_id' => '48572',
+				'city_id' => '49170',
 				'state_id' => '2699',
 			),
 			2144 => 
@@ -21465,7 +21465,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STATHELLE',
 				'longitude' => 'STATHELLE',
 				'city' => 'STATHELLE',
-				'city_id' => '48572',
+				'city_id' => '49170',
 				'state_id' => '2699',
 			),
 			2145 => 
@@ -21475,7 +21475,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STATHELLE',
 				'longitude' => 'STATHELLE',
 				'city' => 'STATHELLE',
-				'city_id' => '48572',
+				'city_id' => '49170',
 				'state_id' => '2699',
 			),
 			2146 => 
@@ -21485,7 +21485,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HERRE',
 				'longitude' => 'HERRE',
 				'city' => 'HERRE',
-				'city_id' => '48572',
+				'city_id' => '49171',
 				'state_id' => '2699',
 			),
 			2147 => 
@@ -21495,7 +21495,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STATHELLE',
 				'longitude' => 'STATHELLE',
 				'city' => 'STATHELLE',
-				'city_id' => '48572',
+				'city_id' => '49170',
 				'state_id' => '2699',
 			),
 			2148 => 
@@ -21505,7 +21505,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STATHELLE',
 				'longitude' => 'STATHELLE',
 				'city' => 'STATHELLE',
-				'city_id' => '48572',
+				'city_id' => '49170',
 				'state_id' => '2699',
 			),
 			2149 => 
@@ -21515,7 +21515,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59',
 				'longitude' => '9.75',
 				'city' => 'LANGESUND',
-				'city_id' => '48572',
+				'city_id' => '49172',
 				'state_id' => '2699',
 			),
 			2150 => 
@@ -21525,7 +21525,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.0589',
 				'longitude' => '9.6875',
 				'city' => 'BREVIK',
-				'city_id' => '48585',
+				'city_id' => '49169',
 				'state_id' => '2699',
 			),
 			2151 => 
@@ -21535,7 +21535,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59',
 				'longitude' => '9.75',
 				'city' => 'LANGESUND',
-				'city_id' => '48572',
+				'city_id' => '49172',
 				'state_id' => '2699',
 			),
 			2152 => 
@@ -21545,7 +21545,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59',
 				'longitude' => '9.75',
 				'city' => 'LANGESUND',
-				'city_id' => '48572',
+				'city_id' => '49172',
 				'state_id' => '2699',
 			),
 			2153 => 
@@ -21555,7 +21555,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STATHELLE',
 				'longitude' => 'STATHELLE',
 				'city' => 'STATHELLE',
-				'city_id' => '48572',
+				'city_id' => '49170',
 				'state_id' => '2699',
 			),
 			2154 => 
@@ -21595,7 +21595,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HERRE',
 				'longitude' => 'HERRE',
 				'city' => 'HERRE',
-				'city_id' => '48572',
+				'city_id' => '49171',
 				'state_id' => '2699',
 			),
 			2158 => 
@@ -21955,7 +21955,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HAFRSFJORD',
 				'longitude' => 'HAFRSFJORD',
 				'city' => 'HAFRSFJORD',
-				'city_id' => '48490',
+				'city_id' => '49173',
 				'state_id' => '2695',
 			),
 			2194 => 
@@ -21965,7 +21965,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HAFRSFJORD',
 				'longitude' => 'HAFRSFJORD',
 				'city' => 'HAFRSFJORD',
-				'city_id' => '48490',
+				'city_id' => '49173',
 				'state_id' => '2695',
 			),
 			2195 => 
@@ -21975,7 +21975,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HAFRSFJORD',
 				'longitude' => 'HAFRSFJORD',
 				'city' => 'HAFRSFJORD',
-				'city_id' => '48490',
+				'city_id' => '49173',
 				'state_id' => '2695',
 			),
 			2196 => 
@@ -21985,7 +21985,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HAFRSFJORD',
 				'longitude' => 'HAFRSFJORD',
 				'city' => 'HAFRSFJORD',
-				'city_id' => '48490',
+				'city_id' => '49173',
 				'state_id' => '2695',
 			),
 			2197 => 
@@ -21995,7 +21995,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HAFRSFJORD',
 				'longitude' => 'HAFRSFJORD',
 				'city' => 'HAFRSFJORD',
-				'city_id' => '48490',
+				'city_id' => '49173',
 				'state_id' => '2695',
 			),
 			2198 => 
@@ -22005,7 +22005,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HAFRSFJORD',
 				'longitude' => 'HAFRSFJORD',
 				'city' => 'HAFRSFJORD',
-				'city_id' => '48490',
+				'city_id' => '49173',
 				'state_id' => '2695',
 			),
 			2199 => 
@@ -22015,7 +22015,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HAFRSFJORD',
 				'longitude' => 'HAFRSFJORD',
 				'city' => 'HAFRSFJORD',
-				'city_id' => '48490',
+				'city_id' => '49173',
 				'state_id' => '2695',
 			),
 			2200 => 
@@ -22025,7 +22025,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HAFRSFJORD',
 				'longitude' => 'HAFRSFJORD',
 				'city' => 'HAFRSFJORD',
-				'city_id' => '48490',
+				'city_id' => '49173',
 				'state_id' => '2695',
 			),
 			2201 => 
@@ -22035,7 +22035,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HAFRSFJORD',
 				'longitude' => 'HAFRSFJORD',
 				'city' => 'HAFRSFJORD',
-				'city_id' => '48490',
+				'city_id' => '49173',
 				'state_id' => '2695',
 			),
 			2202 => 
@@ -22045,7 +22045,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.88',
 				'longitude' => '5.6286',
 				'city' => 'SOLA',
-				'city_id' => '47262',
+				'city_id' => '1038',
 				'state_id' => '2695',
 			),
 			2203 => 
@@ -22055,7 +22055,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.88',
 				'longitude' => '5.6286',
 				'city' => 'SOLA',
-				'city_id' => '47262',
+				'city_id' => '1038',
 				'state_id' => '2695',
 			),
 			2204 => 
@@ -22065,7 +22065,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RØYNEBERG',
 				'longitude' => 'RØYNEBERG',
 				'city' => 'RØYNEBERG',
-				'city_id' => '47262',
+				'city_id' => '49174',
 				'state_id' => '2695',
 			),
 			2205 => 
@@ -22075,7 +22075,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RÆGE',
 				'longitude' => 'RÆGE',
 				'city' => 'RÆGE',
-				'city_id' => '47262',
+				'city_id' => '49175',
 				'state_id' => '2695',
 			),
 			2206 => 
@@ -22085,7 +22085,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TJELTA',
 				'longitude' => 'TJELTA',
 				'city' => 'TJELTA',
-				'city_id' => '47262',
+				'city_id' => '49176',
 				'state_id' => '2695',
 			),
 			2207 => 
@@ -22095,7 +22095,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.88',
 				'longitude' => '5.6286',
 				'city' => 'SOLA',
-				'city_id' => '47262',
+				'city_id' => '1038',
 				'state_id' => '2695',
 			),
 			2208 => 
@@ -22105,7 +22105,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TANANGER',
 				'longitude' => 'TANANGER',
 				'city' => 'TANANGER',
-				'city_id' => '47262',
+				'city_id' => '49177',
 				'state_id' => '2695',
 			),
 			2209 => 
@@ -22115,7 +22115,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TANANGER',
 				'longitude' => 'TANANGER',
 				'city' => 'TANANGER',
-				'city_id' => '47262',
+				'city_id' => '49177',
 				'state_id' => '2695',
 			),
 			2210 => 
@@ -22125,7 +22125,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TANANGER',
 				'longitude' => 'TANANGER',
 				'city' => 'TANANGER',
-				'city_id' => '47262',
+				'city_id' => '49177',
 				'state_id' => '2695',
 			),
 			2211 => 
@@ -22135,7 +22135,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RØYNEBERG',
 				'longitude' => 'RØYNEBERG',
 				'city' => 'RØYNEBERG',
-				'city_id' => '47262',
+				'city_id' => '49174',
 				'state_id' => '2695',
 			),
 			2212 => 
@@ -22145,7 +22145,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TJELTA',
 				'longitude' => 'TJELTA',
 				'city' => 'TJELTA',
-				'city_id' => '47262',
+				'city_id' => '49176',
 				'state_id' => '2695',
 			),
 			2213 => 
@@ -22165,7 +22165,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.0017',
 				'longitude' => '5.6153',
 				'city' => 'RANDABERG',
-				'city_id' => '48490',
+				'city_id' => '48485',
 				'state_id' => '2695',
 			),
 			2215 => 
@@ -22175,7 +22175,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.0017',
 				'longitude' => '5.6153',
 				'city' => 'RANDABERG',
-				'city_id' => '48490',
+				'city_id' => '48485',
 				'state_id' => '2695',
 			),
 			2216 => 
@@ -22185,7 +22185,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.0017',
 				'longitude' => '5.6153',
 				'city' => 'RANDABERG',
-				'city_id' => '48490',
+				'city_id' => '48485',
 				'state_id' => '2695',
 			),
 			2217 => 
@@ -22195,7 +22195,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.0017',
 				'longitude' => '5.6153',
 				'city' => 'RANDABERG',
-				'city_id' => '48490',
+				'city_id' => '48485',
 				'state_id' => '2695',
 			),
 			2218 => 
@@ -22205,7 +22205,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VASSØY',
 				'longitude' => 'VASSØY',
 				'city' => 'VASSØY',
-				'city_id' => '48490',
+				'city_id' => '49178',
 				'state_id' => '2695',
 			),
 			2219 => 
@@ -22215,7 +22215,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HUNDVÅG',
 				'longitude' => 'HUNDVÅG',
 				'city' => 'HUNDVÅG',
-				'city_id' => '48490',
+				'city_id' => '49179',
 				'state_id' => '2695',
 			),
 			2220 => 
@@ -22265,7 +22265,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HUNDVÅG',
 				'longitude' => 'HUNDVÅG',
 				'city' => 'HUNDVÅG',
-				'city_id' => '48490',
+				'city_id' => '49179',
 				'state_id' => '2695',
 			),
 			2225 => 
@@ -22285,7 +22285,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HUNDVÅG',
 				'longitude' => 'HUNDVÅG',
 				'city' => 'HUNDVÅG',
-				'city_id' => '48490',
+				'city_id' => '49179',
 				'state_id' => '2695',
 			),
 			2227 => 
@@ -22295,7 +22295,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HUNDVÅG',
 				'longitude' => 'HUNDVÅG',
 				'city' => 'HUNDVÅG',
-				'city_id' => '48490',
+				'city_id' => '49179',
 				'state_id' => '2695',
 			),
 			2228 => 
@@ -22325,7 +22325,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HAFRSFJORD',
 				'longitude' => 'HAFRSFJORD',
 				'city' => 'HAFRSFJORD',
-				'city_id' => '48490',
+				'city_id' => '49173',
 				'state_id' => '2695',
 			),
 			2231 => 
@@ -22335,7 +22335,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HAFRSFJORD',
 				'longitude' => 'HAFRSFJORD',
 				'city' => 'HAFRSFJORD',
-				'city_id' => '48490',
+				'city_id' => '49173',
 				'state_id' => '2695',
 			),
 			2232 => 
@@ -22345,7 +22345,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HAFRSFJORD',
 				'longitude' => 'HAFRSFJORD',
 				'city' => 'HAFRSFJORD',
-				'city_id' => '48490',
+				'city_id' => '49173',
 				'state_id' => '2695',
 			),
 			2233 => 
@@ -22395,7 +22395,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.0017',
 				'longitude' => '5.6153',
 				'city' => 'RANDABERG',
-				'city_id' => '48490',
+				'city_id' => '48485',
 				'state_id' => '2695',
 			),
 			2238 => 
@@ -22405,7 +22405,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.88',
 				'longitude' => '5.6286',
 				'city' => 'SOLA',
-				'city_id' => '47262',
+				'city_id' => '1038',
 				'state_id' => '2695',
 			),
 			2239 => 
@@ -22415,7 +22415,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TANANGER',
 				'longitude' => 'TANANGER',
 				'city' => 'TANANGER',
-				'city_id' => '47262',
+				'city_id' => '49177',
 				'state_id' => '2695',
 			),
 			2240 => 
@@ -22435,7 +22435,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.0167',
 				'longitude' => '6.05',
 				'city' => 'JØRPELAND',
-				'city_id' => '48491',
+				'city_id' => '49180',
 				'state_id' => '2695',
 			),
 			2242 => 
@@ -22445,7 +22445,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'IDSE',
 				'longitude' => 'IDSE',
 				'city' => 'IDSE',
-				'city_id' => '48491',
+				'city_id' => '49183',
 				'state_id' => '2695',
 			),
 			2243 => 
@@ -22455,7 +22455,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.0167',
 				'longitude' => '6.05',
 				'city' => 'JØRPELAND',
-				'city_id' => '48491',
+				'city_id' => '49180',
 				'state_id' => '2695',
 			),
 			2244 => 
@@ -22465,7 +22465,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.0167',
 				'longitude' => '6.05',
 				'city' => 'JØRPELAND',
-				'city_id' => '48491',
+				'city_id' => '49180',
 				'state_id' => '2695',
 			),
 			2245 => 
@@ -22475,7 +22475,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.0167',
 				'longitude' => '6.05',
 				'city' => 'JØRPELAND',
-				'city_id' => '48491',
+				'city_id' => '49180',
 				'state_id' => '2695',
 			),
 			2246 => 
@@ -22485,7 +22485,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.9094',
 				'longitude' => '6.2011',
 				'city' => 'FORSAND',
-				'city_id' => '48486',
+				'city_id' => '49181',
 				'state_id' => '2695',
 			),
 			2247 => 
@@ -22495,7 +22495,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.9094',
 				'longitude' => '6.2011',
 				'city' => 'FORSAND',
-				'city_id' => '48486',
+				'city_id' => '49181',
 				'state_id' => '2695',
 			),
 			2248 => 
@@ -22505,7 +22505,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TAU',
 				'longitude' => 'TAU',
 				'city' => 'TAU',
-				'city_id' => '48491',
+				'city_id' => '49182',
 				'state_id' => '2695',
 			),
 			2249 => 
@@ -22515,7 +22515,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TAU',
 				'longitude' => 'TAU',
 				'city' => 'TAU',
-				'city_id' => '48491',
+				'city_id' => '49182',
 				'state_id' => '2695',
 			),
 			2250 => 
@@ -22525,7 +22525,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SØR-HIDLE',
 				'longitude' => 'SØR-HIDLE',
 				'city' => 'SØR-HIDLE',
-				'city_id' => '48491',
+				'city_id' => '49184',
 				'state_id' => '2695',
 			),
 			2251 => 
@@ -22535,7 +22535,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TAU',
 				'longitude' => 'TAU',
 				'city' => 'TAU',
-				'city_id' => '48491',
+				'city_id' => '49182',
 				'state_id' => '2695',
 			),
 			2252 => 
@@ -22545,7 +22545,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.0167',
 				'longitude' => '6.05',
 				'city' => 'JØRPELAND',
-				'city_id' => '48491',
+				'city_id' => '49180',
 				'state_id' => '2695',
 			),
 			2253 => 
@@ -22555,7 +22555,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LYSEBOTN',
 				'longitude' => 'LYSEBOTN',
 				'city' => 'LYSEBOTN',
-				'city_id' => '48486',
+				'city_id' => '49185',
 				'state_id' => '2695',
 			),
 			2254 => 
@@ -22565,7 +22565,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FLØYRLI',
 				'longitude' => 'FLØYRLI',
 				'city' => 'FLØYRLI',
-				'city_id' => '48486',
+				'city_id' => '49186',
 				'state_id' => '2695',
 			),
 			2255 => 
@@ -22575,7 +22575,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SONGESAND',
 				'longitude' => 'SONGESAND',
 				'city' => 'SONGESAND',
-				'city_id' => '48486',
+				'city_id' => '49187',
 				'state_id' => '2695',
 			),
 			2256 => 
@@ -22595,7 +22595,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'JØSENFJORDEN',
 				'longitude' => 'JØSENFJORDEN',
 				'city' => 'JØSENFJORDEN',
-				'city_id' => '48479',
+				'city_id' => '49188',
 				'state_id' => '2695',
 			),
 			2258 => 
@@ -22605,7 +22605,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ÅRDAL I RYFYLKE',
 				'longitude' => 'ÅRDAL I RYFYLKE',
 				'city' => 'ÅRDAL I RYFYLKE',
-				'city_id' => '48479',
+				'city_id' => '49189',
 				'state_id' => '2695',
 			),
 			2259 => 
@@ -22615,7 +22615,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FISTER',
 				'longitude' => 'FISTER',
 				'city' => 'FISTER',
-				'city_id' => '48479',
+				'city_id' => '49190',
 				'state_id' => '2695',
 			),
 			2260 => 
@@ -22625,7 +22625,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKIFTUN',
 				'longitude' => 'SKIFTUN',
 				'city' => 'SKIFTUN',
-				'city_id' => '48479',
+				'city_id' => '49191',
 				'state_id' => '2695',
 			),
 			2261 => 
@@ -22645,7 +22645,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RENNESØY',
 				'longitude' => 'RENNESØY',
 				'city' => 'RENNESØY',
-				'city_id' => '48490',
+				'city_id' => '49192',
 				'state_id' => '2695',
 			),
 			2263 => 
@@ -22655,7 +22655,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VESTRE ÅMØY',
 				'longitude' => 'VESTRE ÅMØY',
 				'city' => 'VESTRE ÅMØY',
-				'city_id' => '48490',
+				'city_id' => '49193',
 				'state_id' => '2695',
 			),
 			2264 => 
@@ -22665,7 +22665,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BRIMSE',
 				'longitude' => 'BRIMSE',
 				'city' => 'BRIMSE',
-				'city_id' => '48490',
+				'city_id' => '49194',
 				'state_id' => '2695',
 			),
 			2265 => 
@@ -22675,7 +22675,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'AUSTRE ÅMØY',
 				'longitude' => 'AUSTRE ÅMØY',
 				'city' => 'AUSTRE ÅMØY',
-				'city_id' => '48490',
+				'city_id' => '49195',
 				'state_id' => '2695',
 			),
 			2266 => 
@@ -22685,7 +22685,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MOSTERØY',
 				'longitude' => 'MOSTERØY',
 				'city' => 'MOSTERØY',
-				'city_id' => '48490',
+				'city_id' => '49196',
 				'state_id' => '2695',
 			),
 			2267 => 
@@ -22695,7 +22695,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BRU',
 				'longitude' => 'BRU',
 				'city' => 'BRU',
-				'city_id' => '48490',
+				'city_id' => '49197',
 				'state_id' => '2695',
 			),
 			2268 => 
@@ -22705,7 +22705,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RENNESØY',
 				'longitude' => 'RENNESØY',
 				'city' => 'RENNESØY',
-				'city_id' => '48490',
+				'city_id' => '49192',
 				'state_id' => '2695',
 			),
 			2269 => 
@@ -22715,7 +22715,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FINNØY',
 				'longitude' => 'FINNØY',
 				'city' => 'FINNØY',
-				'city_id' => '48490',
+				'city_id' => '49198',
 				'state_id' => '2695',
 			),
 			2270 => 
@@ -22725,7 +22725,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FINNØY',
 				'longitude' => 'FINNØY',
 				'city' => 'FINNØY',
-				'city_id' => '48490',
+				'city_id' => '49198',
 				'state_id' => '2695',
 			),
 			2271 => 
@@ -22735,7 +22735,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TALGJE',
 				'longitude' => 'TALGJE',
 				'city' => 'TALGJE',
-				'city_id' => '48490',
+				'city_id' => '49199',
 				'state_id' => '2695',
 			),
 			2272 => 
@@ -22745,7 +22745,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FOGN',
 				'longitude' => 'FOGN',
 				'city' => 'FOGN',
-				'city_id' => '48490',
+				'city_id' => '49200',
 				'state_id' => '2695',
 			),
 			2273 => 
@@ -22755,7 +22755,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HELGØY I RYFYLKE',
 				'longitude' => 'HELGØY I RYFYLKE',
 				'city' => 'HELGØY I RYFYLKE',
-				'city_id' => '48479',
+				'city_id' => '49201',
 				'state_id' => '2695',
 			),
 			2274 => 
@@ -22765,7 +22765,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BYRE',
 				'longitude' => 'BYRE',
 				'city' => 'BYRE',
-				'city_id' => '48490',
+				'city_id' => '49202',
 				'state_id' => '2695',
 			),
 			2275 => 
@@ -22775,7 +22775,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SØRBOKN',
 				'longitude' => 'SØRBOKN',
 				'city' => 'SØRBOKN',
-				'city_id' => '48490',
+				'city_id' => '49203',
 				'state_id' => '2695',
 			),
 			2276 => 
@@ -22785,7 +22785,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SJERNARØY',
 				'longitude' => 'SJERNARØY',
 				'city' => 'SJERNARØY',
-				'city_id' => '48490',
+				'city_id' => '49204',
 				'state_id' => '2695',
 			),
 			2277 => 
@@ -22795,7 +22795,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NORD-HIDLE',
 				'longitude' => 'NORD-HIDLE',
 				'city' => 'NORD-HIDLE',
-				'city_id' => '48490',
+				'city_id' => '49205',
 				'state_id' => '2695',
 			),
 			2278 => 
@@ -22805,7 +22805,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SJERNARØY',
 				'longitude' => 'SJERNARØY',
 				'city' => 'SJERNARØY',
-				'city_id' => '48490',
+				'city_id' => '49204',
 				'state_id' => '2695',
 			),
 			2279 => 
@@ -22835,7 +22835,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKARTVEIT',
 				'longitude' => 'SKARTVEIT',
 				'city' => 'SKARTVEIT',
-				'city_id' => '48490',
+				'city_id' => '49206',
 				'state_id' => '2695',
 			),
 			2282 => 
@@ -22845,7 +22845,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'OMBO',
 				'longitude' => 'OMBO',
 				'city' => 'OMBO',
-				'city_id' => '48490',
+				'city_id' => '49207',
 				'state_id' => '2695',
 			),
 			2283 => 
@@ -22855,7 +22855,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FOLDØY',
 				'longitude' => 'FOLDØY',
 				'city' => 'FOLDØY',
-				'city_id' => '48492',
+				'city_id' => '49208',
 				'state_id' => '2695',
 			),
 			2284 => 
@@ -22865,7 +22865,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.6875',
 				'longitude' => '6.4372',
 				'city' => 'SAUDA',
-				'city_id' => '48492',
+				'city_id' => '48487',
 				'state_id' => '2695',
 			),
 			2285 => 
@@ -22875,7 +22875,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.6875',
 				'longitude' => '6.4372',
 				'city' => 'SAUDA',
-				'city_id' => '48492',
+				'city_id' => '48487',
 				'state_id' => '2695',
 			),
 			2286 => 
@@ -22885,7 +22885,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SAUDASJØEN',
 				'longitude' => 'SAUDASJØEN',
 				'city' => 'SAUDASJØEN',
-				'city_id' => '48492',
+				'city_id' => '49209',
 				'state_id' => '2695',
 			),
 			2287 => 
@@ -22895,7 +22895,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VANVIK',
 				'longitude' => 'VANVIK',
 				'city' => 'VANVIK',
-				'city_id' => '48492',
+				'city_id' => '49210',
 				'state_id' => '2695',
 			),
 			2288 => 
@@ -22905,7 +22905,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.4422',
 				'longitude' => '11.5681',
 				'city' => 'SAND',
-				'city_id' => '48492',
+				'city_id' => '49211',
 				'state_id' => '2695',
 			),
 			2289 => 
@@ -22915,7 +22915,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ERFJORD',
 				'longitude' => 'ERFJORD',
 				'city' => 'ERFJORD',
-				'city_id' => '48492',
+				'city_id' => '49212',
 				'state_id' => '2695',
 			),
 			2290 => 
@@ -22925,7 +22925,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'JELSA',
 				'longitude' => 'JELSA',
 				'city' => 'JELSA',
-				'city_id' => '48492',
+				'city_id' => '14271',
 				'state_id' => '2695',
 			),
 			2291 => 
@@ -22935,7 +22935,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HEBNES',
 				'longitude' => 'HEBNES',
 				'city' => 'HEBNES',
-				'city_id' => '48492',
+				'city_id' => '49213',
 				'state_id' => '2695',
 			),
 			2292 => 
@@ -22945,7 +22945,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.4683',
 				'longitude' => '6.4997',
 				'city' => 'SULDALSOSEN',
-				'city_id' => '48492',
+				'city_id' => '49214',
 				'state_id' => '2695',
 			),
 			2293 => 
@@ -22955,7 +22955,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.4422',
 				'longitude' => '11.5681',
 				'city' => 'SAND',
-				'city_id' => '48492',
+				'city_id' => '49211',
 				'state_id' => '2695',
 			),
 			2294 => 
@@ -22965,7 +22965,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.4683',
 				'longitude' => '6.4997',
 				'city' => 'SULDALSOSEN',
-				'city_id' => '48492',
+				'city_id' => '49214',
 				'state_id' => '2695',
 			),
 			2295 => 
@@ -22975,7 +22975,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NESFLATEN',
 				'longitude' => 'NESFLATEN',
 				'city' => 'NESFLATEN',
-				'city_id' => '48492',
+				'city_id' => '49214',
 				'state_id' => '2695',
 			),
 			2296 => 
@@ -22985,7 +22985,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.2833',
 				'longitude' => '5.3',
 				'city' => 'KOPERVIK',
-				'city_id' => '48481',
+				'city_id' => '49215',
 				'state_id' => '2695',
 			),
 			2297 => 
@@ -22995,7 +22995,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TORVASTAD',
 				'longitude' => 'TORVASTAD',
 				'city' => 'TORVASTAD',
-				'city_id' => '48481',
+				'city_id' => '49216',
 				'state_id' => '2695',
 			),
 			2298 => 
@@ -23005,7 +23005,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'AVALDSNES',
 				'longitude' => 'AVALDSNES',
 				'city' => 'AVALDSNES',
-				'city_id' => '48481',
+				'city_id' => '49217',
 				'state_id' => '2695',
 			),
 			2299 => 
@@ -23015,7 +23015,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KVALAVÅG',
 				'longitude' => 'KVALAVÅG',
 				'city' => 'KVALAVÅG',
-				'city_id' => '48481',
+				'city_id' => '49218',
 				'state_id' => '2695',
 			),
 			2300 => 
@@ -23025,7 +23025,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HÅVIK',
 				'longitude' => 'HÅVIK',
 				'city' => 'HÅVIK',
-				'city_id' => '48481',
+				'city_id' => '49219',
 				'state_id' => '2695',
 			),
 			2301 => 
@@ -23035,7 +23035,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.2603',
 				'longitude' => '5.1856',
 				'city' => 'ÅKREHAMN',
-				'city_id' => '48481',
+				'city_id' => '49220',
 				'state_id' => '2695',
 			),
 			2302 => 
@@ -23045,7 +23045,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SANDVE',
 				'longitude' => 'SANDVE',
 				'city' => 'SANDVE',
-				'city_id' => '48481',
+				'city_id' => '49221',
 				'state_id' => '2695',
 			),
 			2303 => 
@@ -23055,7 +23055,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STOL',
 				'longitude' => 'STOL',
 				'city' => 'STOL',
-				'city_id' => '48481',
+				'city_id' => '49222',
 				'state_id' => '2695',
 			),
 			2304 => 
@@ -23065,7 +23065,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SÆVELANDSVIK',
 				'longitude' => 'SÆVELANDSVIK',
 				'city' => 'SÆVELANDSVIK',
-				'city_id' => '48481',
+				'city_id' => '49223',
 				'state_id' => '2695',
 			),
 			2305 => 
@@ -23075,7 +23075,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VEAVÅGEN',
 				'longitude' => 'VEAVÅGEN',
 				'city' => 'VEAVÅGEN',
-				'city_id' => '48481',
+				'city_id' => '49224',
 				'state_id' => '2695',
 			),
 			2306 => 
@@ -23085,7 +23085,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKUDENESHAVN',
 				'longitude' => 'SKUDENESHAVN',
 				'city' => 'SKUDENESHAVN',
-				'city_id' => '48481',
+				'city_id' => '49225',
 				'state_id' => '2695',
 			),
 			2307 => 
@@ -23095,7 +23095,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.2833',
 				'longitude' => '5.3',
 				'city' => 'KOPERVIK',
-				'city_id' => '48481',
+				'city_id' => '49215',
 				'state_id' => '2695',
 			),
 			2308 => 
@@ -23105,7 +23105,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.2833',
 				'longitude' => '5.3',
 				'city' => 'KOPERVIK',
-				'city_id' => '48481',
+				'city_id' => '49215',
 				'state_id' => '2695',
 			),
 			2309 => 
@@ -23115,7 +23115,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VEAVÅGEN',
 				'longitude' => 'VEAVÅGEN',
 				'city' => 'VEAVÅGEN',
-				'city_id' => '48481',
+				'city_id' => '49224',
 				'state_id' => '2695',
 			),
 			2310 => 
@@ -23125,7 +23125,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.2603',
 				'longitude' => '5.1856',
 				'city' => 'ÅKREHAMN',
-				'city_id' => '48481',
+				'city_id' => '49220',
 				'state_id' => '2695',
 			),
 			2311 => 
@@ -23135,7 +23135,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKUDENESHAVN',
 				'longitude' => 'SKUDENESHAVN',
 				'city' => 'SKUDENESHAVN',
-				'city_id' => '48481',
+				'city_id' => '49225',
 				'state_id' => '2695',
 			),
 			2312 => 
@@ -23145,7 +23145,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TORVASTAD',
 				'longitude' => 'TORVASTAD',
 				'city' => 'TORVASTAD',
-				'city_id' => '48481',
+				'city_id' => '49216',
 				'state_id' => '2695',
 			),
 			2313 => 
@@ -23155,7 +23155,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'AVALDSNES',
 				'longitude' => 'AVALDSNES',
 				'city' => 'AVALDSNES',
-				'city_id' => '48481',
+				'city_id' => '49217',
 				'state_id' => '2695',
 			),
 			2314 => 
@@ -23225,7 +23225,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HOMMERSÅK',
 				'longitude' => 'HOMMERSÅK',
 				'city' => 'HOMMERSÅK',
-				'city_id' => '48486',
+				'city_id' => '49226',
 				'state_id' => '2695',
 			),
 			2321 => 
@@ -23235,7 +23235,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HOMMERSÅK',
 				'longitude' => 'HOMMERSÅK',
 				'city' => 'HOMMERSÅK',
-				'city_id' => '48486',
+				'city_id' => '49226',
 				'state_id' => '2695',
 			),
 			2322 => 
@@ -23425,7 +23425,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.7667',
 				'longitude' => '5.85',
 				'city' => 'ÅLGÅRD',
-				'city_id' => '48477',
+				'city_id' => '492276',
 				'state_id' => '2695',
 			),
 			2341 => 
@@ -23435,7 +23435,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.7667',
 				'longitude' => '5.85',
 				'city' => 'ÅLGÅRD',
-				'city_id' => '48477',
+				'city_id' => '492276',
 				'state_id' => '2695',
 			),
 			2342 => 
@@ -23445,7 +23445,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FIGGJO',
 				'longitude' => 'FIGGJO',
 				'city' => 'FIGGJO',
-				'city_id' => '48486',
+				'city_id' => '49227',
 				'state_id' => '2695',
 			),
 			2343 => 
@@ -23455,7 +23455,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'OLTEDAL',
 				'longitude' => 'OLTEDAL',
 				'city' => 'OLTEDAL',
-				'city_id' => '48477',
+				'city_id' => '49228',
 				'state_id' => '2695',
 			),
 			2344 => 
@@ -23465,7 +23465,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.7667',
 				'longitude' => '5.85',
 				'city' => 'ÅLGÅRD',
-				'city_id' => '48477',
+				'city_id' => '492276',
 				'state_id' => '2695',
 			),
 			2345 => 
@@ -23475,7 +23475,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'DIRDAL',
 				'longitude' => 'DIRDAL',
 				'city' => 'DIRDAL',
-				'city_id' => '48477',
+				'city_id' => '49229',
 				'state_id' => '2695',
 			),
 			2346 => 
@@ -23515,7 +23515,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.7667',
 				'longitude' => '5.85',
 				'city' => 'ÅLGÅRD',
-				'city_id' => '48477',
+				'city_id' => '492276',
 				'state_id' => '2695',
 			),
 			2350 => 
@@ -23525,7 +23525,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.7333',
 				'longitude' => '5.65',
 				'city' => 'BRYNE',
-				'city_id' => '48493',
+				'city_id' => '49230',
 				'state_id' => '2695',
 			),
 			2351 => 
@@ -23535,7 +23535,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.7333',
 				'longitude' => '5.65',
 				'city' => 'BRYNE',
-				'city_id' => '48493',
+				'city_id' => '49230',
 				'state_id' => '2695',
 			),
 			2352 => 
@@ -23545,7 +23545,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'UNDHEIM',
 				'longitude' => 'UNDHEIM',
 				'city' => 'UNDHEIM',
-				'city_id' => '48493',
+				'city_id' => '49231',
 				'state_id' => '2695',
 			),
 			2353 => 
@@ -23555,7 +23555,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ORRE',
 				'longitude' => 'ORRE',
 				'city' => 'ORRE',
-				'city_id' => '48482',
+				'city_id' => '49232',
 				'state_id' => '2695',
 			),
 			2354 => 
@@ -23565,7 +23565,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.7333',
 				'longitude' => '5.65',
 				'city' => 'BRYNE',
-				'city_id' => '48493',
+				'city_id' => '49230',
 				'state_id' => '2695',
 			),
 			2355 => 
@@ -23575,7 +23575,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.7333',
 				'longitude' => '5.65',
 				'city' => 'BRYNE',
-				'city_id' => '48493',
+				'city_id' => '49230',
 				'state_id' => '2695',
 			),
 			2356 => 
@@ -23585,7 +23585,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.7333',
 				'longitude' => '5.65',
 				'city' => 'BRYNE',
-				'city_id' => '48493',
+				'city_id' => '49230',
 				'state_id' => '2695',
 			),
 			2357 => 
@@ -23595,7 +23595,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LYE',
 				'longitude' => 'LYE',
 				'city' => 'LYE',
-				'city_id' => '48493',
+				'city_id' => '49233',
 				'state_id' => '2695',
 			),
 			2358 => 
@@ -23605,7 +23605,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LYE',
 				'longitude' => 'LYE',
 				'city' => 'LYE',
-				'city_id' => '48493',
+				'city_id' => '49233',
 				'state_id' => '2695',
 			),
 			2359 => 
@@ -23615,7 +23615,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.7333',
 				'longitude' => '5.65',
 				'city' => 'BRYNE',
-				'city_id' => '48493',
+				'city_id' => '49230',
 				'state_id' => '2695',
 			),
 			2360 => 
@@ -23625,7 +23625,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.7772',
 				'longitude' => '5.5967',
 				'city' => 'KLEPPE',
-				'city_id' => '48482',
+				'city_id' => '49234',
 				'state_id' => '2695',
 			),
 			2361 => 
@@ -23635,7 +23635,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.7772',
 				'longitude' => '5.5967',
 				'city' => 'KLEPPE',
-				'city_id' => '48482',
+				'city_id' => '49234',
 				'state_id' => '2695',
 			),
 			2362 => 
@@ -23645,7 +23645,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.7772',
 				'longitude' => '5.5967',
 				'city' => 'KLEPPE',
-				'city_id' => '48482',
+				'city_id' => '49234',
 				'state_id' => '2695',
 			),
 			2363 => 
@@ -23655,7 +23655,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KLEPP STASJON',
 				'longitude' => 'KLEPP STASJON',
 				'city' => 'KLEPP STASJON',
-				'city_id' => '48482',
+				'city_id' => '49235',
 				'state_id' => '2695',
 			),
 			2364 => 
@@ -23665,7 +23665,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VOLL',
 				'longitude' => 'VOLL',
 				'city' => 'VOLL',
-				'city_id' => '48482',
+				'city_id' => '49236',
 				'state_id' => '2695',
 			),
 			2365 => 
@@ -23675,7 +23675,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KVERNALAND',
 				'longitude' => 'KVERNALAND',
 				'city' => 'KVERNALAND',
-				'city_id' => '48493',
+				'city_id' => '49237',
 				'state_id' => '2695',
 			),
 			2366 => 
@@ -23685,7 +23685,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KVERNALAND',
 				'longitude' => 'KVERNALAND',
 				'city' => 'KVERNALAND',
-				'city_id' => '48493',
+				'city_id' => '49237',
 				'state_id' => '2695',
 			),
 			2367 => 
@@ -23695,7 +23695,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KLEPP STASJON',
 				'longitude' => 'KLEPP STASJON',
 				'city' => 'KLEPP STASJON',
-				'city_id' => '48482',
+				'city_id' => '49235',
 				'state_id' => '2695',
 			),
 			2368 => 
@@ -23705,7 +23705,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.7772',
 				'longitude' => '5.5967',
 				'city' => 'KLEPPE',
-				'city_id' => '48482',
+				'city_id' => '49234',
 				'state_id' => '2695',
 			),
 			2369 => 
@@ -23715,7 +23715,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.6181',
 				'longitude' => '5.6569',
 				'city' => 'VARHAUG',
-				'city_id' => '48480',
+				'city_id' => '49238',
 				'state_id' => '2695',
 			),
 			2370 => 
@@ -23725,7 +23725,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SIREVÅG',
 				'longitude' => 'SIREVÅG',
 				'city' => 'SIREVÅG',
-				'city_id' => '48480',
+				'city_id' => '49239',
 				'state_id' => '2695',
 			),
 			2371 => 
@@ -23735,7 +23735,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VIGRESTAD',
 				'longitude' => 'VIGRESTAD',
 				'city' => 'VIGRESTAD',
-				'city_id' => '48480',
+				'city_id' => '49240',
 				'state_id' => '2695',
 			),
 			2372 => 
@@ -23745,7 +23745,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BRUSAND',
 				'longitude' => 'BRUSAND',
 				'city' => 'BRUSAND',
-				'city_id' => '48480',
+				'city_id' => '49241',
 				'state_id' => '2695',
 			),
 			2373 => 
@@ -23755,7 +23755,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SIREVÅG',
 				'longitude' => 'SIREVÅG',
 				'city' => 'SIREVÅG',
-				'city_id' => '48480',
+				'city_id' => '49239',
 				'state_id' => '2695',
 			),
 			2374 => 
@@ -23765,7 +23765,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NÆRBØ',
 				'longitude' => 'NÆRBØ',
 				'city' => 'NÆRBØ',
-				'city_id' => '48480',
+				'city_id' => '49242',
 				'state_id' => '2695',
 			),
 			2375 => 
@@ -23775,7 +23775,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NÆRBØ',
 				'longitude' => 'NÆRBØ',
 				'city' => 'NÆRBØ',
-				'city_id' => '48480',
+				'city_id' => '49242',
 				'state_id' => '2695',
 			),
 			2376 => 
@@ -23785,7 +23785,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.6181',
 				'longitude' => '5.6569',
 				'city' => 'VARHAUG',
-				'city_id' => '48480',
+				'city_id' => '49238',
 				'state_id' => '2695',
 			),
 			2377 => 
@@ -23795,7 +23795,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VIGRESTAD',
 				'longitude' => 'VIGRESTAD',
 				'city' => 'VIGRESTAD',
-				'city_id' => '48480',
+				'city_id' => '49240',
 				'state_id' => '2695',
 			),
 			2378 => 
@@ -23855,7 +23855,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HELLVIK',
 				'longitude' => 'HELLVIK',
 				'city' => 'HELLVIK',
-				'city_id' => '48706',
+				'city_id' => '49243',
 				'state_id' => '2695',
 			),
 			2384 => 
@@ -23865,7 +23865,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HELLELAND',
 				'longitude' => 'HELLELAND',
 				'city' => 'HELLELAND',
-				'city_id' => '48706',
+				'city_id' => '49244',
 				'state_id' => '2695',
 			),
 			2385 => 
@@ -23895,7 +23895,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HAUGE I DALANE',
 				'longitude' => 'HAUGE I DALANE',
 				'city' => 'HAUGE I DALANE',
-				'city_id' => '48488',
+				'city_id' => '49245',
 				'state_id' => '2695',
 			),
 			2388 => 
@@ -23905,7 +23905,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HAUGE I DALANE',
 				'longitude' => 'HAUGE I DALANE',
 				'city' => 'HAUGE I DALANE',
-				'city_id' => '48488',
+				'city_id' => '49245',
 				'state_id' => '2695',
 			),
 			2389 => 
@@ -23915,7 +23915,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.6333',
 				'longitude' => '6.1',
 				'city' => 'VIKESÅ',
-				'city_id' => '48474',
+				'city_id' => '49246',
 				'state_id' => '2695',
 			),
 			2390 => 
@@ -23925,7 +23925,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HELLELAND',
 				'longitude' => 'HELLELAND',
 				'city' => 'HELLELAND',
-				'city_id' => '48476',
+				'city_id' => '49244',
 				'state_id' => '2695',
 			),
 			2391 => 
@@ -23945,7 +23945,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.6333',
 				'longitude' => '6.1',
 				'city' => 'VIKESÅ',
-				'city_id' => '48474',
+				'city_id' => '49246',
 				'state_id' => '2695',
 			),
 			2393 => 
@@ -23955,7 +23955,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'OLTEDAL',
 				'longitude' => 'OLTEDAL',
 				'city' => 'OLTEDAL',
-				'city_id' => '48477',
+				'city_id' => '49228',
 				'state_id' => '2695',
 			),
 			2394 => 
@@ -24005,7 +24005,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HOMMERSÅK',
 				'longitude' => 'HOMMERSÅK',
 				'city' => 'HOMMERSÅK',
-				'city_id' => '48486',
+				'city_id' => '49226',
 				'state_id' => '2695',
 			),
 			2399 => 
@@ -24135,7 +24135,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ÅNA-SIRA',
 				'longitude' => 'ÅNA-SIRA',
 				'city' => 'ÅNA-SIRA',
-				'city_id' => '48321',
+				'city_id' => '49247',
 				'state_id' => '2690',
 			),
 			2412 => 
@@ -24145,7 +24145,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HIDRASUND',
 				'longitude' => 'HIDRASUND',
 				'city' => 'HIDRASUND',
-				'city_id' => '48321',
+				'city_id' => '49248',
 				'state_id' => '2690',
 			),
 			2413 => 
@@ -24155,7 +24155,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ANDABELØY',
 				'longitude' => 'ANDABELØY',
 				'city' => 'ANDABELØY',
-				'city_id' => '48321',
+				'city_id' => '49249',
 				'state_id' => '2690',
 			),
 			2414 => 
@@ -24165,7 +24165,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GYLAND',
 				'longitude' => 'GYLAND',
 				'city' => 'GYLAND',
-				'city_id' => '48321',
+				'city_id' => '49250',
 				'state_id' => '2690',
 			),
 			2415 => 
@@ -24175,7 +24175,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SIRA',
 				'longitude' => 'SIRA',
 				'city' => 'SIRA',
-				'city_id' => '48321',
+				'city_id' => '1806',
 				'state_id' => '2690',
 			),
 			2416 => 
@@ -24185,7 +24185,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SIRA',
 				'longitude' => 'SIRA',
 				'city' => 'SIRA',
-				'city_id' => '48321',
+				'city_id' => '1806',
 				'state_id' => '2690',
 			),
 			2417 => 
@@ -24195,7 +24195,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.6642',
 				'longitude' => '6.7164',
 				'city' => 'TONSTAD',
-				'city_id' => '48333',
+				'city_id' => '49251',
 				'state_id' => '2690',
 			),
 			2418 => 
@@ -24205,7 +24205,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.6642',
 				'longitude' => '6.7164',
 				'city' => 'TONSTAD',
-				'city_id' => '48333',
+				'city_id' => '49251',
 				'state_id' => '2690',
 			),
 			2419 => 
@@ -24215,7 +24215,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TJØRHOM',
 				'longitude' => 'TJØRHOM',
 				'city' => 'TJØRHOM',
-				'city_id' => '48333',
+				'city_id' => '49252',
 				'state_id' => '2690',
 			),
 			2420 => 
@@ -24225,7 +24225,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.4667',
 				'longitude' => '6.5333',
 				'city' => 'MOI',
-				'city_id' => '48484',
+				'city_id' => '49253',
 				'state_id' => '2695',
 			),
 			2421 => 
@@ -24235,7 +24235,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HOVSHERAD',
 				'longitude' => 'HOVSHERAD',
 				'city' => 'HOVSHERAD',
-				'city_id' => '48484',
+				'city_id' => '49254',
 				'state_id' => '2695',
 			),
 			2422 => 
@@ -24245,7 +24245,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'UALAND',
 				'longitude' => 'UALAND',
 				'city' => 'UALAND',
-				'city_id' => '48484',
+				'city_id' => '49255',
 				'state_id' => '2695',
 			),
 			2423 => 
@@ -24255,7 +24255,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.4667',
 				'longitude' => '6.5333',
 				'city' => 'MOI',
-				'city_id' => '48484',
+				'city_id' => '49253',
 				'state_id' => '2695',
 			),
 			2424 => 
@@ -24265,7 +24265,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KVINLOG',
 				'longitude' => 'KVINLOG',
 				'city' => 'KVINLOG',
-				'city_id' => '48328',
+				'city_id' => '49256',
 				'state_id' => '2690',
 			),
 			2425 => 
@@ -24285,7 +24285,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ØYESTRANDA',
 				'longitude' => 'ØYESTRANDA',
 				'city' => 'ØYESTRANDA',
-				'city_id' => '48328',
+				'city_id' => '49257',
 				'state_id' => '2690',
 			),
 			2427 => 
@@ -24295,7 +24295,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FEDA',
 				'longitude' => 'FEDA',
 				'city' => 'FEDA',
-				'city_id' => '48328',
+				'city_id' => '49258',
 				'state_id' => '2690',
 			),
 			2428 => 
@@ -24305,7 +24305,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FEDA',
 				'longitude' => 'FEDA',
 				'city' => 'FEDA',
-				'city_id' => '48328',
+				'city_id' => '49258',
 				'state_id' => '2690',
 			),
 			2429 => 
@@ -24345,7 +24345,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.0333',
 				'longitude' => '7.4833',
 				'city' => 'MANDAL',
-				'city_id' => '48330',
+				'city_id' => '964',
 				'state_id' => '2690',
 			),
 			2433 => 
@@ -24355,7 +24355,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.0333',
 				'longitude' => '7.4833',
 				'city' => 'MANDAL',
-				'city_id' => '48330',
+				'city_id' => '964',
 				'state_id' => '2690',
 			),
 			2434 => 
@@ -24365,7 +24365,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.0333',
 				'longitude' => '7.4833',
 				'city' => 'MANDAL',
-				'city_id' => '48330',
+				'city_id' => '964',
 				'state_id' => '2690',
 			),
 			2435 => 
@@ -24375,7 +24375,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.0333',
 				'longitude' => '7.4833',
 				'city' => 'MANDAL',
-				'city_id' => '48330',
+				'city_id' => '964',
 				'state_id' => '2690',
 			),
 			2436 => 
@@ -24385,7 +24385,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.0333',
 				'longitude' => '7.4833',
 				'city' => 'MANDAL',
-				'city_id' => '48330',
+				'city_id' => '964',
 				'state_id' => '2690',
 			),
 			2437 => 
@@ -24395,7 +24395,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.0333',
 				'longitude' => '7.4833',
 				'city' => 'MANDAL',
-				'city_id' => '48330',
+				'city_id' => '964',
 				'state_id' => '2690',
 			),
 			2438 => 
@@ -24405,7 +24405,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.0333',
 				'longitude' => '7.4833',
 				'city' => 'MANDAL',
-				'city_id' => '48330',
+				'city_id' => '964',
 				'state_id' => '2690',
 			),
 			2439 => 
@@ -24415,7 +24415,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.0333',
 				'longitude' => '7.4833',
 				'city' => 'MANDAL',
-				'city_id' => '48330',
+				'city_id' => '964',
 				'state_id' => '2690',
 			),
 			2440 => 
@@ -24425,7 +24425,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.0333',
 				'longitude' => '7.4833',
 				'city' => 'MANDAL',
-				'city_id' => '48330',
+				'city_id' => '964',
 				'state_id' => '2690',
 			),
 			2441 => 
@@ -24435,7 +24435,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.0333',
 				'longitude' => '7.4833',
 				'city' => 'MANDAL',
-				'city_id' => '48330',
+				'city_id' => '964',
 				'state_id' => '2690',
 			),
 			2442 => 
@@ -24445,7 +24445,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.0333',
 				'longitude' => '7.4833',
 				'city' => 'MANDAL',
-				'city_id' => '48330',
+				'city_id' => '964',
 				'state_id' => '2690',
 			),
 			2443 => 
@@ -24455,7 +24455,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.0333',
 				'longitude' => '7.4833',
 				'city' => 'MANDAL',
-				'city_id' => '48330',
+				'city_id' => '964',
 				'state_id' => '2690',
 			),
 			2444 => 
@@ -24465,7 +24465,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HOLUM',
 				'longitude' => 'HOLUM',
 				'city' => 'HOLUM',
-				'city_id' => '48330',
+				'city_id' => '49259',
 				'state_id' => '2690',
 			),
 			2445 => 
@@ -24525,7 +24525,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.2853',
 				'longitude' => '7.3558',
 				'city' => 'KONSMO',
-				'city_id' => '48331',
+				'city_id' => '49260',
 				'state_id' => '2690',
 			),
 			2451 => 
@@ -24535,7 +24535,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.2853',
 				'longitude' => '7.3558',
 				'city' => 'KONSMO',
-				'city_id' => '48331',
+				'city_id' => '49260',
 				'state_id' => '2690',
 			),
 			2452 => 
@@ -24545,7 +24545,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KOLLUNGTVEIT',
 				'longitude' => 'KOLLUNGTVEIT',
 				'city' => 'KOLLUNGTVEIT',
-				'city_id' => '48331',
+				'city_id' => '49261',
 				'state_id' => '2690',
 			),
 			2453 => 
@@ -24555,7 +24555,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BYREMO',
 				'longitude' => 'BYREMO',
 				'city' => 'BYREMO',
-				'city_id' => '48331',
+				'city_id' => '49262',
 				'state_id' => '2690',
 			),
 			2454 => 
@@ -24565,7 +24565,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ØYSLEBØ',
 				'longitude' => 'ØYSLEBØ',
 				'city' => 'ØYSLEBØ',
-				'city_id' => '48330',
+				'city_id' => '49263',
 				'state_id' => '2690',
 			),
 			2455 => 
@@ -24575,7 +24575,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.2428',
 				'longitude' => '7.4969',
 				'city' => 'MARNARDAL',
-				'city_id' => '48330',
+				'city_id' => '49264',
 				'state_id' => '2690',
 			),
 			2456 => 
@@ -24585,7 +24585,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.2428',
 				'longitude' => '7.4969',
 				'city' => 'MARNARDAL',
-				'city_id' => '48330',
+				'city_id' => '49264',
 				'state_id' => '2690',
 			),
 			2457 => 
@@ -24595,7 +24595,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BJELLAND',
 				'longitude' => 'BJELLAND',
 				'city' => 'BJELLAND',
-				'city_id' => '48330',
+				'city_id' => '49265',
 				'state_id' => '2690',
 			),
 			2458 => 
@@ -24625,7 +24625,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FOSSDAL',
 				'longitude' => 'FOSSDAL',
 				'city' => 'FOSSDAL',
-				'city_id' => '48339',
+				'city_id' => '49266',
 				'state_id' => '2690',
 			),
 			2461 => 
@@ -24685,7 +24685,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VANSE',
 				'longitude' => 'VANSE',
 				'city' => 'VANSE',
-				'city_id' => '48320',
+				'city_id' => '49267',
 				'state_id' => '2690',
 			),
 			2467 => 
@@ -24695,7 +24695,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VANSE',
 				'longitude' => 'VANSE',
 				'city' => 'VANSE',
-				'city_id' => '48320',
+				'city_id' => '49267',
 				'state_id' => '2690',
 			),
 			2468 => 
@@ -24705,7 +24705,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VANSE',
 				'longitude' => 'VANSE',
 				'city' => 'VANSE',
-				'city_id' => '48320',
+				'city_id' => '49267',
 				'state_id' => '2690',
 			),
 			2469 => 
@@ -24715,7 +24715,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BORHAUG',
 				'longitude' => 'BORHAUG',
 				'city' => 'BORHAUG',
-				'city_id' => '48320',
+				'city_id' => '49268',
 				'state_id' => '2690',
 			),
 			2470 => 
@@ -24775,7 +24775,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KORSHAMN',
 				'longitude' => 'KORSHAMN',
 				'city' => 'KORSHAMN',
-				'city_id' => '48331',
+				'city_id' => '49269',
 				'state_id' => '2690',
 			),
 			2476 => 
@@ -24785,7 +24785,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KVÅS',
 				'longitude' => 'KVÅS',
 				'city' => 'KVÅS',
-				'city_id' => '48331',
+				'city_id' => '49270',
 				'state_id' => '2690',
 			),
 			2477 => 
@@ -24795,7 +24795,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SNARTEMO',
 				'longitude' => 'SNARTEMO',
 				'city' => 'SNARTEMO',
-				'city_id' => '48325',
+				'city_id' => '49271',
 				'state_id' => '2690',
 			),
 			2478 => 
@@ -24805,7 +24805,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.4',
 				'longitude' => '7.2333',
 				'city' => 'TINGVATN',
-				'city_id' => '48325',
+				'city_id' => '49272',
 				'state_id' => '2690',
 			),
 			2479 => 
@@ -24815,7 +24815,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'EIKEN',
 				'longitude' => 'EIKEN',
 				'city' => 'EIKEN',
-				'city_id' => '48325',
+				'city_id' => '49273',
 				'state_id' => '2690',
 			),
 			2480 => 
@@ -24825,7 +24825,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'EIKEN',
 				'longitude' => 'EIKEN',
 				'city' => 'EIKEN',
-				'city_id' => '48325',
+				'city_id' => '49273',
 				'state_id' => '2690',
 			),
 			2481 => 
@@ -24835,7 +24835,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2482 => 
@@ -24845,7 +24845,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2483 => 
@@ -24855,7 +24855,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2484 => 
@@ -24865,7 +24865,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2485 => 
@@ -24875,7 +24875,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KARDEMOMME BY',
 				'longitude' => 'KARDEMOMME BY',
 				'city' => 'KARDEMOMME BY',
-				'city_id' => '48327',
+				'city_id' => '49275',
 				'state_id' => '2690',
 			),
 			2486 => 
@@ -24885,7 +24885,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2487 => 
@@ -24895,7 +24895,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2488 => 
@@ -24905,7 +24905,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2489 => 
@@ -24915,7 +24915,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2490 => 
@@ -24925,7 +24925,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2491 => 
@@ -24935,7 +24935,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2492 => 
@@ -24945,7 +24945,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2493 => 
@@ -24955,7 +24955,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2494 => 
@@ -24965,7 +24965,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2495 => 
@@ -24975,7 +24975,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MOSBY',
 				'longitude' => 'MOSBY',
 				'city' => 'MOSBY',
-				'city_id' => '48327',
+				'city_id' => '49276',
 				'state_id' => '2690',
 			),
 			2496 => 
@@ -24985,7 +24985,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2497 => 
@@ -24995,7 +24995,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2498 => 
@@ -25005,7 +25005,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2499 => 
@@ -25015,7 +25015,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2500 => 
@@ -25025,7 +25025,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2501 => 
@@ -25035,7 +25035,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FLEKKERØY',
 				'longitude' => 'FLEKKERØY',
 				'city' => 'FLEKKERØY',
-				'city_id' => '48327',
+				'city_id' => '49277',
 				'state_id' => '2690',
 			),
 			2502 => 
@@ -25045,7 +25045,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2503 => 
@@ -25055,7 +25055,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2504 => 
@@ -25065,7 +25065,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2505 => 
@@ -25075,7 +25075,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2506 => 
@@ -25085,7 +25085,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2507 => 
@@ -25095,7 +25095,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2508 => 
@@ -25105,7 +25105,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2509 => 
@@ -25115,7 +25115,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2510 => 
@@ -25125,7 +25125,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2511 => 
@@ -25135,7 +25135,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2512 => 
@@ -25145,7 +25145,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2513 => 
@@ -25155,7 +25155,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2514 => 
@@ -25165,7 +25165,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2515 => 
@@ -25175,7 +25175,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.0942',
 				'longitude' => '7.7725',
 				'city' => 'SØGNE',
-				'city_id' => '48327',
+				'city_id' => '49278',
 				'state_id' => '2690',
 			),
 			2516 => 
@@ -25185,7 +25185,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.0942',
 				'longitude' => '7.7725',
 				'city' => 'SØGNE',
-				'city_id' => '48327',
+				'city_id' => '49278',
 				'state_id' => '2690',
 			),
 			2517 => 
@@ -25195,7 +25195,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.0942',
 				'longitude' => '7.7725',
 				'city' => 'SØGNE',
-				'city_id' => '48327',
+				'city_id' => '49278',
 				'state_id' => '2690',
 			),
 			2518 => 
@@ -25205,7 +25205,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.0942',
 				'longitude' => '7.7725',
 				'city' => 'SØGNE',
-				'city_id' => '48327',
+				'city_id' => '49278',
 				'state_id' => '2690',
 			),
 			2519 => 
@@ -25215,7 +25215,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.0942',
 				'longitude' => '7.7725',
 				'city' => 'SØGNE',
-				'city_id' => '48327',
+				'city_id' => '49278',
 				'state_id' => '2690',
 			),
 			2520 => 
@@ -25225,7 +25225,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.15',
 				'longitude' => '7.85',
 				'city' => 'NODELAND',
-				'city_id' => '48327',
+				'city_id' => '49279',
 				'state_id' => '2690',
 			),
 			2521 => 
@@ -25235,7 +25235,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FINSLAND',
 				'longitude' => 'FINSLAND',
 				'city' => 'FINSLAND',
-				'city_id' => '48327',
+				'city_id' => '49280',
 				'state_id' => '2690',
 			),
 			2522 => 
@@ -25245,7 +25245,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BRENNÅSEN',
 				'longitude' => 'BRENNÅSEN',
 				'city' => 'BRENNÅSEN',
-				'city_id' => '48327',
+				'city_id' => '49281',
 				'state_id' => '2690',
 			),
 			2523 => 
@@ -25255,7 +25255,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FINSLAND',
 				'longitude' => 'FINSLAND',
 				'city' => 'FINSLAND',
-				'city_id' => '48327',
+				'city_id' => '49280',
 				'state_id' => '2690',
 			),
 			2524 => 
@@ -25265,7 +25265,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HAMRESANDEN',
 				'longitude' => 'HAMRESANDEN',
 				'city' => 'HAMRESANDEN',
-				'city_id' => '48327',
+				'city_id' => '49282',
 				'state_id' => '2690',
 			),
 			2525 => 
@@ -25275,7 +25275,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KJEVIK',
 				'longitude' => 'KJEVIK',
 				'city' => 'KJEVIK',
-				'city_id' => '48327',
+				'city_id' => '49283',
 				'state_id' => '2690',
 			),
 			2526 => 
@@ -25285,7 +25285,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TVEIT',
 				'longitude' => 'TVEIT',
 				'city' => 'TVEIT',
-				'city_id' => '48327',
+				'city_id' => '49284',
 				'state_id' => '2690',
 			),
 			2527 => 
@@ -25295,7 +25295,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2528 => 
@@ -25305,7 +25305,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2529 => 
@@ -25315,7 +25315,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2530 => 
@@ -25325,7 +25325,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2531 => 
@@ -25335,7 +25335,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2532 => 
@@ -25345,7 +25345,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2533 => 
@@ -25355,7 +25355,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2534 => 
@@ -25365,7 +25365,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2535 => 
@@ -25375,7 +25375,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2536 => 
@@ -25385,7 +25385,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2537 => 
@@ -25395,7 +25395,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2538 => 
@@ -25405,7 +25405,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2539 => 
@@ -25415,7 +25415,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2540 => 
@@ -25425,7 +25425,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2541 => 
@@ -25435,7 +25435,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2542 => 
@@ -25445,7 +25445,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FLEKKERØY',
 				'longitude' => 'FLEKKERØY',
 				'city' => 'FLEKKERØY',
-				'city_id' => '48327',
+				'city_id' => '49277',
 				'state_id' => '2690',
 			),
 			2543 => 
@@ -25455,7 +25455,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.0942',
 				'longitude' => '7.7725',
 				'city' => 'SØGNE',
-				'city_id' => '48327',
+				'city_id' => '49278',
 				'state_id' => '2690',
 			),
 			2544 => 
@@ -25465,7 +25465,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.0942',
 				'longitude' => '7.7725',
 				'city' => 'SØGNE',
-				'city_id' => '48327',
+				'city_id' => '49278',
 				'state_id' => '2690',
 			),
 			2545 => 
@@ -25475,7 +25475,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.0942',
 				'longitude' => '7.7725',
 				'city' => 'SØGNE',
-				'city_id' => '48327',
+				'city_id' => '49278',
 				'state_id' => '2690',
 			),
 			2546 => 
@@ -25485,7 +25485,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BRENNÅSEN',
 				'longitude' => 'BRENNÅSEN',
 				'city' => 'BRENNÅSEN',
-				'city_id' => '48327',
+				'city_id' => '49281',
 				'state_id' => '2690',
 			),
 			2547 => 
@@ -25495,7 +25495,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.15',
 				'longitude' => '7.85',
 				'city' => 'NODELAND',
-				'city_id' => '48327',
+				'city_id' => '49279',
 				'state_id' => '2690',
 			),
 			2548 => 
@@ -25505,7 +25505,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2549 => 
@@ -25515,7 +25515,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2550 => 
@@ -25525,7 +25525,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2551 => 
@@ -25535,7 +25535,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2552 => 
@@ -25545,7 +25545,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2553 => 
@@ -25555,7 +25555,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2554 => 
@@ -25565,7 +25565,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2555 => 
@@ -25575,7 +25575,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2556 => 
@@ -25585,7 +25585,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2557 => 
@@ -25595,7 +25595,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2558 => 
@@ -25605,7 +25605,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSAND S',
 				'longitude' => 'KRISTIANSAND S',
 				'city' => 'KRISTIANSAND S',
-				'city_id' => '48327',
+				'city_id' => '49274',
 				'state_id' => '2690',
 			),
 			2559 => 
@@ -25615,7 +25615,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TVEIT',
 				'longitude' => 'TVEIT',
 				'city' => 'TVEIT',
-				'city_id' => '48327',
+				'city_id' => '49284',
 				'state_id' => '2690',
 			),
 			2560 => 
@@ -25665,7 +25665,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ØVREBØ',
 				'longitude' => 'ØVREBØ',
 				'city' => 'ØVREBØ',
-				'city_id' => '48337',
+				'city_id' => '49285',
 				'state_id' => '2690',
 			),
 			2565 => 
@@ -25705,7 +25705,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ØVREBØ',
 				'longitude' => 'ØVREBØ',
 				'city' => 'ØVREBØ',
-				'city_id' => '48337',
+				'city_id' => '49285',
 				'state_id' => '2690',
 			),
 			2569 => 
@@ -25715,7 +25715,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HÆGELAND',
 				'longitude' => 'HÆGELAND',
 				'city' => 'HÆGELAND',
-				'city_id' => '48337',
+				'city_id' => '49286',
 				'state_id' => '2690',
 			),
 			2570 => 
@@ -25725,7 +25725,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HÆGELAND',
 				'longitude' => 'HÆGELAND',
 				'city' => 'HÆGELAND',
-				'city_id' => '48337',
+				'city_id' => '49286',
 				'state_id' => '2690',
 			),
 			2571 => 
@@ -25755,7 +25755,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VATNESTRØM',
 				'longitude' => 'VATNESTRØM',
 				'city' => 'VATNESTRØM',
-				'city_id' => '48326',
+				'city_id' => '49287',
 				'state_id' => '2690',
 			),
 			2574 => 
@@ -25765,7 +25765,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.585',
 				'longitude' => '7.8083',
 				'city' => 'EVJE',
-				'city_id' => '48319',
+				'city_id' => '49288',
 				'state_id' => '2690',
 			),
 			2575 => 
@@ -25775,7 +25775,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.585',
 				'longitude' => '7.8083',
 				'city' => 'EVJE',
-				'city_id' => '48319',
+				'city_id' => '49288',
 				'state_id' => '2690',
 			),
 			2576 => 
@@ -25785,7 +25785,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.585',
 				'longitude' => '7.8083',
 				'city' => 'EVJE',
-				'city_id' => '48319',
+				'city_id' => '49288',
 				'state_id' => '2690',
 			),
 			2577 => 
@@ -25795,7 +25795,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HORNNES',
 				'longitude' => 'HORNNES',
 				'city' => 'HORNNES',
-				'city_id' => '48319',
+				'city_id' => '49289',
 				'state_id' => '2690',
 			),
 			2578 => 
@@ -25805,7 +25805,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BYGLANDSFJORD',
 				'longitude' => 'BYGLANDSFJORD',
 				'city' => 'BYGLANDSFJORD',
-				'city_id' => '48317',
+				'city_id' => '49290',
 				'state_id' => '2690',
 			),
 			2579 => 
@@ -25815,7 +25815,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GRENDI',
 				'longitude' => 'GRENDI',
 				'city' => 'GRENDI',
-				'city_id' => '48317',
+				'city_id' => '49291',
 				'state_id' => '2690',
 			),
 			2580 => 
@@ -25865,7 +25865,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RYSSTAD',
 				'longitude' => 'RYSSTAD',
 				'city' => 'RYSSTAD',
-				'city_id' => '48335',
+				'city_id' => '49292',
 				'state_id' => '2690',
 			),
 			2585 => 
@@ -25875,7 +25875,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RYSSTAD',
 				'longitude' => 'RYSSTAD',
 				'city' => 'RYSSTAD',
-				'city_id' => '48335',
+				'city_id' => '49292',
 				'state_id' => '2690',
 			),
 			2586 => 
@@ -25895,7 +25895,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HOVDEN I SETESDAL',
 				'longitude' => 'HOVDEN I SETESDAL',
 				'city' => 'HOVDEN I SETESDAL',
-				'city_id' => '48318',
+				'city_id' => '49293',
 				'state_id' => '2690',
 			),
 			2588 => 
@@ -25905,7 +25905,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HOVDEN I SETESDAL',
 				'longitude' => 'HOVDEN I SETESDAL',
 				'city' => 'HOVDEN I SETESDAL',
-				'city_id' => '48318',
+				'city_id' => '49293',
 				'state_id' => '2690',
 			),
 			2589 => 
@@ -25915,7 +25915,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.3333',
 				'longitude' => '8.2333',
 				'city' => 'BIRKELAND',
-				'city_id' => '48329',
+				'city_id' => '49293',
 				'state_id' => '2690',
 			),
 			2590 => 
@@ -25925,7 +25925,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HEREFOSS',
 				'longitude' => 'HEREFOSS',
 				'city' => 'HEREFOSS',
-				'city_id' => '48329',
+				'city_id' => '49294',
 				'state_id' => '2690',
 			),
 			2591 => 
@@ -25935,7 +25935,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ENGESLAND',
 				'longitude' => 'ENGESLAND',
 				'city' => 'ENGESLAND',
-				'city_id' => '48329',
+				'city_id' => '49295',
 				'state_id' => '2690',
 			),
 			2592 => 
@@ -25945,7 +25945,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HØVÅG',
 				'longitude' => 'HØVÅG',
 				'city' => 'HØVÅG',
-				'city_id' => '48329',
+				'city_id' => '49296',
 				'state_id' => '2690',
 			),
 			2593 => 
@@ -25955,7 +25955,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BREKKESTØ',
 				'longitude' => 'BREKKESTØ',
 				'city' => 'BREKKESTØ',
-				'city_id' => '48329',
+				'city_id' => '49297',
 				'state_id' => '2690',
 			),
 			2594 => 
@@ -25995,7 +25995,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HØVÅG',
 				'longitude' => 'HØVÅG',
 				'city' => 'HØVÅG',
-				'city_id' => '48329',
+				'city_id' => '49296',
 				'state_id' => '2690',
 			),
 			2598 => 
@@ -26015,7 +26015,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '58.3333',
 				'longitude' => '8.2333',
 				'city' => 'BIRKELAND',
-				'city_id' => '48316',
+				'city_id' => '49293',
 				'state_id' => '2690',
 			),
 			2600 => 
@@ -26085,7 +26085,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'EYDEHAVN',
 				'longitude' => 'EYDEHAVN',
 				'city' => 'EYDEHAVN',
-				'city_id' => '48315',
+				'city_id' => '49298',
 				'state_id' => '2690',
 			),
 			2607 => 
@@ -26095,7 +26095,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KONGSHAVN',
 				'longitude' => 'KONGSHAVN',
 				'city' => 'KONGSHAVN',
-				'city_id' => '48315',
+				'city_id' => '49299',
 				'state_id' => '2690',
 			),
 			2608 => 
@@ -26105,7 +26105,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SALTRØD',
 				'longitude' => 'SALTRØD',
 				'city' => 'SALTRØD',
-				'city_id' => '48315',
+				'city_id' => '49300',
 				'state_id' => '2690',
 			),
 			2609 => 
@@ -26115,7 +26115,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KOLBJØRNSVIK',
 				'longitude' => 'KOLBJØRNSVIK',
 				'city' => 'KOLBJØRNSVIK',
-				'city_id' => '48315',
+				'city_id' => '49301',
 				'state_id' => '2690',
 			),
 			2610 => 
@@ -26125,7 +26125,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HIS',
 				'longitude' => 'HIS',
 				'city' => 'HIS',
-				'city_id' => '48315',
+				'city_id' => '49302',
 				'state_id' => '2690',
 			),
 			2611 => 
@@ -26135,7 +26135,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FÆRVIK',
 				'longitude' => 'FÆRVIK',
 				'city' => 'FÆRVIK',
-				'city_id' => '48315',
+				'city_id' => '49303',
 				'state_id' => '2690',
 			),
 			2612 => 
@@ -26155,7 +26155,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RYKENE',
 				'longitude' => 'RYKENE',
 				'city' => 'RYKENE',
-				'city_id' => '48315',
+				'city_id' => '49304',
 				'state_id' => '2690',
 			),
 			2614 => 
@@ -26165,7 +26165,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RYKENE',
 				'longitude' => 'RYKENE',
 				'city' => 'RYKENE',
-				'city_id' => '48315',
+				'city_id' => '49304',
 				'state_id' => '2690',
 			),
 			2615 => 
@@ -26175,7 +26175,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NEDENES',
 				'longitude' => 'NEDENES',
 				'city' => 'NEDENES',
-				'city_id' => '48315',
+				'city_id' => '49305',
 				'state_id' => '2690',
 			),
 			2616 => 
@@ -26185,7 +26185,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BJORBEKK',
 				'longitude' => 'BJORBEKK',
 				'city' => 'BJORBEKK',
-				'city_id' => '48315',
+				'city_id' => '49306',
 				'state_id' => '2690',
 			),
 			2617 => 
@@ -26205,7 +26205,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FROLANDS VERK',
 				'longitude' => 'FROLANDS VERK',
 				'city' => 'FROLANDS VERK',
-				'city_id' => '48322',
+				'city_id' => '49307',
 				'state_id' => '2690',
 			),
 			2619 => 
@@ -26215,7 +26215,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MJÅVATN',
 				'longitude' => 'MJÅVATN',
 				'city' => 'MJÅVATN',
-				'city_id' => '48322',
+				'city_id' => '49308',
 				'state_id' => '2690',
 			),
 			2620 => 
@@ -26225,7 +26225,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HYNNEKLEIV',
 				'longitude' => 'HYNNEKLEIV',
 				'city' => 'HYNNEKLEIV',
-				'city_id' => '48322',
+				'city_id' => '49309',
 				'state_id' => '2690',
 			),
 			2621 => 
@@ -26235,7 +26235,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MYKLAND',
 				'longitude' => 'MYKLAND',
 				'city' => 'MYKLAND',
-				'city_id' => '48322',
+				'city_id' => '49310',
 				'state_id' => '2690',
 			),
 			2622 => 
@@ -26245,7 +26245,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RISDAL',
 				'longitude' => 'RISDAL',
 				'city' => 'RISDAL',
-				'city_id' => '48322',
+				'city_id' => '49311',
 				'state_id' => '2690',
 			),
 			2623 => 
@@ -26365,7 +26365,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SALTRØD',
 				'longitude' => 'SALTRØD',
 				'city' => 'SALTRØD',
-				'city_id' => '48315',
+				'city_id' => '49300',
 				'state_id' => '2690',
 			),
 			2635 => 
@@ -26375,7 +26375,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FÆRVIK',
 				'longitude' => 'FÆRVIK',
 				'city' => 'FÆRVIK',
-				'city_id' => '48315',
+				'city_id' => '49303',
 				'state_id' => '2690',
 			),
 			2636 => 
@@ -26385,7 +26385,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HIS',
 				'longitude' => 'HIS',
 				'city' => 'HIS',
-				'city_id' => '48315',
+				'city_id' => '49302',
 				'state_id' => '2690',
 			),
 			2637 => 
@@ -26395,7 +26395,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NEDENES',
 				'longitude' => 'NEDENES',
 				'city' => 'NEDENES',
-				'city_id' => '48315',
+				'city_id' => '49305',
 				'state_id' => '2690',
 			),
 			2638 => 
@@ -26455,7 +26455,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'EYDEHAVN',
 				'longitude' => 'EYDEHAVN',
 				'city' => 'EYDEHAVN',
-				'city_id' => '48315',
+				'city_id' => '49298',
 				'state_id' => '2690',
 			),
 			2644 => 
@@ -26465,7 +26465,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NELAUG',
 				'longitude' => 'NELAUG',
 				'city' => 'NELAUG',
-				'city_id' => '48338',
+				'city_id' => '49312',
 				'state_id' => '2690',
 			),
 			2645 => 
@@ -26495,7 +26495,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SELÅSVATN',
 				'longitude' => 'SELÅSVATN',
 				'city' => 'SELÅSVATN',
-				'city_id' => '48338',
+				'city_id' => '49313',
 				'state_id' => '2690',
 			),
 			2648 => 
@@ -26505,7 +26505,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'DØLEMO',
 				'longitude' => 'DØLEMO',
 				'city' => 'DØLEMO',
-				'city_id' => '48338',
+				'city_id' => '49314',
 				'state_id' => '2690',
 			),
 			2649 => 
@@ -26515,7 +26515,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FEVIK',
 				'longitude' => 'FEVIK',
 				'city' => 'FEVIK',
-				'city_id' => '48324',
+				'city_id' => '48720',
 				'state_id' => '2690',
 			),
 			2650 => 
@@ -26605,7 +26605,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HOMBORSUND',
 				'longitude' => 'HOMBORSUND',
 				'city' => 'HOMBORSUND',
-				'city_id' => '48324',
+				'city_id' => '48719',
 				'state_id' => '2690',
 			),
 			2659 => 
@@ -26615,7 +26615,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FEVIK',
 				'longitude' => 'FEVIK',
 				'city' => 'FEVIK',
-				'city_id' => '48324',
+				'city_id' => '48720',
 				'state_id' => '2690',
 			),
 			2660 => 
@@ -26745,7 +26745,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SONGE',
 				'longitude' => 'SONGE',
 				'city' => 'SONGE',
-				'city_id' => '48334',
+				'city_id' => '49004',
 				'state_id' => '2690',
 			),
 			2673 => 
@@ -26755,7 +26755,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LYNGØR',
 				'longitude' => 'LYNGØR',
 				'city' => 'LYNGØR',
-				'city_id' => '48334',
+				'city_id' => '49315',
 				'state_id' => '2690',
 			),
 			2674 => 
@@ -26765,7 +26765,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GJEVING',
 				'longitude' => 'GJEVING',
 				'city' => 'GJEVING',
-				'city_id' => '48334',
+				'city_id' => '49316',
 				'state_id' => '2690',
 			),
 			2675 => 
@@ -26775,7 +26775,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VESTRE SANDØYA',
 				'longitude' => 'VESTRE SANDØYA',
 				'city' => 'VESTRE SANDØYA',
-				'city_id' => '48334',
+				'city_id' => '49317',
 				'state_id' => '2690',
 			),
 			2676 => 
@@ -26785,7 +26785,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BORØY',
 				'longitude' => 'BORØY',
 				'city' => 'BORØY',
-				'city_id' => '48334',
+				'city_id' => '49318',
 				'state_id' => '2690',
 			),
 			2677 => 
@@ -26795,7 +26795,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STAUBØ',
 				'longitude' => 'STAUBØ',
 				'city' => 'STAUBØ',
-				'city_id' => '48315',
+				'city_id' => '49319',
 				'state_id' => '2690',
 			),
 			2678 => 
@@ -26805,7 +26805,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STAUBØ',
 				'longitude' => 'STAUBØ',
 				'city' => 'STAUBØ',
-				'city_id' => '48315',
+				'city_id' => '49319',
 				'state_id' => '2690',
 			),
 			2679 => 
@@ -26815,7 +26815,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NES VERK',
 				'longitude' => 'NES VERK',
 				'city' => 'NES VERK',
-				'city_id' => '48334',
+				'city_id' => '49320',
 				'state_id' => '2690',
 			),
 			2680 => 
@@ -26895,7 +26895,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SUNDEBRU',
 				'longitude' => 'SUNDEBRU',
 				'city' => 'SUNDEBRU',
-				'city_id' => '48323',
+				'city_id' => '49321',
 				'state_id' => '2690',
 			),
 			2688 => 
@@ -26925,7 +26925,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SØNDELED',
 				'longitude' => 'SØNDELED',
 				'city' => 'SØNDELED',
-				'city_id' => '48332',
+				'city_id' => '49322',
 				'state_id' => '2690',
 			),
 			2691 => 
@@ -26955,7 +26955,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SØNDELED',
 				'longitude' => 'SØNDELED',
 				'city' => 'SØNDELED',
-				'city_id' => '48332',
+				'city_id' => '49322',
 				'state_id' => '2690',
 			),
 			2694 => 
@@ -26965,7 +26965,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SUNDEBRU',
 				'longitude' => 'SUNDEBRU',
 				'city' => 'SUNDEBRU',
-				'city_id' => '48323',
+				'city_id' => '49321',
 				'state_id' => '2690',
 			),
 			2695 => 
@@ -26975,7 +26975,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'AKLAND',
 				'longitude' => 'AKLAND',
 				'city' => 'AKLAND',
-				'city_id' => '48332',
+				'city_id' => '49323',
 				'state_id' => '2690',
 			),
 			2696 => 
@@ -26985,7 +26985,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2697 => 
@@ -26995,7 +26995,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2698 => 
@@ -27005,7 +27005,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2699 => 
@@ -27015,7 +27015,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2700 => 
@@ -27025,7 +27025,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2701 => 
@@ -27035,7 +27035,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2702 => 
@@ -27045,7 +27045,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2703 => 
@@ -27055,7 +27055,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2704 => 
@@ -27065,7 +27065,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2705 => 
@@ -27075,7 +27075,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2706 => 
@@ -27085,7 +27085,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2707 => 
@@ -27095,7 +27095,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2708 => 
@@ -27105,7 +27105,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2709 => 
@@ -27115,7 +27115,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2710 => 
@@ -27125,7 +27125,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2711 => 
@@ -27135,7 +27135,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2712 => 
@@ -27145,7 +27145,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2713 => 
@@ -27155,7 +27155,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2714 => 
@@ -27165,7 +27165,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2715 => 
@@ -27175,7 +27175,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2716 => 
@@ -27185,7 +27185,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2717 => 
@@ -27195,7 +27195,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2718 => 
@@ -27205,7 +27205,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2719 => 
@@ -27215,7 +27215,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2720 => 
@@ -27225,7 +27225,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2721 => 
@@ -27235,7 +27235,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2722 => 
@@ -27245,7 +27245,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2723 => 
@@ -27255,7 +27255,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2724 => 
@@ -27265,7 +27265,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2725 => 
@@ -27275,7 +27275,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2726 => 
@@ -27285,7 +27285,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2727 => 
@@ -27295,7 +27295,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2728 => 
@@ -27305,7 +27305,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2729 => 
@@ -27315,7 +27315,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2730 => 
@@ -27325,7 +27325,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2731 => 
@@ -27335,7 +27335,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2732 => 
@@ -27345,7 +27345,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2733 => 
@@ -27355,7 +27355,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2734 => 
@@ -27365,7 +27365,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2735 => 
@@ -27375,7 +27375,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2736 => 
@@ -27385,7 +27385,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2737 => 
@@ -27395,7 +27395,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2738 => 
@@ -27405,7 +27405,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2739 => 
@@ -27415,7 +27415,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2740 => 
@@ -27425,7 +27425,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2741 => 
@@ -27435,7 +27435,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2742 => 
@@ -27445,7 +27445,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2743 => 
@@ -27455,7 +27455,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2744 => 
@@ -27465,7 +27465,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2745 => 
@@ -27475,7 +27475,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2746 => 
@@ -27485,7 +27485,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2747 => 
@@ -27495,7 +27495,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2748 => 
@@ -27505,7 +27505,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2749 => 
@@ -27515,7 +27515,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2750 => 
@@ -27525,7 +27525,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2751 => 
@@ -27535,7 +27535,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			2752 => 
@@ -27545,7 +27545,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'EIDSVÅGNESET',
 				'longitude' => 'EIDSVÅGNESET',
 				'city' => 'EIDSVÅGNESET',
-				'city_id' => '48600',
+				'city_id' => '49324',
 				'state_id' => '2700',
 			),
 			2753 => 
@@ -27555,7 +27555,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'EIDSVÅG I ÅSANE',
 				'longitude' => 'EIDSVÅG I ÅSANE',
 				'city' => 'EIDSVÅG I ÅSANE',
-				'city_id' => '48600',
+				'city_id' => '49325',
 				'state_id' => '2700',
 			),
 			2754 => 
@@ -27565,7 +27565,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'EIDSVÅG I ÅSANE',
 				'longitude' => 'EIDSVÅG I ÅSANE',
 				'city' => 'EIDSVÅG I ÅSANE',
-				'city_id' => '48600',
+				'city_id' => '49325',
 				'state_id' => '2700',
 			),
 			2755 => 
@@ -27575,7 +27575,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ØVRE ERVIK',
 				'longitude' => 'ØVRE ERVIK',
 				'city' => 'ØVRE ERVIK',
-				'city_id' => '48600',
+				'city_id' => '49326',
 				'state_id' => '2700',
 			),
 			2756 => 
@@ -27585,7 +27585,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SALHUS',
 				'longitude' => 'SALHUS',
 				'city' => 'SALHUS',
-				'city_id' => '48600',
+				'city_id' => '49327',
 				'state_id' => '2700',
 			),
 			2757 => 
@@ -27595,7 +27595,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HORDVIK',
 				'longitude' => 'HORDVIK',
 				'city' => 'HORDVIK',
-				'city_id' => '48600',
+				'city_id' => '49328',
 				'state_id' => '2700',
 			),
 			2758 => 
@@ -27605,7 +27605,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HYLKJE',
 				'longitude' => 'HYLKJE',
 				'city' => 'HYLKJE',
-				'city_id' => '48600',
+				'city_id' => '49329',
 				'state_id' => '2700',
 			),
 			2759 => 
@@ -27615,7 +27615,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BREISTEIN',
 				'longitude' => 'BREISTEIN',
 				'city' => 'BREISTEIN',
-				'city_id' => '48600',
+				'city_id' => '49330',
 				'state_id' => '2700',
 			),
 			2760 => 
@@ -27625,7 +27625,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TERTNES',
 				'longitude' => 'TERTNES',
 				'city' => 'TERTNES',
-				'city_id' => '48600',
+				'city_id' => '49331',
 				'state_id' => '2700',
 			),
 			2761 => 
@@ -27635,7 +27635,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TERTNES',
 				'longitude' => 'TERTNES',
 				'city' => 'TERTNES',
-				'city_id' => '48600',
+				'city_id' => '49331',
 				'state_id' => '2700',
 			),
 			2762 => 
@@ -27645,7 +27645,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ULSET',
 				'longitude' => 'ULSET',
 				'city' => 'ULSET',
-				'city_id' => '48600',
+				'city_id' => '49332',
 				'state_id' => '2700',
 			),
 			2763 => 
@@ -27655,7 +27655,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ULSET',
 				'longitude' => 'ULSET',
 				'city' => 'ULSET',
-				'city_id' => '48600',
+				'city_id' => '49332',
 				'state_id' => '2700',
 			),
 			2764 => 
@@ -27665,7 +27665,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ULSET',
 				'longitude' => 'ULSET',
 				'city' => 'ULSET',
-				'city_id' => '48600',
+				'city_id' => '49332',
 				'state_id' => '2700',
 			),
 			2765 => 
@@ -27675,7 +27675,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ULSET',
 				'longitude' => 'ULSET',
 				'city' => 'ULSET',
-				'city_id' => '48600',
+				'city_id' => '49332',
 				'state_id' => '2700',
 			),
 			2766 => 
@@ -27685,7 +27685,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ULSET',
 				'longitude' => 'ULSET',
 				'city' => 'ULSET',
-				'city_id' => '48600',
+				'city_id' => '49332',
 				'state_id' => '2700',
 			),
 			2767 => 
@@ -27695,7 +27695,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ULSET',
 				'longitude' => 'ULSET',
 				'city' => 'ULSET',
-				'city_id' => '48600',
+				'city_id' => '49332',
 				'state_id' => '2700',
 			),
 			2768 => 
@@ -27705,7 +27705,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MORVIK',
 				'longitude' => 'MORVIK',
 				'city' => 'MORVIK',
-				'city_id' => '48600',
+				'city_id' => '49333',
 				'state_id' => '2700',
 			),
 			2769 => 
@@ -27715,7 +27715,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MORVIK',
 				'longitude' => 'MORVIK',
 				'city' => 'MORVIK',
-				'city_id' => '48600',
+				'city_id' => '49333',
 				'state_id' => '2700',
 			),
 			2770 => 
@@ -27725,7 +27725,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NYBORG',
 				'longitude' => 'NYBORG',
 				'city' => 'NYBORG',
-				'city_id' => '48600',
+				'city_id' => '15012',
 				'state_id' => '2700',
 			),
 			2771 => 
@@ -27735,7 +27735,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NYBORG',
 				'longitude' => 'NYBORG',
 				'city' => 'NYBORG',
-				'city_id' => '48600',
+				'city_id' => '15012',
 				'state_id' => '2700',
 			),
 			2772 => 
@@ -27745,7 +27745,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NYBORG',
 				'longitude' => 'NYBORG',
 				'city' => 'NYBORG',
-				'city_id' => '48600',
+				'city_id' => '15012',
 				'state_id' => '2700',
 			),
 			2773 => 
@@ -27755,7 +27755,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FLAKTVEIT',
 				'longitude' => 'FLAKTVEIT',
 				'city' => 'FLAKTVEIT',
-				'city_id' => '48600',
+				'city_id' => '49334',
 				'state_id' => '2700',
 			),
 			2774 => 
@@ -27765,7 +27765,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FLAKTVEIT',
 				'longitude' => 'FLAKTVEIT',
 				'city' => 'FLAKTVEIT',
-				'city_id' => '48600',
+				'city_id' => '49334',
 				'state_id' => '2700',
 			),
 			2775 => 
@@ -27775,7 +27775,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MJØLKERÅEN',
 				'longitude' => 'MJØLKERÅEN',
 				'city' => 'MJØLKERÅEN',
-				'city_id' => '48600',
+				'city_id' => '49335',
 				'state_id' => '2700',
 			),
 			2776 => 
@@ -27785,7 +27785,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MJØLKERÅEN',
 				'longitude' => 'MJØLKERÅEN',
 				'city' => 'MJØLKERÅEN',
-				'city_id' => '48600',
+				'city_id' => '49335',
 				'state_id' => '2700',
 			),
 			2777 => 
@@ -27795,7 +27795,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FYLLINGSDALEN',
 				'longitude' => 'FYLLINGSDALEN',
 				'city' => 'FYLLINGSDALEN',
-				'city_id' => '48600',
+				'city_id' => '49336',
 				'state_id' => '2700',
 			),
 			2778 => 
@@ -27805,7 +27805,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FYLLINGSDALEN',
 				'longitude' => 'FYLLINGSDALEN',
 				'city' => 'FYLLINGSDALEN',
-				'city_id' => '48600',
+				'city_id' => '49336',
 				'state_id' => '2700',
 			),
 			2779 => 
@@ -27815,7 +27815,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FYLLINGSDALEN',
 				'longitude' => 'FYLLINGSDALEN',
 				'city' => 'FYLLINGSDALEN',
-				'city_id' => '48600',
+				'city_id' => '49336',
 				'state_id' => '2700',
 			),
 			2780 => 
@@ -27825,7 +27825,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FYLLINGSDALEN',
 				'longitude' => 'FYLLINGSDALEN',
 				'city' => 'FYLLINGSDALEN',
-				'city_id' => '48600',
+				'city_id' => '49336',
 				'state_id' => '2700',
 			),
 			2781 => 
@@ -27835,7 +27835,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FYLLINGSDALEN',
 				'longitude' => 'FYLLINGSDALEN',
 				'city' => 'FYLLINGSDALEN',
-				'city_id' => '48600',
+				'city_id' => '49336',
 				'state_id' => '2700',
 			),
 			2782 => 
@@ -27845,7 +27845,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FYLLINGSDALEN',
 				'longitude' => 'FYLLINGSDALEN',
 				'city' => 'FYLLINGSDALEN',
-				'city_id' => '48600',
+				'city_id' => '49336',
 				'state_id' => '2700',
 			),
 			2783 => 
@@ -27855,7 +27855,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FYLLINGSDALEN',
 				'longitude' => 'FYLLINGSDALEN',
 				'city' => 'FYLLINGSDALEN',
-				'city_id' => '48600',
+				'city_id' => '49336',
 				'state_id' => '2700',
 			),
 			2784 => 
@@ -27865,7 +27865,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FYLLINGSDALEN',
 				'longitude' => 'FYLLINGSDALEN',
 				'city' => 'FYLLINGSDALEN',
-				'city_id' => '48600',
+				'city_id' => '49336',
 				'state_id' => '2700',
 			),
 			2785 => 
@@ -27875,7 +27875,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STRAUMSGREND',
 				'longitude' => 'STRAUMSGREND',
 				'city' => 'STRAUMSGREND',
-				'city_id' => '48600',
+				'city_id' => '49337',
 				'state_id' => '2700',
 			),
 			2786 => 
@@ -27885,7 +27885,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BØNES',
 				'longitude' => 'BØNES',
 				'city' => 'BØNES',
-				'city_id' => '48600',
+				'city_id' => '49338',
 				'state_id' => '2700',
 			),
 			2787 => 
@@ -27895,7 +27895,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BØNES',
 				'longitude' => 'BØNES',
 				'city' => 'BØNES',
-				'city_id' => '48600',
+				'city_id' => '49338',
 				'state_id' => '2700',
 			),
 			2788 => 
@@ -27905,7 +27905,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BØNES',
 				'longitude' => 'BØNES',
 				'city' => 'BØNES',
-				'city_id' => '48600',
+				'city_id' => '49338',
 				'state_id' => '2700',
 			),
 			2789 => 
@@ -27915,7 +27915,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BØNES',
 				'longitude' => 'BØNES',
 				'city' => 'BØNES',
-				'city_id' => '48600',
+				'city_id' => '49338',
 				'state_id' => '2700',
 			),
 			2790 => 
@@ -27925,7 +27925,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LAKSEVÅG',
 				'longitude' => 'LAKSEVÅG',
 				'city' => 'LAKSEVÅG',
-				'city_id' => '48600',
+				'city_id' => '49339',
 				'state_id' => '2700',
 			),
 			2791 => 
@@ -27935,7 +27935,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LAKSEVÅG',
 				'longitude' => 'LAKSEVÅG',
 				'city' => 'LAKSEVÅG',
-				'city_id' => '48600',
+				'city_id' => '49339',
 				'state_id' => '2700',
 			),
 			2792 => 
@@ -27945,7 +27945,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LAKSEVÅG',
 				'longitude' => 'LAKSEVÅG',
 				'city' => 'LAKSEVÅG',
-				'city_id' => '48600',
+				'city_id' => '49339',
 				'state_id' => '2700',
 			),
 			2793 => 
@@ -27955,7 +27955,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LAKSEVÅG',
 				'longitude' => 'LAKSEVÅG',
 				'city' => 'LAKSEVÅG',
-				'city_id' => '48600',
+				'city_id' => '49339',
 				'state_id' => '2700',
 			),
 			2794 => 
@@ -27965,7 +27965,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LAKSEVÅG',
 				'longitude' => 'LAKSEVÅG',
 				'city' => 'LAKSEVÅG',
-				'city_id' => '48600',
+				'city_id' => '49339',
 				'state_id' => '2700',
 			),
 			2795 => 
@@ -27975,7 +27975,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LAKSEVÅG',
 				'longitude' => 'LAKSEVÅG',
 				'city' => 'LAKSEVÅG',
-				'city_id' => '48600',
+				'city_id' => '49339',
 				'state_id' => '2700',
 			),
 			2796 => 
@@ -27985,7 +27985,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BJØRNDALSTRÆ',
 				'longitude' => 'BJØRNDALSTRÆ',
 				'city' => 'BJØRNDALSTRÆ',
-				'city_id' => '48600',
+				'city_id' => '49340',
 				'state_id' => '2700',
 			),
 			2797 => 
@@ -27995,7 +27995,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LODDEFJORD',
 				'longitude' => 'LODDEFJORD',
 				'city' => 'LODDEFJORD',
-				'city_id' => '48600',
+				'city_id' => '49341',
 				'state_id' => '2700',
 			),
 			2798 => 
@@ -28005,7 +28005,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LODDEFJORD',
 				'longitude' => 'LODDEFJORD',
 				'city' => 'LODDEFJORD',
-				'city_id' => '48600',
+				'city_id' => '49341',
 				'state_id' => '2700',
 			),
 			2799 => 
@@ -28015,7 +28015,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LODDEFJORD',
 				'longitude' => 'LODDEFJORD',
 				'city' => 'LODDEFJORD',
-				'city_id' => '48600',
+				'city_id' => '49341',
 				'state_id' => '2700',
 			),
 			2800 => 
@@ -28025,7 +28025,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MATHOPEN',
 				'longitude' => 'MATHOPEN',
 				'city' => 'MATHOPEN',
-				'city_id' => '48600',
+				'city_id' => '49342',
 				'state_id' => '2700',
 			),
 			2801 => 
@@ -28035,7 +28035,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LODDEFJORD',
 				'longitude' => 'LODDEFJORD',
 				'city' => 'LODDEFJORD',
-				'city_id' => '48600',
+				'city_id' => '49341',
 				'state_id' => '2700',
 			),
 			2802 => 
@@ -28045,7 +28045,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BJØRØYHAMN',
 				'longitude' => 'BJØRØYHAMN',
 				'city' => 'BJØRØYHAMN',
-				'city_id' => '48635',
+				'city_id' => '49343',
 				'state_id' => '2700',
 			),
 			2803 => 
@@ -28055,7 +28055,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LODDEFJORD',
 				'longitude' => 'LODDEFJORD',
 				'city' => 'LODDEFJORD',
-				'city_id' => '48600',
+				'city_id' => '49341',
 				'state_id' => '2700',
 			),
 			2804 => 
@@ -28065,7 +28065,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GODVIK',
 				'longitude' => 'GODVIK',
 				'city' => 'GODVIK',
-				'city_id' => '48600',
+				'city_id' => '49344',
 				'state_id' => '2700',
 			),
 			2805 => 
@@ -28075,7 +28075,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'OLSVIK',
 				'longitude' => 'OLSVIK',
 				'city' => 'OLSVIK',
-				'city_id' => '48600',
+				'city_id' => '49345',
 				'state_id' => '2700',
 			),
 			2806 => 
@@ -28085,7 +28085,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'OLSVIK',
 				'longitude' => 'OLSVIK',
 				'city' => 'OLSVIK',
-				'city_id' => '48600',
+				'city_id' => '49345',
 				'state_id' => '2700',
 			),
 			2807 => 
@@ -28095,7 +28095,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.2269',
 				'longitude' => '5.4758',
 				'city' => 'OS',
-				'city_id' => '48601',
+				'city_id' => '49346',
 				'state_id' => '2700',
 			),
 			2808 => 
@@ -28105,7 +28105,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.2269',
 				'longitude' => '5.4758',
 				'city' => 'OS',
-				'city_id' => '48601',
+				'city_id' => '49346',
 				'state_id' => '2700',
 			),
 			2809 => 
@@ -28115,7 +28115,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.2269',
 				'longitude' => '5.4758',
 				'city' => 'OS',
-				'city_id' => '48601',
+				'city_id' => '49346',
 				'state_id' => '2700',
 			),
 			2810 => 
@@ -28125,7 +28125,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.2269',
 				'longitude' => '5.4758',
 				'city' => 'OS',
-				'city_id' => '48601',
+				'city_id' => '49346',
 				'state_id' => '2700',
 			),
 			2811 => 
@@ -28135,7 +28135,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.2269',
 				'longitude' => '5.4758',
 				'city' => 'OS',
-				'city_id' => '48601',
+				'city_id' => '49346',
 				'state_id' => '2700',
 			),
 			2812 => 
@@ -28145,7 +28145,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SØFTELAND',
 				'longitude' => 'SØFTELAND',
 				'city' => 'SØFTELAND',
-				'city_id' => '48601',
+				'city_id' => '49347',
 				'state_id' => '2700',
 			),
 			2813 => 
@@ -28155,7 +28155,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.2269',
 				'longitude' => '5.4758',
 				'city' => 'OS',
-				'city_id' => '48601',
+				'city_id' => '49346',
 				'state_id' => '2700',
 			),
 			2814 => 
@@ -28165,7 +28165,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.2269',
 				'longitude' => '5.4758',
 				'city' => 'OS',
-				'city_id' => '48601',
+				'city_id' => '49346',
 				'state_id' => '2700',
 			),
 			2815 => 
@@ -28175,7 +28175,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.2269',
 				'longitude' => '5.4758',
 				'city' => 'OS',
-				'city_id' => '48601',
+				'city_id' => '49346',
 				'state_id' => '2700',
 			),
 			2816 => 
@@ -28185,7 +28185,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.2269',
 				'longitude' => '5.4758',
 				'city' => 'OS',
-				'city_id' => '48601',
+				'city_id' => '49346',
 				'state_id' => '2700',
 			),
 			2817 => 
@@ -28195,7 +28195,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SØFTELAND',
 				'longitude' => 'SØFTELAND',
 				'city' => 'SØFTELAND',
-				'city_id' => '48601',
+				'city_id' => '49347',
 				'state_id' => '2700',
 			),
 			2818 => 
@@ -28205,7 +28205,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LEPSØY',
 				'longitude' => 'LEPSØY',
 				'city' => 'LEPSØY',
-				'city_id' => '48601',
+				'city_id' => '49348',
 				'state_id' => '2700',
 			),
 			2819 => 
@@ -28215,7 +28215,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LYSEKLOSTER',
 				'longitude' => 'LYSEKLOSTER',
 				'city' => 'LYSEKLOSTER',
-				'city_id' => '48601',
+				'city_id' => '49349',
 				'state_id' => '2700',
 			),
 			2820 => 
@@ -28225,7 +28225,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LYSEKLOSTER',
 				'longitude' => 'LYSEKLOSTER',
 				'city' => 'LYSEKLOSTER',
-				'city_id' => '48601',
+				'city_id' => '49349',
 				'state_id' => '2700',
 			),
 			2821 => 
@@ -28235,7 +28235,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LEPSØY',
 				'longitude' => 'LEPSØY',
 				'city' => 'LEPSØY',
-				'city_id' => '48601',
+				'city_id' => '49348',
 				'state_id' => '2700',
 			),
 			2822 => 
@@ -28245,7 +28245,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HAGAVIK',
 				'longitude' => 'HAGAVIK',
 				'city' => 'HAGAVIK',
-				'city_id' => '48601',
+				'city_id' => '49350',
 				'state_id' => '2700',
 			),
 			2823 => 
@@ -28255,7 +28255,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NORDSTRØNO',
 				'longitude' => 'NORDSTRØNO',
 				'city' => 'NORDSTRØNO',
-				'city_id' => '48601',
+				'city_id' => '49351',
 				'state_id' => '2700',
 			),
 			2824 => 
@@ -28265,7 +28265,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NESTTUN',
 				'longitude' => 'NESTTUN',
 				'city' => 'NESTTUN',
-				'city_id' => '48600',
+				'city_id' => '49352',
 				'state_id' => '2700',
 			),
 			2825 => 
@@ -28275,7 +28275,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NESTTUN',
 				'longitude' => 'NESTTUN',
 				'city' => 'NESTTUN',
-				'city_id' => '48600',
+				'city_id' => '49352',
 				'state_id' => '2700',
 			),
 			2826 => 
@@ -28285,7 +28285,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NESTTUN',
 				'longitude' => 'NESTTUN',
 				'city' => 'NESTTUN',
-				'city_id' => '48600',
+				'city_id' => '49352',
 				'state_id' => '2700',
 			),
 			2827 => 
@@ -28295,7 +28295,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NESTTUN',
 				'longitude' => 'NESTTUN',
 				'city' => 'NESTTUN',
-				'city_id' => '48600',
+				'city_id' => '49352',
 				'state_id' => '2700',
 			),
 			2828 => 
@@ -28305,7 +28305,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NESTTUN',
 				'longitude' => 'NESTTUN',
 				'city' => 'NESTTUN',
-				'city_id' => '48600',
+				'city_id' => '49352',
 				'state_id' => '2700',
 			),
 			2829 => 
@@ -28315,7 +28315,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NESTTUN',
 				'longitude' => 'NESTTUN',
 				'city' => 'NESTTUN',
-				'city_id' => '48600',
+				'city_id' => '49352',
 				'state_id' => '2700',
 			),
 			2830 => 
@@ -28325,7 +28325,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NESTTUN',
 				'longitude' => 'NESTTUN',
 				'city' => 'NESTTUN',
-				'city_id' => '48600',
+				'city_id' => '49352',
 				'state_id' => '2700',
 			),
 			2831 => 
@@ -28335,7 +28335,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NESTTUN',
 				'longitude' => 'NESTTUN',
 				'city' => 'NESTTUN',
-				'city_id' => '48600',
+				'city_id' => '49352',
 				'state_id' => '2700',
 			),
 			2832 => 
@@ -28345,7 +28345,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KALANDSEIDET',
 				'longitude' => 'KALANDSEIDET',
 				'city' => 'KALANDSEIDET',
-				'city_id' => '48600',
+				'city_id' => '49353',
 				'state_id' => '2700',
 			),
 			2833 => 
@@ -28355,7 +28355,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'PARADIS',
 				'longitude' => 'PARADIS',
 				'city' => 'PARADIS',
-				'city_id' => '48600',
+				'city_id' => '49354',
 				'state_id' => '2700',
 			),
 			2834 => 
@@ -28365,7 +28365,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'PARADIS',
 				'longitude' => 'PARADIS',
 				'city' => 'PARADIS',
-				'city_id' => '48600',
+				'city_id' => '49354',
 				'state_id' => '2700',
 			),
 			2835 => 
@@ -28375,7 +28375,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'PARADIS',
 				'longitude' => 'PARADIS',
 				'city' => 'PARADIS',
-				'city_id' => '48600',
+				'city_id' => '49354',
 				'state_id' => '2700',
 			),
 			2836 => 
@@ -28385,7 +28385,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RÅDAL',
 				'longitude' => 'RÅDAL',
 				'city' => 'RÅDAL',
-				'city_id' => '48600',
+				'city_id' => '49355',
 				'state_id' => '2700',
 			),
 			2837 => 
@@ -28395,7 +28395,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RÅDAL',
 				'longitude' => 'RÅDAL',
 				'city' => 'RÅDAL',
-				'city_id' => '48600',
+				'city_id' => '49355',
 				'state_id' => '2700',
 			),
 			2838 => 
@@ -28405,7 +28405,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RÅDAL',
 				'longitude' => 'RÅDAL',
 				'city' => 'RÅDAL',
-				'city_id' => '48600',
+				'city_id' => '49355',
 				'state_id' => '2700',
 			),
 			2839 => 
@@ -28415,7 +28415,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RÅDAL',
 				'longitude' => 'RÅDAL',
 				'city' => 'RÅDAL',
-				'city_id' => '48600',
+				'city_id' => '49355',
 				'state_id' => '2700',
 			),
 			2840 => 
@@ -28425,7 +28425,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RÅDAL',
 				'longitude' => 'RÅDAL',
 				'city' => 'RÅDAL',
-				'city_id' => '48600',
+				'city_id' => '49355',
 				'state_id' => '2700',
 			),
 			2841 => 
@@ -28435,7 +28435,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FANA',
 				'longitude' => 'FANA',
 				'city' => 'FANA',
-				'city_id' => '48600',
+				'city_id' => '49356',
 				'state_id' => '2700',
 			),
 			2842 => 
@@ -28445,7 +28445,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FANA',
 				'longitude' => 'FANA',
 				'city' => 'FANA',
-				'city_id' => '48600',
+				'city_id' => '49356',
 				'state_id' => '2700',
 			),
 			2843 => 
@@ -28455,7 +28455,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SØREIDGREND',
 				'longitude' => 'SØREIDGREND',
 				'city' => 'SØREIDGREND',
-				'city_id' => '48600',
+				'city_id' => '49357',
 				'state_id' => '2700',
 			),
 			2844 => 
@@ -28465,7 +28465,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SØREIDGREND',
 				'longitude' => 'SØREIDGREND',
 				'city' => 'SØREIDGREND',
-				'city_id' => '48600',
+				'city_id' => '49357',
 				'state_id' => '2700',
 			),
 			2845 => 
@@ -28475,7 +28475,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SANDSLI',
 				'longitude' => 'SANDSLI',
 				'city' => 'SANDSLI',
-				'city_id' => '48600',
+				'city_id' => '49358',
 				'state_id' => '2700',
 			),
 			2846 => 
@@ -28485,7 +28485,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SANDSLI',
 				'longitude' => 'SANDSLI',
 				'city' => 'SANDSLI',
-				'city_id' => '48600',
+				'city_id' => '49358',
 				'state_id' => '2700',
 			),
 			2847 => 
@@ -28495,7 +28495,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KOKSTAD',
 				'longitude' => 'KOKSTAD',
 				'city' => 'KOKSTAD',
-				'city_id' => '48600',
+				'city_id' => '49359',
 				'state_id' => '2700',
 			),
 			2848 => 
@@ -28505,7 +28505,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BLOMSTERDALEN',
 				'longitude' => 'BLOMSTERDALEN',
 				'city' => 'BLOMSTERDALEN',
-				'city_id' => '48600',
+				'city_id' => '49360',
 				'state_id' => '2700',
 			),
 			2849 => 
@@ -28515,7 +28515,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HJELLESTAD',
 				'longitude' => 'HJELLESTAD',
 				'city' => 'HJELLESTAD',
-				'city_id' => '48600',
+				'city_id' => '49361',
 				'state_id' => '2700',
 			),
 			2850 => 
@@ -28525,7 +28525,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'INDRE ARNA',
 				'longitude' => 'INDRE ARNA',
 				'city' => 'INDRE ARNA',
-				'city_id' => '48600',
+				'city_id' => '49362',
 				'state_id' => '2700',
 			),
 			2851 => 
@@ -28535,7 +28535,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'INDRE ARNA',
 				'longitude' => 'INDRE ARNA',
 				'city' => 'INDRE ARNA',
-				'city_id' => '48600',
+				'city_id' => '49362',
 				'state_id' => '2700',
 			),
 			2852 => 
@@ -28545,7 +28545,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ARNATVEIT',
 				'longitude' => 'ARNATVEIT',
 				'city' => 'ARNATVEIT',
-				'city_id' => '48600',
+				'city_id' => '49363',
 				'state_id' => '2700',
 			),
 			2853 => 
@@ -28555,7 +28555,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TRENGEREID',
 				'longitude' => 'TRENGEREID',
 				'city' => 'TRENGEREID',
-				'city_id' => '48600',
+				'city_id' => '49364',
 				'state_id' => '2700',
 			),
 			2854 => 
@@ -28565,7 +28565,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GARNES',
 				'longitude' => 'GARNES',
 				'city' => 'GARNES',
-				'city_id' => '48600',
+				'city_id' => '49365',
 				'state_id' => '2700',
 			),
 			2855 => 
@@ -28575,7 +28575,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'YTRE ARNA',
 				'longitude' => 'YTRE ARNA',
 				'city' => 'YTRE ARNA',
-				'city_id' => '48600',
+				'city_id' => '49365',
 				'state_id' => '2700',
 			),
 			2856 => 
@@ -28585,7 +28585,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ESPELAND',
 				'longitude' => 'ESPELAND',
 				'city' => 'ESPELAND',
-				'city_id' => '48600',
+				'city_id' => '49366',
 				'state_id' => '2700',
 			),
 			2857 => 
@@ -28595,7 +28595,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HAUKELAND',
 				'longitude' => 'HAUKELAND',
 				'city' => 'HAUKELAND',
-				'city_id' => '48600',
+				'city_id' => '49367',
 				'state_id' => '2700',
 			),
 			2858 => 
@@ -28605,7 +28605,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VALESTRANDSFOSSEN',
 				'longitude' => 'VALESTRANDSFOSSEN',
 				'city' => 'VALESTRANDSFOSSEN',
-				'city_id' => '48619',
+				'city_id' => '49368',
 				'state_id' => '2700',
 			),
 			2859 => 
@@ -28615,7 +28615,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.5333',
 				'longitude' => '5.5',
 				'city' => 'LONEVÅG',
-				'city_id' => '48619',
+				'city_id' => '49369',
 				'state_id' => '2700',
 			),
 			2860 => 
@@ -28625,7 +28625,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FOTLANDSVÅG',
 				'longitude' => 'FOTLANDSVÅG',
 				'city' => 'FOTLANDSVÅG',
-				'city_id' => '48619',
+				'city_id' => '49370',
 				'state_id' => '2700',
 			),
 			2861 => 
@@ -28635,7 +28635,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TYSSEBOTNEN',
 				'longitude' => 'TYSSEBOTNEN',
 				'city' => 'TYSSEBOTNEN',
-				'city_id' => '48619',
+				'city_id' => '49371',
 				'state_id' => '2700',
 			),
 			2862 => 
@@ -28645,7 +28645,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BRUVIK',
 				'longitude' => 'BRUVIK',
 				'city' => 'BRUVIK',
-				'city_id' => '48619',
+				'city_id' => '49372',
 				'state_id' => '2700',
 			),
 			2863 => 
@@ -28655,7 +28655,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HAUS',
 				'longitude' => 'HAUS',
 				'city' => 'HAUS',
-				'city_id' => '48619',
+				'city_id' => '49373',
 				'state_id' => '2700',
 			),
 			2864 => 
@@ -28665,7 +28665,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VALESTRANDSFOSSEN',
 				'longitude' => 'VALESTRANDSFOSSEN',
 				'city' => 'VALESTRANDSFOSSEN',
-				'city_id' => '48619',
+				'city_id' => '49368',
 				'state_id' => '2700',
 			),
 			2865 => 
@@ -28675,7 +28675,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.5333',
 				'longitude' => '5.5',
 				'city' => 'LONEVÅG',
-				'city_id' => '48619',
+				'city_id' => '49369',
 				'state_id' => '2700',
 			),
 			2866 => 
@@ -28685,7 +28685,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HAUS',
 				'longitude' => 'HAUS',
 				'city' => 'HAUS',
-				'city_id' => '48619',
+				'city_id' => '49373',
 				'state_id' => '2700',
 			),
 			2867 => 
@@ -28695,7 +28695,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.4094',
 				'longitude' => '5.2286',
 				'city' => 'KLEPPESTØ',
-				'city_id' => '48596',
+				'city_id' => '49374',
 				'state_id' => '2700',
 			),
 			2868 => 
@@ -28705,7 +28705,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.4094',
 				'longitude' => '5.2286',
 				'city' => 'KLEPPESTØ',
-				'city_id' => '48596',
+				'city_id' => '49374',
 				'state_id' => '2700',
 			),
 			2869 => 
@@ -28715,7 +28715,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STRUSSHAMN',
 				'longitude' => 'STRUSSHAMN',
 				'city' => 'STRUSSHAMN',
-				'city_id' => '48596',
+				'city_id' => '49375',
 				'state_id' => '2700',
 			),
 			2870 => 
@@ -28725,7 +28725,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FOLLESE',
 				'longitude' => 'FOLLESE',
 				'city' => 'FOLLESE',
-				'city_id' => '48596',
+				'city_id' => '49376',
 				'state_id' => '2700',
 			),
 			2871 => 
@@ -28735,7 +28735,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HETLEVIK',
 				'longitude' => 'HETLEVIK',
 				'city' => 'HETLEVIK',
-				'city_id' => '48596',
+				'city_id' => '49377',
 				'state_id' => '2700',
 			),
 			2872 => 
@@ -28745,7 +28745,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FLORVÅG',
 				'longitude' => 'FLORVÅG',
 				'city' => 'FLORVÅG',
-				'city_id' => '48596',
+				'city_id' => '49378',
 				'state_id' => '2700',
 			),
 			2873 => 
@@ -28755,7 +28755,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ERDAL',
 				'longitude' => 'ERDAL',
 				'city' => 'ERDAL',
-				'city_id' => '48596',
+				'city_id' => '49379',
 				'state_id' => '2700',
 			),
 			2874 => 
@@ -28765,7 +28765,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ASK',
 				'longitude' => 'ASK',
 				'city' => 'ASK',
-				'city_id' => '48596',
+				'city_id' => '49383',
 				'state_id' => '2700',
 			),
 			2875 => 
@@ -28775,7 +28775,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.4094',
 				'longitude' => '5.2286',
 				'city' => 'KLEPPESTØ',
-				'city_id' => '48596',
+				'city_id' => '49374',
 				'state_id' => '2700',
 			),
 			2876 => 
@@ -28785,7 +28785,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.4094',
 				'longitude' => '5.2286',
 				'city' => 'KLEPPESTØ',
-				'city_id' => '48596',
+				'city_id' => '49374',
 				'state_id' => '2700',
 			),
 			2877 => 
@@ -28795,7 +28795,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HAUGLANDSHELLA',
 				'longitude' => 'HAUGLANDSHELLA',
 				'city' => 'HAUGLANDSHELLA',
-				'city_id' => '48596',
+				'city_id' => '49384',
 				'state_id' => '2700',
 			),
 			2878 => 
@@ -28805,7 +28805,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KJERRGARDEN',
 				'longitude' => 'KJERRGARDEN',
 				'city' => 'KJERRGARDEN',
-				'city_id' => '48596',
+				'city_id' => '49385',
 				'state_id' => '2700',
 			),
 			2879 => 
@@ -28815,7 +28815,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KJERRGARDEN',
 				'longitude' => 'KJERRGARDEN',
 				'city' => 'KJERRGARDEN',
-				'city_id' => '48596',
+				'city_id' => '49385',
 				'state_id' => '2700',
 			),
 			2880 => 
@@ -28825,7 +28825,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HERDLA',
 				'longitude' => 'HERDLA',
 				'city' => 'HERDLA',
-				'city_id' => '48596',
+				'city_id' => '49386',
 				'state_id' => '2700',
 			),
 			2881 => 
@@ -28835,7 +28835,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STRUSSHAMN',
 				'longitude' => 'STRUSSHAMN',
 				'city' => 'STRUSSHAMN',
-				'city_id' => '48596',
+				'city_id' => '49375',
 				'state_id' => '2700',
 			),
 			2882 => 
@@ -28845,7 +28845,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.4094',
 				'longitude' => '5.2286',
 				'city' => 'KLEPPESTØ',
-				'city_id' => '48596',
+				'city_id' => '49374',
 				'state_id' => '2700',
 			),
 			2883 => 
@@ -28855,7 +28855,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.4094',
 				'longitude' => '5.2286',
 				'city' => 'KLEPPESTØ',
-				'city_id' => '48596',
+				'city_id' => '49374',
 				'state_id' => '2700',
 			),
 			2884 => 
@@ -28865,7 +28865,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.4094',
 				'longitude' => '5.2286',
 				'city' => 'KLEPPESTØ',
-				'city_id' => '48596',
+				'city_id' => '49374',
 				'state_id' => '2700',
 			),
 			2885 => 
@@ -28875,7 +28875,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.4094',
 				'longitude' => '5.2286',
 				'city' => 'KLEPPESTØ',
-				'city_id' => '48596',
+				'city_id' => '49374',
 				'state_id' => '2700',
 			),
 			2886 => 
@@ -28885,7 +28885,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FOLLESE',
 				'longitude' => 'FOLLESE',
 				'city' => 'FOLLESE',
-				'city_id' => '48596',
+				'city_id' => '49376',
 				'state_id' => '2700',
 			),
 			2887 => 
@@ -28895,7 +28895,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ASK',
 				'longitude' => 'ASK',
 				'city' => 'ASK',
-				'city_id' => '48596',
+				'city_id' => '49383',
 				'state_id' => '2700',
 			),
 			2888 => 
@@ -28905,7 +28905,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HAUGLANDSHELLA',
 				'longitude' => 'HAUGLANDSHELLA',
 				'city' => 'HAUGLANDSHELLA',
-				'city_id' => '48596',
+				'city_id' => '49384',
 				'state_id' => '2700',
 			),
 			2889 => 
@@ -28915,7 +28915,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FLORVÅG',
 				'longitude' => 'FLORVÅG',
 				'city' => 'FLORVÅG',
-				'city_id' => '48596',
+				'city_id' => '49378',
 				'state_id' => '2700',
 			),
 			2890 => 
@@ -28925,7 +28925,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.5133',
 				'longitude' => '4.9033',
 				'city' => 'RONG',
-				'city_id' => '48635',
+				'city_id' => '49387',
 				'state_id' => '2700',
 			),
 			2891 => 
@@ -28935,7 +28935,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TJELDSTØ',
 				'longitude' => 'TJELDSTØ',
 				'city' => 'TJELDSTØ',
-				'city_id' => '48635',
+				'city_id' => '49388',
 				'state_id' => '2700',
 			),
 			2892 => 
@@ -28945,7 +28945,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HELLESØY',
 				'longitude' => 'HELLESØY',
 				'city' => 'HELLESØY',
-				'city_id' => '48635',
+				'city_id' => '49389',
 				'state_id' => '2700',
 			),
 			2893 => 
@@ -28955,7 +28955,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HERNAR',
 				'longitude' => 'HERNAR',
 				'city' => 'HERNAR',
-				'city_id' => '48635',
+				'city_id' => '49390',
 				'state_id' => '2700',
 			),
 			2894 => 
@@ -28965,7 +28965,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TJELDSTØ',
 				'longitude' => 'TJELDSTØ',
 				'city' => 'TJELDSTØ',
-				'city_id' => '48635',
+				'city_id' => '49388',
 				'state_id' => '2700',
 			),
 			2895 => 
@@ -28975,7 +28975,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.5133',
 				'longitude' => '4.9033',
 				'city' => 'RONG',
-				'city_id' => '48635',
+				'city_id' => '49387',
 				'state_id' => '2700',
 			),
 			2896 => 
@@ -28985,7 +28985,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3558',
 				'longitude' => '5.1196',
 				'city' => 'STRAUME',
-				'city_id' => '48635',
+				'city_id' => '49391',
 				'state_id' => '2700',
 			),
 			2897 => 
@@ -28995,7 +28995,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3558',
 				'longitude' => '5.1196',
 				'city' => 'STRAUME',
-				'city_id' => '48635',
+				'city_id' => '49391',
 				'state_id' => '2700',
 			),
 			2898 => 
@@ -29005,7 +29005,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3558',
 				'longitude' => '5.1196',
 				'city' => 'STRAUME',
-				'city_id' => '48635',
+				'city_id' => '49391',
 				'state_id' => '2700',
 			),
 			2899 => 
@@ -29015,7 +29015,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KNARREVIK',
 				'longitude' => 'KNARREVIK',
 				'city' => 'KNARREVIK',
-				'city_id' => '48635',
+				'city_id' => '49392',
 				'state_id' => '2700',
 			),
 			2900 => 
@@ -29025,7 +29025,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ÅGOTNES',
 				'longitude' => 'ÅGOTNES',
 				'city' => 'ÅGOTNES',
-				'city_id' => '48635',
+				'city_id' => '49393',
 				'state_id' => '2700',
 			),
 			2901 => 
@@ -29035,7 +29035,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ÅGOTNES',
 				'longitude' => 'ÅGOTNES',
 				'city' => 'ÅGOTNES',
-				'city_id' => '48635',
+				'city_id' => '49393',
 				'state_id' => '2700',
 			),
 			2902 => 
@@ -29045,7 +29045,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BRATTHOLMEN',
 				'longitude' => 'BRATTHOLMEN',
 				'city' => 'BRATTHOLMEN',
-				'city_id' => '48635',
+				'city_id' => '49394',
 				'state_id' => '2700',
 			),
 			2903 => 
@@ -29055,7 +29055,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3558',
 				'longitude' => '5.1196',
 				'city' => 'STRAUME',
-				'city_id' => '48635',
+				'city_id' => '49391',
 				'state_id' => '2700',
 			),
 			2904 => 
@@ -29065,7 +29065,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3558',
 				'longitude' => '5.1196',
 				'city' => 'STRAUME',
-				'city_id' => '48635',
+				'city_id' => '49391',
 				'state_id' => '2700',
 			),
 			2905 => 
@@ -29075,7 +29075,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KNARREVIK',
 				'longitude' => 'KNARREVIK',
 				'city' => 'KNARREVIK',
-				'city_id' => '48635',
+				'city_id' => '49392',
 				'state_id' => '2700',
 			),
 			2906 => 
@@ -29085,7 +29085,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FJELL',
 				'longitude' => 'FJELL',
 				'city' => 'FJELL',
-				'city_id' => '48635',
+				'city_id' => '49395',
 				'state_id' => '2700',
 			),
 			2907 => 
@@ -29095,7 +29095,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FJELL',
 				'longitude' => 'FJELL',
 				'city' => 'FJELL',
-				'city_id' => '48635',
+				'city_id' => '49395',
 				'state_id' => '2700',
 			),
 			2908 => 
@@ -29105,7 +29105,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KOLLTVEIT',
 				'longitude' => 'KOLLTVEIT',
 				'city' => 'KOLLTVEIT',
-				'city_id' => '48635',
+				'city_id' => '49396',
 				'state_id' => '2700',
 			),
 			2909 => 
@@ -29115,7 +29115,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ÅGOTNES',
 				'longitude' => 'ÅGOTNES',
 				'city' => 'ÅGOTNES',
-				'city_id' => '48635',
+				'city_id' => '49393',
 				'state_id' => '2700',
 			),
 			2910 => 
@@ -29125,7 +29125,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TURØY',
 				'longitude' => 'TURØY',
 				'city' => 'TURØY',
-				'city_id' => '48635',
+				'city_id' => '49397',
 				'state_id' => '2700',
 			),
 			2911 => 
@@ -29135,7 +29135,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MISJE',
 				'longitude' => 'MISJE',
 				'city' => 'MISJE',
-				'city_id' => '48635',
+				'city_id' => '49398',
 				'state_id' => '2700',
 			),
 			2912 => 
@@ -29145,7 +29145,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.2556',
 				'longitude' => '5.1017',
 				'city' => 'SKOGSVÅG',
-				'city_id' => '48635',
+				'city_id' => '49399',
 				'state_id' => '2700',
 			),
 			2913 => 
@@ -29155,7 +29155,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STEINSLAND',
 				'longitude' => 'STEINSLAND',
 				'city' => 'STEINSLAND',
-				'city_id' => '48635',
+				'city_id' => '49400',
 				'state_id' => '2700',
 			),
 			2914 => 
@@ -29165,7 +29165,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KLOKKARVIK',
 				'longitude' => 'KLOKKARVIK',
 				'city' => 'KLOKKARVIK',
-				'city_id' => '48635',
+				'city_id' => '49401',
 				'state_id' => '2700',
 			),
 			2915 => 
@@ -29175,7 +29175,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STEINSLAND',
 				'longitude' => 'STEINSLAND',
 				'city' => 'STEINSLAND',
-				'city_id' => '48635',
+				'city_id' => '49400',
 				'state_id' => '2700',
 			),
 			2916 => 
@@ -29185,7 +29185,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TELAVÅG',
 				'longitude' => 'TELAVÅG',
 				'city' => 'TELAVÅG',
-				'city_id' => '48635',
+				'city_id' => '49402',
 				'state_id' => '2700',
 			),
 			2917 => 
@@ -29195,7 +29195,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GLESVÆR',
 				'longitude' => 'GLESVÆR',
 				'city' => 'GLESVÆR',
-				'city_id' => '48635',
+				'city_id' => '49403',
 				'state_id' => '2700',
 			),
 			2918 => 
@@ -29205,7 +29205,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.2556',
 				'longitude' => '5.1017',
 				'city' => 'SKOGSVÅG',
-				'city_id' => '48635',
+				'city_id' => '49399',
 				'state_id' => '2700',
 			),
 			2919 => 
@@ -29215,7 +29215,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TORANGSVÅG',
 				'longitude' => 'TORANGSVÅG',
 				'city' => 'TORANGSVÅG',
-				'city_id' => '48598',
+				'city_id' => '49404',
 				'state_id' => '2700',
 			),
 			2920 => 
@@ -29225,7 +29225,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BAKKASUND',
 				'longitude' => 'BAKKASUND',
 				'city' => 'BAKKASUND',
-				'city_id' => '48598',
+				'city_id' => '49405',
 				'state_id' => '2700',
 			),
 			2921 => 
@@ -29235,7 +29235,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MØKSTER',
 				'longitude' => 'MØKSTER',
 				'city' => 'MØKSTER',
-				'city_id' => '48598',
+				'city_id' => '49406',
 				'state_id' => '2700',
 			),
 			2922 => 
@@ -29245,7 +29245,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LITLAKALSØY',
 				'longitude' => 'LITLAKALSØY',
 				'city' => 'LITLAKALSØY',
-				'city_id' => '48598',
+				'city_id' => '49407',
 				'state_id' => '2700',
 			),
 			2923 => 
@@ -29255,7 +29255,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.0924',
 				'longitude' => '5.2322',
 				'city' => 'STOREBØ',
-				'city_id' => '48598',
+				'city_id' => '49408',
 				'state_id' => '2700',
 			),
 			2924 => 
@@ -29265,7 +29265,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.0924',
 				'longitude' => '5.2322',
 				'city' => 'STOREBØ',
-				'city_id' => '48598',
+				'city_id' => '49408',
 				'state_id' => '2700',
 			),
 			2925 => 
@@ -29275,7 +29275,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KOLBEINSVIK',
 				'longitude' => 'KOLBEINSVIK',
 				'city' => 'KOLBEINSVIK',
-				'city_id' => '48598',
+				'city_id' => '49409',
 				'state_id' => '2700',
 			),
 			2926 => 
@@ -29285,7 +29285,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VESTRE VINNESVÅG',
 				'longitude' => 'VESTRE VINNESVÅG',
 				'city' => 'VESTRE VINNESVÅG',
-				'city_id' => '48598',
+				'city_id' => '49410',
 				'state_id' => '2700',
 			),
 			2927 => 
@@ -29295,7 +29295,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BEKK59.916663VIK',
 				'longitude' => 'BEKK10.6166642VIK',
 				'city' => 'BEKKJARVIK',
-				'city_id' => '48598',
+				'city_id' => '49411',
 				'state_id' => '2700',
 			),
 			2928 => 
@@ -29305,7 +29305,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STOLMEN',
 				'longitude' => 'STOLMEN',
 				'city' => 'STOLMEN',
-				'city_id' => '48598',
+				'city_id' => '49412',
 				'state_id' => '2700',
 			),
 			2929 => 
@@ -29315,7 +29315,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BEKK59.916663VIK',
 				'longitude' => 'BEKK10.6166642VIK',
 				'city' => 'BEKKJARVIK',
-				'city_id' => '48598',
+				'city_id' => '49411',
 				'state_id' => '2700',
 			),
 			2930 => 
@@ -29385,7 +29385,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.7753',
 				'longitude' => '5.3947',
 				'city' => 'SAGVÅG',
-				'city_id' => '48624',
+				'city_id' => '49413',
 				'state_id' => '2700',
 			),
 			2937 => 
@@ -29405,7 +29405,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.7753',
 				'longitude' => '5.3947',
 				'city' => 'SAGVÅG',
-				'city_id' => '48624',
+				'city_id' => '49413',
 				'state_id' => '2700',
 			),
 			2939 => 
@@ -29435,7 +29435,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HUGLO',
 				'longitude' => 'HUGLO',
 				'city' => 'HUGLO',
-				'city_id' => '48624',
+				'city_id' => '49414',
 				'state_id' => '2700',
 			),
 			2942 => 
@@ -29505,7 +29505,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RUBBESTADNESET',
 				'longitude' => 'RUBBESTADNESET',
 				'city' => 'RUBBESTADNESET',
-				'city_id' => '48684',
+				'city_id' => '49415',
 				'state_id' => '2700',
 			),
 			2949 => 
@@ -29515,7 +29515,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BRANDASUND',
 				'longitude' => 'BRANDASUND',
 				'city' => 'BRANDASUND',
-				'city_id' => '48684',
+				'city_id' => '49416',
 				'state_id' => '2700',
 			),
 			2950 => 
@@ -29525,7 +29525,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'URANGSVÅG',
 				'longitude' => 'URANGSVÅG',
 				'city' => 'URANGSVÅG',
-				'city_id' => '48684',
+				'city_id' => '49417',
 				'state_id' => '2700',
 			),
 			2951 => 
@@ -29535,7 +29535,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FOLDRØYHAMN',
 				'longitude' => 'FOLDRØYHAMN',
 				'city' => 'FOLDRØYHAMN',
-				'city_id' => '48684',
+				'city_id' => '49418',
 				'state_id' => '2700',
 			),
 			2952 => 
@@ -29545,7 +29545,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.7953',
 				'longitude' => '5.1753',
 				'city' => 'BREMNES',
-				'city_id' => '48684',
+				'city_id' => '49419',
 				'state_id' => '2700',
 			),
 			2953 => 
@@ -29555,7 +29555,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FINNÅS',
 				'longitude' => 'FINNÅS',
 				'city' => 'FINNÅS',
-				'city_id' => '48684',
+				'city_id' => '49420',
 				'state_id' => '2700',
 			),
 			2954 => 
@@ -29565,7 +29565,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MOSTERHAMN',
 				'longitude' => 'MOSTERHAMN',
 				'city' => 'MOSTERHAMN',
-				'city_id' => '48684',
+				'city_id' => '49421',
 				'state_id' => '2700',
 			),
 			2955 => 
@@ -29575,7 +29575,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.7794',
 				'longitude' => '5.2183',
 				'city' => 'BØMLO',
-				'city_id' => '48684',
+				'city_id' => '48603',
 				'state_id' => '2700',
 			),
 			2956 => 
@@ -29585,7 +29585,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ESPEVÆR',
 				'longitude' => 'ESPEVÆR',
 				'city' => 'ESPEVÆR',
-				'city_id' => '48684',
+				'city_id' => '49422',
 				'state_id' => '2700',
 			),
 			2957 => 
@@ -29595,7 +29595,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.7953',
 				'longitude' => '5.1753',
 				'city' => 'BREMNES',
-				'city_id' => '48684',
+				'city_id' => '49419',
 				'state_id' => '2700',
 			),
 			2958 => 
@@ -29605,7 +29605,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MOSTERHAMN',
 				'longitude' => 'MOSTERHAMN',
 				'city' => 'MOSTERHAMN',
-				'city_id' => '48684',
+				'city_id' => '49421',
 				'state_id' => '2700',
 			),
 			2959 => 
@@ -29615,7 +29615,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.7794',
 				'longitude' => '5.2183',
 				'city' => 'BØMLO',
-				'city_id' => '48684',
+				'city_id' => '48603',
 				'state_id' => '2700',
 			),
 			2960 => 
@@ -29625,7 +29625,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SUNDE I SUNNHORDLANDVALEN',
 				'longitude' => 'SUNDE I SUNNHORDLANDVALEN',
 				'city' => 'SUNDE I SUNNHORDLAND',
-				'city_id' => '48615',
+				'city_id' => '49423',
 				'state_id' => '2700',
 			),
 			2961 => 
@@ -29635,7 +29635,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VALEN',
 				'longitude' => 'VALEN',
 				'city' => 'VALEN',
-				'city_id' => '48615',
+				'city_id' => '49424',
 				'state_id' => '2700',
 			),
 			2962 => 
@@ -29645,7 +29645,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SANDVOLL',
 				'longitude' => 'SANDVOLL',
 				'city' => 'SANDVOLL',
-				'city_id' => '48615',
+				'city_id' => '49425',
 				'state_id' => '2700',
 			),
 			2963 => 
@@ -29655,7 +29655,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'UTÅKER',
 				'longitude' => 'UTÅKER',
 				'city' => 'UTÅKER',
-				'city_id' => '48615',
+				'city_id' => '49426',
 				'state_id' => '2700',
 			),
 			2964 => 
@@ -29665,7 +29665,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SÆBØVIK',
 				'longitude' => 'SÆBØVIK',
 				'city' => 'SÆBØVIK',
-				'city_id' => '48615',
+				'city_id' => '49427',
 				'state_id' => '2700',
 			),
 			2965 => 
@@ -29675,7 +29675,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HALSNØY KLOSTER',
 				'longitude' => 'HALSNØY KLOSTER',
 				'city' => 'HALSNØY KLOSTER',
-				'city_id' => '48615',
+				'city_id' => '49428',
 				'state_id' => '2700',
 			),
 			2966 => 
@@ -29685,7 +29685,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HØYLANDSBYGD',
 				'longitude' => 'HØYLANDSBYGD',
 				'city' => 'HØYLANDSBYGD',
-				'city_id' => '48615',
+				'city_id' => '49429',
 				'state_id' => '2700',
 			),
 			2967 => 
@@ -29695,7 +29695,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ARNAVIK',
 				'longitude' => 'ARNAVIK',
 				'city' => 'ARNAVIK',
-				'city_id' => '48615',
+				'city_id' => '49430',
 				'state_id' => '2700',
 			),
 			2968 => 
@@ -29705,7 +29705,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FJELBERG',
 				'longitude' => 'FJELBERG',
 				'city' => 'FJELBERG',
-				'city_id' => '48615',
+				'city_id' => '49431',
 				'state_id' => '2700',
 			),
 			2969 => 
@@ -29715,7 +29715,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HUSNES',
 				'longitude' => 'HUSNES',
 				'city' => 'HUSNES',
-				'city_id' => '48615',
+				'city_id' => '49432',
 				'state_id' => '2700',
 			),
 			2970 => 
@@ -29725,7 +29725,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HERØYSUNDET',
 				'longitude' => 'HERØYSUNDET',
 				'city' => 'HERØYSUNDET',
-				'city_id' => '48615',
+				'city_id' => '49433',
 				'state_id' => '2700',
 			),
 			2971 => 
@@ -29735,7 +29735,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'USKEDALEN',
 				'longitude' => 'USKEDALEN',
 				'city' => 'USKEDALEN',
-				'city_id' => '48615',
+				'city_id' => '49434',
 				'state_id' => '2700',
 			),
 			2972 => 
@@ -29745,7 +29745,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'DIMMELSVIK',
 				'longitude' => 'DIMMELSVIK',
 				'city' => 'DIMMELSVIK',
-				'city_id' => '48615',
+				'city_id' => '49435',
 				'state_id' => '2700',
 			),
 			2973 => 
@@ -29755,7 +29755,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'USKEDALEN',
 				'longitude' => 'USKEDALEN',
 				'city' => 'USKEDALEN',
-				'city_id' => '48615',
+				'city_id' => '49434',
 				'state_id' => '2700',
 			),
 			2974 => 
@@ -29765,7 +29765,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.9833',
 				'longitude' => '6.0167',
 				'city' => 'ROSENDAL',
-				'city_id' => '48615',
+				'city_id' => '49436',
 				'state_id' => '2700',
 			),
 			2975 => 
@@ -29775,7 +29775,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SEIMSFOSS',
 				'longitude' => 'SEIMSFOSS',
 				'city' => 'SEIMSFOSS',
-				'city_id' => '48615',
+				'city_id' => '49437',
 				'state_id' => '2700',
 			),
 			2976 => 
@@ -29785,7 +29785,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SNILSTVEITØY',
 				'longitude' => 'SNILSTVEITØY',
 				'city' => 'SNILSTVEITØY',
-				'city_id' => '48615',
+				'city_id' => '49438',
 				'state_id' => '2700',
 			),
 			2977 => 
@@ -29795,7 +29795,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LØFALLSTRAND',
 				'longitude' => 'LØFALLSTRAND',
 				'city' => 'LØFALLSTRAND',
-				'city_id' => '48615',
+				'city_id' => '49439',
 				'state_id' => '2700',
 			),
 			2978 => 
@@ -29805,7 +29805,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ÆNES',
 				'longitude' => 'ÆNES',
 				'city' => 'ÆNES',
-				'city_id' => '48615',
+				'city_id' => '49440',
 				'state_id' => '2700',
 			),
 			2979 => 
@@ -29815,7 +29815,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MAURANGER',
 				'longitude' => 'MAURANGER',
 				'city' => 'MAURANGER',
-				'city_id' => '48615',
+				'city_id' => '49441',
 				'state_id' => '2700',
 			),
 			2980 => 
@@ -29825,7 +29825,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HUSNES',
 				'longitude' => 'HUSNES',
 				'city' => 'HUSNES',
-				'city_id' => '48615',
+				'city_id' => '49432',
 				'state_id' => '2700',
 			),
 			2981 => 
@@ -29835,7 +29835,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SÆBØVIK',
 				'longitude' => 'SÆBØVIK',
 				'city' => 'SÆBØVIK',
-				'city_id' => '48615',
+				'city_id' => '49427',
 				'state_id' => '2700',
 			),
 			2982 => 
@@ -29845,7 +29845,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.9833',
 				'longitude' => '6.0167',
 				'city' => 'ROSENDAL',
-				'city_id' => '48615',
+				'city_id' => '49436',
 				'state_id' => '2700',
 			),
 			2983 => 
@@ -29855,7 +29855,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MATRE',
 				'longitude' => 'MATRE',
 				'city' => 'MATRE',
-				'city_id' => '48615',
+				'city_id' => '49442',
 				'state_id' => '2700',
 			),
 			2984 => 
@@ -29865,7 +29865,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ÅKRA',
 				'longitude' => 'ÅKRA',
 				'city' => 'ÅKRA',
-				'city_id' => '48615',
+				'city_id' => '49443',
 				'state_id' => '2700',
 			),
 			2985 => 
@@ -29945,7 +29945,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KARMSUND',
 				'longitude' => 'KARMSUND',
 				'city' => 'KARMSUND',
-				'city_id' => '48481',
+				'city_id' => '49444',
 				'state_id' => '2695',
 			),
 			2993 => 
@@ -30195,7 +30195,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KOLNES',
 				'longitude' => 'KOLNES',
 				'city' => 'KOLNES',
-				'city_id' => '48481',
+				'city_id' => '49445',
 				'state_id' => '2695',
 			),
 			3018 => 
@@ -30205,7 +30205,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KARMSUND',
 				'longitude' => 'KARMSUND',
 				'city' => 'KARMSUND',
-				'city_id' => '48481',
+				'city_id' => '49444',
 				'state_id' => '2695',
 			),
 			3019 => 
@@ -30215,7 +30215,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VORMEDAL',
 				'longitude' => 'VORMEDAL',
 				'city' => 'VORMEDAL',
-				'city_id' => '48481',
+				'city_id' => '49446',
 				'state_id' => '2695',
 			),
 			3020 => 
@@ -30225,7 +30225,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VORMEDAL',
 				'longitude' => 'VORMEDAL',
 				'city' => 'VORMEDAL',
-				'city_id' => '48481',
+				'city_id' => '49446',
 				'state_id' => '2695',
 			),
 			3021 => 
@@ -30235,7 +30235,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RØYKSUND',
 				'longitude' => 'RØYKSUND',
 				'city' => 'RØYKSUND',
-				'city_id' => '48481',
+				'city_id' => '49447',
 				'state_id' => '2695',
 			),
 			3022 => 
@@ -30245,7 +30245,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.3072',
 				'longitude' => '4.8861',
 				'city' => 'UTSIRA',
-				'city_id' => '48495',
+				'city_id' => '49448',
 				'state_id' => '2695',
 			),
 			3023 => 
@@ -30255,7 +30255,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FEØY',
 				'longitude' => 'FEØY',
 				'city' => 'FEØY',
-				'city_id' => '48481',
+				'city_id' => '49449',
 				'state_id' => '2695',
 			),
 			3024 => 
@@ -30265,7 +30265,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RØVÆR',
 				'longitude' => 'RØVÆR',
 				'city' => 'RØVÆR',
-				'city_id' => '48478',
+				'city_id' => '49450',
 				'state_id' => '2695',
 			),
 			3025 => 
@@ -30285,7 +30285,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'AUKLANDSHAMN',
 				'longitude' => 'AUKLANDSHAMN',
 				'city' => 'AUKLANDSHAMN',
-				'city_id' => '48627',
+				'city_id' => '49451',
 				'state_id' => '2700',
 			),
 			3027 => 
@@ -30295,7 +30295,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VALEVÅG',
 				'longitude' => 'VALEVÅG',
 				'city' => 'VALEVÅG',
-				'city_id' => '48627',
+				'city_id' => '49452',
 				'state_id' => '2700',
 			),
 			3028 => 
@@ -30305,7 +30305,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FØRDE I HORDALAND',
 				'longitude' => 'FØRDE I HORDALAND',
 				'city' => 'FØRDE I HORDALAND',
-				'city_id' => '48627',
+				'city_id' => '49453',
 				'state_id' => '2700',
 			),
 			3029 => 
@@ -30315,7 +30315,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FØRDE I HORDALAND',
 				'longitude' => 'FØRDE I HORDALAND',
 				'city' => 'FØRDE I HORDALAND',
-				'city_id' => '48627',
+				'city_id' => '49453',
 				'state_id' => '2700',
 			),
 			3030 => 
@@ -30335,7 +30335,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NEDSTRAND',
 				'longitude' => 'NEDSTRAND',
 				'city' => 'NEDSTRAND',
-				'city_id' => '48494',
+				'city_id' => '49454',
 				'state_id' => '2695',
 			),
 			3032 => 
@@ -30355,7 +30355,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NEDSTRAND',
 				'longitude' => 'NEDSTRAND',
 				'city' => 'NEDSTRAND',
-				'city_id' => '48494',
+				'city_id' => '49454',
 				'state_id' => '2695',
 			),
 			3034 => 
@@ -30365,7 +30365,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FØRRESFJORDEN',
 				'longitude' => 'FØRRESFJORDEN',
 				'city' => 'FØRRESFJORDEN',
-				'city_id' => '48494',
+				'city_id' => '49455',
 				'state_id' => '2695',
 			),
 			3035 => 
@@ -30375,7 +30375,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TYSVÆRVÅG',
 				'longitude' => 'TYSVÆRVÅG',
 				'city' => 'TYSVÆRVÅG',
-				'city_id' => '48494',
+				'city_id' => '49456',
 				'state_id' => '2695',
 			),
 			3036 => 
@@ -30385,7 +30385,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HERVIK',
 				'longitude' => 'HERVIK',
 				'city' => 'HERVIK',
-				'city_id' => '48494',
+				'city_id' => '49457',
 				'state_id' => '2695',
 			),
 			3037 => 
@@ -30395,7 +30395,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKJOLDASTRAUMEN',
 				'longitude' => 'SKJOLDASTRAUMEN',
 				'city' => 'SKJOLDASTRAUMEN',
-				'city_id' => '48494',
+				'city_id' => '49458',
 				'state_id' => '2695',
 			),
 			3038 => 
@@ -30405,7 +30405,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VIKEBYGD',
 				'longitude' => 'VIKEBYGD',
 				'city' => 'VIKEBYGD',
-				'city_id' => '48496',
+				'city_id' => '49459',
 				'state_id' => '2695',
 			),
 			3039 => 
@@ -30425,7 +30425,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.4259',
 				'longitude' => '5.429',
 				'city' => 'AKSDAL',
-				'city_id' => '48494',
+				'city_id' => '49460',
 				'state_id' => '2695',
 			),
 			3041 => 
@@ -30435,7 +30435,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKJOLD',
 				'longitude' => 'SKJOLD',
 				'city' => 'SKJOLD',
-				'city_id' => '48496',
+				'city_id' => '49461',
 				'state_id' => '2695',
 			),
 			3042 => 
@@ -30445,7 +30445,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.4259',
 				'longitude' => '5.429',
 				'city' => 'AKSDAL',
-				'city_id' => '48494',
+				'city_id' => '49460',
 				'state_id' => '2695',
 			),
 			3043 => 
@@ -30455,7 +30455,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ØVRE VATS',
 				'longitude' => 'ØVRE VATS',
 				'city' => 'ØVRE VATS',
-				'city_id' => '48496',
+				'city_id' => '49462',
 				'state_id' => '2695',
 			),
 			3044 => 
@@ -30465,7 +30465,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NEDRE VATS',
 				'longitude' => 'NEDRE VATS',
 				'city' => 'NEDRE VATS',
-				'city_id' => '48496',
+				'city_id' => '49463',
 				'state_id' => '2695',
 			),
 			3045 => 
@@ -30475,7 +30475,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.6042',
 				'longitude' => '5.8078',
 				'city' => 'ØLEN',
-				'city_id' => '48496',
+				'city_id' => '49464',
 				'state_id' => '2695',
 			),
 			3046 => 
@@ -30485,7 +30485,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ØLENSVÅG',
 				'longitude' => 'ØLENSVÅG',
 				'city' => 'ØLENSVÅG',
-				'city_id' => '48496',
+				'city_id' => '49465',
 				'state_id' => '2695',
 			),
 			3047 => 
@@ -30495,7 +30495,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VIKEDAL',
 				'longitude' => 'VIKEDAL',
 				'city' => 'VIKEDAL',
-				'city_id' => '48496',
+				'city_id' => '49466',
 				'state_id' => '2695',
 			),
 			3048 => 
@@ -30505,7 +30505,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BJOA',
 				'longitude' => 'BJOA',
 				'city' => 'BJOA',
-				'city_id' => '48496',
+				'city_id' => '49467',
 				'state_id' => '2695',
 			),
 			3049 => 
@@ -30515,7 +30515,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SANDEID',
 				'longitude' => 'SANDEID',
 				'city' => 'SANDEID',
-				'city_id' => '48496',
+				'city_id' => '49468',
 				'state_id' => '2695',
 			),
 			3050 => 
@@ -30525,7 +30525,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VIKEDAL',
 				'longitude' => 'VIKEDAL',
 				'city' => 'VIKEDAL',
-				'city_id' => '48496',
+				'city_id' => '49466',
 				'state_id' => '2695',
 			),
 			3051 => 
@@ -30535,7 +30535,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.6042',
 				'longitude' => '5.8078',
 				'city' => 'ØLEN',
-				'city_id' => '48496',
+				'city_id' => '49464',
 				'state_id' => '2695',
 			),
 			3052 => 
@@ -30545,7 +30545,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SANDEID',
 				'longitude' => 'SANDEID',
 				'city' => 'SANDEID',
-				'city_id' => '48496',
+				'city_id' => '49468',
 				'state_id' => '2695',
 			),
 			3053 => 
@@ -30575,7 +30575,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKÅNEVIK',
 				'longitude' => 'SKÅNEVIK',
 				'city' => 'SKÅNEVIK',
-				'city_id' => '48605',
+				'city_id' => '49469',
 				'state_id' => '2700',
 			),
 			3056 => 
@@ -30585,7 +30585,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKÅNEVIK',
 				'longitude' => 'SKÅNEVIK',
 				'city' => 'SKÅNEVIK',
-				'city_id' => '48605',
+				'city_id' => '49469',
 				'state_id' => '2700',
 			),
 			3057 => 
@@ -30595,7 +30595,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FØRRESFJORDEN',
 				'longitude' => 'FØRRESFJORDEN',
 				'city' => 'FØRRESFJORDEN',
-				'city_id' => '48494',
+				'city_id' => '49455',
 				'state_id' => '2695',
 			),
 			3058 => 
@@ -30605,7 +30605,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MARKHUS',
 				'longitude' => 'MARKHUS',
 				'city' => 'MARKHUS',
-				'city_id' => '48605',
+				'city_id' => '49470',
 				'state_id' => '2700',
 			),
 			3059 => 
@@ -30615,7 +30615,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FJÆRA',
 				'longitude' => 'FJÆRA',
 				'city' => 'FJÆRA',
-				'city_id' => '48605',
+				'city_id' => '49471',
 				'state_id' => '2700',
 			),
 			3060 => 
@@ -30625,7 +30625,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3667',
 				'longitude' => '6.1333',
 				'city' => 'NORHEIMSUND',
-				'city_id' => '48614',
+				'city_id' => '49472',
 				'state_id' => '2700',
 			),
 			3061 => 
@@ -30635,7 +30635,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3667',
 				'longitude' => '6.1333',
 				'city' => 'NORHEIMSUND',
-				'city_id' => '48614',
+				'city_id' => '49472',
 				'state_id' => '2700',
 			),
 			3062 => 
@@ -30645,7 +30645,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3667',
 				'longitude' => '6.1333',
 				'city' => 'NORHEIMSUND',
-				'city_id' => '48614',
+				'city_id' => '49472',
 				'state_id' => '2700',
 			),
 			3063 => 
@@ -30655,7 +30655,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ØYSTESE',
 				'longitude' => 'ØYSTESE',
 				'city' => 'ØYSTESE',
-				'city_id' => '48614',
+				'city_id' => '49473',
 				'state_id' => '2700',
 			),
 			3064 => 
@@ -30665,7 +30665,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ÅLVIK',
 				'longitude' => 'ÅLVIK',
 				'city' => 'ÅLVIK',
-				'city_id' => '48614',
+				'city_id' => '49474',
 				'state_id' => '2700',
 			),
 			3065 => 
@@ -30675,7 +30675,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ØYSTESE',
 				'longitude' => 'ØYSTESE',
 				'city' => 'ØYSTESE',
-				'city_id' => '48614',
+				'city_id' => '49473',
 				'state_id' => '2700',
 			),
 			3066 => 
@@ -30685,7 +30685,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STEINSTØ',
 				'longitude' => 'STEINSTØ',
 				'city' => 'STEINSTØ',
-				'city_id' => '48614',
+				'city_id' => '49475',
 				'state_id' => '2700',
 			),
 			3067 => 
@@ -30695,7 +30695,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ÅLVIK',
 				'longitude' => 'ÅLVIK',
 				'city' => 'ÅLVIK',
-				'city_id' => '48614',
+				'city_id' => '49474',
 				'state_id' => '2700',
 			),
 			3068 => 
@@ -30705,7 +30705,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TØRVIKBYGD',
 				'longitude' => 'TØRVIKBYGD',
 				'city' => 'TØRVIKBYGD',
-				'city_id' => '48614',
+				'city_id' => '49476',
 				'state_id' => '2700',
 			),
 			3069 => 
@@ -30715,7 +30715,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KYSNESSTRAND',
 				'longitude' => 'KYSNESSTRAND',
 				'city' => 'KYSNESSTRAND',
-				'city_id' => '48629',
+				'city_id' => '49477',
 				'state_id' => '2700',
 			),
 			3070 => 
@@ -30725,7 +30725,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.2683',
 				'longitude' => '6.3292',
 				'city' => 'JONDAL',
-				'city_id' => '48629',
+				'city_id' => '49478',
 				'state_id' => '2700',
 			),
 			3071 => 
@@ -30735,7 +30735,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HERAND',
 				'longitude' => 'HERAND',
 				'city' => 'HERAND',
-				'city_id' => '48629',
+				'city_id' => '49479',
 				'state_id' => '2700',
 			),
 			3072 => 
@@ -30745,7 +30745,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.2683',
 				'longitude' => '6.3292',
 				'city' => 'JONDAL',
-				'city_id' => '48629',
+				'city_id' => '49478',
 				'state_id' => '2700',
 			),
 			3073 => 
@@ -30755,7 +30755,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STRANDEBARM',
 				'longitude' => 'STRANDEBARM',
 				'city' => 'STRANDEBARM',
-				'city_id' => '48614',
+				'city_id' => '49480',
 				'state_id' => '2700',
 			),
 			3074 => 
@@ -30765,7 +30765,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STRANDEBARM',
 				'longitude' => 'STRANDEBARM',
 				'city' => 'STRANDEBARM',
-				'city_id' => '48614',
+				'city_id' => '49480',
 				'state_id' => '2700',
 			),
 			3075 => 
@@ -30775,7 +30775,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'OMASTRAND',
 				'longitude' => 'OMASTRAND',
 				'city' => 'OMASTRAND',
-				'city_id' => '48614',
+				'city_id' => '49481',
 				'state_id' => '2700',
 			),
 			3076 => 
@@ -30785,7 +30785,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'OMASTRAND',
 				'longitude' => 'OMASTRAND',
 				'city' => 'OMASTRAND',
-				'city_id' => '48614',
+				'city_id' => '49481',
 				'state_id' => '2700',
 			),
 			3077 => 
@@ -30795,7 +30795,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HATLESTRAND',
 				'longitude' => 'HATLESTRAND',
 				'city' => 'HATLESTRAND',
-				'city_id' => '48615',
+				'city_id' => '49482',
 				'state_id' => '2700',
 			),
 			3078 => 
@@ -30805,7 +30805,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VARALDSØY',
 				'longitude' => 'VARALDSØY',
 				'city' => 'VARALDSØY',
-				'city_id' => '48615',
+				'city_id' => '49483',
 				'state_id' => '2700',
 			),
 			3079 => 
@@ -30815,7 +30815,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ØLVE',
 				'longitude' => 'ØLVE',
 				'city' => 'ØLVE',
-				'city_id' => '48615',
+				'city_id' => '49484',
 				'state_id' => '2700',
 			),
 			3080 => 
@@ -30825,7 +30825,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.2394',
 				'longitude' => '5.7539',
 				'city' => 'EIKELANDSOSEN',
-				'city_id' => '48601',
+				'city_id' => '49485',
 				'state_id' => '2700',
 			),
 			3081 => 
@@ -30835,7 +30835,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FUSA',
 				'longitude' => 'FUSA',
 				'city' => 'FUSA',
-				'city_id' => '48601',
+				'city_id' => '49486',
 				'state_id' => '2700',
 			),
 			3082 => 
@@ -30845,7 +30845,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HOLMEFJORD',
 				'longitude' => 'HOLMEFJORD',
 				'city' => 'HOLMEFJORD',
-				'city_id' => '48601',
+				'city_id' => '49487',
 				'state_id' => '2700',
 			),
 			3083 => 
@@ -30855,7 +30855,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STRANDVIK',
 				'longitude' => 'STRANDVIK',
 				'city' => 'STRANDVIK',
-				'city_id' => '48601',
+				'city_id' => '49488',
 				'state_id' => '2700',
 			),
 			3084 => 
@@ -30865,7 +30865,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SÆVAREID',
 				'longitude' => 'SÆVAREID',
 				'city' => 'SÆVAREID',
-				'city_id' => '48601',
+				'city_id' => '49489',
 				'state_id' => '2700',
 			),
 			3085 => 
@@ -30875,7 +30875,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SÆVAREID',
 				'longitude' => 'SÆVAREID',
 				'city' => 'SÆVAREID',
-				'city_id' => '48601',
+				'city_id' => '49489',
 				'state_id' => '2700',
 			),
 			3086 => 
@@ -30885,7 +30885,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NORDTVEITGREND',
 				'longitude' => 'NORDTVEITGREND',
 				'city' => 'NORDTVEITGREND',
-				'city_id' => '48601',
+				'city_id' => '49490',
 				'state_id' => '2700',
 			),
 			3087 => 
@@ -30895,7 +30895,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BALDERSHEIM',
 				'longitude' => 'BALDERSHEIM',
 				'city' => 'BALDERSHEIM',
-				'city_id' => '48601',
+				'city_id' => '49491',
 				'state_id' => '2700',
 			),
 			3088 => 
@@ -30905,7 +30905,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FUSA',
 				'longitude' => 'FUSA',
 				'city' => 'FUSA',
-				'city_id' => '48601',
+				'city_id' => '49486',
 				'state_id' => '2700',
 			),
 			3089 => 
@@ -30915,7 +30915,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.2394',
 				'longitude' => '5.7539',
 				'city' => 'EIKELANDSOSEN',
-				'city_id' => '48601',
+				'city_id' => '49485',
 				'state_id' => '2700',
 			),
 			3090 => 
@@ -30925,7 +30925,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3708',
 				'longitude' => '5.7561',
 				'city' => 'TYSSE',
-				'city_id' => '48620',
+				'city_id' => '49492',
 				'state_id' => '2700',
 			),
 			3091 => 
@@ -30935,7 +30935,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3708',
 				'longitude' => '5.7561',
 				'city' => 'TYSSE',
-				'city_id' => '48620',
+				'city_id' => '49492',
 				'state_id' => '2700',
 			),
 			3092 => 
@@ -30945,7 +30945,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ÅRLAND',
 				'longitude' => 'ÅRLAND',
 				'city' => 'ÅRLAND',
-				'city_id' => '48620',
+				'city_id' => '49493',
 				'state_id' => '2700',
 			),
 			3093 => 
@@ -30955,7 +30955,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ÅRLAND',
 				'longitude' => 'ÅRLAND',
 				'city' => 'ÅRLAND',
-				'city_id' => '48620',
+				'city_id' => '49493',
 				'state_id' => '2700',
 			),
 			3094 => 
@@ -30975,7 +30975,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'REKSTEREN',
 				'longitude' => 'REKSTEREN',
 				'city' => 'REKSTEREN',
-				'city_id' => '48628',
+				'city_id' => '49494',
 				'state_id' => '2700',
 			),
 			3096 => 
@@ -30985,7 +30985,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.0089',
 				'longitude' => '5.5122',
 				'city' => 'UGGDAL',
-				'city_id' => '48628',
+				'city_id' => '49495',
 				'state_id' => '2700',
 			),
 			3097 => 
@@ -30995,7 +30995,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FLATRÅKER',
 				'longitude' => 'FLATRÅKER',
 				'city' => 'FLATRÅKER',
-				'city_id' => '48628',
+				'city_id' => '49496',
 				'state_id' => '2700',
 			),
 			3098 => 
@@ -31005,7 +31005,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LUNDEGREND',
 				'longitude' => 'LUNDEGREND',
 				'city' => 'LUNDEGREND',
-				'city_id' => '48628',
+				'city_id' => '49497',
 				'state_id' => '2700',
 			),
 			3099 => 
@@ -31015,7 +31015,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ÅRBAKKA',
 				'longitude' => 'ÅRBAKKA',
 				'city' => 'ÅRBAKKA',
-				'city_id' => '48628',
+				'city_id' => '49498',
 				'state_id' => '2700',
 			),
 			3100 => 
@@ -31025,7 +31025,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ONARHEIM',
 				'longitude' => 'ONARHEIM',
 				'city' => 'ONARHEIM',
-				'city_id' => '48628',
+				'city_id' => '49499',
 				'state_id' => '2700',
 			),
 			3101 => 
@@ -31035,7 +31035,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.0089',
 				'longitude' => '5.5122',
 				'city' => 'UGGDAL',
-				'city_id' => '48628',
+				'city_id' => '49495',
 				'state_id' => '2700',
 			),
 			3102 => 
@@ -31125,7 +31125,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'EVANGER',
 				'longitude' => 'EVANGER',
 				'city' => 'EVANGER',
-				'city_id' => '48633',
+				'city_id' => '49500',
 				'state_id' => '2700',
 			),
 			3111 => 
@@ -31155,7 +31155,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKULESTADMO',
 				'longitude' => 'SKULESTADMO',
 				'city' => 'SKULESTADMO',
-				'city_id' => '48633',
+				'city_id' => '49506',
 				'state_id' => '2700',
 			),
 			3114 => 
@@ -31165,7 +31165,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKULESTADMO',
 				'longitude' => 'SKULESTADMO',
 				'city' => 'SKULESTADMO',
-				'city_id' => '48633',
+				'city_id' => '49506',
 				'state_id' => '2700',
 			),
 			3115 => 
@@ -31175,7 +31175,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VOSSESTRAND',
 				'longitude' => 'VOSSESTRAND',
 				'city' => 'VOSSESTRAND',
-				'city_id' => '48633',
+				'city_id' => '49507',
 				'state_id' => '2700',
 			),
 			3116 => 
@@ -31185,7 +31185,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VOSSESTRAND',
 				'longitude' => 'VOSSESTRAND',
 				'city' => 'VOSSESTRAND',
-				'city_id' => '48633',
+				'city_id' => '49507',
 				'state_id' => '2700',
 			),
 			3117 => 
@@ -31205,7 +31205,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STALHEIM',
 				'longitude' => 'STALHEIM',
 				'city' => 'STALHEIM',
-				'city_id' => '48633',
+				'city_id' => '49508',
 				'state_id' => '2700',
 			),
 			3119 => 
@@ -31215,7 +31215,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MYRDAL',
 				'longitude' => 'MYRDAL',
 				'city' => 'MYRDAL',
-				'city_id' => '48597',
+				'city_id' => '49509',
 				'state_id' => '2700',
 			),
 			3120 => 
@@ -31225,7 +31225,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FINSE',
 				'longitude' => 'FINSE',
 				'city' => 'FINSE',
-				'city_id' => '48630',
+				'city_id' => '49510',
 				'state_id' => '2700',
 			),
 			3121 => 
@@ -31235,7 +31235,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STANGHELLE',
 				'longitude' => 'STANGHELLE',
 				'city' => 'STANGHELLE',
-				'city_id' => '48631',
+				'city_id' => '49511',
 				'state_id' => '2700',
 			),
 			3122 => 
@@ -31245,7 +31245,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'DALEKVAM',
 				'longitude' => 'DALEKVAM',
 				'city' => 'DALEKVAM',
-				'city_id' => '48631',
+				'city_id' => '49512',
 				'state_id' => '2700',
 			),
 			3123 => 
@@ -31255,7 +31255,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'DALEKVAM',
 				'longitude' => 'DALEKVAM',
 				'city' => 'DALEKVAM',
-				'city_id' => '48631',
+				'city_id' => '49512',
 				'state_id' => '2700',
 			),
 			3124 => 
@@ -31265,7 +31265,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BOLSTADØYRI',
 				'longitude' => 'BOLSTADØYRI',
 				'city' => 'BOLSTADØYRI',
-				'city_id' => '48633',
+				'city_id' => '49513',
 				'state_id' => '2700',
 			),
 			3125 => 
@@ -31275,7 +31275,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STANGHELLE',
 				'longitude' => 'STANGHELLE',
 				'city' => 'STANGHELLE',
-				'city_id' => '48631',
+				'city_id' => '49511',
 				'state_id' => '2700',
 			),
 			3126 => 
@@ -31305,7 +31305,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STAMNES',
 				'longitude' => 'STAMNES',
 				'city' => 'STAMNES',
-				'city_id' => '48631',
+				'city_id' => '49514',
 				'state_id' => '2700',
 			),
 			3129 => 
@@ -31315,7 +31315,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'EIDSLANDET',
 				'longitude' => 'EIDSLANDET',
 				'city' => 'EIDSLANDET',
-				'city_id' => '48631',
+				'city_id' => '49515',
 				'state_id' => '2700',
 			),
 			3130 => 
@@ -31365,7 +31365,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.5269',
 				'longitude' => '6.7194',
 				'city' => 'GRANVIN',
-				'city_id' => '48633',
+				'city_id' => '49516',
 				'state_id' => '2700',
 			),
 			3135 => 
@@ -31375,7 +31375,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VALLAVIK',
 				'longitude' => 'VALLAVIK',
 				'city' => 'VALLAVIK',
-				'city_id' => '48633',
+				'city_id' => '49517',
 				'state_id' => '2700',
 			),
 			3136 => 
@@ -31385,7 +31385,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.5269',
 				'longitude' => '6.7194',
 				'city' => 'GRANVIN',
-				'city_id' => '48633',
+				'city_id' => '49516',
 				'state_id' => '2700',
 			),
 			3137 => 
@@ -31405,7 +31405,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FLÅM',
 				'longitude' => 'FLÅM',
 				'city' => 'FLÅM',
-				'city_id' => '48597',
+				'city_id' => '49518',
 				'state_id' => '2700',
 			),
 			3139 => 
@@ -31415,7 +31415,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FLÅM',
 				'longitude' => 'FLÅM',
 				'city' => 'FLÅM',
-				'city_id' => '48597',
+				'city_id' => '49518',
 				'state_id' => '2700',
 			),
 			3140 => 
@@ -31435,7 +31435,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'UNDREDAL',
 				'longitude' => 'UNDREDAL',
 				'city' => 'UNDREDAL',
-				'city_id' => '48597',
+				'city_id' => '49519',
 				'state_id' => '2700',
 			),
 			3142 => 
@@ -31445,7 +31445,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GUDVANGEN',
 				'longitude' => 'GUDVANGEN',
 				'city' => 'GUDVANGEN',
-				'city_id' => '48597',
+				'city_id' => '49520',
 				'state_id' => '2700',
 			),
 			3143 => 
@@ -31455,7 +31455,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STYVI',
 				'longitude' => 'STYVI',
 				'city' => 'STYVI',
-				'city_id' => '48597',
+				'city_id' => '49521',
 				'state_id' => '2700',
 			),
 			3144 => 
@@ -31465,7 +31465,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GUDVANGEN',
 				'longitude' => 'GUDVANGEN',
 				'city' => 'GUDVANGEN',
-				'city_id' => '48597',
+				'city_id' => '49520',
 				'state_id' => '2700',
 			),
 			3145 => 
@@ -31475,7 +31475,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.0689',
 				'longitude' => '6.5456',
 				'city' => 'ODDA',
-				'city_id' => '48629',
+				'city_id' => '49522',
 				'state_id' => '2700',
 			),
 			3146 => 
@@ -31485,7 +31485,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.0689',
 				'longitude' => '6.5456',
 				'city' => 'ODDA',
-				'city_id' => '48629',
+				'city_id' => '49522',
 				'state_id' => '2700',
 			),
 			3147 => 
@@ -31495,7 +31495,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.0689',
 				'longitude' => '6.5456',
 				'city' => 'ODDA',
-				'city_id' => '48629',
+				'city_id' => '49522',
 				'state_id' => '2700',
 			),
 			3148 => 
@@ -31505,7 +31505,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RØLDAL',
 				'longitude' => 'RØLDAL',
 				'city' => 'RØLDAL',
-				'city_id' => '48629',
+				'city_id' => '49523',
 				'state_id' => '2700',
 			),
 			3149 => 
@@ -31515,7 +31515,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKARE',
 				'longitude' => 'SKARE',
 				'city' => 'SKARE',
-				'city_id' => '48629',
+				'city_id' => '49524',
 				'state_id' => '2700',
 			),
 			3150 => 
@@ -31525,7 +31525,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TYSSEDAL',
 				'longitude' => 'TYSSEDAL',
 				'city' => 'TYSSEDAL',
-				'city_id' => '48629',
+				'city_id' => '49492',
 				'state_id' => '2700',
 			),
 			3151 => 
@@ -31535,7 +31535,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HOVLAND',
 				'longitude' => 'HOVLAND',
 				'city' => 'HOVLAND',
-				'city_id' => '48629',
+				'city_id' => '49525',
 				'state_id' => '2700',
 			),
 			3152 => 
@@ -31545,7 +31545,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NÅ',
 				'longitude' => 'NÅ',
 				'city' => 'NÅ',
-				'city_id' => '48629',
+				'city_id' => '49525',
 				'state_id' => '2700',
 			),
 			3153 => 
@@ -31555,7 +31555,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NÅ',
 				'longitude' => 'NÅ',
 				'city' => 'NÅ',
-				'city_id' => '48629',
+				'city_id' => '49526',
 				'state_id' => '2700',
 			),
 			3154 => 
@@ -31565,7 +31565,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GRIMO',
 				'longitude' => 'GRIMO',
 				'city' => 'GRIMO',
-				'city_id' => '48629',
+				'city_id' => '49527',
 				'state_id' => '2700',
 			),
 			3155 => 
@@ -31575,7 +31575,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'UTNE',
 				'longitude' => 'UTNE',
 				'city' => 'UTNE',
-				'city_id' => '48629',
+				'city_id' => '49528',
 				'state_id' => '2700',
 			),
 			3156 => 
@@ -31585,7 +31585,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'UTNE',
 				'longitude' => 'UTNE',
 				'city' => 'UTNE',
-				'city_id' => '48629',
+				'city_id' => '49528',
 				'state_id' => '2700',
 			),
 			3157 => 
@@ -31595,7 +31595,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3744',
 				'longitude' => '6.72',
 				'city' => 'KINSARVIK',
-				'city_id' => '48629',
+				'city_id' => '49529',
 				'state_id' => '2700',
 			),
 			3158 => 
@@ -31605,7 +31605,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LOFTHUS',
 				'longitude' => 'LOFTHUS',
 				'city' => 'LOFTHUS',
-				'city_id' => '48629',
+				'city_id' => '49530',
 				'state_id' => '2700',
 			),
 			3159 => 
@@ -31615,7 +31615,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3744',
 				'longitude' => '6.72',
 				'city' => 'KINSARVIK',
-				'city_id' => '48629',
+				'city_id' => '49529',
 				'state_id' => '2700',
 			),
 			3160 => 
@@ -31635,7 +31635,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ØVRE EIDFJORD',
 				'longitude' => 'ØVRE EIDFJORD',
 				'city' => 'ØVRE EIDFJORD',
-				'city_id' => '48604',
+				'city_id' => '49531',
 				'state_id' => '2700',
 			),
 			3162 => 
@@ -31645,7 +31645,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VØRINGSFOSS',
 				'longitude' => 'VØRINGSFOSS',
 				'city' => 'VØRINGSFOSS',
-				'city_id' => '48604',
+				'city_id' => '49532',
 				'state_id' => '2700',
 			),
 			3163 => 
@@ -31665,7 +31665,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LOFTHUS',
 				'longitude' => 'LOFTHUS',
 				'city' => 'LOFTHUS',
-				'city_id' => '48629',
+				'city_id' => '49530',
 				'state_id' => '2700',
 			),
 			3165 => 
@@ -31675,7 +31675,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3744',
 				'longitude' => '6.72',
 				'city' => 'KINSARVIK',
-				'city_id' => '48629',
+				'city_id' => '49529',
 				'state_id' => '2700',
 			),
 			3166 => 
@@ -31685,7 +31685,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3167 => 
@@ -31695,7 +31695,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3168 => 
@@ -31705,7 +31705,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3169 => 
@@ -31715,7 +31715,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3170 => 
@@ -31725,7 +31725,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3171 => 
@@ -31735,7 +31735,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3172 => 
@@ -31745,7 +31745,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3173 => 
@@ -31755,7 +31755,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3174 => 
@@ -31765,7 +31765,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3175 => 
@@ -31775,7 +31775,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3176 => 
@@ -31785,7 +31785,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3177 => 
@@ -31795,7 +31795,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3178 => 
@@ -31805,7 +31805,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3179 => 
@@ -31815,7 +31815,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3180 => 
@@ -31825,7 +31825,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3181 => 
@@ -31835,7 +31835,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3182 => 
@@ -31845,7 +31845,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3183 => 
@@ -31855,7 +31855,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3184 => 
@@ -31865,7 +31865,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3185 => 
@@ -31875,7 +31875,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3186 => 
@@ -31885,7 +31885,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3187 => 
@@ -31895,7 +31895,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3188 => 
@@ -31905,7 +31905,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3189 => 
@@ -31915,7 +31915,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3190 => 
@@ -31925,7 +31925,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3191 => 
@@ -31935,7 +31935,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3192 => 
@@ -31945,7 +31945,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3193 => 
@@ -31955,7 +31955,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3194 => 
@@ -31965,7 +31965,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3195 => 
@@ -31975,7 +31975,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3196 => 
@@ -31985,7 +31985,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3197 => 
@@ -31995,7 +31995,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3198 => 
@@ -32005,7 +32005,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3199 => 
@@ -32015,7 +32015,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3200 => 
@@ -32025,7 +32025,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3201 => 
@@ -32035,7 +32035,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3202 => 
@@ -32045,7 +32045,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3203 => 
@@ -32055,7 +32055,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3204 => 
@@ -32065,7 +32065,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3205 => 
@@ -32075,7 +32075,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3206 => 
@@ -32085,7 +32085,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3207 => 
@@ -32095,7 +32095,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3208 => 
@@ -32105,7 +32105,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3209 => 
@@ -32115,7 +32115,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3210 => 
@@ -32125,7 +32125,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3211 => 
@@ -32135,7 +32135,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3212 => 
@@ -32145,7 +32145,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3213 => 
@@ -32155,7 +32155,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3214 => 
@@ -32165,7 +32165,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3215 => 
@@ -32175,7 +32175,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3216 => 
@@ -32185,7 +32185,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3217 => 
@@ -32195,7 +32195,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3218 => 
@@ -32205,7 +32205,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3219 => 
@@ -32215,7 +32215,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3220 => 
@@ -32225,7 +32225,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3221 => 
@@ -32235,7 +32235,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3222 => 
@@ -32245,7 +32245,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3223 => 
@@ -32255,7 +32255,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3224 => 
@@ -32265,7 +32265,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3225 => 
@@ -32275,7 +32275,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3226 => 
@@ -32285,7 +32285,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3227 => 
@@ -32295,7 +32295,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3228 => 
@@ -32305,7 +32305,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3229 => 
@@ -32315,7 +32315,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3230 => 
@@ -32325,7 +32325,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3231 => 
@@ -32335,7 +32335,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3232 => 
@@ -32345,7 +32345,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3233 => 
@@ -32355,7 +32355,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3234 => 
@@ -32365,7 +32365,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3235 => 
@@ -32375,7 +32375,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3236 => 
@@ -32385,7 +32385,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3237 => 
@@ -32395,7 +32395,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3238 => 
@@ -32405,7 +32405,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3239 => 
@@ -32415,7 +32415,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3240 => 
@@ -32425,7 +32425,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3241 => 
@@ -32435,7 +32435,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3242 => 
@@ -32445,7 +32445,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3243 => 
@@ -32455,7 +32455,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.3925',
 				'longitude' => '5.3233',
 				'city' => 'BERGEN',
-				'city_id' => '48600',
+				'city_id' => '19314',
 				'state_id' => '2700',
 			),
 			3244 => 
@@ -32465,7 +32465,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.5556',
 				'longitude' => '5.2692',
 				'city' => 'ISDALSTØ',
-				'city_id' => '48594',
+				'city_id' => '49380',
 				'state_id' => '2700',
 			),
 			3245 => 
@@ -32475,7 +32475,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.5556',
 				'longitude' => '5.2692',
 				'city' => 'ISDALSTØ',
-				'city_id' => '48594',
+				'city_id' => '49380',
 				'state_id' => '2700',
 			),
 			3246 => 
@@ -32485,7 +32485,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.5556',
 				'longitude' => '5.2692',
 				'city' => 'ISDALSTØ',
-				'city_id' => '48594',
+				'city_id' => '49380',
 				'state_id' => '2700',
 			),
 			3247 => 
@@ -32495,7 +32495,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.5172',
 				'longitude' => '5.2461',
 				'city' => 'FREKHAUG',
-				'city_id' => '48594',
+				'city_id' => '49381',
 				'state_id' => '2700',
 			),
 			3248 => 
@@ -32505,7 +32505,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ALVERSUND',
 				'longitude' => 'ALVERSUND',
 				'city' => 'ALVERSUND',
-				'city_id' => '48594',
+				'city_id' => '49382',
 				'state_id' => '2700',
 			),
 			3249 => 
@@ -32515,7 +32515,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.5556',
 				'longitude' => '5.2692',
 				'city' => 'ISDALSTØ',
-				'city_id' => '48594',
+				'city_id' => '49380',
 				'state_id' => '2700',
 			),
 			3250 => 
@@ -32525,7 +32525,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ALVERSUND',
 				'longitude' => 'ALVERSUND',
 				'city' => 'ALVERSUND',
-				'city_id' => '48594',
+				'city_id' => '49382',
 				'state_id' => '2700',
 			),
 			3251 => 
@@ -32535,7 +32535,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SEIM',
 				'longitude' => 'SEIM',
 				'city' => 'SEIM',
-				'city_id' => '48594',
+				'city_id' => '49501',
 				'state_id' => '2700',
 			),
 			3252 => 
@@ -32545,7 +32545,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'EIKANGERVÅG',
 				'longitude' => 'EIKANGERVÅG',
 				'city' => 'EIKANGERVÅG',
-				'city_id' => '48594',
+				'city_id' => '49502',
 				'state_id' => '2700',
 			),
 			3253 => 
@@ -32555,7 +32555,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.5556',
 				'longitude' => '5.2692',
 				'city' => 'ISDALSTØ',
-				'city_id' => '48594',
+				'city_id' => '49380',
 				'state_id' => '2700',
 			),
 			3254 => 
@@ -32565,7 +32565,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HJELMÅS',
 				'longitude' => 'HJELMÅS',
 				'city' => 'HJELMÅS',
-				'city_id' => '48594',
+				'city_id' => '49503',
 				'state_id' => '2700',
 			),
 			3255 => 
@@ -32575,7 +32575,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.5556',
 				'longitude' => '5.2692',
 				'city' => 'ISDALSTØ',
-				'city_id' => '48594',
+				'city_id' => '49380',
 				'state_id' => '2700',
 			),
 			3256 => 
@@ -32585,7 +32585,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ROSSLAND',
 				'longitude' => 'ROSSLAND',
 				'city' => 'ROSSLAND',
-				'city_id' => '48594',
+				'city_id' => '49504',
 				'state_id' => '2700',
 			),
 			3257 => 
@@ -32595,7 +32595,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.5172',
 				'longitude' => '5.2461',
 				'city' => 'FREKHAUG',
-				'city_id' => '48594',
+				'city_id' => '49381',
 				'state_id' => '2700',
 			),
 			3258 => 
@@ -32605,7 +32605,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.5172',
 				'longitude' => '5.2461',
 				'city' => 'FREKHAUG',
-				'city_id' => '48594',
+				'city_id' => '49381',
 				'state_id' => '2700',
 			),
 			3259 => 
@@ -32615,7 +32615,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.6417',
 				'longitude' => '5.0392',
 				'city' => 'MANGER',
-				'city_id' => '48594',
+				'city_id' => '49505',
 				'state_id' => '2700',
 			),
 			3260 => 
@@ -32625,7 +32625,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BØVÅGEN',
 				'longitude' => 'BØVÅGEN',
 				'city' => 'BØVÅGEN',
-				'city_id' => '48594',
+				'city_id' => '49533',
 				'state_id' => '2700',
 			),
 			3261 => 
@@ -32635,7 +32635,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.6417',
 				'longitude' => '5.0392',
 				'city' => 'MANGER',
-				'city_id' => '48594',
+				'city_id' => '49505',
 				'state_id' => '2700',
 			),
 			3262 => 
@@ -32645,7 +32645,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BØVÅGEN',
 				'longitude' => 'BØVÅGEN',
 				'city' => 'BØVÅGEN',
-				'city_id' => '48594',
+				'city_id' => '49533',
 				'state_id' => '2700',
 			),
 			3263 => 
@@ -32655,7 +32655,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SÆBØVÅGEN',
 				'longitude' => 'SÆBØVÅGEN',
 				'city' => 'SÆBØVÅGEN',
-				'city_id' => '48594',
+				'city_id' => '49534',
 				'state_id' => '2700',
 			),
 			3264 => 
@@ -32665,7 +32665,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SLETTA',
 				'longitude' => 'SLETTA',
 				'city' => 'SLETTA',
-				'city_id' => '48594',
+				'city_id' => '49535',
 				'state_id' => '2700',
 			),
 			3265 => 
@@ -32715,7 +32715,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.6247',
 				'longitude' => '5.3283',
 				'city' => 'LINDÅS',
-				'city_id' => '48594',
+				'city_id' => '49536',
 				'state_id' => '2700',
 			),
 			3270 => 
@@ -32725,7 +32725,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FONNES',
 				'longitude' => 'FONNES',
 				'city' => 'FONNES',
-				'city_id' => '48599',
+				'city_id' => '49537',
 				'state_id' => '2700',
 			),
 			3271 => 
@@ -32735,7 +32735,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FONNES',
 				'longitude' => 'FONNES',
 				'city' => 'FONNES',
-				'city_id' => '48599',
+				'city_id' => '49537',
 				'state_id' => '2700',
 			),
 			3272 => 
@@ -32745,7 +32745,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MONGSTAD',
 				'longitude' => 'MONGSTAD',
 				'city' => 'MONGSTAD',
-				'city_id' => '48594',
+				'city_id' => '49538',
 				'state_id' => '2700',
 			),
 			3273 => 
@@ -32755,7 +32755,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.6247',
 				'longitude' => '5.3283',
 				'city' => 'LINDÅS',
-				'city_id' => '48594',
+				'city_id' => '49536',
 				'state_id' => '2700',
 			),
 			3274 => 
@@ -32765,7 +32765,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HUNDVIN',
 				'longitude' => 'HUNDVIN',
 				'city' => 'HUNDVIN',
-				'city_id' => '48594',
+				'city_id' => '49539',
 				'state_id' => '2700',
 			),
 			3275 => 
@@ -32775,7 +32775,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MYKING',
 				'longitude' => 'MYKING',
 				'city' => 'MYKING',
-				'city_id' => '48594',
+				'city_id' => '49540',
 				'state_id' => '2700',
 			),
 			3276 => 
@@ -32785,7 +32785,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'DALSØYRA',
 				'longitude' => 'DALSØYRA',
 				'city' => 'DALSØYRA',
-				'city_id' => '48610',
+				'city_id' => '49541',
 				'state_id' => '2700',
 			),
 			3277 => 
@@ -32795,7 +32795,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BREKKE',
 				'longitude' => 'BREKKE',
 				'city' => 'BREKKE',
-				'city_id' => '48610',
+				'city_id' => '49541',
 				'state_id' => '2700',
 			),
 			3278 => 
@@ -32805,7 +32805,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BJORDAL',
 				'longitude' => 'BJORDAL',
 				'city' => 'BJORDAL',
-				'city_id' => '48612',
+				'city_id' => '49543',
 				'state_id' => '2700',
 			),
 			3279 => 
@@ -32815,7 +32815,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'DALSØYRA',
 				'longitude' => 'DALSØYRA',
 				'city' => 'DALSØYRA',
-				'city_id' => '48610',
+				'city_id' => '49541',
 				'state_id' => '2700',
 			),
 			3280 => 
@@ -32825,7 +32825,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BREKKE',
 				'longitude' => 'BREKKE',
 				'city' => 'BREKKE',
-				'city_id' => '48610',
+				'city_id' => '49541',
 				'state_id' => '2700',
 			),
 			3281 => 
@@ -32835,7 +32835,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BJORDAL',
 				'longitude' => 'BJORDAL',
 				'city' => 'BJORDAL',
-				'city_id' => '48612',
+				'city_id' => '49543',
 				'state_id' => '2700',
 			),
 			3282 => 
@@ -32845,7 +32845,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'EIVINDVIK',
 				'longitude' => 'EIVINDVIK',
 				'city' => 'EIVINDVIK',
-				'city_id' => '48610',
+				'city_id' => '49544',
 				'state_id' => '2700',
 			),
 			3283 => 
@@ -32855,7 +32855,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'EIVINDVIK',
 				'longitude' => 'EIVINDVIK',
 				'city' => 'EIVINDVIK',
-				'city_id' => '48610',
+				'city_id' => '49544',
 				'state_id' => '2700',
 			),
 			3284 => 
@@ -32865,7 +32865,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BYRKNESØY',
 				'longitude' => 'BYRKNESØY',
 				'city' => 'BYRKNESØY',
-				'city_id' => '48610',
+				'city_id' => '49545',
 				'state_id' => '2700',
 			),
 			3285 => 
@@ -32875,7 +32875,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ÅNNELAND',
 				'longitude' => 'ÅNNELAND',
 				'city' => 'ÅNNELAND',
-				'city_id' => '48610',
+				'city_id' => '49546',
 				'state_id' => '2700',
 			),
 			3286 => 
@@ -32885,7 +32885,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MJØMNA',
 				'longitude' => 'M11.70118',
 				'city' => 'MJØMNA',
-				'city_id' => '48610',
+				'city_id' => '49547',
 				'state_id' => '2700',
 			),
 			3287 => 
@@ -32895,7 +32895,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BYRKNESØY',
 				'longitude' => 'BYRKNESØY',
 				'city' => 'BYRKNESØY',
-				'city_id' => '48610',
+				'city_id' => '49545',
 				'state_id' => '2700',
 			),
 			3288 => 
@@ -32905,7 +32905,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.8383',
 				'longitude' => '5.4486',
 				'city' => 'MASFJORDNES',
-				'city_id' => '48618',
+				'city_id' => '49548',
 				'state_id' => '2700',
 			),
 			3289 => 
@@ -32915,7 +32915,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '60.8383',
 				'longitude' => '5.4486',
 				'city' => 'MASFJORDNES',
-				'city_id' => '48618',
+				'city_id' => '49548',
 				'state_id' => '2700',
 			),
 			3290 => 
@@ -32925,7 +32925,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HAUGSVÆR',
 				'longitude' => 'HAUGSVÆR',
 				'city' => 'HAUGSVÆR',
-				'city_id' => '48618',
+				'city_id' => '49549',
 				'state_id' => '2700',
 			),
 			3291 => 
@@ -32935,7 +32935,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MATREDAL',
 				'longitude' => 'MATREDAL',
 				'city' => 'MATREDAL',
-				'city_id' => '48618',
+				'city_id' => '49550',
 				'state_id' => '2700',
 			),
 			3292 => 
@@ -32945,7 +32945,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HAUGSVÆR',
 				'longitude' => 'HAUGSVÆR',
 				'city' => 'HAUGSVÆR',
-				'city_id' => '48618',
+				'city_id' => '49549',
 				'state_id' => '2700',
 			),
 			3293 => 
@@ -32955,7 +32955,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HOSTELAND',
 				'longitude' => 'HOSTELAND',
 				'city' => 'HOSTELAND',
-				'city_id' => '48618',
+				'city_id' => '49551',
 				'state_id' => '2700',
 			),
 			3294 => 
@@ -32965,7 +32965,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HOSTELAND',
 				'longitude' => 'HOSTELAND',
 				'city' => 'HOSTELAND',
-				'city_id' => '48618',
+				'city_id' => '49551',
 				'state_id' => '2700',
 			),
 			3295 => 
@@ -32975,7 +32975,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'OSTEREIDET',
 				'longitude' => 'OSTEREIDET',
 				'city' => 'OSTEREIDET',
-				'city_id' => '48594',
+				'city_id' => '49552',
 				'state_id' => '2700',
 			),
 			3296 => 
@@ -32985,7 +32985,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'OSTEREIDET',
 				'longitude' => 'OSTEREIDET',
 				'city' => 'OSTEREIDET',
-				'city_id' => '48594',
+				'city_id' => '49552',
 				'state_id' => '2700',
 			),
 			3297 => 
@@ -32995,7 +32995,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VIKANES',
 				'longitude' => 'VIKANES',
 				'city' => 'VIKANES',
-				'city_id' => '48594',
+				'city_id' => '49553',
 				'state_id' => '2700',
 			),
 			3298 => 
@@ -33275,7 +33275,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '62.4372',
 				'longitude' => '6.1889',
 				'city' => 'LANGEVÅG',
-				'city_id' => '48399',
+				'city_id' => '49554',
 				'state_id' => '2692',
 			),
 			3326 => 
@@ -33285,7 +33285,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'EIDSNES',
 				'longitude' => 'EIDSNES',
 				'city' => 'EIDSNES',
-				'city_id' => '48399',
+				'city_id' => '49555',
 				'state_id' => '2692',
 			),
 			3327 => 
@@ -33295,7 +33295,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FISKARSTRAND',
 				'longitude' => 'FISKARSTRAND',
 				'city' => 'FISKARSTRAND',
-				'city_id' => '48399',
+				'city_id' => '49556',
 				'state_id' => '2692',
 			),
 			3328 => 
@@ -33305,7 +33305,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MAUSEIDVÅG',
 				'longitude' => 'MAUSEIDVÅG',
 				'city' => 'MAUSEIDVÅG',
-				'city_id' => '48399',
+				'city_id' => '49557',
 				'state_id' => '2692',
 			),
 			3329 => 
@@ -33315,7 +33315,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'EIDSNES',
 				'longitude' => 'EIDSNES',
 				'city' => 'EIDSNES',
-				'city_id' => '48399',
+				'city_id' => '49555',
 				'state_id' => '2692',
 			),
 			3330 => 
@@ -33325,7 +33325,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '62.4372',
 				'longitude' => '6.1889',
 				'city' => 'LANGEVÅG',
-				'city_id' => '48399',
+				'city_id' => '49554',
 				'state_id' => '2692',
 			),
 			3331 => 
@@ -33335,7 +33335,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VIGRA',
 				'longitude' => 'VIGRA',
 				'city' => 'VIGRA',
-				'city_id' => '48399',
+				'city_id' => '49558',
 				'state_id' => '2692',
 			),
 			3332 => 
@@ -33395,7 +33395,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VALDERØYA',
 				'longitude' => 'VALDERØYA',
 				'city' => 'VALDERØYA',
-				'city_id' => '48388',
+				'city_id' => '49559',
 				'state_id' => '2692',
 			),
 			3338 => 
@@ -33415,7 +33415,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GODØYA',
 				'longitude' => 'GODØYA',
 				'city' => 'GODØYA',
-				'city_id' => '48388',
+				'city_id' => '49560',
 				'state_id' => '2692',
 			),
 			3340 => 
@@ -33425,7 +33425,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GODØYA',
 				'longitude' => 'GODØYA',
 				'city' => 'GODØYA',
-				'city_id' => '48388',
+				'city_id' => '49560',
 				'state_id' => '2692',
 			),
 			3341 => 
@@ -33435,7 +33435,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ELLINGSØY',
 				'longitude' => 'ELLINGSØY',
 				'city' => 'ELLINGSØY',
-				'city_id' => '48408',
+				'city_id' => '49561',
 				'state_id' => '2692',
 			),
 			3342 => 
@@ -33445,7 +33445,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VALDERØYA',
 				'longitude' => 'VALDERØYA',
 				'city' => 'VALDERØYA',
-				'city_id' => '48388',
+				'city_id' => '49559',
 				'state_id' => '2692',
 			),
 			3343 => 
@@ -33455,7 +33455,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VIGRA',
 				'longitude' => 'VIGRA',
 				'city' => 'VIGRA',
-				'city_id' => '48388',
+				'city_id' => '49558',
 				'state_id' => '2692',
 			),
 			3344 => 
@@ -33475,7 +33475,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BRANDAL',
 				'longitude' => 'BRANDAL',
 				'city' => 'BRANDAL',
-				'city_id' => '48390',
+				'city_id' => '49562',
 				'state_id' => '2692',
 			),
 			3346 => 
@@ -33485,7 +33485,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HJØRUNGAVÅG',
 				'longitude' => 'HJØRUNGAVÅG',
 				'city' => 'HJØRUNGAVÅG',
-				'city_id' => '48390',
+				'city_id' => '49563',
 				'state_id' => '2692',
 			),
 			3347 => 
@@ -33495,7 +33495,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HADDAL',
 				'longitude' => 'HADDAL',
 				'city' => 'HADDAL',
-				'city_id' => '48404',
+				'city_id' => '49564',
 				'state_id' => '2692',
 			),
 			3348 => 
@@ -33505,7 +33505,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '62.3333',
 				'longitude' => '5.8833',
 				'city' => 'ULSTEINVIK',
-				'city_id' => '48404',
+				'city_id' => '49565',
 				'state_id' => '2692',
 			),
 			3349 => 
@@ -33515,7 +33515,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '62.3333',
 				'longitude' => '5.8833',
 				'city' => 'ULSTEINVIK',
-				'city_id' => '48404',
+				'city_id' => '49565',
 				'state_id' => '2692',
 			),
 			3350 => 
@@ -33525,7 +33525,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'EIKSUND',
 				'longitude' => 'EIKSUND',
 				'city' => 'EIKSUND',
-				'city_id' => '48404',
+				'city_id' => '49566',
 				'state_id' => '2692',
 			),
 			3351 => 
@@ -33545,7 +33545,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TJØRVÅG',
 				'longitude' => 'TJØRVÅG',
 				'city' => 'TJØRVÅG',
-				'city_id' => '48686',
+				'city_id' => '49567',
 				'state_id' => '2692',
 			),
 			3353 => 
@@ -33555,7 +33555,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MOLTUSTRANDA',
 				'longitude' => 'MOLTUSTRANDA',
 				'city' => 'MOLTUSTRANDA',
-				'city_id' => '48686',
+				'city_id' => '49568',
 				'state_id' => '2692',
 			),
 			3354 => 
@@ -33565,7 +33565,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MOLTUSTRANDA',
 				'longitude' => 'MOLTUSTRANDA',
 				'city' => 'MOLTUSTRANDA',
-				'city_id' => '48686',
+				'city_id' => '49568',
 				'state_id' => '2692',
 			),
 			3355 => 
@@ -33575,7 +33575,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GJERDSVIKA',
 				'longitude' => 'GJERDSVIKA',
 				'city' => 'GJERDSVIKA',
-				'city_id' => '48687',
+				'city_id' => '49569',
 				'state_id' => '2700',
 			),
 			3356 => 
@@ -33585,7 +33585,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GURSKØY',
 				'longitude' => 'GURSKØY',
 				'city' => 'GURSKØY',
-				'city_id' => '48686',
+				'city_id' => '49570',
 				'state_id' => '2692',
 			),
 			3357 => 
@@ -33595,7 +33595,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GURSKØY',
 				'longitude' => 'GURSKØY',
 				'city' => 'GURSKØY',
-				'city_id' => '48686',
+				'city_id' => '49570',
 				'state_id' => '2692',
 			),
 			3358 => 
@@ -33605,7 +33605,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GURSKEN',
 				'longitude' => 'GURSKEN',
 				'city' => 'GURSKEN',
-				'city_id' => '48687',
+				'city_id' => '49571',
 				'state_id' => '2700',
 			),
 			3359 => 
@@ -33615,7 +33615,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GJERDSVIKA',
 				'longitude' => 'GJERDSVIKA',
 				'city' => 'GJERDSVIKA',
-				'city_id' => '48687',
+				'city_id' => '49569',
 				'state_id' => '2700',
 			),
 			3360 => 
@@ -33625,7 +33625,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '62.2167',
 				'longitude' => '5.6',
 				'city' => 'LARSNES',
-				'city_id' => '48687',
+				'city_id' => '49572',
 				'state_id' => '2700',
 			),
 			3361 => 
@@ -33635,7 +33635,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '62.2167',
 				'longitude' => '5.6',
 				'city' => 'LARSNES',
-				'city_id' => '48687',
+				'city_id' => '49572',
 				'state_id' => '2700',
 			),
 			3362 => 
@@ -33645,7 +33645,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KVAMSØY',
 				'longitude' => 'KVAMSØY',
 				'city' => 'KVAMSØY',
-				'city_id' => '48687',
+				'city_id' => '49573',
 				'state_id' => '2700',
 			),
 			3363 => 
@@ -33655,7 +33655,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KVAMSØY',
 				'longitude' => 'KVAMSØY',
 				'city' => 'KVAMSØY',
-				'city_id' => '48687',
+				'city_id' => '49573',
 				'state_id' => '2700',
 			),
 			3364 => 
@@ -33665,7 +33665,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SANDSHAMN',
 				'longitude' => 'SANDSHAMN',
 				'city' => 'SANDSHAMN',
-				'city_id' => '48687',
+				'city_id' => '49574',
 				'state_id' => '2700',
 			),
 			3365 => 
@@ -33675,7 +33675,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SANDSHAMN',
 				'longitude' => 'SANDSHAMN',
 				'city' => 'SANDSHAMN',
-				'city_id' => '48687',
+				'city_id' => '49574',
 				'state_id' => '2700',
 			),
 			3366 => 
@@ -33685,7 +33685,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '62.3417',
 				'longitude' => '5.6339',
 				'city' => 'FOSNAVÅG',
-				'city_id' => '48686',
+				'city_id' => '49575',
 				'state_id' => '2692',
 			),
 			3367 => 
@@ -33695,7 +33695,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '62.3417',
 				'longitude' => '5.6339',
 				'city' => 'FOSNAVÅG',
-				'city_id' => '48686',
+				'city_id' => '49575',
 				'state_id' => '2692',
 			),
 			3368 => 
@@ -33705,7 +33705,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '62.3417',
 				'longitude' => '5.6339',
 				'city' => 'FOSNAVÅG',
-				'city_id' => '48686',
+				'city_id' => '49575',
 				'state_id' => '2692',
 			),
 			3369 => 
@@ -33715,7 +33715,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LEINØY',
 				'longitude' => 'LEINØY',
 				'city' => 'LEINØY',
-				'city_id' => '48686',
+				'city_id' => '49576',
 				'state_id' => '2692',
 			),
 			3370 => 
@@ -33725,7 +33725,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BØLANDET',
 				'longitude' => 'BØLANDET',
 				'city' => 'BØLANDET',
-				'city_id' => '48686',
+				'city_id' => '49577',
 				'state_id' => '2692',
 			),
 			3371 => 
@@ -33735,7 +33735,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RUNDE',
 				'longitude' => 'RUNDE',
 				'city' => 'RUNDE',
-				'city_id' => '48686',
+				'city_id' => '49578',
 				'state_id' => '2692',
 			),
 			3372 => 
@@ -33745,7 +33745,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NERLANDSØY',
 				'longitude' => 'NERLANDSØY',
 				'city' => 'NERLANDSØY',
-				'city_id' => '48686',
+				'city_id' => '49579',
 				'state_id' => '2692',
 			),
 			3373 => 
@@ -33755,7 +33755,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '62.3417',
 				'longitude' => '5.6339',
 				'city' => 'FOSNAVÅG',
-				'city_id' => '48686',
+				'city_id' => '49575',
 				'state_id' => '2692',
 			),
 			3374 => 
@@ -33835,7 +33835,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'AUSTEFJORDEN',
 				'longitude' => 'AUSTEFJORDEN',
 				'city' => 'AUSTEFJORDEN',
-				'city_id' => '48407',
+				'city_id' => '49580',
 				'state_id' => '2692',
 			),
 			3382 => 
@@ -33845,7 +33845,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FOLKESTAD',
 				'longitude' => 'FOLKESTAD',
 				'city' => 'FOLKESTAD',
-				'city_id' => '48407',
+				'city_id' => '49581',
 				'state_id' => '2692',
 			),
 			3383 => 
@@ -33855,7 +33855,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FOLKESTAD',
 				'longitude' => 'FOLKESTAD',
 				'city' => 'FOLKESTAD',
-				'city_id' => '48407',
+				'city_id' => '49581',
 				'state_id' => '2692',
 			),
 			3384 => 
@@ -33865,7 +33865,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LAUVSTAD',
 				'longitude' => 'LAUVSTAD',
 				'city' => 'LAUVSTAD',
-				'city_id' => '48407',
+				'city_id' => '49582',
 				'state_id' => '2692',
 			),
 			3385 => 
@@ -33875,7 +33875,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LAUVSTAD',
 				'longitude' => 'LAUVSTAD',
 				'city' => 'LAUVSTAD',
-				'city_id' => '48407',
+				'city_id' => '49582',
 				'state_id' => '2692',
 			),
 			3386 => 
@@ -33885,7 +33885,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SYVDE',
 				'longitude' => 'SYVDE',
 				'city' => 'SYVDE',
-				'city_id' => '48405',
+				'city_id' => '49583',
 				'state_id' => '2692',
 			),
 			3387 => 
@@ -33895,7 +33895,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '62.0999',
 				'longitude' => '5.5566',
 				'city' => 'FISKÅ',
-				'city_id' => '48405',
+				'city_id' => '49584',
 				'state_id' => '2692',
 			),
 			3388 => 
@@ -33905,7 +33905,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SYVDE',
 				'longitude' => 'SYVDE',
 				'city' => 'SYVDE',
-				'city_id' => '48405',
+				'city_id' => '49583',
 				'state_id' => '2692',
 			),
 			3389 => 
@@ -33915,7 +33915,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ROVDE',
 				'longitude' => 'ROVDE',
 				'city' => 'ROVDE',
-				'city_id' => '48405',
+				'city_id' => '49585',
 				'state_id' => '2692',
 			),
 			3390 => 
@@ -33925,7 +33925,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'EIDSÅ',
 				'longitude' => 'EIDSÅ',
 				'city' => 'EIDSÅ',
-				'city_id' => '48405',
+				'city_id' => '49586',
 				'state_id' => '2692',
 			),
 			3391 => 
@@ -33935,7 +33935,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '62.0999',
 				'longitude' => '5.5566',
 				'city' => 'FISKÅ',
-				'city_id' => '48405',
+				'city_id' => '49584',
 				'state_id' => '2692',
 			),
 			3392 => 
@@ -33945,7 +33945,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SYLTE',
 				'longitude' => 'SYLTE',
 				'city' => 'SYLTE',
-				'city_id' => '48405',
+				'city_id' => '49587',
 				'state_id' => '2692',
 			),
 			3393 => 
@@ -33955,7 +33955,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ÅHEIM',
 				'longitude' => 'ÅHEIM',
 				'city' => 'ÅHEIM',
-				'city_id' => '48405',
+				'city_id' => '49588',
 				'state_id' => '2692',
 			),
 			3394 => 
@@ -33965,7 +33965,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ÅHEIM',
 				'longitude' => 'ÅHEIM',
 				'city' => 'ÅHEIM',
-				'city_id' => '48405',
+				'city_id' => '49588',
 				'state_id' => '2692',
 			),
 			3395 => 
@@ -33975,7 +33975,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ÅRAM',
 				'longitude' => 'ÅRAM',
 				'city' => 'ÅRAM',
-				'city_id' => '48405',
+				'city_id' => '49589',
 				'state_id' => '2692',
 			),
 			3396 => 
@@ -34055,7 +34055,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HOVDEBYGDA',
 				'longitude' => 'HOVDEBYGDA',
 				'city' => 'HOVDEBYGDA',
-				'city_id' => '48409',
+				'city_id' => '49590',
 				'state_id' => '2692',
 			),
 			3404 => 
@@ -34065,7 +34065,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HOVDEBYGDA',
 				'longitude' => 'HOVDEBYGDA',
 				'city' => 'HOVDEBYGDA',
-				'city_id' => '48409',
+				'city_id' => '49590',
 				'state_id' => '2692',
 			),
 			3405 => 
@@ -34075,7 +34075,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SÆBØ',
 				'longitude' => 'SÆBØ',
 				'city' => 'SÆBØ',
-				'city_id' => '48409',
+				'city_id' => '49591',
 				'state_id' => '2692',
 			),
 			3406 => 
@@ -34085,7 +34085,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SÆBØ',
 				'longitude' => 'SÆBØ',
 				'city' => 'SÆBØ',
-				'city_id' => '48409',
+				'city_id' => '49591',
 				'state_id' => '2692',
 			),
 			3407 => 
@@ -34095,7 +34095,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VARTDAL',
 				'longitude' => 'VARTDAL',
 				'city' => 'VARTDAL',
-				'city_id' => '48409',
+				'city_id' => '49592',
 				'state_id' => '2692',
 			),
 			3408 => 
@@ -34105,7 +34105,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VARTDAL',
 				'longitude' => 'VARTDAL',
 				'city' => 'VARTDAL',
-				'city_id' => '48409',
+				'city_id' => '49592',
 				'state_id' => '2692',
 			),
 			3409 => 
@@ -34115,7 +34115,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BARSTADVIK',
 				'longitude' => 'BARSTADVIK',
 				'city' => 'BARSTADVIK',
-				'city_id' => '48409',
+				'city_id' => '49593',
 				'state_id' => '2692',
 			),
 			3410 => 
@@ -34125,7 +34125,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TRANDAL',
 				'longitude' => 'TRANDAL',
 				'city' => 'TRANDAL',
-				'city_id' => '48409',
+				'city_id' => '49594',
 				'state_id' => '2692',
 			),
 			3411 => 
@@ -34135,7 +34135,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STORESTANDAL',
 				'longitude' => 'STORESTANDAL',
 				'city' => 'STORESTANDAL',
-				'city_id' => '48409',
+				'city_id' => '49595',
 				'state_id' => '2692',
 			),
 			3412 => 
@@ -34145,7 +34145,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BJØRKE',
 				'longitude' => 'BJØRKE',
 				'city' => 'BJØRKE',
-				'city_id' => '48407',
+				'city_id' => '49596',
 				'state_id' => '2692',
 			),
 			3413 => 
@@ -34155,7 +34155,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NORANGSFJORDEN',
 				'longitude' => 'NORANGSFJORDEN',
 				'city' => 'NORANGSFJORDEN',
-				'city_id' => '48409',
+				'city_id' => '49597',
 				'state_id' => '2692',
 			),
 			3414 => 
@@ -34185,7 +34185,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '62.3333',
 				'longitude' => '7.35',
 				'city' => 'VALLDAL',
-				'city_id' => '48387',
+				'city_id' => '49598',
 				'state_id' => '2692',
 			),
 			3417 => 
@@ -34195,7 +34195,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '62.3333',
 				'longitude' => '7.35',
 				'city' => 'VALLDAL',
-				'city_id' => '48387',
+				'city_id' => '49598',
 				'state_id' => '2692',
 			),
 			3418 => 
@@ -34205,7 +34205,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LIABYGDA',
 				'longitude' => 'LIABYGDA',
 				'city' => 'LIABYGDA',
-				'city_id' => '48398',
+				'city_id' => '49599',
 				'state_id' => '2692',
 			),
 			3419 => 
@@ -34215,7 +34215,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TAFJORD',
 				'longitude' => 'TAFJORD',
 				'city' => 'TAFJORD',
-				'city_id' => '48387',
+				'city_id' => '49600',
 				'state_id' => '2692',
 			),
 			3420 => 
@@ -34225,7 +34225,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NORDDAL',
 				'longitude' => 'NORDDAL',
 				'city' => 'NORDDAL',
-				'city_id' => '48387',
+				'city_id' => '49601',
 				'state_id' => '2692',
 			),
 			3421 => 
@@ -34235,7 +34235,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'EIDSDAL',
 				'longitude' => 'EIDSDAL',
 				'city' => 'EIDSDAL',
-				'city_id' => '48387',
+				'city_id' => '49602',
 				'state_id' => '2692',
 			),
 			3422 => 
@@ -34245,7 +34245,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GEIRANGER',
 				'longitude' => 'GEIRANGER',
 				'city' => 'GEIRANGER',
-				'city_id' => '48398',
+				'city_id' => '49603',
 				'state_id' => '2692',
 			),
 			3423 => 
@@ -34255,7 +34255,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GEIRANGER',
 				'longitude' => 'GEIRANGER',
 				'city' => 'GEIRANGER',
-				'city_id' => '48398',
+				'city_id' => '49603',
 				'state_id' => '2692',
 			),
 			3424 => 
@@ -34265,7 +34265,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HELLESYLT',
 				'longitude' => 'HELLESYLT',
 				'city' => 'HELLESYLT',
-				'city_id' => '48398',
+				'city_id' => '49604',
 				'state_id' => '2692',
 			),
 			3425 => 
@@ -34275,7 +34275,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HELLESYLT',
 				'longitude' => 'HELLESYLT',
 				'city' => 'HELLESYLT',
-				'city_id' => '48398',
+				'city_id' => '49604',
 				'state_id' => '2692',
 			),
 			3426 => 
@@ -34285,7 +34285,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STRAUMGJERDE',
 				'longitude' => 'STRAUMGJERDE',
 				'city' => 'STRAUMGJERDE',
-				'city_id' => '48402',
+				'city_id' => '49605',
 				'state_id' => '2692',
 			),
 			3427 => 
@@ -34295,7 +34295,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'IKORNNES',
 				'longitude' => 'IKORNNES',
 				'city' => 'IKORNNES',
-				'city_id' => '48402',
+				'city_id' => '49606',
 				'state_id' => '2692',
 			),
 			3428 => 
@@ -34305,7 +34305,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'IKORNNES',
 				'longitude' => 'IKORNNES',
 				'city' => 'IKORNNES',
-				'city_id' => '48402',
+				'city_id' => '49606',
 				'state_id' => '2692',
 			),
 			3429 => 
@@ -34315,7 +34315,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HUNDEIDVIK',
 				'longitude' => 'HUNDEIDVIK',
 				'city' => 'HUNDEIDVIK',
-				'city_id' => '48402',
+				'city_id' => '49607',
 				'state_id' => '2692',
 			),
 			3430 => 
@@ -34335,7 +34335,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STRAUMGJERDE',
 				'longitude' => 'STRAUMGJERDE',
 				'city' => 'STRAUMGJERDE',
-				'city_id' => '48402',
+				'city_id' => '49605',
 				'state_id' => '2692',
 			),
 			3432 => 
@@ -34355,7 +34355,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '62.4789',
 				'longitude' => '6.8853',
 				'city' => 'ØRSKOG',
-				'city_id' => '48408',
+				'city_id' => '49608',
 				'state_id' => '2692',
 			),
 			3434 => 
@@ -34365,7 +34365,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '62.4789',
 				'longitude' => '6.8853',
 				'city' => 'ØRSKOG',
-				'city_id' => '48408',
+				'city_id' => '49608',
 				'state_id' => '2692',
 			),
 			3435 => 
@@ -34375,7 +34375,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '62.39',
 				'longitude' => '7.1106',
 				'city' => 'STORDAL',
-				'city_id' => '48624',
+				'city_id' => '49609',
 				'state_id' => '2700',
 			),
 			3436 => 
@@ -34385,7 +34385,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'EIDSDAL',
 				'longitude' => 'EIDSDAL',
 				'city' => 'EIDSDAL',
-				'city_id' => '48624',
+				'city_id' => '49602',
 				'state_id' => '2700',
 			),
 			3437 => 
@@ -34395,7 +34395,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '62.39',
 				'longitude' => '7.1106',
 				'city' => 'STORDAL',
-				'city_id' => '48624',
+				'city_id' => '49609',
 				'state_id' => '2700',
 			),
 			3438 => 
@@ -34405,7 +34405,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '62.5161',
 				'longitude' => '6.6997',
 				'city' => 'SKODJE',
-				'city_id' => '48408',
+				'city_id' => '49610',
 				'state_id' => '2692',
 			),
 			3439 => 
@@ -34415,7 +34415,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '62.5161',
 				'longitude' => '6.6997',
 				'city' => 'SKODJE',
-				'city_id' => '48408',
+				'city_id' => '49610',
 				'state_id' => '2692',
 			),
 			3440 => 
@@ -34425,7 +34425,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TENNFJORD',
 				'longitude' => 'TENNFJORD',
 				'city' => 'TENNFJORD',
-				'city_id' => '48408',
+				'city_id' => '49611',
 				'state_id' => '2692',
 			),
 			3441 => 
@@ -34435,7 +34435,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VATNE',
 				'longitude' => 'VATNE',
 				'city' => 'VATNE',
-				'city_id' => '48408',
+				'city_id' => '49612',
 				'state_id' => '2692',
 			),
 			3442 => 
@@ -34445,7 +34445,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '62.6',
 				'longitude' => '6.4433',
 				'city' => 'BRATTVÅG',
-				'city_id' => '48408',
+				'city_id' => '49613',
 				'state_id' => '2692',
 			),
 			3443 => 
@@ -34455,7 +34455,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HILDRE',
 				'longitude' => 'HILDRE',
 				'city' => 'HILDRE',
-				'city_id' => '48408',
+				'city_id' => '49614',
 				'state_id' => '2692',
 			),
 			3444 => 
@@ -34465,7 +34465,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SØVIK',
 				'longitude' => 'SØVIK',
 				'city' => 'SØVIK',
-				'city_id' => '48408',
+				'city_id' => '49615',
 				'state_id' => '2692',
 			),
 			3445 => 
@@ -34475,7 +34475,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SØVIK',
 				'longitude' => 'SØVIK',
 				'city' => 'SØVIK',
-				'city_id' => '48408',
+				'city_id' => '49615',
 				'state_id' => '2692',
 			),
 			3446 => 
@@ -34485,7 +34485,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '62.6',
 				'longitude' => '6.4433',
 				'city' => 'BRATTVÅG',
-				'city_id' => '48408',
+				'city_id' => '49613',
 				'state_id' => '2692',
 			),
 			3447 => 
@@ -34495,7 +34495,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VATNE',
 				'longitude' => 'VATNE',
 				'city' => 'VATNE',
-				'city_id' => '48408',
+				'city_id' => '49612',
 				'state_id' => '2692',
 			),
 			3448 => 
@@ -34505,7 +34505,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STOREKALVØY',
 				'longitude' => 'STOREKALVØY',
 				'city' => 'STOREKALVØY',
-				'city_id' => '48408',
+				'city_id' => '49616',
 				'state_id' => '2692',
 			),
 			3449 => 
@@ -34515,7 +34515,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HARAMSØY',
 				'longitude' => 'HARAMSØY',
 				'city' => 'HARAMSØY',
-				'city_id' => '48408',
+				'city_id' => '49617',
 				'state_id' => '2692',
 			),
 			3450 => 
@@ -34525,7 +34525,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HARAMSØY',
 				'longitude' => 'HARAMSØY',
 				'city' => 'HARAMSØY',
-				'city_id' => '48408',
+				'city_id' => '49617',
 				'state_id' => '2692',
 			),
 			3451 => 
@@ -34535,7 +34535,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KJERSTAD',
 				'longitude' => 'KJERSTAD',
 				'city' => 'KJERSTAD',
-				'city_id' => '48408',
+				'city_id' => '49618',
 				'state_id' => '2692',
 			),
 			3452 => 
@@ -34545,7 +34545,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LONGVA',
 				'longitude' => 'LONGVA',
 				'city' => 'LONGVA',
-				'city_id' => '48408',
+				'city_id' => '49619',
 				'state_id' => '2692',
 			),
 			3453 => 
@@ -34555,7 +34555,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FJØRTOFT',
 				'longitude' => 'FJØRTOFT',
 				'city' => 'FJØRTOFT',
-				'city_id' => '48408',
+				'city_id' => '49620',
 				'state_id' => '2692',
 			),
 			3454 => 
@@ -34565,7 +34565,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '62.5672',
 				'longitude' => '7.6869',
 				'city' => 'ÅNDALSNES',
-				'city_id' => '48395',
+				'city_id' => '49621',
 				'state_id' => '2692',
 			),
 			3455 => 
@@ -34575,7 +34575,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '62.5672',
 				'longitude' => '7.6869',
 				'city' => 'ÅNDALSNES',
-				'city_id' => '48395',
+				'city_id' => '49621',
 				'state_id' => '2692',
 			),
 			3456 => 
@@ -34585,7 +34585,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VEBLUNGSNES',
 				'longitude' => 'VEBLUNGSNES',
 				'city' => 'VEBLUNGSNES',
-				'city_id' => '48395',
+				'city_id' => '49622',
 				'state_id' => '2692',
 			),
 			3457 => 
@@ -34595,7 +34595,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'INNFJORDEN',
 				'longitude' => 'INNFJORDEN',
 				'city' => 'INNFJORDEN',
-				'city_id' => '48395',
+				'city_id' => '49623',
 				'state_id' => '2692',
 			),
 			3458 => 
@@ -34605,7 +34605,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ISFJORDEN',
 				'longitude' => 'ISFJORDEN',
 				'city' => 'ISFJORDEN',
-				'city_id' => '48395',
+				'city_id' => '49624',
 				'state_id' => '2692',
 			),
 			3459 => 
@@ -34615,7 +34615,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VERMA',
 				'longitude' => 'VERMA',
 				'city' => 'VERMA',
-				'city_id' => '48395',
+				'city_id' => '49625',
 				'state_id' => '2692',
 			),
 			3460 => 
@@ -34625,7 +34625,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VERMA',
 				'longitude' => 'VERMA',
 				'city' => 'VERMA',
-				'city_id' => '48395',
+				'city_id' => '49625',
 				'state_id' => '2692',
 			),
 			3461 => 
@@ -34635,7 +34635,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ISFJORDEN',
 				'longitude' => 'ISFJORDEN',
 				'city' => 'ISFJORDEN',
-				'city_id' => '48395',
+				'city_id' => '49624',
 				'state_id' => '2692',
 			),
 			3462 => 
@@ -34645,7 +34645,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'EIDSBYGDA',
 				'longitude' => 'EIDSBYGDA',
 				'city' => 'EIDSBYGDA',
-				'city_id' => '48395',
+				'city_id' => '49626',
 				'state_id' => '2692',
 			),
 			3463 => 
@@ -34655,7 +34655,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ÅFARNES',
 				'longitude' => 'ÅFARNES',
 				'city' => 'ÅFARNES',
-				'city_id' => '48395',
+				'city_id' => '49627',
 				'state_id' => '2692',
 			),
 			3464 => 
@@ -34665,7 +34665,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ÅFARNES',
 				'longitude' => 'ÅFARNES',
 				'city' => 'ÅFARNES',
-				'city_id' => '48395',
+				'city_id' => '49627',
 				'state_id' => '2692',
 			),
 			3465 => 
@@ -34675,7 +34675,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MITTET',
 				'longitude' => 'MITTET',
 				'city' => 'MITTET',
-				'city_id' => '48395',
+				'city_id' => '49628',
 				'state_id' => '2692',
 			),
 			3466 => 
@@ -34685,7 +34685,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VISTDAL',
 				'longitude' => 'VISTDAL',
 				'city' => 'VISTDAL',
-				'city_id' => '48394',
+				'city_id' => '49629',
 				'state_id' => '2692',
 			),
 			3467 => 
@@ -34695,7 +34695,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VISTDAL',
 				'longitude' => 'VISTDAL',
 				'city' => 'VISTDAL',
-				'city_id' => '48394',
+				'city_id' => '49629',
 				'state_id' => '2692',
 			),
 			3468 => 
@@ -34705,7 +34705,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MÅNDALEN',
 				'longitude' => 'MÅNDALEN',
 				'city' => 'MÅNDALEN',
-				'city_id' => '48395',
+				'city_id' => '49630',
 				'state_id' => '2692',
 			),
 			3469 => 
@@ -34715,7 +34715,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MÅNDALEN',
 				'longitude' => 'MÅNDALEN',
 				'city' => 'MÅNDALEN',
-				'city_id' => '48395',
+				'city_id' => '49630',
 				'state_id' => '2692',
 			),
 			3470 => 
@@ -34725,7 +34725,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VÅGSTRANDA',
 				'longitude' => 'VÅGSTRANDA',
 				'city' => 'VÅGSTRANDA',
-				'city_id' => '48406',
+				'city_id' => '49631',
 				'state_id' => '2692',
 			),
 			3471 => 
@@ -34735,7 +34735,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VÅGSTRANDA',
 				'longitude' => 'VÅGSTRANDA',
 				'city' => 'VÅGSTRANDA',
-				'city_id' => '48406',
+				'city_id' => '49631',
 				'state_id' => '2692',
 			),
 			3472 => 
@@ -34745,7 +34745,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FIKSDAL',
 				'longitude' => 'FIKSDAL',
 				'city' => 'FIKSDAL',
-				'city_id' => '48406',
+				'city_id' => '49632',
 				'state_id' => '2692',
 			),
 			3473 => 
@@ -34765,7 +34765,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TRESFJORD',
 				'longitude' => 'TRESFJORD',
 				'city' => 'TRESFJORD',
-				'city_id' => '48406',
+				'city_id' => '49633',
 				'state_id' => '2692',
 			),
 			3475 => 
@@ -34775,7 +34775,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VIKEBUKT',
 				'longitude' => 'VIKEBUKT',
 				'city' => 'VIKEBUKT',
-				'city_id' => '48406',
+				'city_id' => '49634',
 				'state_id' => '2692',
 			),
 			3476 => 
@@ -34785,7 +34785,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TOMREFJORD',
 				'longitude' => 'TOMREFJORD',
 				'city' => 'TOMREFJORD',
-				'city_id' => '48406',
+				'city_id' => '49635',
 				'state_id' => '2692',
 			),
 			3477 => 
@@ -34795,7 +34795,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FIKSDAL',
 				'longitude' => 'FIKSDAL',
 				'city' => 'FIKSDAL',
-				'city_id' => '48406',
+				'city_id' => '49632',
 				'state_id' => '2692',
 			),
 			3478 => 
@@ -34805,7 +34805,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'REKDAL',
 				'longitude' => 'REKDAL',
 				'city' => 'REKDAL',
-				'city_id' => '48406',
+				'city_id' => '49636',
 				'state_id' => '2692',
 			),
 			3479 => 
@@ -34815,7 +34815,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VIKEBUKT',
 				'longitude' => 'VIKEBUKT',
 				'city' => 'VIKEBUKT',
-				'city_id' => '48406',
+				'city_id' => '49634',
 				'state_id' => '2692',
 			),
 			3480 => 
@@ -34825,7 +34825,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TRESFJORD',
 				'longitude' => 'TRESFJORD',
 				'city' => 'TRESFJORD',
-				'city_id' => '48406',
+				'city_id' => '49633',
 				'state_id' => '2692',
 			),
 			3481 => 
@@ -34835,7 +34835,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TOMREFJORD',
 				'longitude' => 'TOMREFJORD',
 				'city' => 'TOMREFJORD',
-				'city_id' => '48406',
+				'city_id' => '49635',
 				'state_id' => '2692',
 			),
 			3482 => 
@@ -34915,7 +34915,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'AUREOSEN',
 				'longitude' => 'AUREOSEN',
 				'city' => 'AUREOSEN',
-				'city_id' => '48392',
+				'city_id' => '49637',
 				'state_id' => '2692',
 			),
 			3490 => 
@@ -35005,7 +35005,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SEKKEN',
 				'longitude' => 'SEKKEN',
 				'city' => 'SEKKEN',
-				'city_id' => '48394',
+				'city_id' => '49638',
 				'state_id' => '2692',
 			),
 			3499 => 
@@ -35075,7 +35075,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BUD',
 				'longitude' => 'BUD',
 				'city' => 'BUD',
-				'city_id' => '48392',
+				'city_id' => '49639',
 				'state_id' => '2692',
 			),
 			3506 => 
@@ -35085,7 +35085,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BUD',
 				'longitude' => 'BUD',
 				'city' => 'BUD',
-				'city_id' => '48392',
+				'city_id' => '49639',
 				'state_id' => '2692',
 			),
 			3507 => 
@@ -35095,7 +35095,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HUSTAD',
 				'longitude' => 'HUSTAD',
 				'city' => 'HUSTAD',
-				'city_id' => '48392',
+				'city_id' => '49646',
 				'state_id' => '2692',
 			),
 			3508 => 
@@ -35135,7 +35135,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '62.8538',
 				'longitude' => '7.1536',
 				'city' => 'ELNESVÅGEN',
-				'city_id' => '48392',
+				'city_id' => '49640',
 				'state_id' => '2692',
 			),
 			3512 => 
@@ -35145,7 +35145,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TORNES I ROMSDAL',
 				'longitude' => 'TORNES I ROMSDAL',
 				'city' => 'TORNES I ROMSDAL',
-				'city_id' => '48392',
+				'city_id' => '49641',
 				'state_id' => '2692',
 			),
 			3513 => 
@@ -35155,7 +35155,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FARSTAD',
 				'longitude' => 'FARSTAD',
 				'city' => 'FARSTAD',
-				'city_id' => '48392',
+				'city_id' => '49642',
 				'state_id' => '2692',
 			),
 			3514 => 
@@ -35165,7 +35165,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MALMEFJORDEN',
 				'longitude' => 'MALMEFJORDEN',
 				'city' => 'MALMEFJORDEN',
-				'city_id' => '48392',
+				'city_id' => '49643',
 				'state_id' => '2692',
 			),
 			3515 => 
@@ -35175,7 +35175,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FARSTAD',
 				'longitude' => 'FARSTAD',
 				'city' => 'FARSTAD',
-				'city_id' => '48392',
+				'city_id' => '49642',
 				'state_id' => '2692',
 			),
 			3516 => 
@@ -35185,7 +35185,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '62.8538',
 				'longitude' => '7.1536',
 				'city' => 'ELNESVÅGEN',
-				'city_id' => '48392',
+				'city_id' => '49640',
 				'state_id' => '2692',
 			),
 			3517 => 
@@ -35195,7 +35195,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HJELSET',
 				'longitude' => 'HJELSET',
 				'city' => 'HJELSET',
-				'city_id' => '48394',
+				'city_id' => '49644',
 				'state_id' => '2692',
 			),
 			3518 => 
@@ -35205,7 +35205,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KLEIVE',
 				'longitude' => 'KLEIVE',
 				'city' => 'KLEIVE',
-				'city_id' => '48394',
+				'city_id' => '49645',
 				'state_id' => '2692',
 			),
 			3519 => 
@@ -35215,7 +35215,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KLEIVE',
 				'longitude' => 'KLEIVE',
 				'city' => 'KLEIVE',
-				'city_id' => '48394',
+				'city_id' => '49645',
 				'state_id' => '2692',
 			),
 			3520 => 
@@ -35225,7 +35225,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HJELSET',
 				'longitude' => 'HJELSET',
 				'city' => 'HJELSET',
-				'city_id' => '48394',
+				'city_id' => '49644',
 				'state_id' => '2692',
 			),
 			3521 => 
@@ -35235,7 +35235,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KORTGARDEN',
 				'longitude' => 'KORTGARDEN',
 				'city' => 'KORTGARDEN',
-				'city_id' => '48394',
+				'city_id' => '49647',
 				'state_id' => '2692',
 			),
 			3522 => 
@@ -35245,7 +35245,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKÅLA',
 				'longitude' => 'SKÅLA',
 				'city' => 'SKÅLA',
-				'city_id' => '48394',
+				'city_id' => '49648',
 				'state_id' => '2692',
 			),
 			3523 => 
@@ -35255,7 +35255,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BOLSØYA',
 				'longitude' => 'BOLSØYA',
 				'city' => 'BOLSØYA',
-				'city_id' => '48394',
+				'city_id' => '49649',
 				'state_id' => '2692',
 			),
 			3524 => 
@@ -35265,7 +35265,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKÅLA',
 				'longitude' => 'SKÅLA',
 				'city' => 'SKÅLA',
-				'city_id' => '48394',
+				'city_id' => '49648',
 				'state_id' => '2692',
 			),
 			3525 => 
@@ -35275,7 +35275,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'EIDSVÅG I ROMSDAL',
 				'longitude' => 'EIDSVÅG I ROMSDAL',
 				'city' => 'EIDSVÅG I ROMSDAL',
-				'city_id' => '48394',
+				'city_id' => '49650',
 				'state_id' => '2692',
 			),
 			3526 => 
@@ -35285,7 +35285,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'EIDSVÅG I ROMSDAL',
 				'longitude' => 'EIDSVÅG I ROMSDAL',
 				'city' => 'EIDSVÅG I ROMSDAL',
-				'city_id' => '48394',
+				'city_id' => '49650',
 				'state_id' => '2692',
 			),
 			3527 => 
@@ -35295,7 +35295,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RAUDSAND',
 				'longitude' => 'RAUDSAND',
 				'city' => 'RAUDSAND',
-				'city_id' => '48394',
+				'city_id' => '49651',
 				'state_id' => '2692',
 			),
 			3528 => 
@@ -35305,7 +35305,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ERESFJORD',
 				'longitude' => 'ERESFJORD',
 				'city' => 'ERESFJORD',
-				'city_id' => '48394',
+				'city_id' => '49652',
 				'state_id' => '2692',
 			),
 			3529 => 
@@ -35315,7 +35315,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ERESFJORD',
 				'longitude' => 'ERESFJORD',
 				'city' => 'ERESFJORD',
-				'city_id' => '48394',
+				'city_id' => '49652',
 				'state_id' => '2692',
 			),
 			3530 => 
@@ -35325,7 +35325,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'EIKESDAL',
 				'longitude' => 'EIKESDAL',
 				'city' => 'EIKESDAL',
-				'city_id' => '48394',
+				'city_id' => '49653',
 				'state_id' => '2692',
 			),
 			3531 => 
@@ -35335,7 +35335,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '62.7086',
 				'longitude' => '6.7967',
 				'city' => 'MIDSUND',
-				'city_id' => '48394',
+				'city_id' => '49654',
 				'state_id' => '2692',
 			),
 			3532 => 
@@ -35345,7 +35345,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '62.7086',
 				'longitude' => '6.7967',
 				'city' => 'MIDSUND',
-				'city_id' => '48394',
+				'city_id' => '49654',
 				'state_id' => '2692',
 			),
 			3533 => 
@@ -35375,7 +35375,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ONA',
 				'longitude' => 'ONA',
 				'city' => 'ONA',
-				'city_id' => '48408',
+				'city_id' => '49656',
 				'state_id' => '2692',
 			),
 			3536 => 
@@ -35385,7 +35385,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SANDØY',
 				'longitude' => 'SANDØY',
 				'city' => 'SANDØY',
-				'city_id' => '48408',
+				'city_id' => '49657',
 				'state_id' => '2692',
 			),
 			3537 => 
@@ -35395,7 +35395,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HARØY',
 				'longitude' => 'HARØY',
 				'city' => 'HARØY',
-				'city_id' => '48408',
+				'city_id' => '49658',
 				'state_id' => '2692',
 			),
 			3538 => 
@@ -35405,7 +35405,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ORTEN',
 				'longitude' => 'ORTEN',
 				'city' => 'ORTEN',
-				'city_id' => '48384',
+				'city_id' => '49659',
 				'state_id' => '2692',
 			),
 			3539 => 
@@ -35415,7 +35415,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HARØY',
 				'longitude' => 'HARØY',
 				'city' => 'HARØY',
-				'city_id' => '48408',
+				'city_id' => '49658',
 				'state_id' => '2692',
 			),
 			3540 => 
@@ -35425,7 +35425,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MYKLEBOST',
 				'longitude' => 'MYKLEBOST',
 				'city' => 'MYKLEBOST',
-				'city_id' => '48408',
+				'city_id' => '49660',
 				'state_id' => '2692',
 			),
 			3541 => 
@@ -35435,7 +35435,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '62.9157',
 				'longitude' => '7.445',
 				'city' => 'EIDE',
-				'city_id' => '48392',
+				'city_id' => '49661',
 				'state_id' => '2692',
 			),
 			3542 => 
@@ -35445,7 +35445,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LYNGSTAD',
 				'longitude' => 'LYNGSTAD',
 				'city' => 'LYNGSTAD',
-				'city_id' => '48392',
+				'city_id' => '49662',
 				'state_id' => '2692',
 			),
 			3543 => 
@@ -35455,7 +35455,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VEVANG',
 				'longitude' => 'VEVANG',
 				'city' => 'VEVANG',
-				'city_id' => '48392',
+				'city_id' => '49663',
 				'state_id' => '2692',
 			),
 			3544 => 
@@ -35465,7 +35465,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '62.9157',
 				'longitude' => '7.445',
 				'city' => 'EIDE',
-				'city_id' => '48392',
+				'city_id' => '49661',
 				'state_id' => '2692',
 			),
 			3545 => 
@@ -35475,7 +35475,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSUND N',
 				'longitude' => 'KRISTIANSUND N',
 				'city' => 'KRISTIANSUND N',
-				'city_id' => '48393',
+				'city_id' => '49664',
 				'state_id' => '2692',
 			),
 			3546 => 
@@ -35485,7 +35485,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSUND N',
 				'longitude' => 'KRISTIANSUND N',
 				'city' => 'KRISTIANSUND N',
-				'city_id' => '48393',
+				'city_id' => '49664',
 				'state_id' => '2692',
 			),
 			3547 => 
@@ -35495,7 +35495,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSUND N',
 				'longitude' => 'KRISTIANSUND N',
 				'city' => 'KRISTIANSUND N',
-				'city_id' => '48393',
+				'city_id' => '49664',
 				'state_id' => '2692',
 			),
 			3548 => 
@@ -35505,7 +35505,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSUND N',
 				'longitude' => 'KRISTIANSUND N',
 				'city' => 'KRISTIANSUND N',
-				'city_id' => '48393',
+				'city_id' => '49664',
 				'state_id' => '2692',
 			),
 			3549 => 
@@ -35515,7 +35515,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSUND N',
 				'longitude' => 'KRISTIANSUND N',
 				'city' => 'KRISTIANSUND N',
-				'city_id' => '48393',
+				'city_id' => '49664',
 				'state_id' => '2692',
 			),
 			3550 => 
@@ -35525,7 +35525,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSUND N',
 				'longitude' => 'KRISTIANSUND N',
 				'city' => 'KRISTIANSUND N',
-				'city_id' => '48393',
+				'city_id' => '49664',
 				'state_id' => '2692',
 			),
 			3551 => 
@@ -35535,7 +35535,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSUND N',
 				'longitude' => 'KRISTIANSUND N',
 				'city' => 'KRISTIANSUND N',
-				'city_id' => '48393',
+				'city_id' => '49664',
 				'state_id' => '2692',
 			),
 			3552 => 
@@ -35545,7 +35545,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSUND N',
 				'longitude' => 'KRISTIANSUND N',
 				'city' => 'KRISTIANSUND N',
-				'city_id' => '48393',
+				'city_id' => '49664',
 				'state_id' => '2692',
 			),
 			3553 => 
@@ -35555,7 +35555,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSUND N',
 				'longitude' => 'KRISTIANSUND N',
 				'city' => 'KRISTIANSUND N',
-				'city_id' => '48393',
+				'city_id' => '49664',
 				'state_id' => '2692',
 			),
 			3554 => 
@@ -35565,7 +35565,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSUND N',
 				'longitude' => 'KRISTIANSUND N',
 				'city' => 'KRISTIANSUND N',
-				'city_id' => '48393',
+				'city_id' => '49664',
 				'state_id' => '2692',
 			),
 			3555 => 
@@ -35575,7 +35575,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSUND N',
 				'longitude' => 'KRISTIANSUND N',
 				'city' => 'KRISTIANSUND N',
-				'city_id' => '48393',
+				'city_id' => '49664',
 				'state_id' => '2692',
 			),
 			3556 => 
@@ -35585,7 +35585,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSUND N',
 				'longitude' => 'KRISTIANSUND N',
 				'city' => 'KRISTIANSUND N',
-				'city_id' => '48393',
+				'city_id' => '49664',
 				'state_id' => '2692',
 			),
 			3557 => 
@@ -35595,7 +35595,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSUND N',
 				'longitude' => 'KRISTIANSUND N',
 				'city' => 'KRISTIANSUND N',
-				'city_id' => '48393',
+				'city_id' => '49664',
 				'state_id' => '2692',
 			),
 			3558 => 
@@ -35605,7 +35605,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSUND N',
 				'longitude' => 'KRISTIANSUND N',
 				'city' => 'KRISTIANSUND N',
-				'city_id' => '48393',
+				'city_id' => '49664',
 				'state_id' => '2692',
 			),
 			3559 => 
@@ -35615,7 +35615,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSUND N',
 				'longitude' => 'KRISTIANSUND N',
 				'city' => 'KRISTIANSUND N',
-				'city_id' => '48393',
+				'city_id' => '49664',
 				'state_id' => '2692',
 			),
 			3560 => 
@@ -35625,7 +35625,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSUND N',
 				'longitude' => 'KRISTIANSUND N',
 				'city' => 'KRISTIANSUND N',
-				'city_id' => '48393',
+				'city_id' => '49664',
 				'state_id' => '2692',
 			),
 			3561 => 
@@ -35635,7 +35635,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '63.0625',
 				'longitude' => '7.8031',
 				'city' => 'FREI',
-				'city_id' => '48393',
+				'city_id' => '49665',
 				'state_id' => '2692',
 			),
 			3562 => 
@@ -35645,7 +35645,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '63.0625',
 				'longitude' => '7.8031',
 				'city' => 'FREI',
-				'city_id' => '48393',
+				'city_id' => '49665',
 				'state_id' => '2692',
 			),
 			3563 => 
@@ -35655,7 +35655,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '63.0625',
 				'longitude' => '7.8031',
 				'city' => 'FREI',
-				'city_id' => '48393',
+				'city_id' => '49665',
 				'state_id' => '2692',
 			),
 			3564 => 
@@ -35665,7 +35665,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '63.0625',
 				'longitude' => '7.8031',
 				'city' => 'FREI',
-				'city_id' => '48393',
+				'city_id' => '49665',
 				'state_id' => '2692',
 			),
 			3565 => 
@@ -35675,7 +35675,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '63.0625',
 				'longitude' => '7.8031',
 				'city' => 'FREI',
-				'city_id' => '48393',
+				'city_id' => '49665',
 				'state_id' => '2692',
 			),
 			3566 => 
@@ -35685,7 +35685,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '63.0625',
 				'longitude' => '7.8031',
 				'city' => 'FREI',
-				'city_id' => '48393',
+				'city_id' => '49665',
 				'state_id' => '2692',
 			),
 			3567 => 
@@ -35695,7 +35695,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '63.0625',
 				'longitude' => '7.8031',
 				'city' => 'FREI',
-				'city_id' => '48393',
+				'city_id' => '49665',
 				'state_id' => '2692',
 			),
 			3568 => 
@@ -35705,7 +35705,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '63.0625',
 				'longitude' => '7.8031',
 				'city' => 'FREI',
-				'city_id' => '48393',
+				'city_id' => '49665',
 				'state_id' => '2692',
 			),
 			3569 => 
@@ -35715,7 +35715,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '63.0625',
 				'longitude' => '7.8031',
 				'city' => 'FREI',
-				'city_id' => '48393',
+				'city_id' => '49665',
 				'state_id' => '2692',
 			),
 			3570 => 
@@ -35785,7 +35785,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSUND N',
 				'longitude' => 'KRISTIANSUND N',
 				'city' => 'KRISTIANSUND N',
-				'city_id' => '48393',
+				'city_id' => '49664',
 				'state_id' => '2692',
 			),
 			3577 => 
@@ -35795,7 +35795,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSUND N',
 				'longitude' => 'KRISTIANSUND N',
 				'city' => 'KRISTIANSUND N',
-				'city_id' => '48393',
+				'city_id' => '49664',
 				'state_id' => '2692',
 			),
 			3578 => 
@@ -35805,7 +35805,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSUND N',
 				'longitude' => 'KRISTIANSUND N',
 				'city' => 'KRISTIANSUND N',
-				'city_id' => '48393',
+				'city_id' => '49664',
 				'state_id' => '2692',
 			),
 			3579 => 
@@ -35815,7 +35815,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRISTIANSUND N',
 				'longitude' => 'KRISTIANSUND N',
 				'city' => 'KRISTIANSUND N',
-				'city_id' => '48393',
+				'city_id' => '49664',
 				'state_id' => '2692',
 			),
 			3580 => 
@@ -35845,7 +35845,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TUSTNA',
 				'longitude' => 'TUSTNA',
 				'city' => 'TUSTNA',
-				'city_id' => '48385',
+				'city_id' => '49666',
 				'state_id' => '2692',
 			),
 			3583 => 
@@ -35855,7 +35855,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TUSTNA',
 				'longitude' => 'TUSTNA',
 				'city' => 'TUSTNA',
-				'city_id' => '48385',
+				'city_id' => '49666',
 				'state_id' => '2692',
 			),
 			3584 => 
@@ -35865,7 +35865,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '62.6128',
 				'longitude' => '8.6342',
 				'city' => 'SUNNDALSØRA',
-				'city_id' => '48400',
+				'city_id' => '49667',
 				'state_id' => '2692',
 			),
 			3585 => 
@@ -35875,7 +35875,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '62.6128',
 				'longitude' => '8.6342',
 				'city' => 'SUNNDALSØRA',
-				'city_id' => '48400',
+				'city_id' => '49667',
 				'state_id' => '2692',
 			),
 			3586 => 
@@ -35885,7 +35885,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ØKSENDAL',
 				'longitude' => 'ØKSENDAL',
 				'city' => 'ØKSENDAL',
-				'city_id' => '48400',
+				'city_id' => '49668',
 				'state_id' => '2692',
 			),
 			3587 => 
@@ -35895,7 +35895,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FURUGRENDA',
 				'longitude' => 'FURUGRENDA',
 				'city' => 'FURUGRENDA',
-				'city_id' => '48400',
+				'city_id' => '49669',
 				'state_id' => '2692',
 			),
 			3588 => 
@@ -35905,7 +35905,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GRØA',
 				'longitude' => 'GRØA',
 				'city' => 'GRØA',
-				'city_id' => '48400',
+				'city_id' => '49670',
 				'state_id' => '2692',
 			),
 			3589 => 
@@ -35915,7 +35915,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GJØRA',
 				'longitude' => 'GJØRA',
 				'city' => 'GJØRA',
-				'city_id' => '48400',
+				'city_id' => '49671',
 				'state_id' => '2692',
 			),
 			3590 => 
@@ -35925,7 +35925,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GJØRA',
 				'longitude' => 'GJØRA',
 				'city' => 'GJØRA',
-				'city_id' => '48400',
+				'city_id' => '49671',
 				'state_id' => '2692',
 			),
 			3591 => 
@@ -35935,7 +35935,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ÅLVUNDEID',
 				'longitude' => 'ÅLVUNDEID',
 				'city' => 'ÅLVUNDEID',
-				'city_id' => '48400',
+				'city_id' => '49672',
 				'state_id' => '2692',
 			),
 			3592 => 
@@ -35945,7 +35945,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ÅLVUNDFJORD',
 				'longitude' => 'ÅLVUNDFJORD',
 				'city' => 'ÅLVUNDFJORD',
-				'city_id' => '48400',
+				'city_id' => '49673',
 				'state_id' => '2692',
 			),
 			3593 => 
@@ -35955,7 +35955,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ÅLVUNDFJORD',
 				'longitude' => 'ÅLVUNDFJORD',
 				'city' => 'ÅLVUNDFJORD',
-				'city_id' => '48400',
+				'city_id' => '49673',
 				'state_id' => '2692',
 			),
 			3594 => 
@@ -35975,7 +35975,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MEISINGSET',
 				'longitude' => 'MEISINGSET',
 				'city' => 'MEISINGSET',
-				'city_id' => '48403',
+				'city_id' => '49674',
 				'state_id' => '2692',
 			),
 			3596 => 
@@ -35985,7 +35985,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TORJULVÅGEN',
 				'longitude' => 'TORJULVÅGEN',
 				'city' => 'TORJULVÅGEN',
-				'city_id' => '48403',
+				'city_id' => '49675',
 				'state_id' => '2692',
 			),
 			3597 => 
@@ -36005,7 +36005,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '62.8833',
 				'longitude' => '7.7',
 				'city' => 'BATNFJORDSØRA',
-				'city_id' => '48389',
+				'city_id' => '49676',
 				'state_id' => '2692',
 			),
 			3599 => 
@@ -36015,7 +36015,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '62.8833',
 				'longitude' => '7.7',
 				'city' => 'BATNFJORDSØRA',
-				'city_id' => '48389',
+				'city_id' => '49676',
 				'state_id' => '2692',
 			),
 			3600 => 
@@ -36035,7 +36035,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ANGVIK',
 				'longitude' => 'ANGVIK',
 				'city' => 'ANGVIK',
-				'city_id' => '48389',
+				'city_id' => '49677',
 				'state_id' => '2692',
 			),
 			3602 => 
@@ -36045,7 +36045,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FLEMMA',
 				'longitude' => 'FLEMMA',
 				'city' => 'FLEMMA',
-				'city_id' => '48389',
+				'city_id' => '49678',
 				'state_id' => '2692',
 			),
 			3603 => 
@@ -36055,7 +36055,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'OSMARKA',
 				'longitude' => 'OSMARKA',
 				'city' => 'OSMARKA',
-				'city_id' => '48389',
+				'city_id' => '49679',
 				'state_id' => '2692',
 			),
 			3604 => 
@@ -36065,7 +36065,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TORVIKBUKT',
 				'longitude' => 'TORVIKBUKT',
 				'city' => 'TORVIKBUKT',
-				'city_id' => '48389',
+				'city_id' => '49680',
 				'state_id' => '2692',
 			),
 			3605 => 
@@ -36075,7 +36075,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KVANNE',
 				'longitude' => 'KVANNE',
 				'city' => 'KVANNE',
-				'city_id' => '48401',
+				'city_id' => '49681',
 				'state_id' => '2692',
 			),
 			3606 => 
@@ -36085,7 +36085,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TORVIKBUKT',
 				'longitude' => 'TORVIKBUKT',
 				'city' => 'TORVIKBUKT',
-				'city_id' => '48389',
+				'city_id' => '49680',
 				'state_id' => '2692',
 			),
 			3607 => 
@@ -36095,7 +36095,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STANGVIK',
 				'longitude' => 'STANGVIK',
 				'city' => 'STANGVIK',
-				'city_id' => '48401',
+				'city_id' => '49682',
 				'state_id' => '2692',
 			),
 			3608 => 
@@ -36105,7 +36105,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BØFJORDEN',
 				'longitude' => 'BØFJORDEN',
 				'city' => 'BØFJORDEN',
-				'city_id' => '48401',
+				'city_id' => '49683',
 				'state_id' => '2692',
 			),
 			3609 => 
@@ -36115,7 +36115,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BÆVERFJORD',
 				'longitude' => 'BÆVERFJORD',
 				'city' => 'BÆVERFJORD',
-				'city_id' => '48401',
+				'city_id' => '49684',
 				'state_id' => '2692',
 			),
 			3610 => 
@@ -36125,7 +36125,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TODALEN',
 				'longitude' => 'TODALEN',
 				'city' => 'TODALEN',
-				'city_id' => '48401',
+				'city_id' => '49685',
 				'state_id' => '2692',
 			),
 			3611 => 
@@ -36155,7 +36155,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ØVRE SURNADAL',
 				'longitude' => 'ØVRE SURNADAL',
 				'city' => 'ØVRE SURNADAL',
-				'city_id' => '48401',
+				'city_id' => '49686',
 				'state_id' => '2692',
 			),
 			3614 => 
@@ -36165,7 +36165,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VINDØLA',
 				'longitude' => 'VINDØLA',
 				'city' => 'VINDØLA',
-				'city_id' => '48401',
+				'city_id' => '49687',
 				'state_id' => '2692',
 			),
 			3615 => 
@@ -36195,7 +36195,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RINDALSSKOGEN',
 				'longitude' => 'RINDALSSKOGEN',
 				'city' => 'RINDALSSKOGEN',
-				'city_id' => '48558',
+				'city_id' => '49688',
 				'state_id' => '2698',
 			),
 			3618 => 
@@ -36215,7 +36215,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ØYDEGARD',
 				'longitude' => 'ØYDEGARD',
 				'city' => 'ØYDEGARD',
-				'city_id' => '48403',
+				'city_id' => '49689',
 				'state_id' => '2692',
 			),
 			3620 => 
@@ -36225,7 +36225,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ØYDEGARD',
 				'longitude' => 'ØYDEGARD',
 				'city' => 'ØYDEGARD',
-				'city_id' => '48403',
+				'city_id' => '49689',
 				'state_id' => '2692',
 			),
 			3621 => 
@@ -36235,7 +36235,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KVISVIK',
 				'longitude' => 'KVISVIK',
 				'city' => 'KVISVIK',
-				'city_id' => '48403',
+				'city_id' => '49690',
 				'state_id' => '2692',
 			),
 			3622 => 
@@ -36245,7 +36245,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HALSANAUSTAN',
 				'longitude' => 'HALSANAUSTAN',
 				'city' => 'HALSANAUSTAN',
-				'city_id' => '48537',
+				'city_id' => '49691',
 				'state_id' => '2698',
 			),
 			3623 => 
@@ -36255,7 +36255,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VÅGLAND',
 				'longitude' => 'VÅGLAND',
 				'city' => 'VÅGLAND',
-				'city_id' => '48537',
+				'city_id' => '49692',
 				'state_id' => '2698',
 			),
 			3624 => 
@@ -36265,7 +36265,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VALSØYBOTN',
 				'longitude' => 'VALSØYBOTN',
 				'city' => 'VALSØYBOTN',
-				'city_id' => '48537',
+				'city_id' => '49693',
 				'state_id' => '2698',
 			),
 			3625 => 
@@ -36275,7 +36275,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VALSØYFJORD',
 				'longitude' => 'VALSØYFJORD',
 				'city' => 'VALSØYFJORD',
-				'city_id' => '48537',
+				'city_id' => '49694',
 				'state_id' => '2698',
 			),
 			3626 => 
@@ -36285,7 +36285,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VÅGLAND',
 				'longitude' => 'VÅGLAND',
 				'city' => 'VÅGLAND',
-				'city_id' => '48537',
+				'city_id' => '49692',
 				'state_id' => '2698',
 			),
 			3627 => 
@@ -36315,7 +36315,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MJOSUNDET',
 				'longitude' => 'MJOSUNDET',
 				'city' => 'MJOSUNDET',
-				'city_id' => '48385',
+				'city_id' => '49695',
 				'state_id' => '2692',
 			),
 			3630 => 
@@ -36325,7 +36325,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FOLDFJORDEN',
 				'longitude' => 'FOLDFJORDEN',
 				'city' => 'FOLDFJORDEN',
-				'city_id' => '48385',
+				'city_id' => '49696',
 				'state_id' => '2692',
 			),
 			3631 => 
@@ -36335,7 +36335,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VIHALS',
 				'longitude' => 'VIHALS',
 				'city' => 'VIHALS',
-				'city_id' => '48385',
+				'city_id' => '49697',
 				'state_id' => '2692',
 			),
 			3632 => 
@@ -36345,7 +36345,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LESUND',
 				'longitude' => 'LESUND',
 				'city' => 'LESUND',
-				'city_id' => '48385',
+				'city_id' => '49698',
 				'state_id' => '2692',
 			),
 			3633 => 
@@ -36355,7 +36355,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KJØRSVIKBUGEN',
 				'longitude' => 'KJØRSVIKBUGEN',
 				'city' => 'KJØRSVIKBUGEN',
-				'city_id' => '48385',
+				'city_id' => '49699',
 				'state_id' => '2692',
 			),
 			3634 => 
@@ -36365,7 +36365,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.9333',
 				'longitude' => '5.1167',
 				'city' => 'MÅLØY',
-				'city_id' => '48613',
+				'city_id' => '49700',
 				'state_id' => '2700',
 			),
 			3635 => 
@@ -36375,7 +36375,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.9333',
 				'longitude' => '5.1167',
 				'city' => 'MÅLØY',
-				'city_id' => '48613',
+				'city_id' => '49700',
 				'state_id' => '2700',
 			),
 			3636 => 
@@ -36385,7 +36385,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.9333',
 				'longitude' => '5.1167',
 				'city' => 'MÅLØY',
-				'city_id' => '48613',
+				'city_id' => '49700',
 				'state_id' => '2700',
 			),
 			3637 => 
@@ -36395,7 +36395,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.9333',
 				'longitude' => '5.1167',
 				'city' => 'MÅLØY',
-				'city_id' => '48613',
+				'city_id' => '49700',
 				'state_id' => '2700',
 			),
 			3638 => 
@@ -36405,7 +36405,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'DEKNEPOLLEN',
 				'longitude' => 'DEKNEPOLLEN',
 				'city' => 'DEKNEPOLLEN',
-				'city_id' => '48613',
+				'city_id' => '49701',
 				'state_id' => '2700',
 			),
 			3639 => 
@@ -36415,7 +36415,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RAUDEBERG',
 				'longitude' => 'RAUDEBERG',
 				'city' => 'RAUDEBERG',
-				'city_id' => '48613',
+				'city_id' => '49702',
 				'state_id' => '2700',
 			),
 			3640 => 
@@ -36425,7 +36425,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BRYGGJA',
 				'longitude' => 'BRYGGJA',
 				'city' => 'BRYGGJA',
-				'city_id' => '48623',
+				'city_id' => '49703',
 				'state_id' => '2700',
 			),
 			3641 => 
@@ -36435,7 +36435,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RAUDEBERG',
 				'longitude' => 'RAUDEBERG',
 				'city' => 'RAUDEBERG',
-				'city_id' => '48613',
+				'city_id' => '49702',
 				'state_id' => '2700',
 			),
 			3642 => 
@@ -36445,7 +36445,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BRYGGJA',
 				'longitude' => 'BRYGGJA',
 				'city' => 'BRYGGJA',
-				'city_id' => '48623',
+				'city_id' => '49703',
 				'state_id' => '2700',
 			),
 			3643 => 
@@ -36455,7 +36455,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ALMENNINGEN',
 				'longitude' => 'ALMENNINGEN',
 				'city' => 'ALMENNINGEN',
-				'city_id' => '48613',
+				'city_id' => '49704',
 				'state_id' => '2700',
 			),
 			3644 => 
@@ -36465,7 +36465,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SILDA',
 				'longitude' => 'SILDA',
 				'city' => 'SILDA',
-				'city_id' => '48613',
+				'city_id' => '49705',
 				'state_id' => '2700',
 			),
 			3645 => 
@@ -36475,7 +36475,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BARMEN',
 				'longitude' => 'BARMEN',
 				'city' => 'BARMEN',
-				'city_id' => '48623',
+				'city_id' => '49706',
 				'state_id' => '2700',
 			),
 			3646 => 
@@ -36485,7 +36485,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HUSEVÅG',
 				'longitude' => 'HUSEVÅG',
 				'city' => 'HUSEVÅG',
-				'city_id' => '48613',
+				'city_id' => '49707',
 				'state_id' => '2700',
 			),
 			3647 => 
@@ -36495,7 +36495,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FLATRAKET',
 				'longitude' => 'FLATRAKET',
 				'city' => 'FLATRAKET',
-				'city_id' => '48623',
+				'city_id' => '49708',
 				'state_id' => '2700',
 			),
 			3648 => 
@@ -36505,7 +36505,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'DEKNEPOLLEN',
 				'longitude' => 'DEKNEPOLLEN',
 				'city' => 'DEKNEPOLLEN',
-				'city_id' => '48613',
+				'city_id' => '49701',
 				'state_id' => '2700',
 			),
 			3649 => 
@@ -36515,7 +36515,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKATESTRAUMEN',
 				'longitude' => 'SKATESTRAUMEN',
 				'city' => 'SKATESTRAUMEN',
-				'city_id' => '48602',
+				'city_id' => '49709',
 				'state_id' => '2700',
 			),
 			3650 => 
@@ -36525,7 +36525,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.7667',
 				'longitude' => '5.3',
 				'city' => 'SVELGEN',
-				'city_id' => '48602',
+				'city_id' => '49710',
 				'state_id' => '2700',
 			),
 			3651 => 
@@ -36535,7 +36535,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.7667',
 				'longitude' => '5.3',
 				'city' => 'SVELGEN',
-				'city_id' => '48602',
+				'city_id' => '49710',
 				'state_id' => '2700',
 			),
 			3652 => 
@@ -36565,7 +36565,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KALVÅG',
 				'longitude' => 'KALVÅG',
 				'city' => 'KALVÅG',
-				'city_id' => '48602',
+				'city_id' => '49711',
 				'state_id' => '2700',
 			),
 			3655 => 
@@ -36575,7 +36575,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KALVÅG',
 				'longitude' => 'KALVÅG',
 				'city' => 'KALVÅG',
-				'city_id' => '48602',
+				'city_id' => '49711',
 				'state_id' => '2700',
 			),
 			3656 => 
@@ -36585,7 +36585,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'DAVIK',
 				'longitude' => 'DAVIK',
 				'city' => 'DAVIK',
-				'city_id' => '48602',
+				'city_id' => '49712',
 				'state_id' => '2700',
 			),
 			3657 => 
@@ -36595,7 +36595,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RUGSUND',
 				'longitude' => 'RUGSUND',
 				'city' => 'RUGSUND',
-				'city_id' => '48602',
+				'city_id' => '49713',
 				'state_id' => '2700',
 			),
 			3658 => 
@@ -36605,7 +36605,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ÅLFOTEN',
 				'longitude' => 'ÅLFOTEN',
 				'city' => 'ÅLFOTEN',
-				'city_id' => '48602',
+				'city_id' => '49714',
 				'state_id' => '2700',
 			),
 			3659 => 
@@ -36615,7 +36615,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '62.1372',
 				'longitude' => '5.2231',
 				'city' => 'SELJE',
-				'city_id' => '48623',
+				'city_id' => '49715',
 				'state_id' => '2700',
 			),
 			3660 => 
@@ -36625,7 +36625,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '62.1372',
 				'longitude' => '5.2231',
 				'city' => 'SELJE',
-				'city_id' => '48623',
+				'city_id' => '49715',
 				'state_id' => '2700',
 			),
 			3661 => 
@@ -36635,7 +36635,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STADLANDET',
 				'longitude' => 'STADLANDET',
 				'city' => 'STADLANDET',
-				'city_id' => '48623',
+				'city_id' => '49716',
 				'state_id' => '2700',
 			),
 			3662 => 
@@ -36645,7 +36645,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STADLANDET',
 				'longitude' => 'STADLANDET',
 				'city' => 'STADLANDET',
-				'city_id' => '48623',
+				'city_id' => '49716',
 				'state_id' => '2700',
 			),
 			3663 => 
@@ -36655,7 +36655,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.9986',
 				'longitude' => '6.5842',
 				'city' => 'HORNINDAL',
-				'city_id' => '48407',
+				'city_id' => '49717',
 				'state_id' => '2692',
 			),
 			3664 => 
@@ -36665,7 +36665,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.9986',
 				'longitude' => '6.5842',
 				'city' => 'HORNINDAL',
-				'city_id' => '48407',
+				'city_id' => '49717',
 				'state_id' => '2692',
 			),
 			3665 => 
@@ -36675,7 +36675,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.9',
 				'longitude' => '6',
 				'city' => 'NORDFJORDEID',
-				'city_id' => '48623',
+				'city_id' => '49718',
 				'state_id' => '2700',
 			),
 			3666 => 
@@ -36685,7 +36685,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.9',
 				'longitude' => '6',
 				'city' => 'NORDFJORDEID',
-				'city_id' => '48623',
+				'city_id' => '49718',
 				'state_id' => '2700',
 			),
 			3667 => 
@@ -36695,7 +36695,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.9',
 				'longitude' => '6',
 				'city' => 'NORDFJORDEID',
-				'city_id' => '48623',
+				'city_id' => '49718',
 				'state_id' => '2700',
 			),
 			3668 => 
@@ -36705,7 +36705,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.9',
 				'longitude' => '6',
 				'city' => 'NORDFJORDEID',
-				'city_id' => '48623',
+				'city_id' => '49718',
 				'state_id' => '2700',
 			),
 			3669 => 
@@ -36715,7 +36715,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.9',
 				'longitude' => '6',
 				'city' => 'NORDFJORDEID',
-				'city_id' => '48623',
+				'city_id' => '49718',
 				'state_id' => '2700',
 			),
 			3670 => 
@@ -36725,7 +36725,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KJØLSDALEN',
 				'longitude' => 'KJØLSDALEN',
 				'city' => 'KJØLSDALEN',
-				'city_id' => '48623',
+				'city_id' => '49719',
 				'state_id' => '2700',
 			),
 			3671 => 
@@ -36735,7 +36735,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STÅRHEIM',
 				'longitude' => 'STÅRHEIM',
 				'city' => 'STÅRHEIM',
-				'city_id' => '48623',
+				'city_id' => '49720',
 				'state_id' => '2700',
 			),
 			3672 => 
@@ -36745,7 +36745,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LOTE',
 				'longitude' => 'LOTE',
 				'city' => 'LOTE',
-				'city_id' => '48623',
+				'city_id' => '49721',
 				'state_id' => '2700',
 			),
 			3673 => 
@@ -36755,7 +36755,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HOLMØYANE',
 				'longitude' => 'HOLMØYANE',
 				'city' => 'HOLMØYANE',
-				'city_id' => '48623',
+				'city_id' => '49722',
 				'state_id' => '2700',
 			),
 			3674 => 
@@ -36795,7 +36795,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'OLDEN',
 				'longitude' => 'OLDEN',
 				'city' => 'OLDEN',
-				'city_id' => '48625',
+				'city_id' => '49723',
 				'state_id' => '2700',
 			),
 			3678 => 
@@ -36805,7 +36805,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'OLDEN',
 				'longitude' => 'OLDEN',
 				'city' => 'OLDEN',
-				'city_id' => '48625',
+				'city_id' => '49723',
 				'state_id' => '2700',
 			),
 			3679 => 
@@ -36815,7 +36815,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LOEN',
 				'longitude' => 'LOEN',
 				'city' => 'LOEN',
-				'city_id' => '48625',
+				'city_id' => '27422',
 				'state_id' => '2700',
 			),
 			3680 => 
@@ -36825,7 +36825,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LOEN',
 				'longitude' => 'LOEN',
 				'city' => 'LOEN',
-				'city_id' => '48625',
+				'city_id' => '27422',
 				'state_id' => '2700',
 			),
 			3681 => 
@@ -36835,7 +36835,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'OLDEDALEN',
 				'longitude' => 'OLDEDALEN',
 				'city' => 'OLDEDALEN',
-				'city_id' => '48625',
+				'city_id' => '49724',
 				'state_id' => '2700',
 			),
 			3682 => 
@@ -36845,7 +36845,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BRIKSDALSBRE',
 				'longitude' => 'BRIKSDALSBRE',
 				'city' => 'BRIKSDALSBRE',
-				'city_id' => '48625',
+				'city_id' => '49725',
 				'state_id' => '2700',
 			),
 			3683 => 
@@ -36855,7 +36855,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'INNVIK',
 				'longitude' => 'INNVIK',
 				'city' => 'INNVIK',
-				'city_id' => '48625',
+				'city_id' => '49726',
 				'state_id' => '2700',
 			),
 			3684 => 
@@ -36865,7 +36865,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'INNVIK',
 				'longitude' => 'INNVIK',
 				'city' => 'INNVIK',
-				'city_id' => '48625',
+				'city_id' => '49726',
 				'state_id' => '2700',
 			),
 			3685 => 
@@ -36875,7 +36875,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BLAKSÆTER',
 				'longitude' => 'BLAKSÆTER',
 				'city' => 'BLAKSÆTER',
-				'city_id' => '48625',
+				'city_id' => '49727',
 				'state_id' => '2700',
 			),
 			3686 => 
@@ -36885,7 +36885,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HOPLAND',
 				'longitude' => 'HOPLAND',
 				'city' => 'HOPLAND',
-				'city_id' => '48625',
+				'city_id' => '49728',
 				'state_id' => '2700',
 			),
 			3687 => 
@@ -36895,7 +36895,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'UTVIK',
 				'longitude' => 'UTVIK',
 				'city' => 'UTVIK',
-				'city_id' => '48625',
+				'city_id' => '49729',
 				'state_id' => '2700',
 			),
 			3688 => 
@@ -36905,7 +36905,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HJELLEDALEN',
 				'longitude' => 'HJELLEDALEN',
 				'city' => 'HJELLEDALEN',
-				'city_id' => '48625',
+				'city_id' => '49730',
 				'state_id' => '2700',
 			),
 			3689 => 
@@ -36915,7 +36915,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'OPPSTRYN',
 				'longitude' => 'OPPSTRYN',
 				'city' => 'OPPSTRYN',
-				'city_id' => '48625',
+				'city_id' => '49731',
 				'state_id' => '2700',
 			),
 			3690 => 
@@ -36925,7 +36925,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.4519',
 				'longitude' => '5.8569',
 				'city' => 'FØRDE',
-				'city_id' => '48626',
+				'city_id' => '49732',
 				'state_id' => '2700',
 			),
 			3691 => 
@@ -36935,7 +36935,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.4519',
 				'longitude' => '5.8569',
 				'city' => 'FØRDE',
-				'city_id' => '48626',
+				'city_id' => '49732',
 				'state_id' => '2700',
 			),
 			3692 => 
@@ -36945,7 +36945,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.4519',
 				'longitude' => '5.8569',
 				'city' => 'FØRDE',
-				'city_id' => '48626',
+				'city_id' => '49732',
 				'state_id' => '2700',
 			),
 			3693 => 
@@ -36955,7 +36955,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.4519',
 				'longitude' => '5.8569',
 				'city' => 'FØRDE',
-				'city_id' => '48626',
+				'city_id' => '49732',
 				'state_id' => '2700',
 			),
 			3694 => 
@@ -36965,7 +36965,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.4519',
 				'longitude' => '5.8569',
 				'city' => 'FØRDE',
-				'city_id' => '48626',
+				'city_id' => '49732',
 				'state_id' => '2700',
 			),
 			3695 => 
@@ -36975,7 +36975,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.4519',
 				'longitude' => '5.8569',
 				'city' => 'FØRDE',
-				'city_id' => '48626',
+				'city_id' => '49732',
 				'state_id' => '2700',
 			),
 			3696 => 
@@ -36985,7 +36985,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.5606',
 				'longitude' => '5.8553',
 				'city' => 'NAUSTDAL',
-				'city_id' => '48626',
+				'city_id' => '49733',
 				'state_id' => '2700',
 			),
 			3697 => 
@@ -36995,7 +36995,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.4519',
 				'longitude' => '5.8569',
 				'city' => 'FØRDE',
-				'city_id' => '48626',
+				'city_id' => '49732',
 				'state_id' => '2700',
 			),
 			3698 => 
@@ -37005,7 +37005,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.4519',
 				'longitude' => '5.8569',
 				'city' => 'FØRDE',
-				'city_id' => '48626',
+				'city_id' => '49732',
 				'state_id' => '2700',
 			),
 			3699 => 
@@ -37015,7 +37015,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.4519',
 				'longitude' => '5.8569',
 				'city' => 'FØRDE',
-				'city_id' => '48626',
+				'city_id' => '49732',
 				'state_id' => '2700',
 			),
 			3700 => 
@@ -37025,7 +37025,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.4519',
 				'longitude' => '5.8569',
 				'city' => 'FØRDE',
-				'city_id' => '48626',
+				'city_id' => '49732',
 				'state_id' => '2700',
 			),
 			3701 => 
@@ -37035,7 +37035,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.4519',
 				'longitude' => '5.8569',
 				'city' => 'FØRDE',
-				'city_id' => '48626',
+				'city_id' => '49732',
 				'state_id' => '2700',
 			),
 			3702 => 
@@ -37045,7 +37045,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.4519',
 				'longitude' => '5.8569',
 				'city' => 'FØRDE',
-				'city_id' => '48626',
+				'city_id' => '49732',
 				'state_id' => '2700',
 			),
 			3703 => 
@@ -37055,7 +37055,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.4519',
 				'longitude' => '5.8569',
 				'city' => 'FØRDE',
-				'city_id' => '48626',
+				'city_id' => '49732',
 				'state_id' => '2700',
 			),
 			3704 => 
@@ -37065,7 +37065,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.4519',
 				'longitude' => '5.8569',
 				'city' => 'FØRDE',
-				'city_id' => '48626',
+				'city_id' => '49732',
 				'state_id' => '2700',
 			),
 			3705 => 
@@ -37075,7 +37075,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.4519',
 				'longitude' => '5.8569',
 				'city' => 'FØRDE',
-				'city_id' => '48626',
+				'city_id' => '49732',
 				'state_id' => '2700',
 			),
 			3706 => 
@@ -37085,7 +37085,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.5606',
 				'longitude' => '5.8553',
 				'city' => 'NAUSTDAL',
-				'city_id' => '48626',
+				'city_id' => '49733',
 				'state_id' => '2700',
 			),
 			3707 => 
@@ -37095,7 +37095,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HAUKEDALEN',
 				'longitude' => 'HAUKEDALEN',
 				'city' => 'HAUKEDALEN',
-				'city_id' => '48626',
+				'city_id' => '49734',
 				'state_id' => '2700',
 			),
 			3708 => 
@@ -37105,7 +37105,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.4519',
 				'longitude' => '5.8569',
 				'city' => 'FØRDE',
-				'city_id' => '48626',
+				'city_id' => '49732',
 				'state_id' => '2700',
 			),
 			3709 => 
@@ -37115,7 +37115,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.4519',
 				'longitude' => '5.8569',
 				'city' => 'FØRDE',
-				'city_id' => '48626',
+				'city_id' => '49732',
 				'state_id' => '2700',
 			),
 			3710 => 
@@ -37125,7 +37125,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.7667',
 				'longitude' => '6.2167',
 				'city' => 'SANDANE',
-				'city_id' => '48609',
+				'city_id' => '49735',
 				'state_id' => '2700',
 			),
 			3711 => 
@@ -37135,7 +37135,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.7667',
 				'longitude' => '6.2167',
 				'city' => 'SANDANE',
-				'city_id' => '48609',
+				'city_id' => '49735',
 				'state_id' => '2700',
 			),
 			3712 => 
@@ -37145,7 +37145,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.7667',
 				'longitude' => '6.2167',
 				'city' => 'SANDANE',
-				'city_id' => '48609',
+				'city_id' => '49735',
 				'state_id' => '2700',
 			),
 			3713 => 
@@ -37155,7 +37155,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BYRKJELO',
 				'longitude' => 'BYRKJELO',
 				'city' => 'BYRKJELO',
-				'city_id' => '48609',
+				'city_id' => '49736',
 				'state_id' => '2700',
 			),
 			3714 => 
@@ -37165,7 +37165,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BREIM',
 				'longitude' => 'BREIM',
 				'city' => 'BREIM',
-				'city_id' => '48609',
+				'city_id' => '49737',
 				'state_id' => '2700',
 			),
 			3715 => 
@@ -37175,7 +37175,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HESTENESØYRA',
 				'longitude' => 'HESTENESØYRA',
 				'city' => 'HESTENESØYRA',
-				'city_id' => '48609',
+				'city_id' => '49738',
 				'state_id' => '2700',
 			),
 			3716 => 
@@ -37185,7 +37185,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HYEN',
 				'longitude' => 'HYEN',
 				'city' => 'HYEN',
-				'city_id' => '48609',
+				'city_id' => '49739',
 				'state_id' => '2700',
 			),
 			3717 => 
@@ -37195,7 +37195,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BYRKJELO',
 				'longitude' => 'BYRKJELO',
 				'city' => 'BYRKJELO',
-				'city_id' => '48609',
+				'city_id' => '49736',
 				'state_id' => '2700',
 			),
 			3718 => 
@@ -37205,7 +37205,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HYEN',
 				'longitude' => 'HYEN',
 				'city' => 'HYEN',
-				'city_id' => '48609',
+				'city_id' => '49739',
 				'state_id' => '2700',
 			),
 			3719 => 
@@ -37215,7 +37215,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKEI I JØLSTER',
 				'longitude' => 'SKEI I JØLSTER',
 				'city' => 'SKEI I JØLSTER',
-				'city_id' => '48626',
+				'city_id' => '49740',
 				'state_id' => '2700',
 			),
 			3720 => 
@@ -37225,7 +37225,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKEI I JØLSTER',
 				'longitude' => 'SKEI I JØLSTER',
 				'city' => 'SKEI I JØLSTER',
-				'city_id' => '48626',
+				'city_id' => '49740',
 				'state_id' => '2700',
 			),
 			3721 => 
@@ -37235,7 +37235,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VASSENDEN',
 				'longitude' => 'VASSENDEN',
 				'city' => 'VASSENDEN',
-				'city_id' => '48626',
+				'city_id' => '49741',
 				'state_id' => '2700',
 			),
 			3722 => 
@@ -37245,7 +37245,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FJÆRLAND',
 				'longitude' => 'FJÆRLAND',
 				'city' => 'FJÆRLAND',
-				'city_id' => '48621',
+				'city_id' => '49742',
 				'state_id' => '2700',
 			),
 			3723 => 
@@ -37255,7 +37255,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VASSENDEN',
 				'longitude' => 'VASSENDEN',
 				'city' => 'VASSENDEN',
-				'city_id' => '48626',
+				'city_id' => '49741',
 				'state_id' => '2700',
 			),
 			3724 => 
@@ -37265,7 +37265,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FJÆRLAND',
 				'longitude' => 'FJÆRLAND',
 				'city' => 'FJÆRLAND',
-				'city_id' => '48621',
+				'city_id' => '49742',
 				'state_id' => '2700',
 			),
 			3725 => 
@@ -37275,7 +37275,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KAUPANGER',
 				'longitude' => 'KAUPANGER',
 				'city' => 'KAUPANGER',
-				'city_id' => '48621',
+				'city_id' => '49743',
 				'state_id' => '2700',
 			),
 			3726 => 
@@ -37315,7 +37315,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KAUPANGER',
 				'longitude' => 'KAUPANGER',
 				'city' => 'KAUPANGER',
-				'city_id' => '48621',
+				'city_id' => '49743',
 				'state_id' => '2700',
 			),
 			3730 => 
@@ -37325,7 +37325,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FRØNNINGEN',
 				'longitude' => 'FRØNNINGEN',
 				'city' => 'FRØNNINGEN',
-				'city_id' => '48617',
+				'city_id' => '49744',
 				'state_id' => '2700',
 			),
 			3731 => 
@@ -37355,7 +37355,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FARDAL',
 				'longitude' => 'FARDAL',
 				'city' => 'FARDAL',
-				'city_id' => '48621',
+				'city_id' => '49745',
 				'state_id' => '2700',
 			),
 			3734 => 
@@ -37365,7 +37365,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SLINDE',
 				'longitude' => 'SLINDE',
 				'city' => 'SLINDE',
-				'city_id' => '48621',
+				'city_id' => '49746',
 				'state_id' => '2700',
 			),
 			3735 => 
@@ -37375,7 +37375,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LEIKANGER',
 				'longitude' => 'LEIKANGER',
 				'city' => 'LEIKANGER',
-				'city_id' => '48621',
+				'city_id' => '49747',
 				'state_id' => '2700',
 			),
 			3736 => 
@@ -37385,7 +37385,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LEIKANGER',
 				'longitude' => 'LEIKANGER',
 				'city' => 'LEIKANGER',
-				'city_id' => '48621',
+				'city_id' => '49747',
 				'state_id' => '2700',
 			),
 			3737 => 
@@ -37395,7 +37395,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.4048',
 				'longitude' => '7.2942',
 				'city' => 'GAUPNE',
-				'city_id' => '48616',
+				'city_id' => '49748',
 				'state_id' => '2700',
 			),
 			3738 => 
@@ -37405,7 +37405,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HAFSLO',
 				'longitude' => 'HAFSLO',
 				'city' => 'HAFSLO',
-				'city_id' => '48616',
+				'city_id' => '49749',
 				'state_id' => '2700',
 			),
 			3739 => 
@@ -37415,7 +37415,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.4048',
 				'longitude' => '7.2942',
 				'city' => 'GAUPNE',
-				'city_id' => '48616',
+				'city_id' => '49748',
 				'state_id' => '2700',
 			),
 			3740 => 
@@ -37425,7 +37425,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HAFSLO',
 				'longitude' => 'HAFSLO',
 				'city' => 'HAFSLO',
-				'city_id' => '48616',
+				'city_id' => '49749',
 				'state_id' => '2700',
 			),
 			3741 => 
@@ -37435,7 +37435,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ORNES',
 				'longitude' => 'ORNES',
 				'city' => 'ORNES',
-				'city_id' => '48616',
+				'city_id' => '49750',
 				'state_id' => '2700',
 			),
 			3742 => 
@@ -37445,7 +37445,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'JOSTEDAL',
 				'longitude' => 'JOSTEDAL',
 				'city' => 'JOSTEDAL',
-				'city_id' => '48616',
+				'city_id' => '49751',
 				'state_id' => '2700',
 			),
 			3743 => 
@@ -37465,7 +37465,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MARIFJØRA',
 				'longitude' => 'MARIFJØRA',
 				'city' => 'MARIFJØRA',
-				'city_id' => '48616',
+				'city_id' => '49752',
 				'state_id' => '2700',
 			),
 			3745 => 
@@ -37485,7 +37485,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HØYHEIMSVIK',
 				'longitude' => 'HØYHEIMSVIK',
 				'city' => 'HØYHEIMSVIK',
-				'city_id' => '48616',
+				'city_id' => '49753',
 				'state_id' => '2700',
 			),
 			3747 => 
@@ -37495,7 +37495,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKJOLDEN',
 				'longitude' => 'SKJOLDEN',
 				'city' => 'SKJOLDEN',
-				'city_id' => '48616',
+				'city_id' => '49754',
 				'state_id' => '2700',
 			),
 			3748 => 
@@ -37505,7 +37505,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FORTUN',
 				'longitude' => 'FORTUN',
 				'city' => 'FORTUN',
-				'city_id' => '48616',
+				'city_id' => '49755',
 				'state_id' => '2700',
 			),
 			3749 => 
@@ -37515,7 +37515,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VEITASTROND',
 				'longitude' => 'VEITASTROND',
 				'city' => 'VEITASTROND',
-				'city_id' => '48616',
+				'city_id' => '49756',
 				'state_id' => '2700',
 			),
 			3750 => 
@@ -37525,7 +37525,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SOLVORN',
 				'longitude' => 'SOLVORN',
 				'city' => 'SOLVORN',
-				'city_id' => '48616',
+				'city_id' => '49757',
 				'state_id' => '2700',
 			),
 			3751 => 
@@ -37535,7 +37535,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.2333',
 				'longitude' => '7.7167',
 				'city' => 'ÅRDALSTANGEN',
-				'city_id' => '48634',
+				'city_id' => '49758',
 				'state_id' => '2700',
 			),
 			3752 => 
@@ -37545,7 +37545,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ØVRE ÅRDAL',
 				'longitude' => 'ØVRE ÅRDAL',
 				'city' => 'ØVRE ÅRDAL',
-				'city_id' => '48634',
+				'city_id' => '49759',
 				'state_id' => '2700',
 			),
 			3753 => 
@@ -37555,7 +37555,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ØVRE ÅRDAL',
 				'longitude' => 'ØVRE ÅRDAL',
 				'city' => 'ØVRE ÅRDAL',
-				'city_id' => '48634',
+				'city_id' => '49759',
 				'state_id' => '2700',
 			),
 			3754 => 
@@ -37565,7 +37565,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.2333',
 				'longitude' => '7.7167',
 				'city' => 'ÅRDALSTANGEN',
-				'city_id' => '48634',
+				'city_id' => '49760',
 				'state_id' => '2700',
 			),
 			3755 => 
@@ -37595,7 +37595,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BORGUND',
 				'longitude' => 'BORGUND',
 				'city' => 'BORGUND',
-				'city_id' => '48617',
+				'city_id' => '49761',
 				'state_id' => '2700',
 			),
 			3758 => 
@@ -37605,7 +37605,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VIK I SOGN',
 				'longitude' => 'VIK I SOGN',
 				'city' => 'VIK I SOGN',
-				'city_id' => '48632',
+				'city_id' => '49762',
 				'state_id' => '2700',
 			),
 			3759 => 
@@ -37615,7 +37615,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VIK I SOGN',
 				'longitude' => 'VIK I SOGN',
 				'city' => 'VIK I SOGN',
-				'city_id' => '48632',
+				'city_id' => '49762',
 				'state_id' => '2700',
 			),
 			3760 => 
@@ -37625,7 +37625,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VANGSNES',
 				'longitude' => 'VANGSNES',
 				'city' => 'VANGSNES',
-				'city_id' => '48632',
+				'city_id' => '49763',
 				'state_id' => '2700',
 			),
 			3761 => 
@@ -37635,7 +37635,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FEIOS',
 				'longitude' => 'FEIOS',
 				'city' => 'FEIOS',
-				'city_id' => '48632',
+				'city_id' => '49764',
 				'state_id' => '2700',
 			),
 			3762 => 
@@ -37645,7 +37645,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FRESVIK',
 				'longitude' => 'FRESVIK',
 				'city' => 'FRESVIK',
-				'city_id' => '48632',
+				'city_id' => '49765',
 				'state_id' => '2700',
 			),
 			3763 => 
@@ -37655,7 +37655,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.1775',
 				'longitude' => '6.4039',
 				'city' => 'BALESTRAND',
-				'city_id' => '48621',
+				'city_id' => '49766',
 				'state_id' => '2700',
 			),
 			3764 => 
@@ -37665,7 +37665,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.1775',
 				'longitude' => '6.4039',
 				'city' => 'BALESTRAND',
-				'city_id' => '48621',
+				'city_id' => '49766',
 				'state_id' => '2700',
 			),
 			3765 => 
@@ -37675,7 +37675,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.5986',
 				'longitude' => '5.0172',
 				'city' => 'FLORØ',
-				'city_id' => '48613',
+				'city_id' => '49767',
 				'state_id' => '2700',
 			),
 			3766 => 
@@ -37685,7 +37685,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.5986',
 				'longitude' => '5.0172',
 				'city' => 'FLORØ',
-				'city_id' => '48613',
+				'city_id' => '49767',
 				'state_id' => '2700',
 			),
 			3767 => 
@@ -37695,7 +37695,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.5986',
 				'longitude' => '5.0172',
 				'city' => 'FLORØ',
-				'city_id' => '48613',
+				'city_id' => '49767',
 				'state_id' => '2700',
 			),
 			3768 => 
@@ -37705,7 +37705,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.5986',
 				'longitude' => '5.0172',
 				'city' => 'FLORØ',
-				'city_id' => '48613',
+				'city_id' => '49767',
 				'state_id' => '2700',
 			),
 			3769 => 
@@ -37715,7 +37715,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.5986',
 				'longitude' => '5.0172',
 				'city' => 'FLORØ',
-				'city_id' => '48613',
+				'city_id' => '49767',
 				'state_id' => '2700',
 			),
 			3770 => 
@@ -37725,7 +37725,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.5986',
 				'longitude' => '5.0172',
 				'city' => 'FLORØ',
-				'city_id' => '48613',
+				'city_id' => '49767',
 				'state_id' => '2700',
 			),
 			3771 => 
@@ -37735,7 +37735,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.5986',
 				'longitude' => '5.0172',
 				'city' => 'FLORØ',
-				'city_id' => '48613',
+				'city_id' => '49767',
 				'state_id' => '2700',
 			),
 			3772 => 
@@ -37745,7 +37745,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.5986',
 				'longitude' => '5.0172',
 				'city' => 'FLORØ',
-				'city_id' => '48613',
+				'city_id' => '49767',
 				'state_id' => '2700',
 			),
 			3773 => 
@@ -37755,7 +37755,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.5986',
 				'longitude' => '5.0172',
 				'city' => 'FLORØ',
-				'city_id' => '48613',
+				'city_id' => '49767',
 				'state_id' => '2700',
 			),
 			3774 => 
@@ -37765,7 +37765,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.5986',
 				'longitude' => '5.0172',
 				'city' => 'FLORØ',
-				'city_id' => '48613',
+				'city_id' => '49767',
 				'state_id' => '2700',
 			),
 			3775 => 
@@ -37785,7 +37785,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.5986',
 				'longitude' => '5.0172',
 				'city' => 'FLORØ',
-				'city_id' => '48613',
+				'city_id' => '49767',
 				'state_id' => '2700',
 			),
 			3777 => 
@@ -37795,7 +37795,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SVANØYBUKT',
 				'longitude' => 'SVANØYBUKT',
 				'city' => 'SVANØYBUKT',
-				'city_id' => '48613',
+				'city_id' => '49768',
 				'state_id' => '2700',
 			),
 			3778 => 
@@ -37805,7 +37805,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ROGNALDSVÅG',
 				'longitude' => 'ROGNALDSVÅG',
 				'city' => 'ROGNALDSVÅG',
-				'city_id' => '48613',
+				'city_id' => '49769',
 				'state_id' => '2700',
 			),
 			3779 => 
@@ -37815,7 +37815,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BAREKSTAD',
 				'longitude' => 'BAREKSTAD',
 				'city' => 'BAREKSTAD',
-				'city_id' => '48613',
+				'city_id' => '49770',
 				'state_id' => '2700',
 			),
 			3780 => 
@@ -37825,7 +37825,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BATALDEN',
 				'longitude' => 'BATALDEN',
 				'city' => 'BATALDEN',
-				'city_id' => '48613',
+				'city_id' => '49771',
 				'state_id' => '2700',
 			),
 			3781 => 
@@ -37835,7 +37835,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SØR-SKORPA',
 				'longitude' => 'SØR-SKORPA',
 				'city' => 'SØR-SKORPA',
-				'city_id' => '48613',
+				'city_id' => '49772',
 				'state_id' => '2700',
 			),
 			3782 => 
@@ -37845,7 +37845,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TANSØY',
 				'longitude' => 'TANSØY',
 				'city' => 'TANSØY',
-				'city_id' => '48613',
+				'city_id' => '49773',
 				'state_id' => '2700',
 			),
 			3783 => 
@@ -37855,7 +37855,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.0833',
 				'longitude' => '4.85',
 				'city' => 'HARDBAKKE',
-				'city_id' => '48622',
+				'city_id' => '49774',
 				'state_id' => '2700',
 			),
 			3784 => 
@@ -37865,7 +37865,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.0833',
 				'longitude' => '4.85',
 				'city' => 'HARDBAKKE',
-				'city_id' => '48622',
+				'city_id' => '49774',
 				'state_id' => '2700',
 			),
 			3785 => 
@@ -37875,7 +37875,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRAKHELLA',
 				'longitude' => 'KRAKHELLA',
 				'city' => 'KRAKHELLA',
-				'city_id' => '48622',
+				'city_id' => '49775',
 				'state_id' => '2700',
 			),
 			3786 => 
@@ -37885,7 +37885,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'YTRØYGREND',
 				'longitude' => 'YTRØYGREND',
 				'city' => 'YTRØYGREND',
-				'city_id' => '48622',
+				'city_id' => '49776',
 				'state_id' => '2700',
 			),
 			3787 => 
@@ -37895,7 +37895,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KOLGROV',
 				'longitude' => 'KOLGROV',
 				'city' => 'KOLGROV',
-				'city_id' => '48622',
+				'city_id' => '49777',
 				'state_id' => '2700',
 			),
 			3788 => 
@@ -37905,7 +37905,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HERSVIKBYGDA',
 				'longitude' => 'HERSVIKBYGDA',
 				'city' => 'HERSVIKBYGDA',
-				'city_id' => '48622',
+				'city_id' => '49778',
 				'state_id' => '2700',
 			),
 			3789 => 
@@ -37915,7 +37915,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'EIKEFJORD',
 				'longitude' => 'EIKEFJORD',
 				'city' => 'EIKEFJORD',
-				'city_id' => '48613',
+				'city_id' => '49779',
 				'state_id' => '2700',
 			),
 			3790 => 
@@ -37925,7 +37925,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'EIKEFJORD',
 				'longitude' => 'EIKEFJORD',
 				'city' => 'EIKEFJORD',
-				'city_id' => '48613',
+				'city_id' => '49779',
 				'state_id' => '2700',
 			),
 			3791 => 
@@ -37935,7 +37935,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SVORTEVIK',
 				'longitude' => 'SVORTEVIK',
 				'city' => 'SVORTEVIK',
-				'city_id' => '48613',
+				'city_id' => '49780',
 				'state_id' => '2700',
 			),
 			3792 => 
@@ -37945,7 +37945,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STAVANG',
 				'longitude' => 'STAVANG',
 				'city' => 'STAVANG',
-				'city_id' => '48613',
+				'city_id' => '49781',
 				'state_id' => '2700',
 			),
 			3793 => 
@@ -37955,7 +37955,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LAVIK',
 				'longitude' => 'LAVIK',
 				'city' => 'LAVIK',
-				'city_id' => '48612',
+				'city_id' => '49782',
 				'state_id' => '2700',
 			),
 			3794 => 
@@ -37965,7 +37965,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LAVIK',
 				'longitude' => 'LAVIK',
 				'city' => 'LAVIK',
-				'city_id' => '48612',
+				'city_id' => '49782',
 				'state_id' => '2700',
 			),
 			3795 => 
@@ -37975,7 +37975,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LEIRVIK I SOGN',
 				'longitude' => 'LEIRVIK I SOGN',
 				'city' => 'LEIRVIK I SOGN',
-				'city_id' => '48611',
+				'city_id' => '49783',
 				'state_id' => '2700',
 			),
 			3796 => 
@@ -37985,7 +37985,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LEIRVIK I SOGN',
 				'longitude' => 'LEIRVIK I SOGN',
 				'city' => 'LEIRVIK I SOGN',
-				'city_id' => '48611',
+				'city_id' => '49783',
 				'state_id' => '2700',
 			),
 			3797 => 
@@ -38005,7 +38005,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SØRBØVÅG',
 				'longitude' => 'SØRBØVÅG',
 				'city' => 'SØRBØVÅG',
-				'city_id' => '48611',
+				'city_id' => '49784',
 				'state_id' => '2700',
 			),
 			3799 => 
@@ -38015,7 +38015,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SØRBØVÅG',
 				'longitude' => 'SØRBØVÅG',
 				'city' => 'SØRBØVÅG',
-				'city_id' => '48611',
+				'city_id' => '49784',
 				'state_id' => '2700',
 			),
 			3800 => 
@@ -38025,7 +38025,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'DALE I SUNNFJORD',
 				'longitude' => 'DALE I SUNNFJORD',
 				'city' => 'DALE I SUNNFJORD',
-				'city_id' => '48608',
+				'city_id' => '49785',
 				'state_id' => '2700',
 			),
 			3801 => 
@@ -38035,7 +38035,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'DALE I SUNNFJORD',
 				'longitude' => 'DALE I SUNNFJORD',
 				'city' => 'DALE I SUNNFJORD',
-				'city_id' => '48608',
+				'city_id' => '49785',
 				'state_id' => '2700',
 			),
 			3802 => 
@@ -38045,7 +38045,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KORSSUND',
 				'longitude' => 'KORSSUND',
 				'city' => 'KORSSUND',
-				'city_id' => '48608',
+				'city_id' => '49786',
 				'state_id' => '2700',
 			),
 			3803 => 
@@ -38055,7 +38055,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GUDDAL',
 				'longitude' => 'GUDDAL',
 				'city' => 'GUDDAL',
-				'city_id' => '48608',
+				'city_id' => '49787',
 				'state_id' => '2700',
 			),
 			3804 => 
@@ -38065,7 +38065,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HELLEVIK I FJALER',
 				'longitude' => 'HELLEVIK I FJALER',
 				'city' => 'HELLEVIK I FJALER',
-				'city_id' => '48608',
+				'city_id' => '49788',
 				'state_id' => '2700',
 			),
 			3805 => 
@@ -38075,7 +38075,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FLEKKE',
 				'longitude' => 'FLEKKE',
 				'city' => 'FLEKKE',
-				'city_id' => '48608',
+				'city_id' => '49789',
 				'state_id' => '2700',
 			),
 			3806 => 
@@ -38085,7 +38085,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STRAUMSNES',
 				'longitude' => 'STRAUMSNES',
 				'city' => 'STRAUMSNES',
-				'city_id' => '48626',
+				'city_id' => '49790',
 				'state_id' => '2700',
 			),
 			3807 => 
@@ -38095,7 +38095,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SANDE I SUNNFJORD',
 				'longitude' => 'SANDE I SUNNFJORD',
 				'city' => 'SANDE I SUNNFJORD',
-				'city_id' => '48626',
+				'city_id' => '49791',
 				'state_id' => '2700',
 			),
 			3808 => 
@@ -38105,7 +38105,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SANDE I SUNNFJORD',
 				'longitude' => 'SANDE I SUNNFJORD',
 				'city' => 'SANDE I SUNNFJORD',
-				'city_id' => '48626',
+				'city_id' => '49791',
 				'state_id' => '2700',
 			),
 			3809 => 
@@ -38115,7 +38115,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKILBREI',
 				'longitude' => 'SKILBREI',
 				'city' => 'SKILBREI',
-				'city_id' => '48626',
+				'city_id' => '49792',
 				'state_id' => '2700',
 			),
 			3810 => 
@@ -38125,7 +38125,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BYGSTAD',
 				'longitude' => 'BYGSTAD',
 				'city' => 'BYGSTAD',
-				'city_id' => '48626',
+				'city_id' => '49793',
 				'state_id' => '2700',
 			),
 			3811 => 
@@ -38135,7 +38135,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BYGSTAD',
 				'longitude' => 'BYGSTAD',
 				'city' => 'BYGSTAD',
-				'city_id' => '48626',
+				'city_id' => '49793',
 				'state_id' => '2700',
 			),
 			3812 => 
@@ -38145,7 +38145,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VIKSDALEN',
 				'longitude' => 'VIKSDALEN',
 				'city' => 'VIKSDALEN',
-				'city_id' => '48626',
+				'city_id' => '49794',
 				'state_id' => '2700',
 			),
 			3813 => 
@@ -38165,7 +38165,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HOLMEDAL',
 				'longitude' => 'HOLMEDAL',
 				'city' => 'HOLMEDAL',
-				'city_id' => '48595',
+				'city_id' => '49795',
 				'state_id' => '2700',
 			),
 			3815 => 
@@ -38175,7 +38175,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KVAMMEN',
 				'longitude' => 'KVAMMEN',
 				'city' => 'KVAMMEN',
-				'city_id' => '48595',
+				'city_id' => '49796',
 				'state_id' => '2700',
 			),
 			3816 => 
@@ -38185,7 +38185,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STONGFJORDEN',
 				'longitude' => 'STONGFJORDEN',
 				'city' => 'STONGFJORDEN',
-				'city_id' => '48595',
+				'city_id' => '49797',
 				'state_id' => '2700',
 			),
 			3817 => 
@@ -38195,7 +38195,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ATLØY',
 				'longitude' => 'ATLØY',
 				'city' => 'ATLØY',
-				'city_id' => '48595',
+				'city_id' => '49798',
 				'state_id' => '2700',
 			),
 			3818 => 
@@ -38205,7 +38205,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VÆRLANDET',
 				'longitude' => 'VÆRLANDET',
 				'city' => 'VÆRLANDET',
-				'city_id' => '48595',
+				'city_id' => '49799',
 				'state_id' => '2700',
 			),
 			3819 => 
@@ -38215,7 +38215,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BULANDET',
 				'longitude' => 'BULANDET',
 				'city' => 'BULANDET',
-				'city_id' => '48595',
+				'city_id' => '49800',
 				'state_id' => '2700',
 			),
 			3820 => 
@@ -38225,7 +38225,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '61.4058',
 				'longitude' => '5.2422',
 				'city' => 'ASKVOLL',
-				'city_id' => '48612',
+				'city_id' => '48595',
 				'state_id' => '2700',
 			),
 			3821 => 
@@ -38255,7 +38255,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NESSANE',
 				'longitude' => 'NESSANE',
 				'city' => 'NESSANE',
-				'city_id' => '48612',
+				'city_id' => '49801',
 				'state_id' => '2700',
 			),
 			3824 => 
@@ -38265,7 +38265,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KYRKJEBØ',
 				'longitude' => 'KYRKJEBØ',
 				'city' => 'KYRKJEBØ',
-				'city_id' => '48612',
+				'city_id' => '49802',
 				'state_id' => '2700',
 			),
 			3825 => 
@@ -38275,7 +38275,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VADHEIM',
 				'longitude' => 'VADHEIM',
 				'city' => 'VADHEIM',
-				'city_id' => '48612',
+				'city_id' => '49803',
 				'state_id' => '2700',
 			),
 			3826 => 
@@ -38285,7 +38285,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VADHEIM',
 				'longitude' => 'VADHEIM',
 				'city' => 'VADHEIM',
-				'city_id' => '48567',
+				'city_id' => '49803',
 				'state_id' => '2698',
 			),
 			3827 => 
@@ -38765,7 +38765,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RANHEIM',
 				'longitude' => 'RANHEIM',
 				'city' => 'RANHEIM',
-				'city_id' => '48567',
+				'city_id' => '49804',
 				'state_id' => '2698',
 			),
 			3875 => 
@@ -38775,7 +38775,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RANHEIM',
 				'longitude' => 'RANHEIM',
 				'city' => 'RANHEIM',
-				'city_id' => '48567',
+				'city_id' => '49804',
 				'state_id' => '2698',
 			),
 			3876 => 
@@ -38785,7 +38785,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RANHEIM',
 				'longitude' => 'RANHEIM',
 				'city' => 'RANHEIM',
-				'city_id' => '48567',
+				'city_id' => '49804',
 				'state_id' => '2698',
 			),
 			3877 => 
@@ -38795,7 +38795,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RANHEIM',
 				'longitude' => 'RANHEIM',
 				'city' => 'RANHEIM',
-				'city_id' => '48567',
+				'city_id' => '49804',
 				'state_id' => '2698',
 			),
 			3878 => 
@@ -38805,7 +38805,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'JONSVATNET',
 				'longitude' => 'JONSVATNET',
 				'city' => 'JONSVATNET',
-				'city_id' => '48567',
+				'city_id' => '49805',
 				'state_id' => '2698',
 			),
 			3879 => 
@@ -38815,7 +38815,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'JAKOBSLI',
 				'longitude' => 'JAKOBSLI',
 				'city' => 'JAKOBSLI',
-				'city_id' => '48567',
+				'city_id' => '49806',
 				'state_id' => '2698',
 			),
 			3880 => 
@@ -38825,7 +38825,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'JAKOBSLI',
 				'longitude' => 'JAKOBSLI',
 				'city' => 'JAKOBSLI',
-				'city_id' => '48567',
+				'city_id' => '49806',
 				'state_id' => '2698',
 			),
 			3881 => 
@@ -38875,7 +38875,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BOSBERG',
 				'longitude' => 'BOSBERG',
 				'city' => 'BOSBERG',
-				'city_id' => '48567',
+				'city_id' => '49807',
 				'state_id' => '2698',
 			),
 			3886 => 
@@ -38895,7 +38895,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HEIMDAL',
 				'longitude' => 'HEIMDAL',
 				'city' => 'HEIMDAL',
-				'city_id' => '48567',
+				'city_id' => '49808',
 				'state_id' => '2698',
 			),
 			3888 => 
@@ -38905,7 +38905,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SPONGDAL',
 				'longitude' => 'SPONGDAL',
 				'city' => 'SPONGDAL',
-				'city_id' => '48567',
+				'city_id' => '49809',
 				'state_id' => '2698',
 			),
 			3889 => 
@@ -38915,7 +38915,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '63.3428',
 				'longitude' => '10.4261',
 				'city' => 'TILLER',
-				'city_id' => '48567',
+				'city_id' => '49810',
 				'state_id' => '2698',
 			),
 			3890 => 
@@ -38925,7 +38925,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SAUPSTAD',
 				'longitude' => 'SAUPSTAD',
 				'city' => 'SAUPSTAD',
-				'city_id' => '48567',
+				'city_id' => '49811',
 				'state_id' => '2698',
 			),
 			3891 => 
@@ -38935,7 +38935,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FLATÅSEN',
 				'longitude' => 'FLATÅSEN',
 				'city' => 'FLATÅSEN',
-				'city_id' => '48567',
+				'city_id' => '49812',
 				'state_id' => '2698',
 			),
 			3892 => 
@@ -38945,7 +38945,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HEIMDAL',
 				'longitude' => 'HEIMDAL',
 				'city' => 'HEIMDAL',
-				'city_id' => '48567',
+				'city_id' => '49808',
 				'state_id' => '2698',
 			),
 			3893 => 
@@ -38955,7 +38955,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SJETNEMARKA',
 				'longitude' => 'SJETNEMARKA',
 				'city' => 'SJETNEMARKA',
-				'city_id' => '48567',
+				'city_id' => '49813',
 				'state_id' => '2698',
 			),
 			3894 => 
@@ -38965,7 +38965,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KATTEM',
 				'longitude' => 'KATTEM',
 				'city' => 'KATTEM',
-				'city_id' => '48567',
+				'city_id' => '49814',
 				'state_id' => '2698',
 			),
 			3895 => 
@@ -38975,7 +38975,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LEINSTRAND',
 				'longitude' => 'LEINSTRAND',
 				'city' => 'LEINSTRAND',
-				'city_id' => '48567',
+				'city_id' => '49815',
 				'state_id' => '2698',
 			),
 			3896 => 
@@ -38985,7 +38985,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HEIMDAL',
 				'longitude' => 'HEIMDAL',
 				'city' => 'HEIMDAL',
-				'city_id' => '48567',
+				'city_id' => '49808',
 				'state_id' => '2698',
 			),
 			3897 => 
@@ -38995,7 +38995,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HEIMDAL',
 				'longitude' => 'HEIMDAL',
 				'city' => 'HEIMDAL',
-				'city_id' => '48567',
+				'city_id' => '49808',
 				'state_id' => '2698',
 			),
 			3898 => 
@@ -39005,7 +39005,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '63.3428',
 				'longitude' => '10.4261',
 				'city' => 'TILLER',
-				'city_id' => '48567',
+				'city_id' => '49810',
 				'state_id' => '2698',
 			),
 			3899 => 
@@ -39015,7 +39015,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '63.3428',
 				'longitude' => '10.4261',
 				'city' => 'TILLER',
-				'city_id' => '48567',
+				'city_id' => '49810',
 				'state_id' => '2698',
 			),
 			3900 => 
@@ -39025,7 +39025,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '63.3428',
 				'longitude' => '10.4261',
 				'city' => 'TILLER',
-				'city_id' => '48567',
+				'city_id' => '49810',
 				'state_id' => '2698',
 			),
 			3901 => 
@@ -39035,7 +39035,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SAUPSTAD',
 				'longitude' => 'SAUPSTAD',
 				'city' => 'SAUPSTAD',
-				'city_id' => '48567',
+				'city_id' => '49811',
 				'state_id' => '2698',
 			),
 			3902 => 
@@ -39045,7 +39045,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SAUPSTAD',
 				'longitude' => 'SAUPSTAD',
 				'city' => 'SAUPSTAD',
-				'city_id' => '48567',
+				'city_id' => '49811',
 				'state_id' => '2698',
 			),
 			3903 => 
@@ -39055,7 +39055,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FLATÅSEN',
 				'longitude' => 'FLATÅSEN',
 				'city' => 'FLATÅSEN',
-				'city_id' => '48542',
+				'city_id' => '49812',
 				'state_id' => '2698',
 			),
 			3904 => 
@@ -39065,7 +39065,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '63.6556',
 				'longitude' => '10.0397',
 				'city' => 'RISSA',
-				'city_id' => '48542',
+				'city_id' => '49816',
 				'state_id' => '2698',
 			),
 			3905 => 
@@ -39075,7 +39075,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '63.6556',
 				'longitude' => '10.0397',
 				'city' => 'RISSA',
-				'city_id' => '48542',
+				'city_id' => '49816',
 				'state_id' => '2698',
 			),
 			3906 => 
@@ -39085,7 +39085,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STADSBYGD',
 				'longitude' => 'STADSBYGD',
 				'city' => 'STADSBYGD',
-				'city_id' => '48542',
+				'city_id' => '49817',
 				'state_id' => '2698',
 			),
 			3907 => 
@@ -39095,7 +39095,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FEVÅG',
 				'longitude' => 'FEVÅG',
 				'city' => 'FEVÅG',
-				'city_id' => '48542',
+				'city_id' => '49818',
 				'state_id' => '2698',
 			),
 			3908 => 
@@ -39105,7 +39105,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HASSELVIKA',
 				'longitude' => 'HASSELVIKA',
 				'city' => 'HASSELVIKA',
-				'city_id' => '48542',
+				'city_id' => '49819',
 				'state_id' => '2698',
 			),
 			3909 => 
@@ -39115,7 +39115,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HASSELVIKA',
 				'longitude' => 'HASSELVIKA',
 				'city' => 'HASSELVIKA',
-				'city_id' => '48542',
+				'city_id' => '49819',
 				'state_id' => '2698',
 			),
 			3910 => 
@@ -39125,7 +39125,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HUSBYSJØEN',
 				'longitude' => 'HUSBYSJØEN',
 				'city' => 'HUSBYSJØEN',
-				'city_id' => '48542',
+				'city_id' => '49820',
 				'state_id' => '2698',
 			),
 			3911 => 
@@ -39135,7 +39135,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RÅKVÅG',
 				'longitude' => 'RÅKVÅG',
 				'city' => 'RÅKVÅG',
-				'city_id' => '48542',
+				'city_id' => '49821',
 				'state_id' => '2698',
 			),
 			3912 => 
@@ -39145,7 +39145,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HUSBYSJØEN',
 				'longitude' => 'HUSBYSJØEN',
 				'city' => 'HUSBYSJØEN',
-				'city_id' => '48542',
+				'city_id' => '49820',
 				'state_id' => '2698',
 			),
 			3913 => 
@@ -39155,7 +39155,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RÅKVÅG',
 				'longitude' => 'RÅKVÅG',
 				'city' => 'RÅKVÅG',
-				'city_id' => '48542',
+				'city_id' => '49821',
 				'state_id' => '2698',
 			),
 			3914 => 
@@ -39165,7 +39165,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STADSBYGD',
 				'longitude' => 'STADSBYGD',
 				'city' => 'STADSBYGD',
-				'city_id' => '48542',
+				'city_id' => '49817',
 				'state_id' => '2698',
 			),
 			3915 => 
@@ -39175,7 +39175,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '63.6767',
 				'longitude' => '10.61',
 				'city' => 'LEKSVIK',
-				'city_id' => '48542',
+				'city_id' => '49822',
 				'state_id' => '2698',
 			),
 			3916 => 
@@ -39185,7 +39185,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '63.6767',
 				'longitude' => '10.61',
 				'city' => 'LEKSVIK',
-				'city_id' => '48542',
+				'city_id' => '49822',
 				'state_id' => '2698',
 			),
 			3917 => 
@@ -39195,7 +39195,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VANVIKAN',
 				'longitude' => 'VANVIKAN',
 				'city' => 'VANVIKAN',
-				'city_id' => '48542',
+				'city_id' => '49823',
 				'state_id' => '2698',
 			),
 			3918 => 
@@ -39205,7 +39205,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VANVIKAN',
 				'longitude' => 'VANVIKAN',
 				'city' => 'VANVIKAN',
-				'city_id' => '48571',
+				'city_id' => '49823',
 				'state_id' => '2698',
 			),
 			3919 => 
@@ -39215,7 +39215,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'OPPHAUG',
 				'longitude' => 'OPPHAUG',
 				'city' => 'OPPHAUG',
-				'city_id' => '48571',
+				'city_id' => '49824',
 				'state_id' => '2698',
 			),
 			3920 => 
@@ -39225,7 +39225,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '63.687',
 				'longitude' => '9.6654',
 				'city' => 'BREKSTAD',
-				'city_id' => '48571',
+				'city_id' => '49825',
 				'state_id' => '2698',
 			),
 			3921 => 
@@ -39235,7 +39235,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '63.687',
 				'longitude' => '9.6654',
 				'city' => 'BREKSTAD',
-				'city_id' => '48571',
+				'city_id' => '49825',
 				'state_id' => '2698',
 			),
 			3922 => 
@@ -39245,7 +39245,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'OPPHAUG',
 				'longitude' => 'OPPHAUG',
 				'city' => 'OPPHAUG',
-				'city_id' => '48571',
+				'city_id' => '49824',
 				'state_id' => '2698',
 			),
 			3923 => 
@@ -39255,7 +39255,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'UTHAUG',
 				'longitude' => 'UTHAUG',
 				'city' => 'UTHAUG',
-				'city_id' => '48571',
+				'city_id' => '49826',
 				'state_id' => '2698',
 			),
 			3924 => 
@@ -39265,7 +39265,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STORFOSNA',
 				'longitude' => 'STORFOSNA',
 				'city' => 'STORFOSNA',
-				'city_id' => '48571',
+				'city_id' => '49827',
 				'state_id' => '2698',
 			),
 			3925 => 
@@ -39275,7 +39275,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STORFOSNA',
 				'longitude' => 'STORFOSNA',
 				'city' => 'STORFOSNA',
-				'city_id' => '48571',
+				'city_id' => '49827',
 				'state_id' => '2698',
 			),
 			3926 => 
@@ -39285,7 +39285,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRÅKVÅG',
 				'longitude' => 'KRÅKVÅG',
 				'city' => 'KRÅKVÅG',
-				'city_id' => '48571',
+				'city_id' => '49828',
 				'state_id' => '2698',
 			),
 			3927 => 
@@ -39295,7 +39295,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GARTEN',
 				'longitude' => 'GARTEN',
 				'city' => 'GARTEN',
-				'city_id' => '48554',
+				'city_id' => '49829',
 				'state_id' => '2698',
 			),
 			3928 => 
@@ -39305,7 +39305,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LEKSA',
 				'longitude' => 'LEKSA',
 				'city' => 'LEKSA',
-				'city_id' => '48571',
+				'city_id' => '49830',
 				'state_id' => '2698',
 			),
 			3929 => 
@@ -39315,7 +39315,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BJUGN',
 				'longitude' => 'BJUGN',
 				'city' => 'BJUGN',
-				'city_id' => '48571',
+				'city_id' => '49831',
 				'state_id' => '2698',
 			),
 			3930 => 
@@ -39325,7 +39325,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BJUGN',
 				'longitude' => 'BJUGN',
 				'city' => 'BJUGN',
-				'city_id' => '48571',
+				'city_id' => '49831',
 				'state_id' => '2698',
 			),
 			3931 => 
@@ -39335,7 +39335,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LYSØYSUNDET',
 				'longitude' => 'LYSØYSUNDET',
 				'city' => 'LYSØYSUNDET',
-				'city_id' => '48571',
+				'city_id' => '49832',
 				'state_id' => '2698',
 			),
 			3932 => 
@@ -39345,7 +39345,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'OKSVOLL',
 				'longitude' => 'OKSVOLL',
 				'city' => 'OKSVOLL',
-				'city_id' => '48571',
+				'city_id' => '49833',
 				'state_id' => '2698',
 			),
 			3933 => 
@@ -39355,7 +39355,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TARVA',
 				'longitude' => 'TARVA',
 				'city' => 'TARVA',
-				'city_id' => '48571',
+				'city_id' => '49834',
 				'state_id' => '2698',
 			),
 			3934 => 
@@ -39365,7 +39365,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VALLERSUND',
 				'longitude' => 'VALLERSUND',
 				'city' => 'VALLERSUND',
-				'city_id' => '48571',
+				'city_id' => '49835',
 				'state_id' => '2698',
 			),
 			3935 => 
@@ -39375,7 +39375,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LYSØYSUNDET',
 				'longitude' => 'LYSØYSUNDET',
 				'city' => 'LYSØYSUNDET',
-				'city_id' => '48570',
+				'city_id' => '49832',
 				'state_id' => '2698',
 			),
 			3936 => 
@@ -39405,7 +39405,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'REVSNES',
 				'longitude' => 'REVSNES',
 				'city' => 'REVSNES',
-				'city_id' => '48570',
+				'city_id' => '49836',
 				'state_id' => '2698',
 			),
 			3939 => 
@@ -39415,7 +39415,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STOKKØY',
 				'longitude' => 'STOKKØY',
 				'city' => 'STOKKØY',
-				'city_id' => '48570',
+				'city_id' => '49837',
 				'state_id' => '2698',
 			),
 			3940 => 
@@ -39425,7 +39425,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LINESØYA',
 				'longitude' => 'LINESØYA',
 				'city' => 'LINESØYA',
-				'city_id' => '48570',
+				'city_id' => '49838',
 				'state_id' => '2698',
 			),
 			3941 => 
@@ -39435,7 +39435,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'REVSNES',
 				'longitude' => 'REVSNES',
 				'city' => 'REVSNES',
-				'city_id' => '48570',
+				'city_id' => '49836',
 				'state_id' => '2698',
 			),
 			3942 => 
@@ -39445,7 +39445,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STOKKØY',
 				'longitude' => 'STOKKØY',
 				'city' => 'STOKKØY',
-				'city_id' => '48570',
+				'city_id' => '49837',
 				'state_id' => '2698',
 			),
 			3943 => 
@@ -39455,7 +39455,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '64.1503',
 				'longitude' => '10.3025',
 				'city' => 'ROAN',
-				'city_id' => '48570',
+				'city_id' => '49839',
 				'state_id' => '2698',
 			),
 			3944 => 
@@ -39465,7 +39465,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '64.1503',
 				'longitude' => '10.3025',
 				'city' => 'ROAN',
-				'city_id' => '48570',
+				'city_id' => '49839',
 				'state_id' => '2698',
 			),
 			3945 => 
@@ -39475,7 +39475,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BESSAKER',
 				'longitude' => 'BESSAKER',
 				'city' => 'BESSAKER',
-				'city_id' => '48570',
+				'city_id' => '49840',
 				'state_id' => '2698',
 			),
 			3946 => 
@@ -39485,7 +39485,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BRANDSFJORD',
 				'longitude' => 'BRANDSFJORD',
 				'city' => 'BRANDSFJORD',
-				'city_id' => '48537',
+				'city_id' => '49841',
 				'state_id' => '2698',
 			),
 			3947 => 
@@ -39495,7 +39495,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '63.2906',
 				'longitude' => '9.0899',
 				'city' => 'KYRKSÆTERØRA',
-				'city_id' => '48537',
+				'city_id' => '49842',
 				'state_id' => '2698',
 			),
 			3948 => 
@@ -39505,7 +39505,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '63.2906',
 				'longitude' => '9.0899',
 				'city' => 'KYRKSÆTERØRA',
-				'city_id' => '48537',
+				'city_id' => '49842',
 				'state_id' => '2698',
 			),
 			3949 => 
@@ -39515,7 +39515,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VINJEØRA',
 				'longitude' => 'VINJEØRA',
 				'city' => 'VINJEØRA',
-				'city_id' => '48537',
+				'city_id' => '49843',
 				'state_id' => '2698',
 			),
 			3950 => 
@@ -39525,7 +39525,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HELLANDSJØEN',
 				'longitude' => 'HELLANDSJØEN',
 				'city' => 'HELLANDSJØEN',
-				'city_id' => '48537',
+				'city_id' => '49844',
 				'state_id' => '2698',
 			),
 			3951 => 
@@ -39535,7 +39535,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'YTRE SNILLFJORD',
 				'longitude' => 'YTRE SNILLFJORD',
 				'city' => 'YTRE SNILLFJORD',
-				'city_id' => '48547',
+				'city_id' => '49845',
 				'state_id' => '2698',
 			),
 			3952 => 
@@ -39545,7 +39545,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KORSVEGEN',
 				'longitude' => 'KORSVEGEN',
 				'city' => 'KORSVEGEN',
-				'city_id' => '48547',
+				'city_id' => '49846',
 				'state_id' => '2698',
 			),
 			3953 => 
@@ -39555,7 +39555,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KORSVEGEN',
 				'longitude' => 'KORSVEGEN',
 				'city' => 'KORSVEGEN',
-				'city_id' => '48547',
+				'city_id' => '49846',
 				'state_id' => '2698',
 			),
 			3954 => 
@@ -39565,7 +39565,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GÅSBAKKEN',
 				'longitude' => 'GÅSBAKKEN',
 				'city' => 'GÅSBAKKEN',
-				'city_id' => '48547',
+				'city_id' => '49847',
 				'state_id' => '2698',
 			),
 			3955 => 
@@ -39605,7 +39605,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GIMSE',
 				'longitude' => 'GIMSE',
 				'city' => 'GIMSE',
-				'city_id' => '48547',
+				'city_id' => '49848',
 				'state_id' => '2698',
 			),
 			3959 => 
@@ -39615,7 +39615,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KVÅL',
 				'longitude' => 'KVÅL',
 				'city' => 'KVÅL',
-				'city_id' => '48547',
+				'city_id' => '49849',
 				'state_id' => '2698',
 			),
 			3960 => 
@@ -39625,7 +39625,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LUNDAMO',
 				'longitude' => 'LUNDAMO',
 				'city' => 'LUNDAMO',
-				'city_id' => '48547',
+				'city_id' => '49850',
 				'state_id' => '2698',
 			),
 			3961 => 
@@ -39635,7 +39635,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LUNDAMO',
 				'longitude' => 'LUNDAMO',
 				'city' => 'LUNDAMO',
-				'city_id' => '48547',
+				'city_id' => '49850',
 				'state_id' => '2698',
 			),
 			3962 => 
@@ -39645,7 +39645,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LER',
 				'longitude' => 'LER',
 				'city' => 'LER',
-				'city_id' => '48547',
+				'city_id' => '49851',
 				'state_id' => '2698',
 			),
 			3963 => 
@@ -39655,7 +39655,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LER',
 				'longitude' => 'LER',
 				'city' => 'LER',
-				'city_id' => '48547',
+				'city_id' => '49851',
 				'state_id' => '2698',
 			),
 			3964 => 
@@ -39665,7 +39665,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HOVIN I GAULDAL',
 				'longitude' => 'HOVIN I GAULDAL',
 				'city' => 'HOVIN I GAULDAL',
-				'city_id' => '48547',
+				'city_id' => '49852',
 				'state_id' => '2698',
 			),
 			3965 => 
@@ -39675,7 +39675,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HOVIN I GAULDAL',
 				'longitude' => 'HOVIN I GAULDAL',
 				'city' => 'HOVIN I GAULDAL',
-				'city_id' => '48538',
+				'city_id' => '49852',
 				'state_id' => '2698',
 			),
 			3966 => 
@@ -39705,7 +39705,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ANSNES',
 				'longitude' => 'ANSNES',
 				'city' => 'ANSNES',
-				'city_id' => '48538',
+				'city_id' => '49853',
 				'state_id' => '2698',
 			),
 			3969 => 
@@ -39715,7 +39715,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KNARRLAGSUND',
 				'longitude' => 'KNARRLAGSUND',
 				'city' => 'KNARRLAGSUND',
-				'city_id' => '48538',
+				'city_id' => '49854',
 				'state_id' => '2698',
 			),
 			3970 => 
@@ -39725,7 +39725,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KVENVÆR',
 				'longitude' => 'KVENVÆR',
 				'city' => 'KVENVÆR',
-				'city_id' => '48538',
+				'city_id' => '49855',
 				'state_id' => '2698',
 			),
 			3971 => 
@@ -39735,7 +39735,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KNARRLAGSUND',
 				'longitude' => 'KNARRLAGSUND',
 				'city' => 'KNARRLAGSUND',
-				'city_id' => '48538',
+				'city_id' => '49854',
 				'state_id' => '2698',
 			),
 			3972 => 
@@ -39745,7 +39745,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KVENVÆR',
 				'longitude' => 'KVENVÆR',
 				'city' => 'KVENVÆR',
-				'city_id' => '48538',
+				'city_id' => '49855',
 				'state_id' => '2698',
 			),
 			3973 => 
@@ -39755,7 +39755,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SANDSTAD',
 				'longitude' => 'SANDSTAD',
 				'city' => 'SANDSTAD',
-				'city_id' => '48538',
+				'city_id' => '49856',
 				'state_id' => '2698',
 			),
 			3974 => 
@@ -39765,7 +39765,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HESTVIKA',
 				'longitude' => 'HESTVIKA',
 				'city' => 'HESTVIKA',
-				'city_id' => '48538',
+				'city_id' => '49857',
 				'state_id' => '2698',
 			),
 			3975 => 
@@ -39775,7 +39775,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MELANDSJØ',
 				'longitude' => 'MELANDSJØ',
 				'city' => 'MELANDSJØ',
-				'city_id' => '48538',
+				'city_id' => '49858',
 				'state_id' => '2698',
 			),
 			3976 => 
@@ -39785,7 +39785,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'DOLMØY',
 				'longitude' => 'DOLMØY',
 				'city' => 'DOLMØY',
-				'city_id' => '48538',
+				'city_id' => '49859',
 				'state_id' => '2698',
 			),
 			3977 => 
@@ -39795,7 +39795,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SUNDLANDET',
 				'longitude' => 'SUNDLANDET',
 				'city' => 'SUNDLANDET',
-				'city_id' => '48538',
+				'city_id' => '49860',
 				'state_id' => '2698',
 			),
 			3978 => 
@@ -39805,7 +39805,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HEMNSKJELA',
 				'longitude' => 'HEMNSKJELA',
 				'city' => 'HEMNSKJELA',
-				'city_id' => '48554',
+				'city_id' => '49861',
 				'state_id' => '2698',
 			),
 			3979 => 
@@ -39815,7 +39815,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SNILLFJORD',
 				'longitude' => 'SNILLFJORD',
 				'city' => 'SNILLFJORD',
-				'city_id' => '48554',
+				'city_id' => '49862',
 				'state_id' => '2698',
 			),
 			3980 => 
@@ -39825,7 +39825,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SNILLFJORD',
 				'longitude' => 'SNILLFJORD',
 				'city' => 'SNILLFJORD',
-				'city_id' => '48535',
+				'city_id' => '49862',
 				'state_id' => '2698',
 			),
 			3981 => 
@@ -39835,7 +39835,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '63.7277',
 				'longitude' => '8.8267',
 				'city' => 'SISTRANDA',
-				'city_id' => '48535',
+				'city_id' => '49863',
 				'state_id' => '2698',
 			),
 			3982 => 
@@ -39845,7 +39845,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '63.7277',
 				'longitude' => '8.8267',
 				'city' => 'SISTRANDA',
-				'city_id' => '48535',
+				'city_id' => '49863',
 				'state_id' => '2698',
 			),
 			3983 => 
@@ -39855,7 +39855,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HAMARVIK',
 				'longitude' => 'HAMARVIK',
 				'city' => 'HAMARVIK',
-				'city_id' => '48535',
+				'city_id' => '49864',
 				'state_id' => '2698',
 			),
 			3984 => 
@@ -39865,7 +39865,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HAMARVIK',
 				'longitude' => 'HAMARVIK',
 				'city' => 'HAMARVIK',
-				'city_id' => '48535',
+				'city_id' => '49864',
 				'state_id' => '2698',
 			),
 			3985 => 
@@ -39875,7 +39875,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KVERVA',
 				'longitude' => 'KVERVA',
 				'city' => 'KVERVA',
-				'city_id' => '48535',
+				'city_id' => '49865',
 				'state_id' => '2698',
 			),
 			3986 => 
@@ -39885,7 +39885,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KVERVA',
 				'longitude' => 'KVERVA',
 				'city' => 'KVERVA',
-				'city_id' => '48535',
+				'city_id' => '49865',
 				'state_id' => '2698',
 			),
 			3987 => 
@@ -39895,7 +39895,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TITRAN',
 				'longitude' => 'TITRAN',
 				'city' => 'TITRAN',
-				'city_id' => '48535',
+				'city_id' => '49866',
 				'state_id' => '2698',
 			),
 			3988 => 
@@ -39905,7 +39905,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'DYRVIK',
 				'longitude' => 'DYRVIK',
 				'city' => 'DYRVIK',
-				'city_id' => '48535',
+				'city_id' => '49867',
 				'state_id' => '2698',
 			),
 			3989 => 
@@ -39915,7 +39915,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NORDDYRØY',
 				'longitude' => 'NORDDYRØY',
 				'city' => 'NORDDYRØY',
-				'city_id' => '48535',
+				'city_id' => '49868',
 				'state_id' => '2698',
 			),
 			3990 => 
@@ -39925,7 +39925,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NORDDYRØY',
 				'longitude' => 'NORDDYRØY',
 				'city' => 'NORDDYRØY',
-				'city_id' => '48535',
+				'city_id' => '49868',
 				'state_id' => '2698',
 			),
 			3991 => 
@@ -39935,7 +39935,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SULA',
 				'longitude' => 'SULA',
 				'city' => 'SULA',
-				'city_id' => '48535',
+				'city_id' => '48399',
 				'state_id' => '2698',
 			),
 			3992 => 
@@ -39945,7 +39945,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BOGØYVÆR',
 				'longitude' => 'BOGØYVÆR',
 				'city' => 'BOGØYVÆR',
-				'city_id' => '48535',
+				'city_id' => '49869',
 				'state_id' => '2698',
 			),
 			3993 => 
@@ -39955,7 +39955,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MAUSUND',
 				'longitude' => 'MAUSUND',
 				'city' => 'MAUSUND',
-				'city_id' => '48535',
+				'city_id' => '49870',
 				'state_id' => '2698',
 			),
 			3994 => 
@@ -39965,7 +39965,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GJÆSINGEN',
 				'longitude' => 'GJÆSINGEN',
 				'city' => 'GJÆSINGEN',
-				'city_id' => '48535',
+				'city_id' => '49871',
 				'state_id' => '2698',
 			),
 			3995 => 
@@ -39975,7 +39975,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SØRBURØY',
 				'longitude' => 'SØRBURØY',
 				'city' => 'SØRBURØY',
-				'city_id' => '48535',
+				'city_id' => '49872',
 				'state_id' => '2698',
 			),
 			3996 => 
@@ -39985,7 +39985,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SAUØY',
 				'longitude' => 'SAUØY',
 				'city' => 'SAUØY',
-				'city_id' => '48535',
+				'city_id' => '49873',
 				'state_id' => '2698',
 			),
 			3997 => 
@@ -39995,7 +39995,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SOKNEDAL',
 				'longitude' => 'SOKNEDAL',
 				'city' => 'SOKNEDAL',
-				'city_id' => '48549',
+				'city_id' => '49874',
 				'state_id' => '2698',
 			),
 			3998 => 
@@ -40005,7 +40005,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SOKNEDAL',
 				'longitude' => 'SOKNEDAL',
 				'city' => 'SOKNEDAL',
-				'city_id' => '48549',
+				'city_id' => '49874',
 				'state_id' => '2698',
 			),
 			3999 => 
@@ -40015,7 +40015,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '63.0372',
 				'longitude' => '10.2856',
 				'city' => 'STØREN',
-				'city_id' => '48549',
+				'city_id' => '49875',
 				'state_id' => '2698',
 			),
 			4000 => 
@@ -40025,7 +40025,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '63.0372',
 				'longitude' => '10.2856',
 				'city' => 'STØREN',
-				'city_id' => '48549',
+				'city_id' => '49875',
 				'state_id' => '2698',
 			),
 			4001 => 
@@ -40035,7 +40035,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ROGNES',
 				'longitude' => 'ROGNES',
 				'city' => 'ROGNES',
-				'city_id' => '48549',
+				'city_id' => '49876',
 				'state_id' => '2698',
 			),
 			4002 => 
@@ -40045,7 +40045,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BUDALEN',
 				'longitude' => 'BUDALEN',
 				'city' => 'BUDALEN',
-				'city_id' => '48549',
+				'city_id' => '49877',
 				'state_id' => '2698',
 			),
 			4003 => 
@@ -40055,7 +40055,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '63.3122',
 				'longitude' => '9.8533',
 				'city' => 'ORKANGER',
-				'city_id' => '48554',
+				'city_id' => '49878',
 				'state_id' => '2698',
 			),
 			4004 => 
@@ -40065,7 +40065,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '63.3122',
 				'longitude' => '9.8533',
 				'city' => 'ORKANGER',
-				'city_id' => '48554',
+				'city_id' => '49878',
 				'state_id' => '2698',
 			),
 			4005 => 
@@ -40075,7 +40075,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '63.3122',
 				'longitude' => '9.8533',
 				'city' => 'ORKANGER',
-				'city_id' => '48554',
+				'city_id' => '49878',
 				'state_id' => '2698',
 			),
 			4006 => 
@@ -40085,7 +40085,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '63.3122',
 				'longitude' => '9.8533',
 				'city' => 'ORKANGER',
-				'city_id' => '48554',
+				'city_id' => '49878',
 				'state_id' => '2698',
 			),
 			4007 => 
@@ -40095,7 +40095,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GJØLME',
 				'longitude' => 'GJØLME',
 				'city' => 'GJØLME',
-				'city_id' => '48554',
+				'city_id' => '49879',
 				'state_id' => '2698',
 			),
 			4008 => 
@@ -40105,7 +40105,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '63.511',
 				'longitude' => '9.8089',
 				'city' => 'LENSVIK',
-				'city_id' => '48554',
+				'city_id' => '49880',
 				'state_id' => '2698',
 			),
 			4009 => 
@@ -40115,7 +40115,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '63.511',
 				'longitude' => '9.8089',
 				'city' => 'LENSVIK',
-				'city_id' => '48554',
+				'city_id' => '49880',
 				'state_id' => '2698',
 			),
 			4010 => 
@@ -40125,7 +40125,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'AGDENES',
 				'longitude' => 'AGDENES',
 				'city' => 'AGDENES',
-				'city_id' => '48554',
+				'city_id' => '49881',
 				'state_id' => '2698',
 			),
 			4011 => 
@@ -40135,7 +40135,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'AGDENES',
 				'longitude' => 'AGDENES',
 				'city' => 'AGDENES',
-				'city_id' => '48554',
+				'city_id' => '49881',
 				'state_id' => '2698',
 			),
 			4012 => 
@@ -40145,7 +40145,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FANNREM',
 				'longitude' => 'FANNREM',
 				'city' => 'FANNREM',
-				'city_id' => '48554',
+				'city_id' => '49882',
 				'state_id' => '2698',
 			),
 			4013 => 
@@ -40155,7 +40155,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FANNREM',
 				'longitude' => 'FANNREM',
 				'city' => 'FANNREM',
-				'city_id' => '48554',
+				'city_id' => '49882',
 				'state_id' => '2698',
 			),
 			4014 => 
@@ -40165,7 +40165,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SVORKMO',
 				'longitude' => 'SVORKMO',
 				'city' => 'SVORKMO',
-				'city_id' => '48554',
+				'city_id' => '49883',
 				'state_id' => '2698',
 			),
 			4015 => 
@@ -40175,7 +40175,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SVORKMO',
 				'longitude' => 'SVORKMO',
 				'city' => 'SVORKMO',
-				'city_id' => '48554',
+				'city_id' => '49883',
 				'state_id' => '2698',
 			),
 			4016 => 
@@ -40185,7 +40185,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LØKKEN VERK',
 				'longitude' => 'LØKKEN VERK',
 				'city' => 'LØKKEN VERK',
-				'city_id' => '48554',
+				'city_id' => '49884',
 				'state_id' => '2698',
 			),
 			4017 => 
@@ -40195,7 +40195,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LØKKEN VERK',
 				'longitude' => 'LØKKEN VERK',
 				'city' => 'LØKKEN VERK',
-				'city_id' => '48554',
+				'city_id' => '49884',
 				'state_id' => '2698',
 			),
 			4018 => 
@@ -40205,7 +40205,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STORÅS',
 				'longitude' => 'STORÅS',
 				'city' => 'STORÅS',
-				'city_id' => '48554',
+				'city_id' => '49885',
 				'state_id' => '2698',
 			),
 			4019 => 
@@ -40215,7 +40215,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STORÅS',
 				'longitude' => 'STORÅS',
 				'city' => 'STORÅS',
-				'city_id' => '48554',
+				'city_id' => '49885',
 				'state_id' => '2698',
 			),
 			4020 => 
@@ -40225,7 +40225,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'JERPSTAD',
 				'longitude' => 'JERPSTAD',
 				'city' => 'JERPSTAD',
-				'city_id' => '48554',
+				'city_id' => '49886',
 				'state_id' => '2698',
 			),
 			4021 => 
@@ -40235,7 +40235,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '63.046',
 				'longitude' => '9.7109',
 				'city' => 'MELDAL',
-				'city_id' => '48554',
+				'city_id' => '49887',
 				'state_id' => '2698',
 			),
 			4022 => 
@@ -40245,7 +40245,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '63.046',
 				'longitude' => '9.7109',
 				'city' => 'MELDAL',
-				'city_id' => '48554',
+				'city_id' => '49887',
 				'state_id' => '2698',
 			),
 			4023 => 
@@ -40275,7 +40275,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LØNSET',
 				'longitude' => 'LØNSET',
 				'city' => 'LØNSET',
-				'city_id' => '48553',
+				'city_id' => '49888',
 				'state_id' => '2698',
 			),
 			4026 => 
@@ -40285,7 +40285,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VOGNILL',
 				'longitude' => 'VOGNILL',
 				'city' => 'VOGNILL',
-				'city_id' => '48553',
+				'city_id' => '49889',
 				'state_id' => '2698',
 			),
 			4027 => 
@@ -40295,7 +40295,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'DRIVA',
 				'longitude' => 'DRIVA',
 				'city' => 'DRIVA',
-				'city_id' => '48553',
+				'city_id' => '49890',
 				'state_id' => '2698',
 			),
 			4028 => 
@@ -40305,7 +40305,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BUVIKA',
 				'longitude' => 'BUVIKA',
 				'city' => 'BUVIKA',
-				'city_id' => '48562',
+				'city_id' => '49891',
 				'state_id' => '2698',
 			),
 			4029 => 
@@ -40315,7 +40315,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BUVIKA',
 				'longitude' => 'BUVIKA',
 				'city' => 'BUVIKA',
-				'city_id' => '48562',
+				'city_id' => '49891',
 				'state_id' => '2698',
 			),
 			4030 => 
@@ -40325,7 +40325,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '63.3277',
 				'longitude' => '10.0683',
 				'city' => 'BØRSA',
-				'city_id' => '48562',
+				'city_id' => '49892',
 				'state_id' => '2698',
 			),
 			4031 => 
@@ -40335,7 +40335,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VIGGJA',
 				'longitude' => 'VIGGJA',
 				'city' => 'VIGGJA',
-				'city_id' => '48562',
+				'city_id' => '49893',
 				'state_id' => '2698',
 			),
 			4032 => 
@@ -40345,7 +40345,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'EGGKLEIVA',
 				'longitude' => 'EGGKLEIVA',
 				'city' => 'EGGKLEIVA',
-				'city_id' => '48562',
+				'city_id' => '49894',
 				'state_id' => '2698',
 			),
 			4033 => 
@@ -40375,7 +40375,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '63.3277',
 				'longitude' => '10.0683',
 				'city' => 'BØRSA',
-				'city_id' => '48562',
+				'city_id' => '49892',
 				'state_id' => '2698',
 			),
 			4036 => 
@@ -40395,7 +40395,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BREKKEBYGD',
 				'longitude' => 'BREKKEBYGD',
 				'city' => 'BREKKEBYGD',
-				'city_id' => '48559',
+				'city_id' => '49895',
 				'state_id' => '2698',
 			),
 			4038 => 
@@ -40405,7 +40405,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GLÅMOS',
 				'longitude' => 'GLÅMOS',
 				'city' => 'GLÅMOS',
-				'city_id' => '48559',
+				'city_id' => '49896',
 				'state_id' => '2698',
 			),
 			4039 => 
@@ -40435,7 +40435,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '62.8433',
 				'longitude' => '11.2994',
 				'city' => 'ÅLEN',
-				'city_id' => '48539',
+				'city_id' => '49897',
 				'state_id' => '2698',
 			),
 			4042 => 
@@ -40445,7 +40445,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HALTDALEN',
 				'longitude' => 'HALTDALEN',
 				'city' => 'HALTDALEN',
-				'city_id' => '48539',
+				'city_id' => '49898',
 				'state_id' => '2698',
 			),
 			4043 => 
@@ -40455,7 +40455,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '62.8433',
 				'longitude' => '11.2994',
 				'city' => 'ÅLEN',
-				'city_id' => '48539',
+				'city_id' => '49897',
 				'state_id' => '2698',
 			),
 			4044 => 
@@ -40465,7 +40465,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SINGSÅS',
 				'longitude' => 'SINGSÅS',
 				'city' => 'SINGSÅS',
-				'city_id' => '48549',
+				'city_id' => '49899',
 				'state_id' => '2698',
 			),
 			4045 => 
@@ -40475,7 +40475,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SINGSÅS',
 				'longitude' => 'SINGSÅS',
 				'city' => 'SINGSÅS',
-				'city_id' => '48549',
+				'city_id' => '49899',
 				'state_id' => '2698',
 			),
 			4046 => 
@@ -40485,7 +40485,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SINGSÅS',
 				'longitude' => 'SINGSÅS',
 				'city' => 'SINGSÅS',
-				'city_id' => '48549',
+				'city_id' => '49899',
 				'state_id' => '2698',
 			),
 			4047 => 
@@ -41615,7 +41615,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKATVAL',
 				'longitude' => 'SKATVAL',
 				'city' => 'SKATVAL',
-				'city_id' => '48565',
+				'city_id' => '49900',
 				'state_id' => '2698',
 			),
 			4160 => 
@@ -41625,7 +41625,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKATVAL',
 				'longitude' => 'SKATVAL',
 				'city' => 'SKATVAL',
-				'city_id' => '48565',
+				'city_id' => '49900',
 				'state_id' => '2698',
 			),
 			4161 => 
@@ -41665,7 +41665,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HELL',
 				'longitude' => 'HELL',
 				'city' => 'HELL',
-				'city_id' => '48565',
+				'city_id' => '49901',
 				'state_id' => '2698',
 			),
 			4165 => 
@@ -41675,7 +41675,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ELVARLI',
 				'longitude' => 'ELVARLI',
 				'city' => 'ELVARLI',
-				'city_id' => '48565',
+				'city_id' => '49902',
 				'state_id' => '2698',
 			),
 			4166 => 
@@ -41685,7 +41685,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HEGRA',
 				'longitude' => 'HEGRA',
 				'city' => 'HEGRA',
-				'city_id' => '48565',
+				'city_id' => '49903',
 				'state_id' => '2698',
 			),
 			4167 => 
@@ -41695,7 +41695,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FLORNES',
 				'longitude' => 'FLORNES',
 				'city' => 'FLORNES',
-				'city_id' => '48565',
+				'city_id' => '49904',
 				'state_id' => '2698',
 			),
 			4168 => 
@@ -41705,7 +41705,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HEGRA',
 				'longitude' => 'HEGRA',
 				'city' => 'HEGRA',
-				'city_id' => '48565',
+				'city_id' => '49903',
 				'state_id' => '2698',
 			),
 			4169 => 
@@ -41735,7 +41735,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KOPPERÅ',
 				'longitude' => 'KOPPERÅ',
 				'city' => 'KOPPERÅ',
-				'city_id' => '48548',
+				'city_id' => '49905',
 				'state_id' => '2698',
 			),
 			4172 => 
@@ -41745,7 +41745,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '63.2761',
 				'longitude' => '10.5142',
 				'city' => 'KLÆBU',
-				'city_id' => '48567',
+				'city_id' => '49906',
 				'state_id' => '2698',
 			),
 			4173 => 
@@ -41755,7 +41755,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '63.2761',
 				'longitude' => '10.5142',
 				'city' => 'KLÆBU',
-				'city_id' => '48567',
+				'city_id' => '49906',
 				'state_id' => '2698',
 			),
 			4174 => 
@@ -41765,7 +41765,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TANEM',
 				'longitude' => 'TANEM',
 				'city' => 'TANEM',
-				'city_id' => '48567',
+				'city_id' => '49907',
 				'state_id' => '2698',
 			),
 			4175 => 
@@ -41775,7 +41775,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '63.4087',
 				'longitude' => '10.7995',
 				'city' => 'HOMMELVIK',
-				'city_id' => '48546',
+				'city_id' => '49908',
 				'state_id' => '2698',
 			),
 			4176 => 
@@ -41785,7 +41785,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '63.4087',
 				'longitude' => '10.7995',
 				'city' => 'HOMMELVIK',
-				'city_id' => '48546',
+				'city_id' => '49908',
 				'state_id' => '2698',
 			),
 			4177 => 
@@ -41795,7 +41795,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VIKHAMMER',
 				'longitude' => 'VIKHAMMER',
 				'city' => 'VIKHAMMER',
-				'city_id' => '48546',
+				'city_id' => '49909',
 				'state_id' => '2698',
 			),
 			4178 => 
@@ -41805,7 +41805,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SAKSVIK',
 				'longitude' => 'SAKSVIK',
 				'city' => 'SAKSVIK',
-				'city_id' => '48546',
+				'city_id' => '49910',
 				'state_id' => '2698',
 			),
 			4179 => 
@@ -41825,7 +41825,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VIKHAMMER',
 				'longitude' => 'VIKHAMMER',
 				'city' => 'VIKHAMMER',
-				'city_id' => '48546',
+				'city_id' => '49909',
 				'state_id' => '2698',
 			),
 			4181 => 
@@ -41835,7 +41835,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HELL',
 				'longitude' => 'HELL',
 				'city' => 'HELL',
-				'city_id' => '48565',
+				'city_id' => '49901',
 				'state_id' => '2698',
 			),
 			4182 => 
@@ -41875,7 +41875,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SELBUSTRAND',
 				'longitude' => 'SELBUSTRAND',
 				'city' => 'SELBUSTRAND',
-				'city_id' => '48561',
+				'city_id' => '49911',
 				'state_id' => '2698',
 			),
 			4186 => 
@@ -41905,7 +41905,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FLAKNAN',
 				'longitude' => 'FLAKNAN',
 				'city' => 'FLAKNAN',
-				'city_id' => '48561',
+				'city_id' => '49912',
 				'state_id' => '2698',
 			),
 			4189 => 
@@ -42025,7 +42025,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKOGN',
 				'longitude' => 'SKOGN',
 				'city' => 'SKOGN',
-				'city_id' => '48544',
+				'city_id' => '49913',
 				'state_id' => '2698',
 			),
 			4201 => 
@@ -42035,7 +42035,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKOGN',
 				'longitude' => 'SKOGN',
 				'city' => 'SKOGN',
-				'city_id' => '48544',
+				'city_id' => '49913',
 				'state_id' => '2698',
 			),
 			4202 => 
@@ -42045,7 +42045,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MARKABYGDA',
 				'longitude' => 'MARKABYGDA',
 				'city' => 'MARKABYGDA',
-				'city_id' => '48544',
+				'city_id' => '49914',
 				'state_id' => '2698',
 			),
 			4203 => 
@@ -42055,7 +42055,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RONGLAN',
 				'longitude' => 'RONGLAN',
 				'city' => 'RONGLAN',
-				'city_id' => '48544',
+				'city_id' => '49915',
 				'state_id' => '2698',
 			),
 			4204 => 
@@ -42065,7 +42065,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'EKNE',
 				'longitude' => 'EKNE',
 				'city' => 'EKNE',
-				'city_id' => '48544',
+				'city_id' => '49916',
 				'state_id' => '2698',
 			),
 			4205 => 
@@ -42075,7 +42075,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'YTTERØY',
 				'longitude' => 'YTTERØY',
 				'city' => 'YTTERØY',
-				'city_id' => '48544',
+				'city_id' => '49917',
 				'state_id' => '2698',
 			),
 			4206 => 
@@ -42085,7 +42085,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ÅSEN',
 				'longitude' => 'ÅSEN',
 				'city' => 'ÅSEN',
-				'city_id' => '48544',
+				'city_id' => '49918',
 				'state_id' => '2698',
 			),
 			4207 => 
@@ -42095,7 +42095,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ÅSEN',
 				'longitude' => 'ÅSEN',
 				'city' => 'ÅSEN',
-				'city_id' => '48544',
+				'city_id' => '49918',
 				'state_id' => '2698',
 			),
 			4208 => 
@@ -42105,7 +42105,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ÅSENFJORD',
 				'longitude' => 'ÅSENFJORD',
 				'city' => 'ÅSENFJORD',
-				'city_id' => '48544',
+				'city_id' => '49919',
 				'state_id' => '2698',
 			),
 			4209 => 
@@ -42225,7 +42225,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VUKU',
 				'longitude' => 'VUKU',
 				'city' => 'VUKU',
-				'city_id' => '48569',
+				'city_id' => '49920',
 				'state_id' => '2698',
 			),
 			4221 => 
@@ -42235,7 +42235,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VUKU',
 				'longitude' => 'VUKU',
 				'city' => 'VUKU',
-				'city_id' => '48569',
+				'city_id' => '49920',
 				'state_id' => '2698',
 			),
 			4222 => 
@@ -42275,7 +42275,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MOSVIK',
 				'longitude' => 'MOSVIK',
 				'city' => 'MOSVIK',
-				'city_id' => '48541',
+				'city_id' => '49921',
 				'state_id' => '2698',
 			),
 			4226 => 
@@ -42285,7 +42285,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MOSVIK',
 				'longitude' => 'MOSVIK',
 				'city' => 'MOSVIK',
-				'city_id' => '48541',
+				'city_id' => '49921',
 				'state_id' => '2698',
 			),
 			4227 => 
@@ -42375,7 +42375,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SPARBU',
 				'longitude' => 'SPARBU',
 				'city' => 'SPARBU',
-				'city_id' => '48564',
+				'city_id' => '49922',
 				'state_id' => '2698',
 			),
 			4236 => 
@@ -42505,7 +42505,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BEITSTAD',
 				'longitude' => 'BEITSTAD',
 				'city' => 'BEITSTAD',
-				'city_id' => '48564',
+				'city_id' => '49923',
 				'state_id' => '2698',
 			),
 			4249 => 
@@ -42525,7 +42525,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SPARBU',
 				'longitude' => 'SPARBU',
 				'city' => 'SPARBU',
-				'city_id' => '48564',
+				'city_id' => '49922',
 				'state_id' => '2698',
 			),
 			4251 => 
@@ -42585,7 +42585,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BEITSTAD',
 				'longitude' => 'BEITSTAD',
 				'city' => 'BEITSTAD',
-				'city_id' => '48564',
+				'city_id' => '49923',
 				'state_id' => '2698',
 			),
 			4257 => 
@@ -42595,7 +42595,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '64.2429',
 				'longitude' => '10.6926',
 				'city' => 'STEINSDALEN',
-				'city_id' => '48555',
+				'city_id' => '49924',
 				'state_id' => '2698',
 			),
 			4258 => 
@@ -42605,7 +42605,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '64.2429',
 				'longitude' => '10.6926',
 				'city' => 'STEINSDALEN',
-				'city_id' => '48555',
+				'city_id' => '49924',
 				'state_id' => '2698',
 			),
 			4259 => 
@@ -42615,7 +42615,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'YTTERVÅG',
 				'longitude' => 'YTTERVÅG',
 				'city' => 'YTTERVÅG',
-				'city_id' => '48555',
+				'city_id' => '49925',
 				'state_id' => '2698',
 			),
 			4260 => 
@@ -42625,7 +42625,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HEPSØY',
 				'longitude' => 'HEPSØY',
 				'city' => 'HEPSØY',
-				'city_id' => '48555',
+				'city_id' => '49926',
 				'state_id' => '2698',
 			),
 			4261 => 
@@ -42635,7 +42635,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'OPPLAND',
 				'longitude' => 'OPPLAND',
 				'city' => 'OPPLAND',
-				'city_id' => '48533',
+				'city_id' => '49927',
 				'state_id' => '2698',
 			),
 			4262 => 
@@ -42645,7 +42645,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HASVÅG',
 				'longitude' => 'HASVÅG',
 				'city' => 'HASVÅG',
-				'city_id' => '48533',
+				'city_id' => '49928',
 				'state_id' => '2698',
 			),
 			4263 => 
@@ -42655,7 +42655,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SETER',
 				'longitude' => 'SETER',
 				'city' => 'SETER',
-				'city_id' => '48555',
+				'city_id' => '49929',
 				'state_id' => '2698',
 			),
 			4264 => 
@@ -42665,7 +42665,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '64.2892',
 				'longitude' => '11.1764',
 				'city' => 'NAMDALSEID',
-				'city_id' => '48550',
+				'city_id' => '49930',
 				'state_id' => '2698',
 			),
 			4265 => 
@@ -42675,7 +42675,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '64.2892',
 				'longitude' => '11.1764',
 				'city' => 'NAMDALSEID',
-				'city_id' => '48550',
+				'city_id' => '49930',
 				'state_id' => '2698',
 			),
 			4266 => 
@@ -42685,7 +42685,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '64.2461',
 				'longitude' => '12.383',
 				'city' => 'SNÅSA',
-				'city_id' => '48563',
+				'city_id' => '49931',
 				'state_id' => '2698',
 			),
 			4267 => 
@@ -42725,7 +42725,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NORD-STATLAND',
 				'longitude' => 'NORD-STATLAND',
 				'city' => 'NORD-STATLAND',
-				'city_id' => '48550',
+				'city_id' => '49932',
 				'state_id' => '2698',
 			),
 			4271 => 
@@ -42735,7 +42735,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '64.0719',
 				'longitude' => '11.2187',
 				'city' => 'MALM',
-				'city_id' => '48564',
+				'city_id' => '49933',
 				'state_id' => '2698',
 			),
 			4272 => 
@@ -42745,7 +42745,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '64.0719',
 				'longitude' => '11.2187',
 				'city' => 'MALM',
-				'city_id' => '48564',
+				'city_id' => '49933',
 				'state_id' => '2698',
 			),
 			4273 => 
@@ -42755,7 +42755,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FOLLAFOSS',
 				'longitude' => 'FOLLAFOSS',
 				'city' => 'FOLLAFOSS',
-				'city_id' => '48564',
+				'city_id' => '49934',
 				'state_id' => '2698',
 			),
 			4274 => 
@@ -42765,7 +42765,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FOLLAFOSS',
 				'longitude' => 'FOLLAFOSS',
 				'city' => 'FOLLAFOSS',
-				'city_id' => '48564',
+				'city_id' => '49934',
 				'state_id' => '2698',
 			),
 			4275 => 
@@ -42775,7 +42775,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VERRABOTN',
 				'longitude' => 'VERRABOTN',
 				'city' => 'VERRABOTN',
-				'city_id' => '48542',
+				'city_id' => '49935',
 				'state_id' => '2698',
 			),
 			4276 => 
@@ -42865,7 +42865,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SALSNES',
 				'longitude' => 'SALSNES',
 				'city' => 'SALSNES',
-				'city_id' => '48550',
+				'city_id' => '49936',
 				'state_id' => '2698',
 			),
 			4285 => 
@@ -42875,7 +42875,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LUND',
 				'longitude' => 'LUND',
 				'city' => 'LUND',
-				'city_id' => '48550',
+				'city_id' => '48484',
 				'state_id' => '2698',
 			),
 			4286 => 
@@ -42885,7 +42885,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FOSSLANDSOSEN',
 				'longitude' => 'FOSSLANDSOSEN',
 				'city' => 'FOSSLANDSOSEN',
-				'city_id' => '48550',
+				'city_id' => '49937',
 				'state_id' => '2698',
 			),
 			4287 => 
@@ -42895,7 +42895,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SPILLUM',
 				'longitude' => 'SPILLUM',
 				'city' => 'SPILLUM',
-				'city_id' => '48550',
+				'city_id' => '49938',
 				'state_id' => '2698',
 			),
 			4288 => 
@@ -42905,7 +42905,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SPILLUM',
 				'longitude' => 'SPILLUM',
 				'city' => 'SPILLUM',
-				'city_id' => '48550',
+				'city_id' => '49938',
 				'state_id' => '2698',
 			),
 			4289 => 
@@ -42915,7 +42915,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BANGSUND',
 				'longitude' => 'BANGSUND',
 				'city' => 'BANGSUND',
-				'city_id' => '48550',
+				'city_id' => '49939',
 				'state_id' => '2698',
 			),
 			4290 => 
@@ -42925,7 +42925,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BANGSUND',
 				'longitude' => 'BANGSUND',
 				'city' => 'BANGSUND',
-				'city_id' => '48550',
+				'city_id' => '49939',
 				'state_id' => '2698',
 			),
 			4291 => 
@@ -42935,7 +42935,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'JØA',
 				'longitude' => 'JØA',
 				'city' => 'JØA',
-				'city_id' => '48550',
+				'city_id' => '49940',
 				'state_id' => '2698',
 			),
 			4292 => 
@@ -42945,7 +42945,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKAGE I NAMDALEN',
 				'longitude' => 'SKAGE I NAMDALEN',
 				'city' => 'SKAGE I NAMDALEN',
-				'city_id' => '48556',
+				'city_id' => '49941',
 				'state_id' => '2698',
 			),
 			4293 => 
@@ -42975,7 +42975,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKAGE I NAMDALEN',
 				'longitude' => 'SKAGE I NAMDALEN',
 				'city' => 'SKAGE I NAMDALEN',
-				'city_id' => '48556',
+				'city_id' => '49941',
 				'state_id' => '2698',
 			),
 			4296 => 
@@ -43005,7 +43005,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HARRAN',
 				'longitude' => 'HARRAN',
 				'city' => 'HARRAN',
-				'city_id' => '48536',
+				'city_id' => '40984',
 				'state_id' => '2698',
 			),
 			4299 => 
@@ -43015,7 +43015,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HARRAN',
 				'longitude' => 'HARRAN',
 				'city' => 'HARRAN',
-				'city_id' => '48536',
+				'city_id' => '40984',
 				'state_id' => '2698',
 			),
 			4300 => 
@@ -43025,7 +43025,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KONGSMOEN',
 				'longitude' => 'KONGSMOEN',
 				'city' => 'KONGSMOEN',
-				'city_id' => '48540',
+				'city_id' => '49942',
 				'state_id' => '2698',
 			),
 			4301 => 
@@ -43055,7 +43055,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '64.4675',
 				'longitude' => '13.5908',
 				'city' => 'NORDLI',
-				'city_id' => '48545',
+				'city_id' => '49943',
 				'state_id' => '2698',
 			),
 			4304 => 
@@ -43065,7 +43065,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '64.4675',
 				'longitude' => '13.5908',
 				'city' => 'NORDLI',
-				'city_id' => '48545',
+				'city_id' => '49943',
 				'state_id' => '2698',
 			),
 			4305 => 
@@ -43075,7 +43075,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SØRLI',
 				'longitude' => 'SØRLI',
 				'city' => 'SØRLI',
-				'city_id' => '48545',
+				'city_id' => '49944',
 				'state_id' => '2698',
 			),
 			4306 => 
@@ -43085,7 +43085,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SØRLI',
 				'longitude' => 'SØRLI',
 				'city' => 'SØRLI',
-				'city_id' => '48545',
+				'city_id' => '49944',
 				'state_id' => '2698',
 			),
 			4307 => 
@@ -43115,7 +43115,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TRONES',
 				'longitude' => 'TRONES',
 				'city' => 'TRONES',
-				'city_id' => '48551',
+				'city_id' => '49945',
 				'state_id' => '2698',
 			),
 			4310 => 
@@ -43125,7 +43125,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKOROVATN',
 				'longitude' => 'SKOROVATN',
 				'city' => 'SKOROVATN',
-				'city_id' => '48551',
+				'city_id' => '49946',
 				'state_id' => '2698',
 			),
 			4311 => 
@@ -43135,7 +43135,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BREKKVASSELV',
 				'longitude' => 'BREKKVASSELV',
 				'city' => 'BREKKVASSELV',
-				'city_id' => '48551',
+				'city_id' => '49947',
 				'state_id' => '2698',
 			),
 			4312 => 
@@ -43145,7 +43145,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LIMINGEN',
 				'longitude' => 'LIMINGEN',
 				'city' => 'LIMINGEN',
-				'city_id' => '48560',
+				'city_id' => '49948',
 				'state_id' => '2698',
 			),
 			4313 => 
@@ -43155,7 +43155,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LIMINGEN',
 				'longitude' => 'LIMINGEN',
 				'city' => 'LIMINGEN',
-				'city_id' => '48560',
+				'city_id' => '49948',
 				'state_id' => '2698',
 			),
 			4314 => 
@@ -43165,7 +43165,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '64.868',
 				'longitude' => '11.2053',
 				'city' => 'RØRVIK',
-				'city_id' => '48552',
+				'city_id' => '49949',
 				'state_id' => '2698',
 			),
 			4315 => 
@@ -43175,7 +43175,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '64.868',
 				'longitude' => '11.2053',
 				'city' => 'RØRVIK',
-				'city_id' => '48552',
+				'city_id' => '49949',
 				'state_id' => '2698',
 			),
 			4316 => 
@@ -43185,7 +43185,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '64.868',
 				'longitude' => '11.2053',
 				'city' => 'RØRVIK',
-				'city_id' => '48552',
+				'city_id' => '49949',
 				'state_id' => '2698',
 			),
 			4317 => 
@@ -43195,7 +43195,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'OTTERSØY',
 				'longitude' => 'OTTERSØY',
 				'city' => 'OTTERSØY',
-				'city_id' => '48552',
+				'city_id' => '49950',
 				'state_id' => '2698',
 			),
 			4318 => 
@@ -43205,7 +43205,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'OTTERSØY',
 				'longitude' => 'OTTERSØY',
 				'city' => 'OTTERSØY',
-				'city_id' => '48552',
+				'city_id' => '49950',
 				'state_id' => '2698',
 			),
 			4319 => 
@@ -43215,7 +43215,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'INDRE NÆRØY',
 				'longitude' => 'INDRE NÆRØY',
 				'city' => 'INDRE NÆRØY',
-				'city_id' => '48552',
+				'city_id' => '49951',
 				'state_id' => '2698',
 			),
 			4320 => 
@@ -43225,7 +43225,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ABELVÆR',
 				'longitude' => 'ABELVÆR',
 				'city' => 'ABELVÆR',
-				'city_id' => '48552',
+				'city_id' => '49952',
 				'state_id' => '2698',
 			),
 			4321 => 
@@ -43235,7 +43235,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SALSBRUKET',
 				'longitude' => 'SALSBRUKET',
 				'city' => 'SALSBRUKET',
-				'city_id' => '48552',
+				'city_id' => '49953',
 				'state_id' => '2698',
 			),
 			4322 => 
@@ -43245,7 +43245,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '64.8653',
 				'longitude' => '11.6044',
 				'city' => 'KOLVEREID',
-				'city_id' => '48552',
+				'city_id' => '49954',
 				'state_id' => '2698',
 			),
 			4323 => 
@@ -43255,7 +43255,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '64.8653',
 				'longitude' => '11.6044',
 				'city' => 'KOLVEREID',
-				'city_id' => '48552',
+				'city_id' => '49954',
 				'state_id' => '2698',
 			),
 			4324 => 
@@ -43265,7 +43265,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GJERDINGA',
 				'longitude' => 'GJERDINGA',
 				'city' => 'GJERDINGA',
-				'city_id' => '48552',
+				'city_id' => '49955',
 				'state_id' => '2698',
 			),
 			4325 => 
@@ -43275,7 +43275,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '65.0833',
 				'longitude' => '12.4167',
 				'city' => 'TERRÅK',
-				'city_id' => '48413',
+				'city_id' => '49956',
 				'state_id' => '2693',
 			),
 			4326 => 
@@ -43285,7 +43285,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '65.0833',
 				'longitude' => '12.4167',
 				'city' => 'TERRÅK',
-				'city_id' => '48413',
+				'city_id' => '49956',
 				'state_id' => '2693',
 			),
 			4327 => 
@@ -43295,7 +43295,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HARANGSFJORD',
 				'longitude' => 'HARANGSFJORD',
 				'city' => 'HARANGSFJORD',
-				'city_id' => '48413',
+				'city_id' => '49957',
 				'state_id' => '2693',
 			),
 			4328 => 
@@ -43305,7 +43305,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BINDALSEIDET',
 				'longitude' => 'BINDALSEIDET',
 				'city' => 'BINDALSEIDET',
-				'city_id' => '48413',
+				'city_id' => '49958',
 				'state_id' => '2693',
 			),
 			4329 => 
@@ -43315,7 +43315,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BINDALSEIDET',
 				'longitude' => 'BINDALSEIDET',
 				'city' => 'BINDALSEIDET',
-				'city_id' => '48413',
+				'city_id' => '49958',
 				'state_id' => '2693',
 			),
 			4330 => 
@@ -43325,7 +43325,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FOLDEREID',
 				'longitude' => 'FOLDEREID',
 				'city' => 'FOLDEREID',
-				'city_id' => '48552',
+				'city_id' => '49959',
 				'state_id' => '2698',
 			),
 			4331 => 
@@ -43335,7 +43335,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FOLDEREID',
 				'longitude' => 'FOLDEREID',
 				'city' => 'FOLDEREID',
-				'city_id' => '48552',
+				'city_id' => '49959',
 				'state_id' => '2698',
 			),
 			4332 => 
@@ -43345,7 +43345,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NAUSTBUKTA',
 				'longitude' => 'NAUSTBUKTA',
 				'city' => 'NAUSTBUKTA',
-				'city_id' => '48552',
+				'city_id' => '49960',
 				'state_id' => '2698',
 			),
 			4333 => 
@@ -43355,7 +43355,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GUTVIK',
 				'longitude' => 'GUTVIK',
 				'city' => 'GUTVIK',
-				'city_id' => '48543',
+				'city_id' => '49961',
 				'state_id' => '2698',
 			),
 			4334 => 
@@ -43715,7 +43715,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TVERLANDET',
 				'longitude' => 'TVERLANDET',
 				'city' => 'TVERLANDET',
-				'city_id' => '48414',
+				'city_id' => '49962',
 				'state_id' => '2693',
 			),
 			4370 => 
@@ -43725,7 +43725,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SALTSTRAUMEN',
 				'longitude' => 'SALTSTRAUMEN',
 				'city' => 'SALTSTRAUMEN',
-				'city_id' => '48414',
+				'city_id' => '49963',
 				'state_id' => '2693',
 			),
 			4371 => 
@@ -43735,7 +43735,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SALTSTRAUMEN',
 				'longitude' => 'SALTSTRAUMEN',
 				'city' => 'SALTSTRAUMEN',
-				'city_id' => '48414',
+				'city_id' => '49963',
 				'state_id' => '2693',
 			),
 			4372 => 
@@ -43745,7 +43745,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TVERLANDET',
 				'longitude' => 'TVERLANDET',
 				'city' => 'TVERLANDET',
-				'city_id' => '48414',
+				'city_id' => '49962',
 				'state_id' => '2693',
 			),
 			4373 => 
@@ -43945,7 +43945,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KJERRINGØY',
 				'longitude' => 'KJERRINGØY',
 				'city' => 'KJERRINGØY',
-				'city_id' => '48414',
+				'city_id' => '49964',
 				'state_id' => '2693',
 			),
 			4393 => 
@@ -43955,7 +43955,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FLEINVÆR',
 				'longitude' => 'FLEINVÆR',
 				'city' => 'FLEINVÆR',
-				'city_id' => '48421',
+				'city_id' => '49965',
 				'state_id' => '2693',
 			),
 			4394 => 
@@ -43965,7 +43965,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HELLIGVÆR',
 				'longitude' => 'HELLIGVÆR',
 				'city' => 'HELLIGVÆR',
-				'city_id' => '48414',
+				'city_id' => '49966',
 				'state_id' => '2693',
 			),
 			4395 => 
@@ -43975,7 +43975,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BLIKSVÆR',
 				'longitude' => 'BLIKSVÆR',
 				'city' => 'BLIKSVÆR',
-				'city_id' => '48414',
+				'city_id' => '49967',
 				'state_id' => '2693',
 			),
 			4396 => 
@@ -43985,7 +43985,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GIVÆR',
 				'longitude' => 'GIVÆR',
 				'city' => 'GIVÆR',
-				'city_id' => '48414',
+				'city_id' => '49968',
 				'state_id' => '2693',
 			),
 			4397 => 
@@ -43995,7 +43995,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LANDEGODE',
 				'longitude' => 'LANDEGODE',
 				'city' => 'LANDEGODE',
-				'city_id' => '48414',
+				'city_id' => '49969',
 				'state_id' => '2693',
 			),
 			4398 => 
@@ -44015,7 +44015,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MISVÆR',
 				'longitude' => 'MISVÆR',
 				'city' => 'MISVÆR',
-				'city_id' => '48414',
+				'city_id' => '49970',
 				'state_id' => '2693',
 			),
 			4400 => 
@@ -44025,7 +44025,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKJERSTAD',
 				'longitude' => 'SKJERSTAD',
 				'city' => 'SKJERSTAD',
-				'city_id' => '48414',
+				'city_id' => '49971',
 				'state_id' => '2693',
 			),
 			4401 => 
@@ -44035,7 +44035,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BREIVIK I SALTEN',
 				'longitude' => 'BREIVIK I SALTEN',
 				'city' => 'BREIVIK I SALTEN',
-				'city_id' => '48414',
+				'city_id' => '49972',
 				'state_id' => '2693',
 			),
 			4402 => 
@@ -44045,7 +44045,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MISVÆR',
 				'longitude' => 'MISVÆR',
 				'city' => 'MISVÆR',
-				'city_id' => '48414',
+				'city_id' => '49970',
 				'state_id' => '2693',
 			),
 			4403 => 
@@ -44055,7 +44055,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '67.0067',
 				'longitude' => '14.5764',
 				'city' => 'MOLDJORD',
-				'city_id' => '48412',
+				'city_id' => '49973',
 				'state_id' => '2693',
 			),
 			4404 => 
@@ -44065,7 +44065,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TOLLÅ',
 				'longitude' => 'TOLLÅ',
 				'city' => 'TOLLÅ',
-				'city_id' => '48412',
+				'city_id' => '49974',
 				'state_id' => '2693',
 			),
 			4405 => 
@@ -44075,7 +44075,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '67.0067',
 				'longitude' => '14.5764',
 				'city' => 'MOLDJORD',
-				'city_id' => '48412',
+				'city_id' => '49973',
 				'state_id' => '2693',
 			),
 			4406 => 
@@ -44085,7 +44085,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NYGÅRDSJØEN',
 				'longitude' => 'NYGÅRDSJØEN',
 				'city' => 'NYGÅRDSJØEN',
-				'city_id' => '48421',
+				'city_id' => '49975',
 				'state_id' => '2693',
 			),
 			4407 => 
@@ -44095,7 +44095,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'YTRE BEIARN',
 				'longitude' => 'YTRE BEIARN',
 				'city' => 'YTRE BEIARN',
-				'city_id' => '48412',
+				'city_id' => '49976',
 				'state_id' => '2693',
 			),
 			4408 => 
@@ -44105,7 +44105,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SANDHORNØY',
 				'longitude' => 'SANDHORNØY',
 				'city' => 'SANDHORNØY',
-				'city_id' => '48421',
+				'city_id' => '49977',
 				'state_id' => '2693',
 			),
 			4409 => 
@@ -44115,7 +44115,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SØRARNØY',
 				'longitude' => 'SØRARNØY',
 				'city' => 'SØRARNØY',
-				'city_id' => '48421',
+				'city_id' => '49978',
 				'state_id' => '2693',
 			),
 			4410 => 
@@ -44125,7 +44125,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SØRARNØY',
 				'longitude' => 'SØRARNØY',
 				'city' => 'SØRARNØY',
-				'city_id' => '48421',
+				'city_id' => '49978',
 				'state_id' => '2693',
 			),
 			4411 => 
@@ -44135,7 +44135,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NORDARNØY',
 				'longitude' => 'NORDARNØY',
 				'city' => 'NORDARNØY',
-				'city_id' => '48421',
+				'city_id' => '49979',
 				'state_id' => '2693',
 			),
 			4412 => 
@@ -44145,7 +44145,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '67.0333',
 				'longitude' => '14.0333',
 				'city' => 'INNDYR',
-				'city_id' => '48421',
+				'city_id' => '49980',
 				'state_id' => '2693',
 			),
 			4413 => 
@@ -44155,7 +44155,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '67.0333',
 				'longitude' => '14.0333',
 				'city' => 'INNDYR',
-				'city_id' => '48421',
+				'city_id' => '49980',
 				'state_id' => '2693',
 			),
 			4414 => 
@@ -44165,7 +44165,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STORVIK',
 				'longitude' => 'STORVIK',
 				'city' => 'STORVIK',
-				'city_id' => '48421',
+				'city_id' => '49981',
 				'state_id' => '2693',
 			),
 			4415 => 
@@ -44175,7 +44175,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'REIPÅ',
 				'longitude' => 'REIPÅ',
 				'city' => 'REIPÅ',
-				'city_id' => '48431',
+				'city_id' => '49982',
 				'state_id' => '2693',
 			),
 			4416 => 
@@ -44185,7 +44185,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NEVERDAL',
 				'longitude' => 'NEVERDAL',
 				'city' => 'NEVERDAL',
-				'city_id' => '48431',
+				'city_id' => '49983',
 				'state_id' => '2693',
 			),
 			4417 => 
@@ -44195,7 +44195,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '66.8667',
 				'longitude' => '13.7',
 				'city' => 'ØRNES',
-				'city_id' => '48431',
+				'city_id' => '49984',
 				'state_id' => '2693',
 			),
 			4418 => 
@@ -44205,7 +44205,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '66.8667',
 				'longitude' => '13.7',
 				'city' => 'ØRNES',
-				'city_id' => '48431',
+				'city_id' => '49984',
 				'state_id' => '2693',
 			),
 			4419 => 
@@ -44225,7 +44225,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BOLGA',
 				'longitude' => 'BOLGA',
 				'city' => 'BOLGA',
-				'city_id' => '48431',
+				'city_id' => '49985',
 				'state_id' => '2693',
 			),
 			4421 => 
@@ -44235,7 +44235,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STØTT',
 				'longitude' => 'STØTT',
 				'city' => 'STØTT',
-				'city_id' => '48431',
+				'city_id' => '49986',
 				'state_id' => '2693',
 			),
 			4422 => 
@@ -44245,7 +44245,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GLOMFJORD',
 				'longitude' => 'GLOMFJORD',
 				'city' => 'GLOMFJORD',
-				'city_id' => '48431',
+				'city_id' => '49987',
 				'state_id' => '2693',
 			),
 			4423 => 
@@ -44255,7 +44255,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GLOMFJORD',
 				'longitude' => 'GLOMFJORD',
 				'city' => 'GLOMFJORD',
-				'city_id' => '48431',
+				'city_id' => '49987',
 				'state_id' => '2693',
 			),
 			4424 => 
@@ -44265,7 +44265,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ENGAVÅGEN',
 				'longitude' => 'ENGAVÅGEN',
 				'city' => 'ENGAVÅGEN',
-				'city_id' => '48431',
+				'city_id' => '49988',
 				'state_id' => '2693',
 			),
 			4425 => 
@@ -44275,7 +44275,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ENGAVÅGEN',
 				'longitude' => 'ENGAVÅGEN',
 				'city' => 'ENGAVÅGEN',
-				'city_id' => '48431',
+				'city_id' => '49988',
 				'state_id' => '2693',
 			),
 			4426 => 
@@ -44285,7 +44285,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HALSA',
 				'longitude' => 'HALSA',
 				'city' => 'HALSA',
-				'city_id' => '48431',
+				'city_id' => '49989',
 				'state_id' => '2693',
 			),
 			4427 => 
@@ -44295,7 +44295,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HALSA',
 				'longitude' => 'HALSA',
 				'city' => 'HALSA',
-				'city_id' => '48431',
+				'city_id' => '49989',
 				'state_id' => '2693',
 			),
 			4428 => 
@@ -44305,7 +44305,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MYKEN',
 				'longitude' => 'MYKEN',
 				'city' => 'MYKEN',
-				'city_id' => '48436',
+				'city_id' => '49990',
 				'state_id' => '2693',
 			),
 			4429 => 
@@ -44315,7 +44315,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MELFJORDBOTN',
 				'longitude' => 'MELFJORDBOTN',
 				'city' => 'MELFJORDBOTN',
-				'city_id' => '48436',
+				'city_id' => '49991',
 				'state_id' => '2693',
 			),
 			4430 => 
@@ -44325,7 +44325,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '66.7091',
 				'longitude' => '13.2693',
 				'city' => 'VÅGAHOLMEN',
-				'city_id' => '48436',
+				'city_id' => '49992',
 				'state_id' => '2693',
 			),
 			4431 => 
@@ -44335,7 +44335,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ÅGSKARDET',
 				'longitude' => 'ÅGSKARDET',
 				'city' => 'ÅGSKARDET',
-				'city_id' => '48436',
+				'city_id' => '49993',
 				'state_id' => '2693',
 			),
 			4432 => 
@@ -44345,7 +44345,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '66.7091',
 				'longitude' => '13.2693',
 				'city' => 'VÅGAHOLMEN',
-				'city_id' => '48436',
+				'city_id' => '49992',
 				'state_id' => '2693',
 			),
 			4433 => 
@@ -44355,7 +44355,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TJONGSFJORDEN',
 				'longitude' => 'TJONGSFJORDEN',
 				'city' => 'TJONGSFJORDEN',
-				'city_id' => '48436',
+				'city_id' => '49994',
 				'state_id' => '2693',
 			),
 			4434 => 
@@ -44365,7 +44365,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'JEKTVIK',
 				'longitude' => 'JEKTVIK',
 				'city' => 'JEKTVIK',
-				'city_id' => '48436',
+				'city_id' => '49995',
 				'state_id' => '2693',
 			),
 			4435 => 
@@ -44375,7 +44375,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NORDVERNES',
 				'longitude' => 'NORDVERNES',
 				'city' => 'NORDVERNES',
-				'city_id' => '48436',
+				'city_id' => '49996',
 				'state_id' => '2693',
 			),
 			4436 => 
@@ -44385,7 +44385,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GJERSVIKGRENDA',
 				'longitude' => 'GJERSVIKGRENDA',
 				'city' => 'GJERSVIKGRENDA',
-				'city_id' => '48436',
+				'city_id' => '49997',
 				'state_id' => '2693',
 			),
 			4437 => 
@@ -44395,7 +44395,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SØRFJORDEN',
 				'longitude' => 'SØRFJORDEN',
 				'city' => 'SØRFJORDEN',
-				'city_id' => '48436',
+				'city_id' => '49998',
 				'state_id' => '2693',
 			),
 			4438 => 
@@ -44405,7 +44405,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'JEKTVIK',
 				'longitude' => 'JEKTVIK',
 				'city' => 'JEKTVIK',
-				'city_id' => '48436',
+				'city_id' => '49995',
 				'state_id' => '2693',
 			),
 			4439 => 
@@ -44425,7 +44425,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GJERØY',
 				'longitude' => 'GJERØY',
 				'city' => 'GJERØY',
-				'city_id' => '48436',
+				'city_id' => '49999',
 				'state_id' => '2693',
 			),
 			4441 => 
@@ -44435,7 +44435,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SELSØYVIK',
 				'longitude' => 'SELSØYVIK',
 				'city' => 'SELSØYVIK',
-				'city_id' => '48436',
+				'city_id' => '50000',
 				'state_id' => '2693',
 			),
 			4442 => 
@@ -44445,7 +44445,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STORSELSØY',
 				'longitude' => 'STORSELSØY',
 				'city' => 'STORSELSØY',
-				'city_id' => '48436',
+				'city_id' => '50001',
 				'state_id' => '2693',
 			),
 			4443 => 
@@ -44455,7 +44455,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NORDNESØY',
 				'longitude' => 'NORDNESØY',
 				'city' => 'NORDNESØY',
-				'city_id' => '48436',
+				'city_id' => '50002',
 				'state_id' => '2693',
 			),
 			4444 => 
@@ -44585,7 +44585,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VALNESFJORD',
 				'longitude' => 'VALNESFJORD',
 				'city' => 'VALNESFJORD',
-				'city_id' => '48419',
+				'city_id' => '50003',
 				'state_id' => '2693',
 			),
 			4457 => 
@@ -44615,7 +44615,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RØSVIK',
 				'longitude' => 'RØSVIK',
 				'city' => 'RØSVIK',
-				'city_id' => '48442',
+				'city_id' => '50004',
 				'state_id' => '2693',
 			),
 			4460 => 
@@ -44625,7 +44625,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '63.8712',
 				'longitude' => '11.2994',
 				'city' => 'STRAUMEN',
-				'city_id' => '48442',
+				'city_id' => '50005',
 				'state_id' => '2693',
 			),
 			4461 => 
@@ -44635,7 +44635,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SULITJELMA',
 				'longitude' => 'SULITJELMA',
 				'city' => 'SULITJELMA',
-				'city_id' => '48419',
+				'city_id' => '50006',
 				'state_id' => '2693',
 			),
 			4462 => 
@@ -44645,7 +44645,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SULITJELMA',
 				'longitude' => 'SULITJELMA',
 				'city' => 'SULITJELMA',
-				'city_id' => '48419',
+				'city_id' => '50006',
 				'state_id' => '2693',
 			),
 			4463 => 
@@ -44655,7 +44655,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '63.8712',
 				'longitude' => '11.2994',
 				'city' => 'STRAUMEN',
-				'city_id' => '48442',
+				'city_id' => '50005',
 				'state_id' => '2693',
 			),
 			4464 => 
@@ -44665,7 +44665,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VALNESFJORD',
 				'longitude' => 'VALNESFJORD',
 				'city' => 'VALNESFJORD',
-				'city_id' => '48419',
+				'city_id' => '50003',
 				'state_id' => '2693',
 			),
 			4465 => 
@@ -44675,7 +44675,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '67.1',
 				'longitude' => '15.3833',
 				'city' => 'ROGNAN',
-				'city_id' => '48438',
+				'city_id' => '50007',
 				'state_id' => '2693',
 			),
 			4466 => 
@@ -44685,7 +44685,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '67.1',
 				'longitude' => '15.3833',
 				'city' => 'ROGNAN',
-				'city_id' => '48438',
+				'city_id' => '50007',
 				'state_id' => '2693',
 			),
 			4467 => 
@@ -44695,7 +44695,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '67.1',
 				'longitude' => '15.3833',
 				'city' => 'ROGNAN',
-				'city_id' => '48438',
+				'city_id' => '50007',
 				'state_id' => '2693',
 			),
 			4468 => 
@@ -44705,7 +44705,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '67.1',
 				'longitude' => '15.3833',
 				'city' => 'ROGNAN',
-				'city_id' => '48438',
+				'city_id' => '50007',
 				'state_id' => '2693',
 			),
 			4469 => 
@@ -44715,7 +44715,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RØKLAND',
 				'longitude' => 'RØKLAND',
 				'city' => 'RØKLAND',
-				'city_id' => '48438',
+				'city_id' => '50008',
 				'state_id' => '2693',
 			),
 			4470 => 
@@ -44725,7 +44725,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RØKLAND',
 				'longitude' => 'RØKLAND',
 				'city' => 'RØKLAND',
-				'city_id' => '48438',
+				'city_id' => '50008',
 				'state_id' => '2693',
 			),
 			4471 => 
@@ -44735,7 +44735,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'INNHAVET',
 				'longitude' => 'INNHAVET',
 				'city' => 'INNHAVET',
-				'city_id' => '48424',
+				'city_id' => '50009',
 				'state_id' => '2693',
 			),
 			4472 => 
@@ -44745,7 +44745,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'INNHAVET',
 				'longitude' => 'INNHAVET',
 				'city' => 'INNHAVET',
-				'city_id' => '48424',
+				'city_id' => '50009',
 				'state_id' => '2693',
 			),
 			4473 => 
@@ -44755,7 +44755,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ENGAN',
 				'longitude' => 'ENGAN',
 				'city' => 'ENGAN',
-				'city_id' => '48442',
+				'city_id' => '50010',
 				'state_id' => '2693',
 			),
 			4474 => 
@@ -44765,7 +44765,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MØRSVIKBOTN',
 				'longitude' => 'MØRSVIKBOTN',
 				'city' => 'MØRSVIKBOTN',
-				'city_id' => '48442',
+				'city_id' => '50011',
 				'state_id' => '2693',
 			),
 			4475 => 
@@ -44775,7 +44775,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'DRAG',
 				'longitude' => 'DRAG',
 				'city' => 'DRAG',
-				'city_id' => '48424',
+				'city_id' => '50012',
 				'state_id' => '2693',
 			),
 			4476 => 
@@ -44785,7 +44785,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'DRAG',
 				'longitude' => 'DRAG',
 				'city' => 'DRAG',
-				'city_id' => '48424',
+				'city_id' => '50012',
 				'state_id' => '2693',
 			),
 			4477 => 
@@ -44795,7 +44795,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NEVERVIK',
 				'longitude' => 'NEVERVIK',
 				'city' => 'NEVERVIK',
-				'city_id' => '48424',
+				'city_id' => '50013',
 				'state_id' => '2693',
 			),
 			4478 => 
@@ -44805,7 +44805,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MUSKEN',
 				'longitude' => 'MUSKEN',
 				'city' => 'MUSKEN',
-				'city_id' => '48424',
+				'city_id' => '50014',
 				'state_id' => '2693',
 			),
 			4479 => 
@@ -44815,7 +44815,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STORJORD I TYSFJORD',
 				'longitude' => 'STORJORD I TYSFJORD',
 				'city' => 'STORJORD I TYSFJORD',
-				'city_id' => '48424',
+				'city_id' => '50015',
 				'state_id' => '2693',
 			),
 			4480 => 
@@ -44825,7 +44825,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ULVSVÅG',
 				'longitude' => 'ULVSVÅG',
 				'city' => 'ULVSVÅG',
-				'city_id' => '48424',
+				'city_id' => '50016',
 				'state_id' => '2693',
 			),
 			4481 => 
@@ -44835,7 +44835,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STORÅ',
 				'longitude' => 'STORÅ',
 				'city' => 'STORÅ',
-				'city_id' => '48433',
+				'city_id' => '50017',
 				'state_id' => '2693',
 			),
 			4482 => 
@@ -44845,7 +44845,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '67.7765',
 				'longitude' => '15.0147',
 				'city' => 'LEINESFJORD',
-				'city_id' => '48440',
+				'city_id' => '50018',
 				'state_id' => '2693',
 			),
 			4483 => 
@@ -44855,7 +44855,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '67.7765',
 				'longitude' => '15.0147',
 				'city' => 'LEINESFJORD',
-				'city_id' => '48440',
+				'city_id' => '50018',
 				'state_id' => '2693',
 			),
 			4484 => 
@@ -44865,7 +44865,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LEINES',
 				'longitude' => 'LEINES',
 				'city' => 'LEINES',
-				'city_id' => '48440',
+				'city_id' => '50019',
 				'state_id' => '2693',
 			),
 			4485 => 
@@ -44875,7 +44875,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NORDFOLD',
 				'longitude' => 'NORDFOLD',
 				'city' => 'NORDFOLD',
-				'city_id' => '48440',
+				'city_id' => '50020',
 				'state_id' => '2693',
 			),
 			4486 => 
@@ -44885,7 +44885,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ENGELØYA',
 				'longitude' => 'ENGELØYA',
 				'city' => 'ENGELØYA',
-				'city_id' => '48440',
+				'city_id' => '50021',
 				'state_id' => '2693',
 			),
 			4487 => 
@@ -44895,7 +44895,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BOGØY',
 				'longitude' => 'BOGØY',
 				'city' => 'BOGØY',
-				'city_id' => '48440',
+				'city_id' => '50022',
 				'state_id' => '2693',
 			),
 			4488 => 
@@ -44905,7 +44905,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ENGELØYA',
 				'longitude' => 'ENGELØYA',
 				'city' => 'ENGELØYA',
-				'city_id' => '48440',
+				'city_id' => '50021',
 				'state_id' => '2693',
 			),
 			4489 => 
@@ -44915,7 +44915,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKUTVIK',
 				'longitude' => 'SKUTVIK',
 				'city' => 'SKUTVIK',
-				'city_id' => '48424',
+				'city_id' => '50023',
 				'state_id' => '2693',
 			),
 			4490 => 
@@ -44935,7 +44935,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TRANØY',
 				'longitude' => 'TRANØY',
 				'city' => 'TRANØY',
-				'city_id' => '48424',
+				'city_id' => '50024',
 				'state_id' => '2693',
 			),
 			4492 => 
@@ -44955,7 +44955,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '68.2333',
 				'longitude' => '14.5667',
 				'city' => 'SVOLVÆR',
-				'city_id' => '48447',
+				'city_id' => '50025',
 				'state_id' => '2693',
 			),
 			4494 => 
@@ -44965,7 +44965,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '68.2333',
 				'longitude' => '14.5667',
 				'city' => 'SVOLVÆR',
-				'city_id' => '48447',
+				'city_id' => '50025',
 				'state_id' => '2693',
 			),
 			4495 => 
@@ -44975,7 +44975,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '68.2333',
 				'longitude' => '14.5667',
 				'city' => 'SVOLVÆR',
-				'city_id' => '48447',
+				'city_id' => '50025',
 				'state_id' => '2693',
 			),
 			4496 => 
@@ -44985,7 +44985,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KABELVÅG',
 				'longitude' => 'KABELVÅG',
 				'city' => 'KABELVÅG',
-				'city_id' => '48447',
+				'city_id' => '50026',
 				'state_id' => '2693',
 			),
 			4497 => 
@@ -44995,7 +44995,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KABELVÅG',
 				'longitude' => 'KABELVÅG',
 				'city' => 'KABELVÅG',
-				'city_id' => '48447',
+				'city_id' => '50026',
 				'state_id' => '2693',
 			),
 			4498 => 
@@ -45005,7 +45005,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HENNINGSVÆR',
 				'longitude' => 'HENNINGSVÆR',
 				'city' => 'HENNINGSVÆR',
-				'city_id' => '48447',
+				'city_id' => '50027',
 				'state_id' => '2693',
 			),
 			4499 => 
@@ -45015,7 +45015,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HENNINGSVÆR',
 				'longitude' => 'HENNINGSVÆR',
 				'city' => 'HENNINGSVÆR',
-				'city_id' => '48447',
+				'city_id' => '50027',
 				'state_id' => '2693',
 			),
 			4500 => 
@@ -45025,7 +45025,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KLEPPSTAD',
 				'longitude' => 'KLEPPSTAD',
 				'city' => 'KLEPPSTAD',
-				'city_id' => '48447',
+				'city_id' => '50028',
 				'state_id' => '2693',
 			),
 			4501 => 
@@ -45035,7 +45035,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GIMSØYSAND',
 				'longitude' => 'GIMSØYSAND',
 				'city' => 'GIMSØYSAND',
-				'city_id' => '48447',
+				'city_id' => '50029',
 				'state_id' => '2693',
 			),
 			4502 => 
@@ -45045,7 +45045,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LAUKVIK',
 				'longitude' => 'LAUKVIK',
 				'city' => 'LAUKVIK',
-				'city_id' => '48447',
+				'city_id' => '50030',
 				'state_id' => '2693',
 			),
 			4503 => 
@@ -45055,7 +45055,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LAUPSTAD',
 				'longitude' => 'LAUPSTAD',
 				'city' => 'LAUPSTAD',
-				'city_id' => '48447',
+				'city_id' => '50031',
 				'state_id' => '2693',
 			),
 			4504 => 
@@ -45065,7 +45065,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STRØNSTAD',
 				'longitude' => 'STRØNSTAD',
 				'city' => 'STRØNSTAD',
-				'city_id' => '48423',
+				'city_id' => '50032',
 				'state_id' => '2693',
 			),
 			4505 => 
@@ -45075,7 +45075,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKROVA',
 				'longitude' => 'SKROVA',
 				'city' => 'SKROVA',
-				'city_id' => '48447',
+				'city_id' => '50033',
 				'state_id' => '2693',
 			),
 			4506 => 
@@ -45085,7 +45085,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BRETTESNES',
 				'longitude' => 'BRETTESNES',
 				'city' => 'BRETTESNES',
-				'city_id' => '48447',
+				'city_id' => '50034',
 				'state_id' => '2693',
 			),
 			4507 => 
@@ -45095,7 +45095,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STORFJELL',
 				'longitude' => 'STORFJELL',
 				'city' => 'STORFJELL',
-				'city_id' => '48447',
+				'city_id' => '50035',
 				'state_id' => '2693',
 			),
 			4508 => 
@@ -45105,7 +45105,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'DIGERMULEN',
 				'longitude' => 'DIGERMULEN',
 				'city' => 'DIGERMULEN',
-				'city_id' => '48447',
+				'city_id' => '50036',
 				'state_id' => '2693',
 			),
 			4509 => 
@@ -45115,7 +45115,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TENGELFJORD',
 				'longitude' => 'TENGELFJORD',
 				'city' => 'TENGELFJORD',
-				'city_id' => '48423',
+				'city_id' => '50037',
 				'state_id' => '2693',
 			),
 			4510 => 
@@ -45125,7 +45125,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MYRLAND',
 				'longitude' => 'MYRLAND',
 				'city' => 'MYRLAND',
-				'city_id' => '48423',
+				'city_id' => '50038',
 				'state_id' => '2693',
 			),
 			4511 => 
@@ -45135,7 +45135,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STORMOLLA',
 				'longitude' => 'STORMOLLA',
 				'city' => 'STORMOLLA',
-				'city_id' => '48447',
+				'city_id' => '50039',
 				'state_id' => '2693',
 			),
 			4512 => 
@@ -45145,7 +45145,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STAMSUND',
 				'longitude' => 'STAMSUND',
 				'city' => 'STAMSUND',
-				'city_id' => '48445',
+				'city_id' => '50040',
 				'state_id' => '2693',
 			),
 			4513 => 
@@ -45155,7 +45155,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SENNESVIK',
 				'longitude' => 'SENNESVIK',
 				'city' => 'SENNESVIK',
-				'city_id' => '48445',
+				'city_id' => '50041',
 				'state_id' => '2693',
 			),
 			4514 => 
@@ -45165,7 +45165,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VALBERG',
 				'longitude' => 'VALBERG',
 				'city' => 'VALBERG',
-				'city_id' => '48445',
+				'city_id' => '50042',
 				'state_id' => '2693',
 			),
 			4515 => 
@@ -45175,7 +45175,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BØSTAD',
 				'longitude' => 'BØSTAD',
 				'city' => 'BØSTAD',
-				'city_id' => '48445',
+				'city_id' => '50043',
 				'state_id' => '2693',
 			),
 			4516 => 
@@ -45185,7 +45185,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BØSTAD',
 				'longitude' => 'BØSTAD',
 				'city' => 'BØSTAD',
-				'city_id' => '48445',
+				'city_id' => '50043',
 				'state_id' => '2693',
 			),
 			4517 => 
@@ -45195,7 +45195,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '68.1452',
 				'longitude' => '13.5993',
 				'city' => 'LEKNES',
-				'city_id' => '48445',
+				'city_id' => '50044',
 				'state_id' => '2693',
 			),
 			4518 => 
@@ -45205,7 +45205,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GRAVDAL',
 				'longitude' => 'GRAVDAL',
 				'city' => 'GRAVDAL',
-				'city_id' => '48445',
+				'city_id' => '50045',
 				'state_id' => '2693',
 			),
 			4519 => 
@@ -45215,7 +45215,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BALLSTAD',
 				'longitude' => 'BALLSTAD',
 				'city' => 'BALLSTAD',
-				'city_id' => '48445',
+				'city_id' => '50046',
 				'state_id' => '2693',
 			),
 			4520 => 
@@ -45225,7 +45225,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BALLSTAD',
 				'longitude' => 'BALLSTAD',
 				'city' => 'BALLSTAD',
-				'city_id' => '48445',
+				'city_id' => '50046',
 				'state_id' => '2693',
 			),
 			4521 => 
@@ -45235,7 +45235,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '68.1452',
 				'longitude' => '13.5993',
 				'city' => 'LEKNES',
-				'city_id' => '48445',
+				'city_id' => '50044',
 				'state_id' => '2693',
 			),
 			4522 => 
@@ -45245,7 +45245,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GRAVDAL',
 				'longitude' => 'GRAVDAL',
 				'city' => 'GRAVDAL',
-				'city_id' => '48445',
+				'city_id' => '50045',
 				'state_id' => '2693',
 			),
 			4523 => 
@@ -45255,7 +45255,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STAMSUND',
 				'longitude' => 'STAMSUND',
 				'city' => 'STAMSUND',
-				'city_id' => '48445',
+				'city_id' => '50040',
 				'state_id' => '2693',
 			),
 			4524 => 
@@ -45265,7 +45265,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '68.0833',
 				'longitude' => '13.2333',
 				'city' => 'RAMBERG',
-				'city_id' => '48420',
+				'city_id' => '50047',
 				'state_id' => '2693',
 			),
 			4525 => 
@@ -45275,7 +45275,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NAPP',
 				'longitude' => 'NAPP',
 				'city' => 'NAPP',
-				'city_id' => '48420',
+				'city_id' => '50048',
 				'state_id' => '2693',
 			),
 			4526 => 
@@ -45285,7 +45285,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SUND I LOFOTEN',
 				'longitude' => 'SUND I LOFOTEN',
 				'city' => 'SUND I LOFOTEN',
-				'city_id' => '48420',
+				'city_id' => '50049',
 				'state_id' => '2693',
 			),
 			4527 => 
@@ -45295,7 +45295,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FREDVANG',
 				'longitude' => 'FREDVANG',
 				'city' => 'FREDVANG',
-				'city_id' => '48420',
+				'city_id' => '50050',
 				'state_id' => '2693',
 			),
 			4528 => 
@@ -45305,7 +45305,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '68.0833',
 				'longitude' => '13.2333',
 				'city' => 'RAMBERG',
-				'city_id' => '48420',
+				'city_id' => '50047',
 				'state_id' => '2693',
 			),
 			4529 => 
@@ -45315,7 +45315,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '67.9337',
 				'longitude' => '13.0891',
 				'city' => 'REINE',
-				'city_id' => '48432',
+				'city_id' => '22125',
 				'state_id' => '2693',
 			),
 			4530 => 
@@ -45325,7 +45325,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SØRVÅGEN',
 				'longitude' => 'SØRVÅGEN',
 				'city' => 'SØRVÅGEN',
-				'city_id' => '48432',
+				'city_id' => '50051',
 				'state_id' => '2693',
 			),
 			4531 => 
@@ -45335,7 +45335,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SØRVÅGEN',
 				'longitude' => 'SØRVÅGEN',
 				'city' => 'SØRVÅGEN',
-				'city_id' => '48432',
+				'city_id' => '50051',
 				'state_id' => '2693',
 			),
 			4532 => 
@@ -45345,7 +45345,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '67.9337',
 				'longitude' => '13.0891',
 				'city' => 'REINE',
-				'city_id' => '48432',
+				'city_id' => '22125',
 				'state_id' => '2693',
 			),
 			4533 => 
@@ -45445,7 +45445,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GULLESFJORD',
 				'longitude' => 'GULLESFJORD',
 				'city' => 'GULLESFJORD',
-				'city_id' => '48511',
+				'city_id' => '50052',
 				'state_id' => '2697',
 			),
 			4543 => 
@@ -45475,7 +45475,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.575GD',
 				'longitude' => 'VESTBYGD',
 				'city' => 'VESTBYGD',
-				'city_id' => '48430',
+				'city_id' => '50053',
 				'state_id' => '2693',
 			),
 			4546 => 
@@ -45485,7 +45485,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KVITNES',
 				'longitude' => 'KVITNES',
 				'city' => 'KVITNES',
-				'city_id' => '48423',
+				'city_id' => '50054',
 				'state_id' => '2693',
 			),
 			4547 => 
@@ -45495,7 +45495,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HENNES',
 				'longitude' => 'HENNES',
 				'city' => 'HENNES',
-				'city_id' => '48423',
+				'city_id' => '50055',
 				'state_id' => '2693',
 			),
 			4548 => 
@@ -45535,7 +45535,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BARKESTAD',
 				'longitude' => 'BARKESTAD',
 				'city' => 'BARKESTAD',
-				'city_id' => '48449',
+				'city_id' => '50056',
 				'state_id' => '2693',
 			),
 			4552 => 
@@ -45545,7 +45545,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TUNSTAD',
 				'longitude' => 'TUNSTAD',
 				'city' => 'TUNSTAD',
-				'city_id' => '48449',
+				'city_id' => '50057',
 				'state_id' => '2693',
 			),
 			4553 => 
@@ -45555,7 +45555,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '68.9',
 				'longitude' => '15.0833',
 				'city' => 'MYRE',
-				'city_id' => '48449',
+				'city_id' => '50058',
 				'state_id' => '2693',
 			),
 			4554 => 
@@ -45565,7 +45565,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ALSVÅG',
 				'longitude' => 'ALSVÅG',
 				'city' => 'ALSVÅG',
-				'city_id' => '48449',
+				'city_id' => '50059',
 				'state_id' => '2693',
 			),
 			4555 => 
@@ -45575,7 +45575,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STØ',
 				'longitude' => 'STØ',
 				'city' => 'STØ',
-				'city_id' => '48449',
+				'city_id' => '50060',
 				'state_id' => '2693',
 			),
 			4556 => 
@@ -45585,7 +45585,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '68.9',
 				'longitude' => '15.0833',
 				'city' => 'MYRE',
-				'city_id' => '48449',
+				'city_id' => '50058',
 				'state_id' => '2693',
 			),
 			4557 => 
@@ -45595,7 +45595,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MELBU',
 				'longitude' => 'MELBU',
 				'city' => 'MELBU',
-				'city_id' => '48423',
+				'city_id' => '50061',
 				'state_id' => '2693',
 			),
 			4558 => 
@@ -45605,7 +45605,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LONKAN',
 				'longitude' => 'LONKAN',
 				'city' => 'LONKAN',
-				'city_id' => '48423',
+				'city_id' => '50062',
 				'state_id' => '2693',
 			),
 			4559 => 
@@ -45615,7 +45615,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '68.5656',
 				'longitude' => '14.9058',
 				'city' => 'STOKMARKNES',
-				'city_id' => '48423',
+				'city_id' => '50063',
 				'state_id' => '2693',
 			),
 			4560 => 
@@ -45625,7 +45625,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '68.5656',
 				'longitude' => '14.9058',
 				'city' => 'STOKMARKNES',
-				'city_id' => '48423',
+				'city_id' => '50063',
 				'state_id' => '2693',
 			),
 			4561 => 
@@ -45635,7 +45635,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MELBU',
 				'longitude' => 'MELBU',
 				'city' => 'MELBU',
-				'city_id' => '48423',
+				'city_id' => '50061',
 				'state_id' => '2693',
 			),
 			4562 => 
@@ -45645,7 +45645,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '68.6944',
 				'longitude' => '14.4718',
 				'city' => 'STRAUMSJØEN',
-				'city_id' => '48689',
+				'city_id' => '50064',
 				'state_id' => '2693',
 			),
 			4563 => 
@@ -45655,7 +45655,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BØ I VESTERÅLEN',
 				'longitude' => 'BØ I VESTERÅLEN',
 				'city' => 'BØ I VESTERÅLEN',
-				'city_id' => '48689',
+				'city_id' => '50065',
 				'state_id' => '2693',
 			),
 			4564 => 
@@ -45665,7 +45665,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BØ I VESTERÅLEN',
 				'longitude' => 'BØ I VESTERÅLEN',
 				'city' => 'BØ I VESTERÅLEN',
-				'city_id' => '48689',
+				'city_id' => '50065',
 				'state_id' => '2693',
 			),
 			4565 => 
@@ -45675,7 +45675,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '68.6944',
 				'longitude' => '14.4718',
 				'city' => 'STRAUMSJØEN',
-				'city_id' => '48689',
+				'city_id' => '50064',
 				'state_id' => '2693',
 			),
 			4566 => 
@@ -45685,7 +45685,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.3203',
 				'longitude' => '16.1428',
 				'city' => 'ANDENES',
-				'city_id' => '48411',
+				'city_id' => '50066',
 				'state_id' => '2693',
 			),
 			4567 => 
@@ -45695,7 +45695,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BLEIK',
 				'longitude' => 'BLEIK',
 				'city' => 'BLEIK',
-				'city_id' => '48411',
+				'city_id' => '50067',
 				'state_id' => '2693',
 			),
 			4568 => 
@@ -45705,7 +45705,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.3203',
 				'longitude' => '16.1428',
 				'city' => 'ANDENES',
-				'city_id' => '48411',
+				'city_id' => '50066',
 				'state_id' => '2693',
 			),
 			4569 => 
@@ -45715,7 +45715,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RISØYHAMN',
 				'longitude' => 'RISØYHAMN',
 				'city' => 'RISØYHAMN',
-				'city_id' => '48411',
+				'city_id' => '50068',
 				'state_id' => '2693',
 			),
 			4570 => 
@@ -45725,7 +45725,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'DVERBERG',
 				'longitude' => 'DVERBERG',
 				'city' => 'DVERBERG',
-				'city_id' => '48411',
+				'city_id' => '50069',
 				'state_id' => '2693',
 			),
 			4571 => 
@@ -45735,7 +45735,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NØSS',
 				'longitude' => 'NØSS',
 				'city' => 'NØSS',
-				'city_id' => '48411',
+				'city_id' => '50070',
 				'state_id' => '2693',
 			),
 			4572 => 
@@ -45745,7 +45745,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NORDMELA',
 				'longitude' => 'NORDMELA',
 				'city' => 'NORDMELA',
-				'city_id' => '48411',
+				'city_id' => '50071',
 				'state_id' => '2693',
 			),
 			4573 => 
@@ -45755,7 +45755,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RISØYHAMN',
 				'longitude' => 'RISØYHAMN',
 				'city' => 'RISØYHAMN',
-				'city_id' => '48411',
+				'city_id' => '50068',
 				'state_id' => '2693',
 			),
 			4574 => 
@@ -45875,7 +45875,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ANKENES',
 				'longitude' => 'ANKENES',
 				'city' => 'ANKENES',
-				'city_id' => '48433',
+				'city_id' => '50072',
 				'state_id' => '2693',
 			),
 			4586 => 
@@ -45945,7 +45945,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ANKENES',
 				'longitude' => 'ANKENES',
 				'city' => 'ANKENES',
-				'city_id' => '48433',
+				'city_id' => '50072',
 				'state_id' => '2693',
 			),
 			4593 => 
@@ -45955,7 +45955,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ANKENES',
 				'longitude' => 'ANKENES',
 				'city' => 'ANKENES',
-				'city_id' => '48433',
+				'city_id' => '50072',
 				'state_id' => '2693',
 			),
 			4594 => 
@@ -45965,7 +45965,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BEISFJORD',
 				'longitude' => 'BEISFJORD',
 				'city' => 'BEISFJORD',
-				'city_id' => '48433',
+				'city_id' => '50073',
 				'state_id' => '2693',
 			),
 			4595 => 
@@ -45975,7 +45975,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKJOMEN',
 				'longitude' => 'SKJOMEN',
 				'city' => 'SKJOMEN',
-				'city_id' => '48433',
+				'city_id' => '50074',
 				'state_id' => '2693',
 			),
 			4596 => 
@@ -45985,7 +45985,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BJERKVIK',
 				'longitude' => 'BJERKVIK',
 				'city' => 'BJERKVIK',
-				'city_id' => '48433',
+				'city_id' => '50075',
 				'state_id' => '2693',
 			),
 			4597 => 
@@ -45995,7 +45995,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BJERKVIK',
 				'longitude' => 'BJERKVIK',
 				'city' => 'BJERKVIK',
-				'city_id' => '48433',
+				'city_id' => '50075',
 				'state_id' => '2693',
 			),
 			4598 => 
@@ -46005,7 +46005,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BOGEN I OFOTEN',
 				'longitude' => 'BOGEN I OFOTEN',
 				'city' => 'BOGEN I OFOTEN',
-				'city_id' => '48418',
+				'city_id' => '50076',
 				'state_id' => '2693',
 			),
 			4599 => 
@@ -46015,7 +46015,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LILAND',
 				'longitude' => 'LILAND',
 				'city' => 'LILAND',
-				'city_id' => '48418',
+				'city_id' => '50077',
 				'state_id' => '2693',
 			),
 			4600 => 
@@ -46025,7 +46025,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TÅRSTAD',
 				'longitude' => 'TÅRSTAD',
 				'city' => 'TÅRSTAD',
-				'city_id' => '48418',
+				'city_id' => '50078',
 				'state_id' => '2693',
 			),
 			4601 => 
@@ -46045,7 +46045,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BOGEN I OFOTEN',
 				'longitude' => 'BOGEN I OFOTEN',
 				'city' => 'BOGEN I OFOTEN',
-				'city_id' => '48418',
+				'city_id' => '50076',
 				'state_id' => '2693',
 			),
 			4603 => 
@@ -46055,7 +46055,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '68.3064',
 				'longitude' => '16.7442',
 				'city' => 'BALLANGEN',
-				'city_id' => '48433',
+				'city_id' => '50079',
 				'state_id' => '2693',
 			),
 			4604 => 
@@ -46065,7 +46065,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KJELDEBOTN',
 				'longitude' => 'KJELDEBOTN',
 				'city' => 'KJELDEBOTN',
-				'city_id' => '48433',
+				'city_id' => '50080',
 				'state_id' => '2693',
 			),
 			4605 => 
@@ -46075,7 +46075,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '68.3064',
 				'longitude' => '16.7442',
 				'city' => 'BALLANGEN',
-				'city_id' => '48433',
+				'city_id' => '50079',
 				'state_id' => '2693',
 			),
 			4606 => 
@@ -46085,7 +46085,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '68.0966',
 				'longitude' => '16.3752',
 				'city' => 'KJØPSVIK',
-				'city_id' => '48433',
+				'city_id' => '50081',
 				'state_id' => '2693',
 			),
 			4607 => 
@@ -46095,7 +46095,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '68.0966',
 				'longitude' => '16.3752',
 				'city' => 'KJØPSVIK',
-				'city_id' => '48433',
+				'city_id' => '50081',
 				'state_id' => '2693',
 			),
 			4608 => 
@@ -46105,7 +46105,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '66.3167',
 				'longitude' => '14.1667',
 				'city' => 'MO I RANA',
-				'city_id' => '48435',
+				'city_id' => '50082',
 				'state_id' => '2693',
 			),
 			4609 => 
@@ -46115,7 +46115,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '66.3167',
 				'longitude' => '14.1667',
 				'city' => 'MO I RANA',
-				'city_id' => '48435',
+				'city_id' => '50082',
 				'state_id' => '2693',
 			),
 			4610 => 
@@ -46125,7 +46125,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '66.3167',
 				'longitude' => '14.1667',
 				'city' => 'MO I RANA',
-				'city_id' => '48435',
+				'city_id' => '50082',
 				'state_id' => '2693',
 			),
 			4611 => 
@@ -46135,7 +46135,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '66.3167',
 				'longitude' => '14.1667',
 				'city' => 'MO I RANA',
-				'city_id' => '48435',
+				'city_id' => '50082',
 				'state_id' => '2693',
 			),
 			4612 => 
@@ -46145,7 +46145,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '66.3167',
 				'longitude' => '14.1667',
 				'city' => 'MO I RANA',
-				'city_id' => '48435',
+				'city_id' => '50082',
 				'state_id' => '2693',
 			),
 			4613 => 
@@ -46155,7 +46155,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '66.3167',
 				'longitude' => '14.1667',
 				'city' => 'MO I RANA',
-				'city_id' => '48435',
+				'city_id' => '50082',
 				'state_id' => '2693',
 			),
 			4614 => 
@@ -46165,7 +46165,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '66.3167',
 				'longitude' => '14.1667',
 				'city' => 'MO I RANA',
-				'city_id' => '48435',
+				'city_id' => '50082',
 				'state_id' => '2693',
 			),
 			4615 => 
@@ -46175,7 +46175,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '66.3167',
 				'longitude' => '14.1667',
 				'city' => 'MO I RANA',
-				'city_id' => '48435',
+				'city_id' => '50082',
 				'state_id' => '2693',
 			),
 			4616 => 
@@ -46185,7 +46185,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '66.3167',
 				'longitude' => '14.1667',
 				'city' => 'MO I RANA',
-				'city_id' => '48435',
+				'city_id' => '50082',
 				'state_id' => '2693',
 			),
 			4617 => 
@@ -46195,7 +46195,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '66.3167',
 				'longitude' => '14.1667',
 				'city' => 'MO I RANA',
-				'city_id' => '48435',
+				'city_id' => '50082',
 				'state_id' => '2693',
 			),
 			4618 => 
@@ -46205,7 +46205,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKONSENG',
 				'longitude' => 'SKONSENG',
 				'city' => 'SKONSENG',
-				'city_id' => '48435',
+				'city_id' => '50083',
 				'state_id' => '2693',
 			),
 			4619 => 
@@ -46215,7 +46215,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '66.3167',
 				'longitude' => '14.1667',
 				'city' => 'MO I RANA',
-				'city_id' => '48435',
+				'city_id' => '50082',
 				'state_id' => '2693',
 			),
 			4620 => 
@@ -46225,7 +46225,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'DALSGRENDA',
 				'longitude' => 'DALSGRENDA',
 				'city' => 'DALSGRENDA',
-				'city_id' => '48435',
+				'city_id' => '50084',
 				'state_id' => '2693',
 			),
 			4621 => 
@@ -46235,7 +46235,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '66.3167',
 				'longitude' => '14.1667',
 				'city' => 'MO I RANA',
-				'city_id' => '48435',
+				'city_id' => '50082',
 				'state_id' => '2693',
 			),
 			4622 => 
@@ -46245,7 +46245,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '66.3167',
 				'longitude' => '14.1667',
 				'city' => 'MO I RANA',
-				'city_id' => '48435',
+				'city_id' => '50082',
 				'state_id' => '2693',
 			),
 			4623 => 
@@ -46255,7 +46255,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '66.3167',
 				'longitude' => '14.1667',
 				'city' => 'MO I RANA',
-				'city_id' => '48435',
+				'city_id' => '50082',
 				'state_id' => '2693',
 			),
 			4624 => 
@@ -46265,7 +46265,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '66.3167',
 				'longitude' => '14.1667',
 				'city' => 'MO I RANA',
-				'city_id' => '48435',
+				'city_id' => '50082',
 				'state_id' => '2693',
 			),
 			4625 => 
@@ -46275,7 +46275,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '66.3167',
 				'longitude' => '14.1667',
 				'city' => 'MO I RANA',
-				'city_id' => '48435',
+				'city_id' => '50082',
 				'state_id' => '2693',
 			),
 			4626 => 
@@ -46285,7 +46285,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STORFORSHEI',
 				'longitude' => 'STORFORSHEI',
 				'city' => 'STORFORSHEI',
-				'city_id' => '48435',
+				'city_id' => '50085',
 				'state_id' => '2693',
 			),
 			4627 => 
@@ -46295,7 +46295,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '66.3167',
 				'longitude' => '14.1667',
 				'city' => 'MO I RANA',
-				'city_id' => '48435',
+				'city_id' => '50082',
 				'state_id' => '2693',
 			),
 			4628 => 
@@ -46305,7 +46305,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STORFORSHEI',
 				'longitude' => 'STORFORSHEI',
 				'city' => 'STORFORSHEI',
-				'city_id' => '48435',
+				'city_id' => '50085',
 				'state_id' => '2693',
 			),
 			4629 => 
@@ -46315,7 +46315,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HEMNESBERGET',
 				'longitude' => 'HEMNESBERGET',
 				'city' => 'HEMNESBERGET',
-				'city_id' => '48426',
+				'city_id' => '50086',
 				'state_id' => '2693',
 			),
 			4630 => 
@@ -46325,7 +46325,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HEMNESBERGET',
 				'longitude' => 'HEMNESBERGET',
 				'city' => 'HEMNESBERGET',
-				'city_id' => '48426',
+				'city_id' => '50086',
 				'state_id' => '2693',
 			),
 			4631 => 
@@ -46335,7 +46335,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FINNEIDFJORD',
 				'longitude' => 'FINNEIDFJORD',
 				'city' => 'FINNEIDFJORD',
-				'city_id' => '48426',
+				'city_id' => '50087',
 				'state_id' => '2693',
 			),
 			4632 => 
@@ -46345,7 +46345,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BJERKA',
 				'longitude' => 'BJERKA',
 				'city' => 'BJERKA',
-				'city_id' => '48426',
+				'city_id' => '50088',
 				'state_id' => '2693',
 			),
 			4633 => 
@@ -46355,7 +46355,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BJERKA',
 				'longitude' => 'BJERKA',
 				'city' => 'BJERKA',
-				'city_id' => '48426',
+				'city_id' => '50088',
 				'state_id' => '2693',
 			),
 			4634 => 
@@ -46365,7 +46365,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '66.0833',
 				'longitude' => '13.8333',
 				'city' => 'KORGEN',
-				'city_id' => '48426',
+				'city_id' => '50089',
 				'state_id' => '2693',
 			),
 			4635 => 
@@ -46375,7 +46375,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BLEIKVASSLIA',
 				'longitude' => 'BLEIKVASSLIA',
 				'city' => 'BLEIKVASSLIA',
-				'city_id' => '48426',
+				'city_id' => '50090',
 				'state_id' => '2693',
 			),
 			4636 => 
@@ -46385,7 +46385,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '66.0833',
 				'longitude' => '13.8333',
 				'city' => 'KORGEN',
-				'city_id' => '48426',
+				'city_id' => '50089',
 				'state_id' => '2693',
 			),
 			4637 => 
@@ -46395,7 +46395,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '65.8333',
 				'longitude' => '13.2',
 				'city' => 'MOSJØEN',
-				'city_id' => '48443',
+				'city_id' => '50091',
 				'state_id' => '2693',
 			),
 			4638 => 
@@ -46405,7 +46405,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '65.8333',
 				'longitude' => '13.2',
 				'city' => 'MOSJØEN',
-				'city_id' => '48443',
+				'city_id' => '50091',
 				'state_id' => '2693',
 			),
 			4639 => 
@@ -46415,7 +46415,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '65.8333',
 				'longitude' => '13.2',
 				'city' => 'MOSJØEN',
-				'city_id' => '48443',
+				'city_id' => '50091',
 				'state_id' => '2693',
 			),
 			4640 => 
@@ -46425,7 +46425,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '65.8333',
 				'longitude' => '13.2',
 				'city' => 'MOSJØEN',
-				'city_id' => '48443',
+				'city_id' => '50091',
 				'state_id' => '2693',
 			),
 			4641 => 
@@ -46435,7 +46435,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '65.8333',
 				'longitude' => '13.2',
 				'city' => 'MOSJØEN',
-				'city_id' => '48443',
+				'city_id' => '50091',
 				'state_id' => '2693',
 			),
 			4642 => 
@@ -46445,7 +46445,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '65.8333',
 				'longitude' => '13.2',
 				'city' => 'MOSJØEN',
-				'city_id' => '48443',
+				'city_id' => '50091',
 				'state_id' => '2693',
 			),
 			4643 => 
@@ -46455,7 +46455,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '65.8333',
 				'longitude' => '13.2',
 				'city' => 'MOSJØEN',
-				'city_id' => '48443',
+				'city_id' => '50091',
 				'state_id' => '2693',
 			),
 			4644 => 
@@ -46465,7 +46465,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '65.8333',
 				'longitude' => '13.2',
 				'city' => 'MOSJØEN',
-				'city_id' => '48443',
+				'city_id' => '50091',
 				'state_id' => '2693',
 			),
 			4645 => 
@@ -46475,7 +46475,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '65.8333',
 				'longitude' => '13.2',
 				'city' => 'MOSJØEN',
-				'city_id' => '48443',
+				'city_id' => '50091',
 				'state_id' => '2693',
 			),
 			4646 => 
@@ -46485,7 +46485,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '65.8333',
 				'longitude' => '13.2',
 				'city' => 'MOSJØEN',
-				'city_id' => '48443',
+				'city_id' => '50091',
 				'state_id' => '2693',
 			),
 			4647 => 
@@ -46495,7 +46495,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '65.8333',
 				'longitude' => '13.2',
 				'city' => 'MOSJØEN',
-				'city_id' => '48443',
+				'city_id' => '50091',
 				'state_id' => '2693',
 			),
 			4648 => 
@@ -46505,7 +46505,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '65.8333',
 				'longitude' => '13.2',
 				'city' => 'MOSJØEN',
-				'city_id' => '48443',
+				'city_id' => '50091',
 				'state_id' => '2693',
 			),
 			4649 => 
@@ -46515,7 +46515,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '65.8333',
 				'longitude' => '13.2',
 				'city' => 'MOSJØEN',
-				'city_id' => '48443',
+				'city_id' => '50091',
 				'state_id' => '2693',
 			),
 			4650 => 
@@ -46525,7 +46525,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '65.8333',
 				'longitude' => '13.2',
 				'city' => 'MOSJØEN',
-				'city_id' => '48443',
+				'city_id' => '50091',
 				'state_id' => '2693',
 			),
 			4651 => 
@@ -46535,7 +46535,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ELSFJORD',
 				'longitude' => 'ELSFJORD',
 				'city' => 'ELSFJORD',
-				'city_id' => '48443',
+				'city_id' => '50092',
 				'state_id' => '2693',
 			),
 			4652 => 
@@ -46545,7 +46545,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '65.5333',
 				'longitude' => '13.4063',
 				'city' => 'TROFORS',
-				'city_id' => '48422',
+				'city_id' => '50093',
 				'state_id' => '2693',
 			),
 			4653 => 
@@ -46555,7 +46555,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '65.5333',
 				'longitude' => '13.4063',
 				'city' => 'TROFORS',
-				'city_id' => '48422',
+				'city_id' => '50093',
 				'state_id' => '2693',
 			),
 			4654 => 
@@ -46565,7 +46565,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '65.5333',
 				'longitude' => '13.4063',
 				'city' => 'TROFORS',
-				'city_id' => '48422',
+				'city_id' => '50093',
 				'state_id' => '2693',
 			),
 			4655 => 
@@ -46575,7 +46575,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '65.5333',
 				'longitude' => '13.4063',
 				'city' => 'TROFORS',
-				'city_id' => '48422',
+				'city_id' => '50093',
 				'state_id' => '2693',
 			),
 			4656 => 
@@ -46585,7 +46585,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '65.5333',
 				'longitude' => '13.4063',
 				'city' => 'TROFORS',
-				'city_id' => '48422',
+				'city_id' => '50093',
 				'state_id' => '2693',
 			),
 			4657 => 
@@ -46595,7 +46595,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '65.5333',
 				'longitude' => '13.4063',
 				'city' => 'TROFORS',
-				'city_id' => '48422',
+				'city_id' => '50093',
 				'state_id' => '2693',
 			),
 			4658 => 
@@ -46695,7 +46695,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VIKHOLMEN',
 				'longitude' => 'VIKHOLMEN',
 				'city' => 'VIKHOLMEN',
-				'city_id' => '48434',
+				'city_id' => '50094',
 				'state_id' => '2693',
 			),
 			4668 => 
@@ -46705,7 +46705,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HUSBY',
 				'longitude' => 'HUSBY',
 				'city' => 'HUSBY',
-				'city_id' => '48434',
+				'city_id' => '50095',
 				'state_id' => '2693',
 			),
 			4669 => 
@@ -46715,7 +46715,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SAURA',
 				'longitude' => 'SAURA',
 				'city' => 'SAURA',
-				'city_id' => '48434',
+				'city_id' => '50096',
 				'state_id' => '2693',
 			),
 			4670 => 
@@ -46725,7 +46725,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'UTSKARPEN',
 				'longitude' => 'UTSKARPEN',
 				'city' => 'UTSKARPEN',
-				'city_id' => '48435',
+				'city_id' => '50097',
 				'state_id' => '2693',
 			),
 			4671 => 
@@ -46735,7 +46735,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BRATLAND',
 				'longitude' => 'BRATLAND',
 				'city' => 'BRATLAND',
-				'city_id' => '48429',
+				'city_id' => '50098',
 				'state_id' => '2693',
 			),
 			4672 => 
@@ -46745,7 +46745,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ALDRA',
 				'longitude' => 'ALDRA',
 				'city' => 'ALDRA',
-				'city_id' => '48429',
+				'city_id' => '50099',
 				'state_id' => '2693',
 			),
 			4673 => 
@@ -46755,7 +46755,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STUVLAND',
 				'longitude' => 'STUVLAND',
 				'city' => 'STUVLAND',
-				'city_id' => '48429',
+				'city_id' => '50100',
 				'state_id' => '2693',
 			),
 			4674 => 
@@ -46765,7 +46765,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STOKKVÅGEN',
 				'longitude' => 'STOKKVÅGEN',
 				'city' => 'STOKKVÅGEN',
-				'city_id' => '48429',
+				'city_id' => '50101',
 				'state_id' => '2693',
 			),
 			4675 => 
@@ -46775,7 +46775,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NORD-SOLVÆR',
 				'longitude' => 'NORD-SOLVÆR',
 				'city' => 'NORD-SOLVÆR',
-				'city_id' => '48429',
+				'city_id' => '50102',
 				'state_id' => '2693',
 			),
 			4676 => 
@@ -46785,7 +46785,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SELVÆR',
 				'longitude' => 'SELVÆR',
 				'city' => 'SELVÆR',
-				'city_id' => '48690',
+				'city_id' => '50103',
 				'state_id' => '2693',
 			),
 			4677 => 
@@ -46795,7 +46795,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'INDRE KVARØY',
 				'longitude' => 'INDRE KVARØY',
 				'city' => 'INDRE KVARØY',
-				'city_id' => '48429',
+				'city_id' => '50104',
 				'state_id' => '2693',
 			),
 			4678 => 
@@ -46805,7 +46805,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TONNES',
 				'longitude' => 'TONNES',
 				'city' => 'TONNES',
-				'city_id' => '48429',
+				'city_id' => '50105',
 				'state_id' => '2693',
 			),
 			4679 => 
@@ -46815,7 +46815,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KONSVIKOSEN',
 				'longitude' => 'KONSVIKOSEN',
 				'city' => 'KONSVIKOSEN',
-				'city_id' => '48429',
+				'city_id' => '50106',
 				'state_id' => '2693',
 			),
 			4680 => 
@@ -46825,7 +46825,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KONSVIKOSEN',
 				'longitude' => 'KONSVIKOSEN',
 				'city' => 'KONSVIKOSEN',
-				'city_id' => '48429',
+				'city_id' => '50106',
 				'state_id' => '2693',
 			),
 			4681 => 
@@ -46835,7 +46835,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ØRESVIK',
 				'longitude' => 'ØRESVIK',
 				'city' => 'ØRESVIK',
-				'city_id' => '48436',
+				'city_id' => '50107',
 				'state_id' => '2693',
 			),
 			4682 => 
@@ -46845,7 +46845,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SLENESET',
 				'longitude' => 'SLENESET',
 				'city' => 'SLENESET',
-				'city_id' => '48429',
+				'city_id' => '50108',
 				'state_id' => '2693',
 			),
 			4683 => 
@@ -46855,7 +46855,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LOVUND',
 				'longitude' => 'LOVUND',
 				'city' => 'LOVUND',
-				'city_id' => '48429',
+				'city_id' => '50109',
 				'state_id' => '2693',
 			),
 			4684 => 
@@ -46885,7 +46885,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '66.0167',
 				'longitude' => '12.6333',
 				'city' => 'SANDNESSJØEN',
-				'city_id' => '48410',
+				'city_id' => '50110',
 				'state_id' => '2693',
 			),
 			4687 => 
@@ -46895,7 +46895,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '66.0167',
 				'longitude' => '12.6333',
 				'city' => 'SANDNESSJØEN',
-				'city_id' => '48410',
+				'city_id' => '50110',
 				'state_id' => '2693',
 			),
 			4688 => 
@@ -46905,7 +46905,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '66.0167',
 				'longitude' => '12.6333',
 				'city' => 'SANDNESSJØEN',
-				'city_id' => '48410',
+				'city_id' => '50110',
 				'state_id' => '2693',
 			),
 			4689 => 
@@ -46915,7 +46915,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '66.0167',
 				'longitude' => '12.6333',
 				'city' => 'SANDNESSJØEN',
-				'city_id' => '48410',
+				'city_id' => '50110',
 				'state_id' => '2693',
 			),
 			4690 => 
@@ -46925,7 +46925,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '66.0167',
 				'longitude' => '12.6333',
 				'city' => 'SANDNESSJØEN',
-				'city_id' => '48410',
+				'city_id' => '50110',
 				'state_id' => '2693',
 			),
 			4691 => 
@@ -46935,7 +46935,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '66.0167',
 				'longitude' => '12.6333',
 				'city' => 'SANDNESSJØEN',
-				'city_id' => '48410',
+				'city_id' => '50110',
 				'state_id' => '2693',
 			),
 			4692 => 
@@ -46945,7 +46945,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '66.0167',
 				'longitude' => '12.6333',
 				'city' => 'SANDNESSJØEN',
-				'city_id' => '48410',
+				'city_id' => '50110',
 				'state_id' => '2693',
 			),
 			4693 => 
@@ -46955,7 +46955,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LØKTA',
 				'longitude' => 'LØKTA',
 				'city' => 'LØKTA',
-				'city_id' => '48417',
+				'city_id' => '50111',
 				'state_id' => '2693',
 			),
 			4694 => 
@@ -46985,7 +46985,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VANDVE',
 				'longitude' => 'VANDVE',
 				'city' => 'VANDVE',
-				'city_id' => '48417',
+				'city_id' => '50112',
 				'state_id' => '2693',
 			),
 			4697 => 
@@ -46995,7 +46995,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BRASØY',
 				'longitude' => 'BRASØY',
 				'city' => 'BRASØY',
-				'city_id' => '48427',
+				'city_id' => '50113',
 				'state_id' => '2693',
 			),
 			4698 => 
@@ -47005,7 +47005,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SANDVÆR',
 				'longitude' => 'SANDVÆR',
 				'city' => 'SANDVÆR',
-				'city_id' => '48427',
+				'city_id' => '50114',
 				'state_id' => '2693',
 			),
 			4699 => 
@@ -47015,7 +47015,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HERØY',
 				'longitude' => 'HERØY',
 				'city' => 'HERØY',
-				'city_id' => '48427',
+				'city_id' => '50115',
 				'state_id' => '2693',
 			),
 			4700 => 
@@ -47025,7 +47025,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HERØY',
 				'longitude' => 'HERØY',
 				'city' => 'HERØY',
-				'city_id' => '48427',
+				'city_id' => '50115',
 				'state_id' => '2693',
 			),
 			4701 => 
@@ -47035,7 +47035,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HERØY',
 				'longitude' => 'HERØY',
 				'city' => 'HERØY',
-				'city_id' => '48427',
+				'city_id' => '50115',
 				'state_id' => '2693',
 			),
 			4702 => 
@@ -47045,7 +47045,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'AUSTBØ',
 				'longitude' => 'AUSTBØ',
 				'city' => 'AUSTBØ',
-				'city_id' => '48410',
+				'city_id' => '50116',
 				'state_id' => '2693',
 			),
 			4703 => 
@@ -47055,7 +47055,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TJØTTA',
 				'longitude' => 'TJØTTA',
 				'city' => 'TJØTTA',
-				'city_id' => '48410',
+				'city_id' => '50117',
 				'state_id' => '2693',
 			),
 			4704 => 
@@ -47065,7 +47065,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TJØTTA',
 				'longitude' => 'TJØTTA',
 				'city' => 'TJØTTA',
-				'city_id' => '48410',
+				'city_id' => '50117',
 				'state_id' => '2693',
 			),
 			4705 => 
@@ -47075,7 +47075,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TRO',
 				'longitude' => 'TRO',
 				'city' => 'TRO',
-				'city_id' => '48410',
+				'city_id' => '50118',
 				'state_id' => '2693',
 			),
 			4706 => 
@@ -47085,7 +47085,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VISTHUS',
 				'longitude' => 'VISTHUS',
 				'city' => 'VISTHUS',
-				'city_id' => '48410',
+				'city_id' => '50119',
 				'state_id' => '2693',
 			),
 			4707 => 
@@ -47095,7 +47095,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BÆRØYVÅGEN',
 				'longitude' => 'BÆRØYVÅGEN',
 				'city' => 'BÆRØYVÅGEN',
-				'city_id' => '48410',
+				'city_id' => '50120',
 				'state_id' => '2693',
 			),
 			4708 => 
@@ -47105,7 +47105,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LEIRFJORD',
 				'longitude' => 'LEIRFJORD',
 				'city' => 'LEIRFJORD',
-				'city_id' => '48410',
+				'city_id' => '48428',
 				'state_id' => '2693',
 			),
 			4709 => 
@@ -47115,7 +47115,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LEIRFJORD',
 				'longitude' => 'LEIRFJORD',
 				'city' => 'LEIRFJORD',
-				'city_id' => '48410',
+				'city_id' => '48428',
 				'state_id' => '2693',
 			),
 			4710 => 
@@ -47125,7 +47125,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SUNDØY',
 				'longitude' => 'SUNDØY',
 				'city' => 'SUNDØY',
-				'city_id' => '48410',
+				'city_id' => '50121',
 				'state_id' => '2693',
 			),
 			4711 => 
@@ -47135,7 +47135,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BARDAL',
 				'longitude' => 'BARDAL',
 				'city' => 'BARDAL',
-				'city_id' => '48410',
+				'city_id' => '50122',
 				'state_id' => '2693',
 			),
 			4712 => 
@@ -47145,7 +47145,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '65.4749',
 				'longitude' => '12.212',
 				'city' => 'BRØNNØYSUND',
-				'city_id' => '48415',
+				'city_id' => '50123',
 				'state_id' => '2693',
 			),
 			4713 => 
@@ -47155,7 +47155,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '65.4749',
 				'longitude' => '12.212',
 				'city' => 'BRØNNØYSUND',
-				'city_id' => '48415',
+				'city_id' => '50123',
 				'state_id' => '2693',
 			),
 			4714 => 
@@ -47165,7 +47165,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '65.4749',
 				'longitude' => '12.212',
 				'city' => 'BRØNNØYSUND',
-				'city_id' => '48415',
+				'city_id' => '50123',
 				'state_id' => '2693',
 			),
 			4715 => 
@@ -47175,7 +47175,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '65.4749',
 				'longitude' => '12.212',
 				'city' => 'BRØNNØYSUND',
-				'city_id' => '48415',
+				'city_id' => '50123',
 				'state_id' => '2693',
 			),
 			4716 => 
@@ -47185,7 +47185,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '65.4749',
 				'longitude' => '12.212',
 				'city' => 'BRØNNØYSUND',
-				'city_id' => '48415',
+				'city_id' => '50123',
 				'state_id' => '2693',
 			),
 			4717 => 
@@ -47195,7 +47195,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '65.4749',
 				'longitude' => '12.212',
 				'city' => 'BRØNNØYSUND',
-				'city_id' => '48415',
+				'city_id' => '50123',
 				'state_id' => '2693',
 			),
 			4718 => 
@@ -47205,7 +47205,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '65.4749',
 				'longitude' => '12.212',
 				'city' => 'BRØNNØYSUND',
-				'city_id' => '48415',
+				'city_id' => '50123',
 				'state_id' => '2693',
 			),
 			4719 => 
@@ -47215,7 +47215,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '65.4749',
 				'longitude' => '12.212',
 				'city' => 'BRØNNØYSUND',
-				'city_id' => '48415',
+				'city_id' => '50123',
 				'state_id' => '2693',
 			),
 			4720 => 
@@ -47225,7 +47225,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '65.4749',
 				'longitude' => '12.212',
 				'city' => 'BRØNNØYSUND',
-				'city_id' => '48415',
+				'city_id' => '50123',
 				'state_id' => '2693',
 			),
 			4721 => 
@@ -47235,7 +47235,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '65.4749',
 				'longitude' => '12.212',
 				'city' => 'BRØNNØYSUND',
-				'city_id' => '48415',
+				'city_id' => '50123',
 				'state_id' => '2693',
 			),
 			4722 => 
@@ -47275,7 +47275,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VELFJORD',
 				'longitude' => 'VELFJORD',
 				'city' => 'VELFJORD',
-				'city_id' => '48415',
+				'city_id' => '50124',
 				'state_id' => '2693',
 			),
 			4726 => 
@@ -47285,7 +47285,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VELFJORD',
 				'longitude' => 'VELFJORD',
 				'city' => 'VELFJORD',
-				'city_id' => '48415',
+				'city_id' => '50124',
 				'state_id' => '2693',
 			),
 			4727 => 
@@ -47365,7 +47365,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'YLVINGEN',
 				'longitude' => 'YLVINGEN',
 				'city' => 'YLVINGEN',
-				'city_id' => '48444',
+				'city_id' => '50125',
 				'state_id' => '2693',
 			),
 			4735 => 
@@ -47525,7 +47525,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TROMSDALEN',
 				'longitude' => 'TROMSDALEN',
 				'city' => 'TROMSDALEN',
-				'city_id' => '48530',
+				'city_id' => '50126',
 				'state_id' => '2697',
 			),
 			4751 => 
@@ -47535,7 +47535,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TROMSDALEN',
 				'longitude' => 'TROMSDALEN',
 				'city' => 'TROMSDALEN',
-				'city_id' => '48530',
+				'city_id' => '50126',
 				'state_id' => '2697',
 			),
 			4752 => 
@@ -47545,7 +47545,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KROKELVDALEN',
 				'longitude' => 'KROKELVDALEN',
 				'city' => 'KROKELVDALEN',
-				'city_id' => '48530',
+				'city_id' => '50127',
 				'state_id' => '2697',
 			),
 			4753 => 
@@ -47555,7 +47555,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KROKELVDALEN',
 				'longitude' => 'KROKELVDALEN',
 				'city' => 'KROKELVDALEN',
-				'city_id' => '48530',
+				'city_id' => '50127',
 				'state_id' => '2697',
 			),
 			4754 => 
@@ -47565,7 +47565,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TOMASJORD',
 				'longitude' => 'TOMASJORD',
 				'city' => 'TOMASJORD',
-				'city_id' => '48530',
+				'city_id' => '50128',
 				'state_id' => '2697',
 			),
 			4755 => 
@@ -47575,7 +47575,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RAMFJORDBOTN',
 				'longitude' => 'RAMFJORDBOTN',
 				'city' => 'RAMFJORDBOTN',
-				'city_id' => '48530',
+				'city_id' => '50129',
 				'state_id' => '2697',
 			),
 			4756 => 
@@ -47585,7 +47585,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TROMSDALEN',
 				'longitude' => 'TROMSDALEN',
 				'city' => 'TROMSDALEN',
-				'city_id' => '48530',
+				'city_id' => '50126',
 				'state_id' => '2697',
 			),
 			4757 => 
@@ -47595,7 +47595,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SJURSNES',
 				'longitude' => 'SJURSNES',
 				'city' => 'SJURSNES',
-				'city_id' => '48530',
+				'city_id' => '50130',
 				'state_id' => '2697',
 			),
 			4758 => 
@@ -47605,7 +47605,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'OLDERVIK',
 				'longitude' => 'OLDERVIK',
 				'city' => 'OLDERVIK',
-				'city_id' => '48530',
+				'city_id' => '50131',
 				'state_id' => '2697',
 			),
 			4759 => 
@@ -47635,7 +47635,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NORDKJOSBOTN',
 				'longitude' => 'NORDKJOSBOTN',
 				'city' => 'NORDKJOSBOTN',
-				'city_id' => '48530',
+				'city_id' => '50132',
 				'state_id' => '2697',
 			),
 			4762 => 
@@ -47645,7 +47645,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LAKSVATN',
 				'longitude' => 'LAKSVATN',
 				'city' => 'LAKSVATN',
-				'city_id' => '48530',
+				'city_id' => '50133',
 				'state_id' => '2697',
 			),
 			4763 => 
@@ -47655,7 +47655,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'JØVIK',
 				'longitude' => 'JØVIK',
 				'city' => 'JØVIK',
-				'city_id' => '48499',
+				'city_id' => '50134',
 				'state_id' => '2697',
 			),
 			4764 => 
@@ -47665,7 +47665,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.2554',
 				'longitude' => '19.8816',
 				'city' => 'OTEREN',
-				'city_id' => '48525',
+				'city_id' => '50135',
 				'state_id' => '2697',
 			),
 			4765 => 
@@ -47675,7 +47675,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NORDKJOSBOTN',
 				'longitude' => 'NORDKJOSBOTN',
 				'city' => 'NORDKJOSBOTN',
-				'city_id' => '48499',
+				'city_id' => '50132',
 				'state_id' => '2697',
 			),
 			4766 => 
@@ -47685,7 +47685,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.2407',
 				'longitude' => '19.2344',
 				'city' => 'STORSTEINNES',
-				'city_id' => '48499',
+				'city_id' => '50136',
 				'state_id' => '2697',
 			),
 			4767 => 
@@ -47695,7 +47695,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MEISTERVIK',
 				'longitude' => 'MEISTERVIK',
 				'city' => 'MEISTERVIK',
-				'city_id' => '48499',
+				'city_id' => '50137',
 				'state_id' => '2697',
 			),
 			4768 => 
@@ -47705,7 +47705,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MORTENHALS',
 				'longitude' => 'MORTENHALS',
 				'city' => 'MORTENHALS',
-				'city_id' => '48499',
+				'city_id' => '50138',
 				'state_id' => '2697',
 			),
 			4769 => 
@@ -47715,7 +47715,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VIKRAN',
 				'longitude' => 'VIKRAN',
 				'city' => 'VIKRAN',
-				'city_id' => '48530',
+				'city_id' => '50139',
 				'state_id' => '2697',
 			),
 			4770 => 
@@ -47725,7 +47725,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.2407',
 				'longitude' => '19.2344',
 				'city' => 'STORSTEINNES',
-				'city_id' => '48499',
+				'city_id' => '50136',
 				'state_id' => '2697',
 			),
 			4771 => 
@@ -47735,7 +47735,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.5833',
 				'longitude' => '20.2167',
 				'city' => 'LYNGSEIDET',
-				'city_id' => '48516',
+				'city_id' => '50140',
 				'state_id' => '2697',
 			),
 			4772 => 
@@ -47745,7 +47745,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FURUFLATEN',
 				'longitude' => 'FURUFLATEN',
 				'city' => 'FURUFLATEN',
-				'city_id' => '48516',
+				'city_id' => '50141',
 				'state_id' => '2697',
 			),
 			4773 => 
@@ -47755,7 +47755,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SVENSBY',
 				'longitude' => 'SVENSBY',
 				'city' => 'SVENSBY',
-				'city_id' => '48516',
+				'city_id' => '50142',
 				'state_id' => '2697',
 			),
 			4774 => 
@@ -47765,7 +47765,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NORD-LENANGEN',
 				'longitude' => 'NORD-LENANGEN',
 				'city' => 'NORD-LENANGEN',
-				'city_id' => '48516',
+				'city_id' => '50143',
 				'state_id' => '2697',
 			),
 			4775 => 
@@ -47775,7 +47775,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.5833',
 				'longitude' => '20.2167',
 				'city' => 'LYNGSEIDET',
-				'city_id' => '48516',
+				'city_id' => '50140',
 				'state_id' => '2697',
 			),
 			4776 => 
@@ -47785,7 +47785,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KVALØYSLETTA',
 				'longitude' => 'KVALØYSLETTA',
 				'city' => 'KVALØYSLETTA',
-				'city_id' => '48530',
+				'city_id' => '50142',
 				'state_id' => '2697',
 			),
 			4777 => 
@@ -47795,7 +47795,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KVALØYSLETTA',
 				'longitude' => 'KVALØYSLETTA',
 				'city' => 'KVALØYSLETTA',
-				'city_id' => '48530',
+				'city_id' => '50142',
 				'state_id' => '2697',
 			),
 			4778 => 
@@ -47805,7 +47805,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KVALØYSLETTA',
 				'longitude' => 'KVALØYSLETTA',
 				'city' => 'KVALØYSLETTA',
-				'city_id' => '48530',
+				'city_id' => '50142',
 				'state_id' => '2697',
 			),
 			4779 => 
@@ -47815,7 +47815,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KVALØYA',
 				'longitude' => 'KVALØYA',
 				'city' => 'KVALØYA',
-				'city_id' => '48530',
+				'city_id' => '50143',
 				'state_id' => '2697',
 			),
 			4780 => 
@@ -47825,7 +47825,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KVALØYA',
 				'longitude' => 'KVALØYA',
 				'city' => 'KVALØYA',
-				'city_id' => '48530',
+				'city_id' => '50143',
 				'state_id' => '2697',
 			),
 			4781 => 
@@ -47835,7 +47835,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KVALØYA',
 				'longitude' => 'KVALØYA',
 				'city' => 'KVALØYA',
-				'city_id' => '48530',
+				'city_id' => '50143',
 				'state_id' => '2697',
 			),
 			4782 => 
@@ -47845,7 +47845,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STRAUMSBUKTA',
 				'longitude' => 'STRAUMSBUKTA',
 				'city' => 'STRAUMSBUKTA',
-				'city_id' => '48530',
+				'city_id' => '50144',
 				'state_id' => '2697',
 			),
 			4783 => 
@@ -47855,7 +47855,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KVALØYA',
 				'longitude' => 'KVALØYA',
 				'city' => 'KVALØYA',
-				'city_id' => '48530',
+				'city_id' => '50143',
 				'state_id' => '2697',
 			),
 			4784 => 
@@ -47865,7 +47865,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KVALØYA',
 				'longitude' => 'KVALØYA',
 				'city' => 'KVALØYA',
-				'city_id' => '48530',
+				'city_id' => '50143',
 				'state_id' => '2697',
 			),
 			4785 => 
@@ -47875,7 +47875,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KVALØYA',
 				'longitude' => 'KVALØYA',
 				'city' => 'KVALØYA',
-				'city_id' => '48530',
+				'city_id' => '50143',
 				'state_id' => '2697',
 			),
 			4786 => 
@@ -47885,7 +47885,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SOMMARØY',
 				'longitude' => 'SOMMARØY',
 				'city' => 'SOMMARØY',
-				'city_id' => '48530',
+				'city_id' => '50145',
 				'state_id' => '2697',
 			),
 			4787 => 
@@ -47895,7 +47895,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BRENSHOLMEN',
 				'longitude' => 'BRENSHOLMEN',
 				'city' => 'BRENSHOLMEN',
-				'city_id' => '48530',
+				'city_id' => '50146',
 				'state_id' => '2697',
 			),
 			4788 => 
@@ -47905,7 +47905,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SOMMARØY',
 				'longitude' => 'SOMMARØY',
 				'city' => 'SOMMARØY',
-				'city_id' => '48530',
+				'city_id' => '50145',
 				'state_id' => '2697',
 			),
 			4789 => 
@@ -47915,7 +47915,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VENGSØY',
 				'longitude' => 'VENGSØY',
 				'city' => 'VENGSØY',
-				'city_id' => '48530',
+				'city_id' => '50147',
 				'state_id' => '2697',
 			),
 			4790 => 
@@ -47925,7 +47925,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TUSSØY',
 				'longitude' => 'TUSSØY',
 				'city' => 'TUSSØY',
-				'city_id' => '48530',
+				'city_id' => '50148',
 				'state_id' => '2697',
 			),
 			4791 => 
@@ -47935,7 +47935,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.9667',
 				'longitude' => '19.6',
 				'city' => 'HANSNES',
-				'city_id' => '48510',
+				'city_id' => '50149',
 				'state_id' => '2697',
 			),
 			4792 => 
@@ -47945,7 +47945,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KÅRVIK',
 				'longitude' => 'KÅRVIK',
 				'city' => 'KÅRVIK',
-				'city_id' => '48530',
+				'city_id' => '50150',
 				'state_id' => '2697',
 			),
 			4793 => 
@@ -47955,7 +47955,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STAKKVIK',
 				'longitude' => 'STAKKVIK',
 				'city' => 'STAKKVIK',
-				'city_id' => '48510',
+				'city_id' => '50151',
 				'state_id' => '2697',
 			),
 			4794 => 
@@ -47965,7 +47965,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.9667',
 				'longitude' => '19.6',
 				'city' => 'HANSNES',
-				'city_id' => '48510',
+				'city_id' => '50149',
 				'state_id' => '2697',
 			),
 			4795 => 
@@ -47975,7 +47975,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VANNVÅG',
 				'longitude' => 'VANNVÅG',
 				'city' => 'VANNVÅG',
-				'city_id' => '48510',
+				'city_id' => '50152',
 				'state_id' => '2697',
 			),
 			4796 => 
@@ -47985,7 +47985,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VANNAREID',
 				'longitude' => 'VANNAREID',
 				'city' => 'VANNAREID',
-				'city_id' => '48510',
+				'city_id' => '50153',
 				'state_id' => '2697',
 			),
 			4797 => 
@@ -47995,7 +47995,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VANNVÅG',
 				'longitude' => 'VANNVÅG',
 				'city' => 'VANNVÅG',
-				'city_id' => '48510',
+				'city_id' => '50152',
 				'state_id' => '2697',
 			),
 			4798 => 
@@ -48015,7 +48015,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'REBBENES',
 				'longitude' => 'REBBENES',
 				'city' => 'REBBENES',
-				'city_id' => '48510',
+				'city_id' => '50154',
 				'state_id' => '2697',
 			),
 			4800 => 
@@ -48025,7 +48025,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MJØLVIK',
 				'longitude' => 'MJØLVIK',
 				'city' => 'MJØLVIK',
-				'city_id' => '48530',
+				'city_id' => '50155',
 				'state_id' => '2697',
 			),
 			4801 => 
@@ -48035,7 +48035,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKIBOTN',
 				'longitude' => 'SKIBOTN',
 				'city' => 'SKIBOTN',
-				'city_id' => '48525',
+				'city_id' => '50156',
 				'state_id' => '2697',
 			),
 			4802 => 
@@ -48045,7 +48045,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKIBOTN',
 				'longitude' => 'SKIBOTN',
 				'city' => 'SKIBOTN',
-				'city_id' => '48525',
+				'city_id' => '50156',
 				'state_id' => '2697',
 			),
 			4803 => 
@@ -48055,7 +48055,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SAMUELSBERG',
 				'longitude' => 'SAMUELSBERG',
 				'city' => 'SAMUELSBERG',
-				'city_id' => '48691',
+				'city_id' => '50157',
 				'state_id' => '2697',
 			),
 			4804 => 
@@ -48065,7 +48065,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SAMUELSBERG',
 				'longitude' => 'SAMUELSBERG',
 				'city' => 'SAMUELSBERG',
-				'city_id' => '48691',
+				'city_id' => '50157',
 				'state_id' => '2697',
 			),
 			4805 => 
@@ -48075,7 +48075,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.603',
 				'longitude' => '20.5371',
 				'city' => 'OLDERDALEN',
-				'city_id' => '48691',
+				'city_id' => '50158',
 				'state_id' => '2697',
 			),
 			4806 => 
@@ -48085,7 +48085,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BIRTAVARRE',
 				'longitude' => 'BIRTAVARRE',
 				'city' => 'BIRTAVARRE',
-				'city_id' => '48691',
+				'city_id' => '50159',
 				'state_id' => '2697',
 			),
 			4807 => 
@@ -48095,7 +48095,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.603',
 				'longitude' => '20.5371',
 				'city' => 'OLDERDALEN',
-				'city_id' => '48691',
+				'city_id' => '50158',
 				'state_id' => '2697',
 			),
 			4808 => 
@@ -48105,7 +48105,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BIRTAVARRE',
 				'longitude' => 'BIRTAVARRE',
 				'city' => 'BIRTAVARRE',
-				'city_id' => '48691',
+				'city_id' => '50159',
 				'state_id' => '2697',
 			),
 			4809 => 
@@ -48115,7 +48115,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.7675',
 				'longitude' => '21.0326',
 				'city' => 'STORSLETT',
-				'city_id' => '48521',
+				'city_id' => '50160',
 				'state_id' => '2697',
 			),
 			4810 => 
@@ -48125,7 +48125,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SØRKJOSEN',
 				'longitude' => 'SØRKJOSEN',
 				'city' => 'SØRKJOSEN',
-				'city_id' => '48521',
+				'city_id' => '50161',
 				'state_id' => '2697',
 			),
 			4811 => 
@@ -48135,7 +48135,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ROTSUND',
 				'longitude' => 'ROTSUND',
 				'city' => 'ROTSUND',
-				'city_id' => '48521',
+				'city_id' => '50162',
 				'state_id' => '2697',
 			),
 			4812 => 
@@ -48145,7 +48145,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.7675',
 				'longitude' => '21.0326',
 				'city' => 'STORSLETT',
-				'city_id' => '48521',
+				'city_id' => '50160',
 				'state_id' => '2697',
 			),
 			4813 => 
@@ -48155,7 +48155,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SØRKJOSEN',
 				'longitude' => 'SØRKJOSEN',
 				'city' => 'SØRKJOSEN',
-				'city_id' => '48521',
+				'city_id' => '50161',
 				'state_id' => '2697',
 			),
 			4814 => 
@@ -48165,7 +48165,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.7675',
 				'longitude' => '21.0326',
 				'city' => 'STORSLETT',
-				'city_id' => '48521',
+				'city_id' => '50160',
 				'state_id' => '2697',
 			),
 			4815 => 
@@ -48175,7 +48175,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.7675',
 				'longitude' => '21.0326',
 				'city' => 'STORSLETT',
-				'city_id' => '48521',
+				'city_id' => '50160',
 				'state_id' => '2697',
 			),
 			4816 => 
@@ -48185,7 +48185,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.7675',
 				'longitude' => '21.0326',
 				'city' => 'STORSLETT',
-				'city_id' => '48521',
+				'city_id' => '50160',
 				'state_id' => '2697',
 			),
 			4817 => 
@@ -48195,7 +48195,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HAVNNES',
 				'longitude' => 'HAVNNES',
 				'city' => 'HAVNNES',
-				'city_id' => '48521',
+				'city_id' => '50163',
 				'state_id' => '2697',
 			),
 			4818 => 
@@ -48205,7 +48205,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.9378',
 				'longitude' => '22.0519',
 				'city' => 'BURFJORD',
-				'city_id' => '48512',
+				'city_id' => '50164',
 				'state_id' => '2697',
 			),
 			4819 => 
@@ -48215,7 +48215,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SØRSTRAUMEN',
 				'longitude' => 'SØRSTRAUMEN',
 				'city' => 'SØRSTRAUMEN',
-				'city_id' => '48512',
+				'city_id' => '50165',
 				'state_id' => '2697',
 			),
 			4820 => 
@@ -48225,7 +48225,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'JØKELFJORD',
 				'longitude' => 'JØKELFJORD',
 				'city' => 'JØKELFJORD',
-				'city_id' => '48512',
+				'city_id' => '50166',
 				'state_id' => '2697',
 			),
 			4821 => 
@@ -48235,7 +48235,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.9378',
 				'longitude' => '22.0519',
 				'city' => 'BURFJORD',
-				'city_id' => '48512',
+				'city_id' => '50164',
 				'state_id' => '2697',
 			),
 			4822 => 
@@ -48245,7 +48245,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LONGYEARBYEN',
 				'longitude' => 'LONGYEARBYEN',
 				'city' => 'LONGYEARBYEN',
-				'city_id' => '48497',
+				'city_id' => '39053',
 				'state_id' => '2696',
 			),
 			4823 => 
@@ -48255,7 +48255,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LONGYEARBYEN',
 				'longitude' => 'LONGYEARBYEN',
 				'city' => 'LONGYEARBYEN',
-				'city_id' => '48497',
+				'city_id' => '39053',
 				'state_id' => '2696',
 			),
 			4824 => 
@@ -48265,7 +48265,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NY-ÅLESUND',
 				'longitude' => 'NY-ÅLESUND',
 				'city' => 'NY-ÅLESUND',
-				'city_id' => '48497',
+				'city_id' => '50167',
 				'state_id' => '2696',
 			),
 			4825 => 
@@ -48275,7 +48275,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '63.4667',
 				'longitude' => '8.0167',
 				'city' => 'HOPEN',
-				'city_id' => '48497',
+				'city_id' => '50168',
 				'state_id' => '2696',
 			),
 			4826 => 
@@ -48285,7 +48285,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SVEAGRUVA',
 				'longitude' => 'SVEAGRUVA',
 				'city' => 'SVEAGRUVA',
-				'city_id' => '48497',
+				'city_id' => '50169',
 				'state_id' => '2696',
 			),
 			4827 => 
@@ -48295,7 +48295,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BJØRNØYA',
 				'longitude' => 'BJØRNØYA',
 				'city' => 'BJØRNØYA',
-				'city_id' => '48497',
+				'city_id' => '50170',
 				'state_id' => '2696',
 			),
 			4828 => 
@@ -48305,7 +48305,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BARENTSBURG',
 				'longitude' => 'BARENTSBURG',
 				'city' => 'BARENTSBURG',
-				'city_id' => '48497',
+				'city_id' => '39050',
 				'state_id' => '2696',
 			),
 			4829 => 
@@ -48325,7 +48325,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HAMNEIDET',
 				'longitude' => 'HAMNEIDET',
 				'city' => 'HAMNEIDET',
-				'city_id' => '48521',
+				'city_id' => '50171',
 				'state_id' => '2697',
 			),
 			4831 => 
@@ -48335,7 +48335,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SEGLVIK',
 				'longitude' => 'SEGLVIK',
 				'city' => 'SEGLVIK',
-				'city_id' => '48512',
+				'city_id' => '50172',
 				'state_id' => '2697',
 			),
 			4832 => 
@@ -48345,7 +48345,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'REINFJORD',
 				'longitude' => 'REINFJORD',
 				'city' => 'REINFJORD',
-				'city_id' => '48512',
+				'city_id' => '50173',
 				'state_id' => '2697',
 			),
 			4833 => 
@@ -48355,7 +48355,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SPILDRA',
 				'longitude' => 'SPILDRA',
 				'city' => 'SPILDRA',
-				'city_id' => '48512',
+				'city_id' => '50174',
 				'state_id' => '2697',
 			),
 			4834 => 
@@ -48365,7 +48365,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ANDSNES',
 				'longitude' => 'ANDSNES',
 				'city' => 'ANDSNES',
-				'city_id' => '48515',
+				'city_id' => '50175',
 				'state_id' => '2697',
 			),
 			4835 => 
@@ -48375,7 +48375,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VALANHAMN',
 				'longitude' => 'VALANHAMN',
 				'city' => 'VALANHAMN',
-				'city_id' => '48512',
+				'city_id' => '50176',
 				'state_id' => '2697',
 			),
 			4836 => 
@@ -48395,7 +48395,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'AKKARVIK',
 				'longitude' => 'AKKARVIK',
 				'city' => 'AKKARVIK',
-				'city_id' => '48692',
+				'city_id' => '50177',
 				'state_id' => '2697',
 			),
 			4838 => 
@@ -48405,7 +48405,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ARNØYHAMN',
 				'longitude' => 'ARNØYHAMN',
 				'city' => 'ARNØYHAMN',
-				'city_id' => '48692',
+				'city_id' => '50178',
 				'state_id' => '2697',
 			),
 			4839 => 
@@ -48415,7 +48415,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NIKKEBY',
 				'longitude' => 'NIKKEBY',
 				'city' => 'NIKKEBY',
-				'city_id' => '48692',
+				'city_id' => '50179',
 				'state_id' => '2697',
 			),
 			4840 => 
@@ -48425,7 +48425,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LAUKSLETTA',
 				'longitude' => 'LAUKSLETTA',
 				'city' => 'LAUKSLETTA',
-				'city_id' => '48692',
+				'city_id' => '50180',
 				'state_id' => '2697',
 			),
 			4841 => 
@@ -48435,7 +48435,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ÅRVIKSAND',
 				'longitude' => 'ÅRVIKSAND',
 				'city' => 'ÅRVIKSAND',
-				'city_id' => '48692',
+				'city_id' => '50181',
 				'state_id' => '2697',
 			),
 			4842 => 
@@ -48445,7 +48445,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ULØYBUKT',
 				'longitude' => 'ULØYBUKT',
 				'city' => 'ULØYBUKT',
-				'city_id' => '48692',
+				'city_id' => '50182',
 				'state_id' => '2697',
 			),
 			4843 => 
@@ -48915,7 +48915,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.2406',
 				'longitude' => '18.0086',
 				'city' => 'FINNSNES',
-				'city_id' => '48524',
+				'city_id' => '50183',
 				'state_id' => '2697',
 			),
 			4890 => 
@@ -48925,7 +48925,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ROSSFJORDSTRAUMEN',
 				'longitude' => 'ROSSFJORDSTRAUMEN',
 				'city' => 'ROSSFJORDSTRAUMEN',
-				'city_id' => '48524',
+				'city_id' => '50184',
 				'state_id' => '2697',
 			),
 			4891 => 
@@ -48935,7 +48935,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SILSAND',
 				'longitude' => 'SILSAND',
 				'city' => 'SILSAND',
-				'city_id' => '48524',
+				'city_id' => '50185',
 				'state_id' => '2697',
 			),
 			4892 => 
@@ -48945,7 +48945,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.1667',
 				'longitude' => '17.7333',
 				'city' => 'VANGSVIK',
-				'city_id' => '48524',
+				'city_id' => '50186',
 				'state_id' => '2697',
 			),
 			4893 => 
@@ -48955,7 +48955,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.2406',
 				'longitude' => '18.0086',
 				'city' => 'FINNSNES',
-				'city_id' => '48524',
+				'city_id' => '50183',
 				'state_id' => '2697',
 			),
 			4894 => 
@@ -48965,7 +48965,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.2406',
 				'longitude' => '18.0086',
 				'city' => 'FINNSNES',
-				'city_id' => '48524',
+				'city_id' => '50183',
 				'state_id' => '2697',
 			),
 			4895 => 
@@ -48975,7 +48975,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.2406',
 				'longitude' => '18.0086',
 				'city' => 'FINNSNES',
-				'city_id' => '48524',
+				'city_id' => '50183',
 				'state_id' => '2697',
 			),
 			4896 => 
@@ -48985,7 +48985,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.2406',
 				'longitude' => '18.0086',
 				'city' => 'FINNSNES',
-				'city_id' => '48524',
+				'city_id' => '50183',
 				'state_id' => '2697',
 			),
 			4897 => 
@@ -48995,7 +48995,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.2406',
 				'longitude' => '18.0086',
 				'city' => 'FINNSNES',
-				'city_id' => '48524',
+				'city_id' => '50183',
 				'state_id' => '2697',
 			),
 			4898 => 
@@ -49015,7 +49015,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.0886',
 				'longitude' => '17.6947',
 				'city' => 'BRØSTADBOTN',
-				'city_id' => '48502',
+				'city_id' => '50187',
 				'state_id' => '2697',
 			),
 			4900 => 
@@ -49035,7 +49035,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.0886',
 				'longitude' => '17.6947',
 				'city' => 'BRØSTADBOTN',
-				'city_id' => '48502',
+				'city_id' => '50187',
 				'state_id' => '2697',
 			),
 			4902 => 
@@ -49045,7 +49045,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.1333',
 				'longitude' => '18.6167',
 				'city' => 'MOEN',
-				'city_id' => '48517',
+				'city_id' => '50188',
 				'state_id' => '2697',
 			),
 			4903 => 
@@ -49055,7 +49055,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KARLSTAD',
 				'longitude' => 'KARLSTAD',
 				'city' => 'KARLSTAD',
-				'city_id' => '48517',
+				'city_id' => '50189',
 				'state_id' => '2697',
 			),
 			4904 => 
@@ -49065,7 +49065,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BARDUFOSS',
 				'longitude' => 'BARDUFOSS',
 				'city' => 'BARDUFOSS',
-				'city_id' => '48517',
+				'city_id' => '50190',
 				'state_id' => '2697',
 			),
 			4905 => 
@@ -49075,7 +49075,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BARDUFOSS',
 				'longitude' => 'BARDUFOSS',
 				'city' => 'BARDUFOSS',
-				'city_id' => '48517',
+				'city_id' => '50190',
 				'state_id' => '2697',
 			),
 			4906 => 
@@ -49085,7 +49085,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.1333',
 				'longitude' => '18.6167',
 				'city' => 'MOEN',
-				'city_id' => '48517',
+				'city_id' => '50188',
 				'state_id' => '2697',
 			),
 			4907 => 
@@ -49095,7 +49095,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ØVERBYGD',
 				'longitude' => 'ØVERBYGD',
 				'city' => 'ØVERBYGD',
-				'city_id' => '48517',
+				'city_id' => '50191',
 				'state_id' => '2697',
 			),
 			4908 => 
@@ -49105,7 +49105,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ØVERBYGD',
 				'longitude' => 'ØVERBYGD',
 				'city' => 'ØVERBYGD',
-				'city_id' => '48517',
+				'city_id' => '50191',
 				'state_id' => '2697',
 			),
 			4909 => 
@@ -49115,7 +49115,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RUNDHAUG',
 				'longitude' => 'RUNDHAUG',
 				'city' => 'RUNDHAUG',
-				'city_id' => '48517',
+				'city_id' => '50192',
 				'state_id' => '2697',
 			),
 			4910 => 
@@ -49125,7 +49125,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '68.8733',
 				'longitude' => '17.8644',
 				'city' => 'SJØVEGAN',
-				'city_id' => '48523',
+				'city_id' => '50193',
 				'state_id' => '2697',
 			),
 			4911 => 
@@ -49135,7 +49135,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '68.8733',
 				'longitude' => '17.8644',
 				'city' => 'SJØVEGAN',
-				'city_id' => '48523',
+				'city_id' => '50193',
 				'state_id' => '2697',
 			),
 			4912 => 
@@ -49145,7 +49145,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '68.7466',
 				'longitude' => '17.8038',
 				'city' => 'TENNEVOLL',
-				'city_id' => '48513',
+				'city_id' => '50194',
 				'state_id' => '2697',
 			),
 			4913 => 
@@ -49155,7 +49155,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '68.7466',
 				'longitude' => '17.8038',
 				'city' => 'TENNEVOLL',
-				'city_id' => '48513',
+				'city_id' => '50194',
 				'state_id' => '2697',
 			),
 			4914 => 
@@ -49185,7 +49185,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SILSAND',
 				'longitude' => 'SILSAND',
 				'city' => 'SILSAND',
-				'city_id' => '48524',
+				'city_id' => '50185',
 				'state_id' => '2697',
 			),
 			4917 => 
@@ -49195,7 +49195,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GIBOSTAD',
 				'longitude' => 'GIBOSTAD',
 				'city' => 'GIBOSTAD',
-				'city_id' => '48524',
+				'city_id' => '50195',
 				'state_id' => '2697',
 			),
 			4918 => 
@@ -49205,7 +49205,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BOTNHAMN',
 				'longitude' => 'BOTNHAMN',
 				'city' => 'BOTNHAMN',
-				'city_id' => '48524',
+				'city_id' => '50196',
 				'state_id' => '2697',
 			),
 			4919 => 
@@ -49215,7 +49215,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKATVIK',
 				'longitude' => 'SKATVIK',
 				'city' => 'SKATVIK',
-				'city_id' => '48524',
+				'city_id' => '50197',
 				'state_id' => '2697',
 			),
 			4920 => 
@@ -49225,7 +49225,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.3667',
 				'longitude' => '17.0167',
 				'city' => 'GRYLLEFJORD',
-				'city_id' => '48524',
+				'city_id' => '50198',
 				'state_id' => '2697',
 			),
 			4921 => 
@@ -49235,7 +49235,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.3667',
 				'longitude' => '17.0167',
 				'city' => 'GRYLLEFJORD',
-				'city_id' => '48524',
+				'city_id' => '50198',
 				'state_id' => '2697',
 			),
 			4922 => 
@@ -49245,7 +49245,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TORSKEN',
 				'longitude' => 'TORSKEN',
 				'city' => 'TORSKEN',
-				'city_id' => '48524',
+				'city_id' => '50199',
 				'state_id' => '2697',
 			),
 			4923 => 
@@ -49255,7 +49255,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GIBOSTAD',
 				'longitude' => 'GIBOSTAD',
 				'city' => 'GIBOSTAD',
-				'city_id' => '48524',
+				'city_id' => '50195',
 				'state_id' => '2697',
 			),
 			4924 => 
@@ -49265,7 +49265,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.45',
 				'longitude' => '17.3',
 				'city' => 'SKALAND',
-				'city_id' => '48524',
+				'city_id' => '50200',
 				'state_id' => '2697',
 			),
 			4925 => 
@@ -49275,7 +49275,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.45',
 				'longitude' => '17.3',
 				'city' => 'SKALAND',
-				'city_id' => '48524',
+				'city_id' => '50200',
 				'state_id' => '2697',
 			),
 			4926 => 
@@ -49285,7 +49285,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SENJAHOPEN',
 				'longitude' => 'SENJAHOPEN',
 				'city' => 'SENJAHOPEN',
-				'city_id' => '48524',
+				'city_id' => '50201',
 				'state_id' => '2697',
 			),
 			4927 => 
@@ -49295,7 +49295,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SENJAHOPEN',
 				'longitude' => 'SENJAHOPEN',
 				'city' => 'SENJAHOPEN',
-				'city_id' => '48524',
+				'city_id' => '50201',
 				'state_id' => '2697',
 			),
 			4928 => 
@@ -49305,7 +49305,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FJORDGARD',
 				'longitude' => 'FJORDGARD',
 				'city' => 'FJORDGARD',
-				'city_id' => '48524',
+				'city_id' => '50202',
 				'state_id' => '2697',
 			),
 			4929 => 
@@ -49315,7 +49315,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HUSØY I SENJA',
 				'longitude' => 'HUSØY I SENJA',
 				'city' => 'HUSØY I SENJA',
-				'city_id' => '48524',
+				'city_id' => '50203',
 				'state_id' => '2697',
 			),
 			4930 => 
@@ -49325,7 +49325,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STONGLANDSEIDET',
 				'longitude' => 'STONGLANDSEIDET',
 				'city' => 'STONGLANDSEIDET',
-				'city_id' => '48524',
+				'city_id' => '50204',
 				'state_id' => '2697',
 			),
 			4931 => 
@@ -49335,7 +49335,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'STONGLANDSEIDET',
 				'longitude' => 'STONGLANDSEIDET',
 				'city' => 'STONGLANDSEIDET',
-				'city_id' => '48524',
+				'city_id' => '50204',
 				'state_id' => '2697',
 			),
 			4932 => 
@@ -49345,7 +49345,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FLAKSTADVÅG',
 				'longitude' => 'FLAKSTADVÅG',
 				'city' => 'FLAKSTADVÅG',
-				'city_id' => '48524',
+				'city_id' => '50205',
 				'state_id' => '2697',
 			),
 			4933 => 
@@ -49355,7 +49355,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KALDFARNES',
 				'longitude' => 'KALDFARNES',
 				'city' => 'KALDFARNES',
-				'city_id' => '48524',
+				'city_id' => '50206',
 				'state_id' => '2697',
 			),
 			4934 => 
@@ -49485,7 +49485,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SØRVIK',
 				'longitude' => 'SØRVIK',
 				'city' => 'SØRVIK',
-				'city_id' => '48506',
+				'city_id' => '50207',
 				'state_id' => '2697',
 			),
 			4947 => 
@@ -49495,7 +49495,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LUNDENES',
 				'longitude' => 'LUNDENES',
 				'city' => 'LUNDENES',
-				'city_id' => '48506',
+				'city_id' => '50208',
 				'state_id' => '2697',
 			),
 			4948 => 
@@ -49505,7 +49505,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GRØTAVÆR',
 				'longitude' => 'GRØTAVÆR',
 				'city' => 'GRØTAVÆR',
-				'city_id' => '48506',
+				'city_id' => '50209',
 				'state_id' => '2697',
 			),
 			4949 => 
@@ -49515,7 +49515,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KJØTTA',
 				'longitude' => 'KJØTTA',
 				'city' => 'KJØTTA',
-				'city_id' => '48506',
+				'city_id' => '50210',
 				'state_id' => '2697',
 			),
 			4950 => 
@@ -49525,7 +49525,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SANDSØY',
 				'longitude' => 'SANDSØY',
 				'city' => 'SANDSØY',
-				'city_id' => '48506',
+				'city_id' => '50211',
 				'state_id' => '2697',
 			),
 			4951 => 
@@ -49535,7 +49535,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'B59.916663KØY',
 				'longitude' => 'B10.6166642KØY',
 				'city' => 'BJARKØY',
-				'city_id' => '48506',
+				'city_id' => '50212',
 				'state_id' => '2697',
 			),
 			4952 => 
@@ -49545,7 +49545,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MELØYVÆR',
 				'longitude' => 'MELØYVÆR',
 				'city' => 'MELØYVÆR',
-				'city_id' => '48506',
+				'city_id' => '50213',
 				'state_id' => '2697',
 			),
 			4953 => 
@@ -49555,7 +49555,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SANDTORG',
 				'longitude' => 'SANDTORG',
 				'city' => 'SANDTORG',
-				'city_id' => '48506',
+				'city_id' => '50214',
 				'state_id' => '2697',
 			),
 			4954 => 
@@ -49565,7 +49565,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KONGSVIK',
 				'longitude' => 'KONGSVIK',
 				'city' => 'KONGSVIK',
-				'city_id' => '48529',
+				'city_id' => '50215',
 				'state_id' => '2697',
 			),
 			4955 => 
@@ -49575,7 +49575,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '68.5833',
 				'longitude' => '16.5667',
 				'city' => 'EVENSKJER',
-				'city_id' => '48529',
+				'city_id' => '50216',
 				'state_id' => '2697',
 			),
 			4956 => 
@@ -49585,7 +49585,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '68.5833',
 				'longitude' => '16.5667',
 				'city' => 'EVENSKJER',
-				'city_id' => '48529',
+				'city_id' => '50216',
 				'state_id' => '2697',
 			),
 			4957 => 
@@ -49595,7 +49595,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FJELLDAL',
 				'longitude' => 'FJELLDAL',
 				'city' => 'FJELLDAL',
-				'city_id' => '48529',
+				'city_id' => '50217',
 				'state_id' => '2697',
 			),
 			4958 => 
@@ -49605,7 +49605,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RAMSUND',
 				'longitude' => 'RAMSUND',
 				'city' => 'RAMSUND',
-				'city_id' => '48529',
+				'city_id' => '50218',
 				'state_id' => '2697',
 			),
 			4959 => 
@@ -49615,7 +49615,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MYKLEBOSTAD',
 				'longitude' => 'MYKLEBOSTAD',
 				'city' => 'MYKLEBOSTAD',
-				'city_id' => '48529',
+				'city_id' => '50219',
 				'state_id' => '2697',
 			),
 			4960 => 
@@ -49625,7 +49625,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HOL I TJELDSUND',
 				'longitude' => 'HOL I TJELDSUND',
 				'city' => 'HOL I TJELDSUND',
-				'city_id' => '48529',
+				'city_id' => '50220',
 				'state_id' => '2697',
 			),
 			4961 => 
@@ -49635,7 +49635,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TOVIK',
 				'longitude' => 'TOVIK',
 				'city' => 'TOVIK',
-				'city_id' => '48529',
+				'city_id' => '50221',
 				'state_id' => '2697',
 			),
 			4962 => 
@@ -49645,7 +49645,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GROVFJORD',
 				'longitude' => 'GROVFJORD',
 				'city' => 'GROVFJORD',
-				'city_id' => '48529',
+				'city_id' => '50222',
 				'state_id' => '2697',
 			),
 			4963 => 
@@ -49655,7 +49655,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GROVFJORD',
 				'longitude' => 'GROVFJORD',
 				'city' => 'GROVFJORD',
-				'city_id' => '48529',
+				'city_id' => '50222',
 				'state_id' => '2697',
 			),
 			4964 => 
@@ -49665,7 +49665,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RAMSUND',
 				'longitude' => 'RAMSUND',
 				'city' => 'RAMSUND',
-				'city_id' => '48529',
+				'city_id' => '50218',
 				'state_id' => '2697',
 			),
 			4965 => 
@@ -49675,7 +49675,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '68.7833',
 				'longitude' => '17.1833',
 				'city' => 'HAMNVIK',
-				'city_id' => '48508',
+				'city_id' => '50223',
 				'state_id' => '2697',
 			),
 			4966 => 
@@ -49685,7 +49685,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '68.7833',
 				'longitude' => '17.1833',
 				'city' => 'HAMNVIK',
-				'city_id' => '48508',
+				'city_id' => '50223',
 				'state_id' => '2697',
 			),
 			4967 => 
@@ -49695,7 +49695,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KRÅKRØHAMN',
 				'longitude' => 'KRÅKRØHAMN',
 				'city' => 'KRÅKRØHAMN',
-				'city_id' => '48508',
+				'city_id' => '50224',
 				'state_id' => '2697',
 			),
 			4968 => 
@@ -49705,7 +49705,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ÅNSTAD',
 				'longitude' => 'ÅNSTAD',
 				'city' => 'ÅNSTAD',
-				'city_id' => '48508',
+				'city_id' => '50225',
 				'state_id' => '2697',
 			),
 			4969 => 
@@ -49715,7 +49715,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ENGENES',
 				'longitude' => 'ENGENES',
 				'city' => 'ENGENES',
-				'city_id' => '48508',
+				'city_id' => '50226',
 				'state_id' => '2697',
 			),
 			4970 => 
@@ -49725,7 +49725,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'ENGENES',
 				'longitude' => 'ENGENES',
 				'city' => 'ENGENES',
-				'city_id' => '48508',
+				'city_id' => '50226',
 				'state_id' => '2697',
 			),
 			4971 => 
@@ -49755,7 +49755,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '68.7833',
 				'longitude' => '16.1833',
 				'city' => 'BORKENES',
-				'city_id' => '48511',
+				'city_id' => '50227',
 				'state_id' => '2697',
 			),
 			4974 => 
@@ -49765,7 +49765,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '68.7833',
 				'longitude' => '16.1833',
 				'city' => 'BORKENES',
-				'city_id' => '48511',
+				'city_id' => '50227',
 				'state_id' => '2697',
 			),
 			4975 => 
@@ -50095,7 +50095,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KVIBY',
 				'longitude' => 'KVIBY',
 				'city' => 'KVIBY',
-				'city_id' => '48498',
+				'city_id' => '50228',
 				'state_id' => '2697',
 			),
 			5008 => 
@@ -50105,7 +50105,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.0115',
 				'longitude' => '23.0415',
 				'city' => 'KAUTOKEINO',
-				'city_id' => '48693',
+				'city_id' => '50229',
 				'state_id' => '2697',
 			),
 			5009 => 
@@ -50115,7 +50115,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.0115',
 				'longitude' => '23.0415',
 				'city' => 'KAUTOKEINO',
-				'city_id' => '48693',
+				'city_id' => '50229',
 				'state_id' => '2697',
 			),
 			5010 => 
@@ -50125,7 +50125,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.0115',
 				'longitude' => '23.0415',
 				'city' => 'KAUTOKEINO',
-				'city_id' => '48693',
+				'city_id' => '50229',
 				'state_id' => '2697',
 			),
 			5011 => 
@@ -50135,7 +50135,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.0115',
 				'longitude' => '23.0415',
 				'city' => 'KAUTOKEINO',
-				'city_id' => '48693',
+				'city_id' => '50229',
 				'state_id' => '2697',
 			),
 			5012 => 
@@ -50145,7 +50145,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.0115',
 				'longitude' => '23.0415',
 				'city' => 'KAUTOKEINO',
-				'city_id' => '48693',
+				'city_id' => '50229',
 				'state_id' => '2697',
 			),
 			5013 => 
@@ -50155,7 +50155,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'MAZE',
 				'longitude' => 'MAZE',
 				'city' => 'MAZE',
-				'city_id' => '48693',
+				'city_id' => '50230',
 				'state_id' => '2697',
 			),
 			5014 => 
@@ -50165,7 +50165,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.0115',
 				'longitude' => '23.0415',
 				'city' => 'KAUTOKEINO',
-				'city_id' => '48693',
+				'city_id' => '50229',
 				'state_id' => '2697',
 			),
 			5015 => 
@@ -50175,7 +50175,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.0115',
 				'longitude' => '23.0415',
 				'city' => 'KAUTOKEINO',
-				'city_id' => '48693',
+				'city_id' => '50229',
 				'state_id' => '2697',
 			),
 			5016 => 
@@ -50185,7 +50185,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.0115',
 				'longitude' => '23.0415',
 				'city' => 'KAUTOKEINO',
-				'city_id' => '48693',
+				'city_id' => '50229',
 				'state_id' => '2697',
 			),
 			5017 => 
@@ -50195,7 +50195,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KVALFJORD',
 				'longitude' => 'KVALFJORD',
 				'city' => 'KVALFJORD',
-				'city_id' => '48498',
+				'city_id' => '50231',
 				'state_id' => '2697',
 			),
 			5018 => 
@@ -50205,7 +50205,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HAKKSTABBEN',
 				'longitude' => 'HAKKSTABBEN',
 				'city' => 'HAKKSTABBEN',
-				'city_id' => '48498',
+				'city_id' => '50232',
 				'state_id' => '2697',
 			),
 			5019 => 
@@ -50215,7 +50215,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KONGSHUS',
 				'longitude' => 'KONGSHUS',
 				'city' => 'KONGSHUS',
-				'city_id' => '48498',
+				'city_id' => '50233',
 				'state_id' => '2697',
 			),
 			5020 => 
@@ -50225,7 +50225,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KORSFJORDEN',
 				'longitude' => 'KORSFJORDEN',
 				'city' => 'KORSFJORDEN',
-				'city_id' => '48498',
+				'city_id' => '50234',
 				'state_id' => '2697',
 			),
 			5021 => 
@@ -50235,7 +50235,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TVERRELVDALEN',
 				'longitude' => 'TVERRELVDALEN',
 				'city' => 'TVERRELVDALEN',
-				'city_id' => '48498',
+				'city_id' => '50235',
 				'state_id' => '2697',
 			),
 			5022 => 
@@ -50255,7 +50255,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TALVIK',
 				'longitude' => 'TALVIK',
 				'city' => 'TALVIK',
-				'city_id' => '48498',
+				'city_id' => '50236',
 				'state_id' => '2697',
 			),
 			5024 => 
@@ -50275,7 +50275,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LANGFJORDBOTN',
 				'longitude' => 'LANGFJORDBOTN',
 				'city' => 'LANGFJORDBOTN',
-				'city_id' => '48498',
+				'city_id' => '50237',
 				'state_id' => '2697',
 			),
 			5026 => 
@@ -50285,7 +50285,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '70.2392',
 				'longitude' => '22.3714',
 				'city' => 'ØKSFJORD',
-				'city_id' => '48515',
+				'city_id' => '50238',
 				'state_id' => '2697',
 			),
 			5027 => 
@@ -50295,7 +50295,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BERGSFJORD',
 				'longitude' => 'BERGSFJORD',
 				'city' => 'BERGSFJORD',
-				'city_id' => '48515',
+				'city_id' => '50239',
 				'state_id' => '2697',
 			),
 			5028 => 
@@ -50305,7 +50305,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NUVSVÅG',
 				'longitude' => 'NUVSVÅG',
 				'city' => 'NUVSVÅG',
-				'city_id' => '48515',
+				'city_id' => '50239',
 				'state_id' => '2697',
 			),
 			5029 => 
@@ -50315,7 +50315,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LANGFJORDHAMN',
 				'longitude' => 'LANGFJORDHAMN',
 				'city' => 'LANGFJORDHAMN',
-				'city_id' => '48515',
+				'city_id' => '50240',
 				'state_id' => '2697',
 			),
 			5030 => 
@@ -50325,7 +50325,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SØR-TVERRFJORD',
 				'longitude' => 'SØR-TVERRFJORD',
 				'city' => 'SØR-TVERRFJORD',
-				'city_id' => '48515',
+				'city_id' => '50241',
 				'state_id' => '2697',
 			),
 			5031 => 
@@ -50335,7 +50335,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SANDLAND',
 				'longitude' => 'SANDLAND',
 				'city' => 'SANDLAND',
-				'city_id' => '48515',
+				'city_id' => '50242',
 				'state_id' => '2697',
 			),
 			5032 => 
@@ -50355,7 +50355,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKAVNAKK',
 				'longitude' => 'SKAVNAKK',
 				'city' => 'SKAVNAKK',
-				'city_id' => '48515',
+				'city_id' => '50243',
 				'state_id' => '2697',
 			),
 			5034 => 
@@ -50385,7 +50385,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '70.5879',
 				'longitude' => '22.2848',
 				'city' => 'BREIVIKBOTN',
-				'city_id' => '48507',
+				'city_id' => '50244',
 				'state_id' => '2697',
 			),
 			5037 => 
@@ -50395,7 +50395,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SØRVÆR',
 				'longitude' => 'SØRVÆR',
 				'city' => 'SØRVÆR',
-				'city_id' => '48507',
+				'city_id' => '50245',
 				'state_id' => '2697',
 			),
 			5038 => 
@@ -50445,7 +50445,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NORDRE SEILAND',
 				'longitude' => 'NORDRE SEILAND',
 				'city' => 'NORDRE SEILAND',
-				'city_id' => '48505',
+				'city_id' => '50246',
 				'state_id' => '2697',
 			),
 			5043 => 
@@ -50455,7 +50455,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RYPEFJORD',
 				'longitude' => 'RYPEFJORD',
 				'city' => 'RYPEFJORD',
-				'city_id' => '48505',
+				'city_id' => '50247',
 				'state_id' => '2697',
 			),
 			5044 => 
@@ -50465,7 +50465,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RYPEFJORD',
 				'longitude' => 'RYPEFJORD',
 				'city' => 'RYPEFJORD',
-				'city_id' => '48505',
+				'city_id' => '50247',
 				'state_id' => '2697',
 			),
 			5045 => 
@@ -50475,7 +50475,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'FORSØL',
 				'longitude' => 'FORSØL',
 				'city' => 'FORSØL',
-				'city_id' => '48505',
+				'city_id' => '50248',
 				'state_id' => '2697',
 			),
 			5046 => 
@@ -50505,7 +50505,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '70.499',
 				'longitude' => '23.9739',
 				'city' => 'KVALSUND',
-				'city_id' => '48505',
+				'city_id' => '50249',
 				'state_id' => '2697',
 			),
 			5049 => 
@@ -50515,7 +50515,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '70.499',
 				'longitude' => '23.9739',
 				'city' => 'KVALSUND',
-				'city_id' => '48505',
+				'city_id' => '50249',
 				'state_id' => '2697',
 			),
 			5050 => 
@@ -50525,7 +50525,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'REVSNESHAMN',
 				'longitude' => 'REVSNESHAMN',
 				'city' => 'REVSNESHAMN',
-				'city_id' => '48505',
+				'city_id' => '50250',
 				'state_id' => '2697',
 			),
 			5051 => 
@@ -50535,7 +50535,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'AKKARFJORD',
 				'longitude' => 'AKKARFJORD',
 				'city' => 'AKKARFJORD',
-				'city_id' => '48505',
+				'city_id' => '50251',
 				'state_id' => '2697',
 			),
 			5052 => 
@@ -50545,7 +50545,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LANGSTRAND',
 				'longitude' => 'LANGSTRAND',
 				'city' => 'LANGSTRAND',
-				'city_id' => '48505',
+				'city_id' => '50251',
 				'state_id' => '2697',
 			),
 			5053 => 
@@ -50555,7 +50555,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KÅRHAMN',
 				'longitude' => 'KÅRHAMN',
 				'city' => 'KÅRHAMN',
-				'city_id' => '48505',
+				'city_id' => '50252',
 				'state_id' => '2697',
 			),
 			5054 => 
@@ -50565,7 +50565,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SANDØYBOTN',
 				'longitude' => 'SANDØYBOTN',
 				'city' => 'SANDØYBOTN',
-				'city_id' => '48505',
+				'city_id' => '50253',
 				'state_id' => '2697',
 			),
 			5055 => 
@@ -50575,7 +50575,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TUFJORD',
 				'longitude' => 'TUFJORD',
 				'city' => 'TUFJORD',
-				'city_id' => '48518',
+				'city_id' => '50254',
 				'state_id' => '2697',
 			),
 			5056 => 
@@ -50585,7 +50585,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'INGØY',
 				'longitude' => 'INGØY',
 				'city' => 'INGØY',
-				'city_id' => '48518',
+				'city_id' => '50255',
 				'state_id' => '2697',
 			),
 			5057 => 
@@ -50595,7 +50595,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '70.9988',
 				'longitude' => '24.6603',
 				'city' => 'HAVØYSUND',
-				'city_id' => '48518',
+				'city_id' => '50256',
 				'state_id' => '2697',
 			),
 			5058 => 
@@ -50605,7 +50605,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '70.9988',
 				'longitude' => '24.6603',
 				'city' => 'HAVØYSUND',
-				'city_id' => '48518',
+				'city_id' => '50256',
 				'state_id' => '2697',
 			),
 			5059 => 
@@ -50625,7 +50625,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '70.0436',
 				'longitude' => '24.9758',
 				'city' => 'LAKSELV',
-				'city_id' => '48694',
+				'city_id' => '50257',
 				'state_id' => '2697',
 			),
 			5061 => 
@@ -50635,7 +50635,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'PORSANGMOEN',
 				'longitude' => 'PORSANGMOEN',
 				'city' => 'PORSANGMOEN',
-				'city_id' => '48694',
+				'city_id' => '50258',
 				'state_id' => '2697',
 			),
 			5062 => 
@@ -50645,7 +50645,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'INDRE BILLEFJORD',
 				'longitude' => 'INDRE BILLEFJORD',
 				'city' => 'INDRE BILLEFJORD',
-				'city_id' => '48694',
+				'city_id' => '50259',
 				'state_id' => '2697',
 			),
 			5063 => 
@@ -50655,7 +50655,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '70.0436',
 				'longitude' => '24.9758',
 				'city' => 'LAKSELV',
-				'city_id' => '48694',
+				'city_id' => '50257',
 				'state_id' => '2697',
 			),
 			5064 => 
@@ -50665,7 +50665,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '70.0436',
 				'longitude' => '24.9758',
 				'city' => 'LAKSELV',
-				'city_id' => '48694',
+				'city_id' => '50257',
 				'state_id' => '2697',
 			),
 			5065 => 
@@ -50675,7 +50675,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'RUSSENES',
 				'longitude' => 'RUSSENES',
 				'city' => 'RUSSENES',
-				'city_id' => '48694',
+				'city_id' => '50260',
 				'state_id' => '2697',
 			),
 			5066 => 
@@ -50685,7 +50685,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SNEFJORD',
 				'longitude' => 'SNEFJORD',
 				'city' => 'SNEFJORD',
-				'city_id' => '48518',
+				'city_id' => '50261',
 				'state_id' => '2697',
 			),
 			5067 => 
@@ -50695,7 +50695,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KOKELV',
 				'longitude' => 'KOKELV',
 				'city' => 'KOKELV',
-				'city_id' => '48505',
+				'city_id' => '50262',
 				'state_id' => '2697',
 			),
 			5068 => 
@@ -50705,7 +50705,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BØRSELV',
 				'longitude' => 'BØRSELV',
 				'city' => 'BØRSELV',
-				'city_id' => '48694',
+				'city_id' => '50263',
 				'state_id' => '2697',
 			),
 			5069 => 
@@ -50715,7 +50715,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VEIDNESKLUBBEN',
 				'longitude' => 'VEIDNESKLUBBEN',
 				'city' => 'VEIDNESKLUBBEN',
-				'city_id' => '48514',
+				'city_id' => '50264',
 				'state_id' => '2697',
 			),
 			5070 => 
@@ -50725,7 +50725,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKOGANVARRE',
 				'longitude' => 'SKOGANVARRE',
 				'city' => 'SKOGANVARRE',
-				'city_id' => '48694',
+				'city_id' => '50265',
 				'state_id' => '2697',
 			),
 			5071 => 
@@ -50735,7 +50735,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.4722',
 				'longitude' => '25.5189',
 				'city' => 'KARASJOK',
-				'city_id' => '48695',
+				'city_id' => '48509',
 				'state_id' => '2697',
 			),
 			5072 => 
@@ -50745,7 +50745,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.4722',
 				'longitude' => '25.5189',
 				'city' => 'KARASJOK',
-				'city_id' => '48695',
+				'city_id' => '48509',
 				'state_id' => '2697',
 			),
 			5073 => 
@@ -50755,7 +50755,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.4722',
 				'longitude' => '25.5189',
 				'city' => 'KARASJOK',
-				'city_id' => '48695',
+				'city_id' => '48509',
 				'state_id' => '2697',
 			),
 			5074 => 
@@ -50765,7 +50765,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.4722',
 				'longitude' => '25.5189',
 				'city' => 'KARASJOK',
-				'city_id' => '48695',
+				'city_id' => '48509',
 				'state_id' => '2697',
 			),
 			5075 => 
@@ -50775,7 +50775,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.4722',
 				'longitude' => '25.5189',
 				'city' => 'KARASJOK',
-				'city_id' => '48695',
+				'city_id' => '48509',
 				'state_id' => '2697',
 			),
 			5076 => 
@@ -50785,7 +50785,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.4722',
 				'longitude' => '25.5189',
 				'city' => 'KARASJOK',
-				'city_id' => '48695',
+				'city_id' => '48509',
 				'state_id' => '2697',
 			),
 			5077 => 
@@ -50795,7 +50795,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.4722',
 				'longitude' => '25.5189',
 				'city' => 'KARASJOK',
-				'city_id' => '48695',
+				'city_id' => '48509',
 				'state_id' => '2697',
 			),
 			5078 => 
@@ -50805,7 +50805,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.4722',
 				'longitude' => '25.5189',
 				'city' => 'KARASJOK',
-				'city_id' => '48695',
+				'city_id' => '48509',
 				'state_id' => '2697',
 			),
 			5079 => 
@@ -50825,7 +50825,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KUNES',
 				'longitude' => 'KUNES',
 				'city' => 'KUNES',
-				'city_id' => '48514',
+				'city_id' => '50266',
 				'state_id' => '2697',
 			),
 			5081 => 
@@ -50835,7 +50835,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '70.9758',
 				'longitude' => '25.9831',
 				'city' => 'HONNINGSVÅG',
-				'city_id' => '48520',
+				'city_id' => '50267',
 				'state_id' => '2697',
 			),
 			5082 => 
@@ -50845,7 +50845,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '70.9758',
 				'longitude' => '25.9831',
 				'city' => 'HONNINGSVÅG',
-				'city_id' => '48520',
+				'city_id' => '50267',
 				'state_id' => '2697',
 			),
 			5083 => 
@@ -50855,7 +50855,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NORDVÅGEN',
 				'longitude' => 'NORDVÅGEN',
 				'city' => 'NORDVÅGEN',
-				'city_id' => '48520',
+				'city_id' => '50268',
 				'state_id' => '2697',
 			),
 			5084 => 
@@ -50865,7 +50865,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKARSVÅG',
 				'longitude' => 'SKARSVÅG',
 				'city' => 'SKARSVÅG',
-				'city_id' => '48520',
+				'city_id' => '50269',
 				'state_id' => '2697',
 			),
 			5085 => 
@@ -50885,7 +50885,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'GJESVÆR',
 				'longitude' => 'GJESVÆR',
 				'city' => 'GJESVÆR',
-				'city_id' => '48520',
+				'city_id' => '50270',
 				'state_id' => '2697',
 			),
 			5087 => 
@@ -50895,7 +50895,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'REPVÅG',
 				'longitude' => 'REPVÅG',
 				'city' => 'REPVÅG',
-				'city_id' => '48520',
+				'city_id' => '50271',
 				'state_id' => '2697',
 			),
 			5088 => 
@@ -50905,7 +50905,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '71.0373',
 				'longitude' => '27.8507',
 				'city' => 'MEHAMN',
-				'city_id' => '48503',
+				'city_id' => '50272',
 				'state_id' => '2697',
 			),
 			5089 => 
@@ -50915,7 +50915,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SKJÅNES',
 				'longitude' => 'SKJÅNES',
 				'city' => 'SKJÅNES',
-				'city_id' => '48503',
+				'city_id' => '50273',
 				'state_id' => '2697',
 			),
 			5090 => 
@@ -50925,7 +50925,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'LANGFJORDNES',
 				'longitude' => 'LANGFJORDNES',
 				'city' => 'LANGFJORDNES',
-				'city_id' => '48503',
+				'city_id' => '50274',
 				'state_id' => '2697',
 			),
 			5091 => 
@@ -50935,7 +50935,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NERVEI',
 				'longitude' => 'NERVEI',
 				'city' => 'NERVEI',
-				'city_id' => '48503',
+				'city_id' => '50275',
 				'state_id' => '2697',
 			),
 			5092 => 
@@ -50955,7 +50955,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'DYFJORD',
 				'longitude' => 'DYFJORD',
 				'city' => 'DYFJORD',
-				'city_id' => '48514',
+				'city_id' => '50276',
 				'state_id' => '2697',
 			),
 			5094 => 
@@ -50965,7 +50965,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '70.9457',
 				'longitude' => '27.3463',
 				'city' => 'KJØLLEFJORD',
-				'city_id' => '48514',
+				'city_id' => '50277',
 				'state_id' => '2697',
 			),
 			5095 => 
@@ -50995,7 +50995,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VESTRE JAKOBSELV',
 				'longitude' => 'VESTRE JAKOBSELV',
 				'city' => 'VESTRE JAKOBSELV',
-				'city_id' => '48531',
+				'city_id' => '50278',
 				'state_id' => '2697',
 			),
 			5098 => 
@@ -51025,7 +51025,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'VESTRE JAKOBSELV',
 				'longitude' => 'VESTRE JAKOBSELV',
 				'city' => 'VESTRE JAKOBSELV',
-				'city_id' => '48531',
+				'city_id' => '50278',
 				'state_id' => '2697',
 			),
 			5101 => 
@@ -51055,7 +51055,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '70.1762',
 				'longitude' => '28.5541',
 				'city' => 'VARANGERBOTN',
-				'city_id' => '48696',
+				'city_id' => '50279',
 				'state_id' => '2697',
 			),
 			5104 => 
@@ -51065,7 +51065,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SIRMA',
 				'longitude' => 'SIRMA',
 				'city' => 'SIRMA',
-				'city_id' => '48697',
+				'city_id' => '50280',
 				'state_id' => '2697',
 			),
 			5105 => 
@@ -51075,7 +51075,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '70.1762',
 				'longitude' => '28.5541',
 				'city' => 'VARANGERBOTN',
-				'city_id' => '48696',
+				'city_id' => '50279',
 				'state_id' => '2697',
 			),
 			5106 => 
@@ -51085,7 +51085,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TANA',
 				'longitude' => 'TANA',
 				'city' => 'TANA',
-				'city_id' => '48697',
+				'city_id' => '48528',
 				'state_id' => '2697',
 			),
 			5107 => 
@@ -51095,7 +51095,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TANA',
 				'longitude' => 'TANA',
 				'city' => 'TANA',
-				'city_id' => '48697',
+				'city_id' => '48528',
 				'state_id' => '2697',
 			),
 			5108 => 
@@ -51105,7 +51105,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TANA',
 				'longitude' => 'TANA',
 				'city' => 'TANA',
-				'city_id' => '48697',
+				'city_id' => '48528',
 				'state_id' => '2697',
 			),
 			5109 => 
@@ -51115,7 +51115,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TANA',
 				'longitude' => 'TANA',
 				'city' => 'TANA',
-				'city_id' => '48697',
+				'city_id' => '48528',
 				'state_id' => '2697',
 			),
 			5110 => 
@@ -51125,7 +51125,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TANA',
 				'longitude' => 'TANA',
 				'city' => 'TANA',
-				'city_id' => '48697',
+				'city_id' => '48528',
 				'state_id' => '2697',
 			),
 			5111 => 
@@ -51135,7 +51135,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'TANA',
 				'longitude' => 'TANA',
 				'city' => 'TANA',
-				'city_id' => '48697',
+				'city_id' => '48528',
 				'state_id' => '2697',
 			),
 			5112 => 
@@ -51145,7 +51145,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.7271',
 				'longitude' => '30.0451',
 				'city' => 'KIRKENES',
-				'city_id' => '48526',
+				'city_id' => '50281',
 				'state_id' => '2697',
 			),
 			5113 => 
@@ -51155,7 +51155,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.7271',
 				'longitude' => '30.0451',
 				'city' => 'KIRKENES',
-				'city_id' => '48526',
+				'city_id' => '50281',
 				'state_id' => '2697',
 			),
 			5114 => 
@@ -51165,7 +51165,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BJØRNEVATN',
 				'longitude' => 'BJØRNEVATN',
 				'city' => 'BJØRNEVATN',
-				'city_id' => '48526',
+				'city_id' => '50282',
 				'state_id' => '2697',
 			),
 			5115 => 
@@ -51175,7 +51175,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '59.916663FJORD',
 				'longitude' => '10.6166642FJORD',
 				'city' => 'JARFJORD',
-				'city_id' => '48526',
+				'city_id' => '50283',
 				'state_id' => '2697',
 			),
 			5116 => 
@@ -51185,7 +51185,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HESSENG',
 				'longitude' => 'HESSENG',
 				'city' => 'HESSENG',
-				'city_id' => '48526',
+				'city_id' => '50284',
 				'state_id' => '2697',
 			),
 			5117 => 
@@ -51195,7 +51195,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BJØRNEVATN',
 				'longitude' => 'BJØRNEVATN',
 				'city' => 'BJØRNEVATN',
-				'city_id' => '48526',
+				'city_id' => '50282',
 				'state_id' => '2697',
 			),
 			5118 => 
@@ -51205,7 +51205,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.7271',
 				'longitude' => '30.0451',
 				'city' => 'KIRKENES',
-				'city_id' => '48526',
+				'city_id' => '50281',
 				'state_id' => '2697',
 			),
 			5119 => 
@@ -51215,7 +51215,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'HESSENG',
 				'longitude' => 'HESSENG',
 				'city' => 'HESSENG',
-				'city_id' => '48526',
+				'city_id' => '50284',
 				'state_id' => '2697',
 			),
 			5120 => 
@@ -51225,7 +51225,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => '69.7271',
 				'longitude' => '30.0451',
 				'city' => 'KIRKENES',
-				'city_id' => '48526',
+				'city_id' => '50281',
 				'state_id' => '2697',
 			),
 			5121 => 
@@ -51235,7 +51235,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'SVANVIK',
 				'longitude' => 'SVANVIK',
 				'city' => 'SVANVIK',
-				'city_id' => '48526',
+				'city_id' => '50285',
 				'state_id' => '2697',
 			),
 			5122 => 
@@ -51245,7 +51245,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'NEIDEN',
 				'longitude' => 'NEIDEN',
 				'city' => 'NEIDEN',
-				'city_id' => '48526',
+				'city_id' => '50286',
 				'state_id' => '2697',
 			),
 			5123 => 
@@ -51255,7 +51255,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'BUGØYNES',
 				'longitude' => 'BUGØYNES',
 				'city' => 'BUGØYNES',
-				'city_id' => '48526',
+				'city_id' => '50287',
 				'state_id' => '2697',
 			),
 			5124 => 
@@ -51285,7 +51285,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KIBERG',
 				'longitude' => 'KIBERG',
 				'city' => 'KIBERG',
-				'city_id' => '48532',
+				'city_id' => '50288',
 				'state_id' => '2697',
 			),
 			5127 => 
@@ -51315,7 +51315,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'latitude' => 'KONGSFJORD',
 				'longitude' => 'KONGSFJORD',
 				'city' => 'KONGSFJORD',
-				'city_id' => '48698',
+				'city_id' => '50289',
 				'state_id' => '2697',
 			),
 			5130 => 
@@ -51338,7 +51338,7 @@ class UpdatedZipCodesTableSeeder extends Seeder
 				'city_id' => '48501',
 				'state_id' => '2697',
 			),
-      
+        
         ));
                
         
