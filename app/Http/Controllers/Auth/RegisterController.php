@@ -104,7 +104,7 @@ class RegisterController extends Controller
         $activation_key = app('UserRepository')->findById($user->id,false)->activation_key;
         $user_info = app('UserRepository')->findById($user->id,false);
         $receiver_email = app('UserRepository')->findById($user->id,false)->email;
-        $sender_email = 'post@oppdrag.no';
+        $sender_email = 'info@oppdrag.no';
         $emailFrom = $sender_email;
         $reply = $sender_email;
         $to = $receiver_email;
