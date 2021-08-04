@@ -13,6 +13,10 @@ use App\Data\Models\Role;
 use Symfony\Component\HttpFoundation\Response;
 use Illuminate\Validation\Rule;
 use App\Notifications\ActivationNotification;
+
+use Illuminate\Support\Facades\Mail;
+use App\Mail\SendMailable;
+
 class RegisterController extends Controller
 {
     /*
@@ -148,6 +152,9 @@ class RegisterController extends Controller
         $headers = "From:" . $emailFrom . "\r\n";
         $headers .= "Content-type: text/html; charset=UTF-8" . "\r\n";
         mail($to,$subject,$message,$headers);
+
+        $name = 'Krunal';
+        Mail::to('krunal@appdividend.com')->send(new SendMailable($name));
         
         return response()->json($output, Response::HTTP_OK);
     }
