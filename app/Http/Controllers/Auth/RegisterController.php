@@ -153,8 +153,8 @@ class RegisterController extends Controller
         $headers .= "Content-type: text/html; charset=UTF-8" . "\r\n";
         mail($to,$subject,$message,$headers);
 
-        $name = 'Krunal';
-        Mail::to('krunal@appdividend.com')->send(new SendMailable($name));
+        $name = 'Test';
+        Mail::to($to)->send(new SendMailable($name));
         
         return response()->json($output, Response::HTTP_OK);
     }
