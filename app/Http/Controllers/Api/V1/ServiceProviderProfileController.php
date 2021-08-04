@@ -57,18 +57,18 @@ class ServiceProviderProfileController extends ApiResourceController
     }
 
     public function delete($id){
-        // return response()->json([
-        //     'message' => 'Service provider delete'
-        // ]);
-
-        $ServiceProvider = ServiceProviderProfile::findOrFail($id);
-        $user_id = $ServiceProvider->user_id;
-        $user = User::findOrFail($user_id);
-        $ServiceProvider->delete();
-        // $user->delete();
         return response()->json([
-         'message' => 'User deleted successfully'
+            'message' => 'Something went wrong'
         ]);
+
+    //     $ServiceProvider = ServiceProviderProfile::findOrFail($id);
+    //     $user_id = $ServiceProvider->user_id;
+    //     $user = User::findOrFail($user_id);
+    //     $ServiceProvider->delete();
+    //    //  // $user->delete();
+    //     return response()->json([
+    //      'message' => 'User deleted successfully'
+    //     ]);
     }
 
 }
